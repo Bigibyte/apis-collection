@@ -1,0 +1,11 @@
+name: Numbers Api
+slug: numbers-api
+description: Numbers. Number of the day, random number generation , number facts and anything else you want to do with numbers.
+categories:
+  - Science & Math
+  - Education
+pricing: paid
+contact: apisupport@mastercard.com
+links:
+  - name: Docs / Website
+    url: https://math.tools/api/numbers/

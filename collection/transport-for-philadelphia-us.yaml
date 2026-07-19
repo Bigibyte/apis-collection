@@ -1,0 +1,11 @@
+name: Transportation in Philadelphia, USA
+slug: transport-for-philadelphia-us
+description: Southeastern Pennsylvania Transportation Authority API
+categories:
+  - Transportation
+  - Government
+type: REST
+pricing: free
+links:
+  - name: Docs / Website
+    url: http://www3.septa.org/hackathon/

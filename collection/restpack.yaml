@@ -1,0 +1,12 @@
+name: Restpack
+slug: restpack
+description: Screenshot API, HTML to PDF API, Content Extraction API
+categories:
+  - Documents & Productivity
+  - Development
+  - Scrapers & Data Mining
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://restpack.io/

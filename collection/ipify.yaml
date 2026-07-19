@@ -1,0 +1,10 @@
+name: IPify
+slug: ipify
+description: ipify API is a simple public IP address API, easy enough to integrate into any application in seconds
+categories:
+  - Maps & Geo
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://www.ipify.org/

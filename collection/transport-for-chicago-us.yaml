@@ -1,0 +1,11 @@
+name: Transportation in Chicago, USA
+slug: transport-for-chicago-us
+description: The CTA's Developer Center offers a variety of data feeds that allow anyone to develop Web, mobile and
+  other applications to help transit riders throughout the Chicago area
+categories:
+  - Transportation
+type: REST
+pricing: free
+links:
+  - name: Docs / Website
+    url: http://www.transitchicago.com/developers/

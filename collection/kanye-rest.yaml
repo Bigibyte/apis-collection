@@ -1,0 +1,13 @@
+name: kanye.rest
+slug: kanye-rest
+description: A free REST API for random Kanye West quotes. A free REST API for random Kanye West quotes
+categories:
+  - Health
+  - Music & Audio
+  - News & Feeds
+  - AI & ML
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://kanye.rest

@@ -1,0 +1,9 @@
+name: Transportation in New York City, USA
+slug: transport-for-new-york-city-us
+description: MTA
+categories:
+  - Transportation
+pricing: free
+links:
+  - name: Docs / Website
+    url: https://api.mta.info/

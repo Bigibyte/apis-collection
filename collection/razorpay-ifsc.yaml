@@ -1,0 +1,10 @@
+name: Razorpay IFSC
+slug: razorpay-ifsc
+description: An API to query IFSC codes
+categories:
+  - Finance & Economics
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://ifsc.razorpay.com/

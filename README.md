@@ -1,0 +1,2488 @@
+# Public APIs Collection
+![APIs: 1305](https://img.shields.io/badge/apis-1305-violet)
+![Categories: 76](https://img.shields.io/badge/categories-76-blue)
+![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-green)
+![License: MIT](https://img.shields.io/badge/license-MIT-yellow)
+
+A community-maintained, human, machine and AI readable collection of public APIs — every API lives as a
+structured YAML file in [`collection/`](./collection), validated against a strict schema, and this README,
+the per-API pages and the JSON data files in [`data/`](./data) are all generated from it.
+
+Legend: 🆓 free &nbsp;·&nbsp; 🪙 freemium &nbsp;·&nbsp; ⚠️ deprecated
+
+Want to add or fix an API? See the [contributing guide](./CONTRIBUTING.md).
+
+## Machine-readable data
+- [`data/apis.json`](./data/apis.json) — the full collection as JSON
+- [`data/apis.min.json`](./data/apis.min.json) — slim index (name, slug, categories, pricing, auth)
+- [`data/categories.json`](./data/categories.json) — category list with icons
+
+## Table of Contents
+- [APIs](#apis):
+    - [Adult](#adult-) 🍓
+    - [AI & ML](#ai--ml-) 🤖
+    - [Analytics](#analytics-) 📈
+    - [Animals](#animals-) 🐈
+    - [Art & Design](#art--design-) 🎨
+    - [Authentication & User Management](#authentication--user-management-) 👥
+    - [Bar & QR Codes](#bar--qr-codes-) 🏪
+    - [Blockchain & Cryptocurrencies](#blockchain--cryptocurrencies-) 📒️
+    - [Bookmarks](#bookmarks-) 📑
+    - [Books](#books-) 📚
+    - [Bots](#bots-) 📝
+    - [Business](#business-) 👔
+    - [Calendar & Time](#calendar--time-) 📅
+    - [Captcha](#captcha-) 🔒
+    - [Casino & Gambling](#casino--gambling-) 🎰
+    - [Chats & Messaging](#chats--messaging-) 💬
+    - [Collaboration](#collaboration-) 👨‍👩‍👦‍👦
+    - [Comics & Anime](#comics--anime-) 🦸
+    - [Commerce](#commerce-) 💰
+    - [Content & Dictionaries](#content--dictionaries-) 📖
+    - [CRM](#crm-) 🤝
+    - [Databases](#databases-) 🗄️
+    - [Development](#development-) 👨‍💻
+    - [Documents & Productivity](#documents--productivity-) 📋
+    - [Education](#education-) 🎓
+    - [Email & SMS](#email--sms-) 📨
+    - [Entertainment](#entertainment-) 🍿
+    - [Environment & Nature](#environment--nature-) 🌲
+    - [Events](#events-) 🏟️
+    - [Files & Storage](#files--storage-) 💾
+    - [Finance & Economics](#finance--economics-) 🏦
+    - [Food & Drinks](#food--drinks-) 🍹
+    - [Forms & Surveys](#forms--surveys-) 📝
+    - [Fun](#fun-) 🤪
+    - [Games](#games-) 🎮
+    - [Government](#government-) 🏛️
+    - [Hardware](#hardware-) ⚙️
+    - [Health](#health-) 💊
+    - [Images & Photography](#images--photography-) 📸
+    - [IoT & Home Automation](#iot--home-automation-) 🏠
+    - [Jobs](#jobs-) 🛠️
+    - [Maps & Geo](#maps--geo-) 📌
+    - [Marketing & SEO](#marketing--seo-) 💰
+    - [Music & Audio](#music--audio-) 🎸
+    - [News & Feeds](#news--feeds-) 📰
+    - [Open Source](#open-source-) 🔓
+    - [Payments](#payments-) 💳
+    - [Point of Interest](#point-of-interest-) 🍺
+    - [Post & Logistics](#post--logistics-) 📬
+    - [Project Management](#project-management-) 🚧
+    - [Random](#random-) 🎲
+    - [Real Estate](#real-estate-) 🏗️
+    - [Recognition](#recognition-) 👁️
+    - [Science & Math](#science--math-) 🔬
+    - [Scrapers & Data Mining](#scrapers--data-mining-) 🕸️
+    - [Search](#search-) 🔎
+    - [Security](#security-) 🛡️
+    - [Social](#social-) 👥
+    - [Space](#space-) 🚀
+    - [Sport & Fitness](#sport--fitness-) ⚾
+    - [Statistics & Data](#statistics--data-) 🗃️
+    - [Testing](#testing-) 🐞
+    - [Text Analysis & Tools](#text-analysis--tools-) 📖
+    - [Translation](#translation-) ㊗️
+    - [Transportation](#transportation-) 🚇
+    - [Travel](#travel-) ✈️
+    - [URLs](#urls-) 🔗
+    - [Validation & Verification](#validation--verification-) ✅
+    - [Vehicles](#vehicles-) 🚗
+    - [Video & Media](#video--media-) 🎥
+    - [Virtual & Augmented Reality](#virtual--augmented-reality-) 📱
+    - [Visualizations](#visualizations-) 📊
+    - [Voice](#voice-) 🎙️
+    - [Weather](#weather-) ☔
+    - [Wiki](#wiki-) 📗
+    - [Other](#other-) ✨
+- [Graveyard](#graveyard-) 🪦
+- [Credits](#credits)
+- [Similar projects](#similar-projects)
+
+## APIs
+### Adult 🍓
+- [Danbooru](./pages/danbooru/README.md) - Danbooru Imageboard API
+- [FOAAS](./pages/foaas/README.md) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off
+- [Redtube Api](./pages/redtube-api/README.md) - The Redtube API
+
+### AI & ML 🤖
+- [Amazon MI API](./pages/amazon-mi-api/README.md) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis
+- [Amazon Transcribe](./pages/amazon-transcribe/README.md) - Automatically convert speech to text
+- [Anthropic Claude](./pages/anthropic/README.md) - Anthropic&#x27;s API provides access to the Claude 4 family of AI models (Claude Opus 4, Sonnet 4, Haiku 4) for text generation, analysis, coding assistance, vision tasks, and extended 1M-token context windows
+- [AssemblyAI](./pages/assemblyai/README.md) - AssemblyAI&#x27;s API provides speech-to-text transcription, speaker diarization, sentiment analysis, topic detection, and summarization from audio and video files
+- [AudD](./pages/audd/README.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
+- [AWS Bedrock](./pages/aws-bedrock/README.md) - Amazon Bedrock is a fully managed service that provides access to foundation models from Anthropic, Meta, Mistral, Stability AI, and Amazon via a single API with enterprise security
+- [AYLIEN](./pages/aylien/README.md) - AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine Learning tools for extracting meaning and insight from textual and visual content with ease
+- [Aylien Text Analysis](./pages/aylien-text-analysis/README.md) - Explore AYLIEN’s advanced NLP APIs
+- [Azure OpenAI Service](./pages/azure-openai/README.md) - Azure OpenAI Service provides REST API access to OpenAI&#x27;s GPT-4, DALL-E, and Whisper models with enterprise-grade security, compliance, and regional availability through Microsoft Azure
+- [Big ML](./pages/big-ml/README.md) - BigML removes the complexities of Machine Learning so you can focus on what matters most, enhancing and automating decision making
+- [Blogcast](./pages/blogcast/README.md) - Generate audio versions of your articles
+- [Clarifai](./pages/clarifai/README.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
+- [Clearbit Logo](./pages/clearbit-logo/README.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
+- [Cloud Machine Learning Engine](./pages/cloud-machine-learning-engine/README.md) - Take your ML projects to production, quickly and cost-effectively
+- [Cloudflare AI](./pages/cloudflare-ai/README.md) - Cloudflare Workers AI provides serverless inference for LLMs, text embedding, image classification, speech recognition, and translation models running on Cloudflare&#x27;s global edge network 🆓
+- [Cloudmersive Natural Language Processing](./pages/cloudmersive-natural-language-processing/README.md) - Powerful Natural Language Processing APIs
+- [Cloudpronouncer](./pages/cloudpronouncer/README.md) - Text To Speech API
+- [Cohere](./pages/cohere/README.md) - Cohere&#x27;s API provides NLP capabilities including text generation, embeddings, classification, and reranking
+- [Datamuse API](./pages/datamuse-api/README.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
+- [Datum Box](./pages/datum-box/README.md) - Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API of Datumbox
+- [Deepaffects](./pages/deepaffects/README.md) - DeepAffects enables developers to analyze conversational audio by applying powerful machine learning models offered as a set of easy to use REST APIs
+- [Deepcode](./pages/deepcode/README.md) - DeepCode is advanced AI Software Platform that learns from all open-source developers and uses the acquired knowledge to make real-time suggestions on how your code can be improved
+- [Deepgram](./pages/deepgram/README.md) - Deepgram&#x27;s API offers real-time and batch speech recognition with high accuracy 🆓
+- [DeepL](./pages/deepl/README.md) - DeepL API provides high-quality machine translation for 30+ languages 🆓
+- [Detect Language](./pages/detect-language/README.md) - Detects 164 languages
+- [DialogFlow](./pages/dialogflow/README.md) - Natural Language Interactions for Bots, Applications, Services, and Devices
+- [ElevenLabs](./pages/elevenlabs/README.md) - ElevenLabs API provides AI voice generation and cloning 🆓
+- [Elis](./pages/elis/README.md) - Automate data extraction from your documents with Artificial Intelligence
+- [Everypixel](./pages/everypixel/README.md) - Automatic image keywording and categorization API
+- [fal.ai](./pages/fal-ai/README.md) - fal
+- [Fireworks AI](./pages/fireworks-ai/README.md) - Fireworks AI offers fast, cost-efficient inference for open-source language and image models
+- [Football Prediction](./pages/football-prediction/README.md) - he API supports competitions in over 90 countries and over 140 national leagues
+- [Google Cloud Natural](./pages/google-cloud-natural/README.md) - Enables easy integration of Google natural language understanding technologies into developer applications
+- [Google Cloud Translation API](./pages/google-translate-v3/README.md) - Google Cloud Translation API v3 provides neural machine translation for 100+ languages with AutoML support, glossaries, batch translation, and document translation capabilities
+- [Google Gemini API](./pages/google-gemini/README.md) - Google&#x27;s Gemini API provides access to Gemini 2 🆓
+- [Google Speech-to-Text API](./pages/google-speech-to-text-api/README.md) - Accurately convert speech into text using an API powered by Google’s AI technologies
+- [Groq](./pages/groq/README.md) - Groq&#x27;s API provides ultra-fast inference for open-source language models like Llama 3, Mixtral, and Gemma using custom LPU hardware 🆓
+- [GrünstromIndex](./pages/grunstromindex/README.md) - The green electricity index shows when a lot of renewable electricity is in the grid and can be used in the household
+- [Houndify](./pages/houndify/README.md) - The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and retain data ownership and customer relationships
+- [Hugging Face Inference API](./pages/hugging-face/README.md) - Hugging Face Inference API gives access to thousands of open-source ML models hosted on the Hub 🆓
+- [IBM Watson](./pages/ibm-watson/README.md) - Build and train models, and create apps, with a trusted AI-infused platform
+- [Imagga Api](./pages/imagga-api/README.md) - identifies the content of images and videos, classify images based on content, extracts colors, moderates NSFW content
+- [Infermedica API](./pages/infermedica-api/README.md) - The most advanced Symptom Checker and Patient Triage API
+- [Intellexer](./pages/intellexer/README.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
+- [Kairos](./pages/kairos/README.md) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application
+- [kanye.rest](./pages/kanye-rest/README.md) - A free REST API for random Kanye West quotes
+- [Keen IO](./pages/keen-io/README.md) - Keen IO is a powerful, flexible, and scalable solution that’s literally Big Data, easy-to-implement and at your fingertips
+- [Language Prediction](./pages/language-prediction/README.md) - The API returns maximum 3 detected languages and a numeric confidences between 0 and 1
+- [Lettria](./pages/lettria/README.md) - LETTRIA is a natural language processing tool (NLP) dedicated to understanding French
+- [Lexalytics](./pages/semantria/README.md) - Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams
+- [Lexigram](./pages/lexigram/README.md) - io
+- [LUIS AI](./pages/luis-ai/README.md) - Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications
+- [MeaningCloud](./pages/meaningcloud/README.md) - Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more
+- [Microsoft Azure Machine Learning API](./pages/microsoft-azure-machine-learning-api/README.md) - Azure Cognitive Services brings AI within reach of every developer through a family of APIs that don’t require machine-learning expertise
+- [Microsoft Cognitive Services](./pages/microsoft-cognitive-services/README.md) - A comprehensive family of AI services and cognitive APIs to help you build intelligent apps
+- [Mistral AI](./pages/mistral-ai/README.md) - Mistral AI provides access to open and proprietary language models including Mistral Large, Mistral Small, and Codestral for text generation, coding, and embeddings
+- [MLScrape](./pages/mlscrape/README.md) - MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API
+- [Nudity Detection Api](./pages/nudity-detection-api/README.md) - io detects nudity in images and helps to recognise and filter undesired content
+- [ObjectCut](./pages/objectcut/README.md) - Automatic background removal real-time service powered by AI
+- [Onfido](./pages/onfido/README.md) - Our document verification and facial biometrics technology lets your users verify themselves anywhere, anytime
+- [OpenAI](./pages/openai/README.md) - OpenAI&#x27;s API provides access to GPT-4o, o-series reasoning models, DALL-E, Whisper, and Embeddings
+- [OpenRouter](./pages/openrouter/README.md) - OpenRouter provides a unified API to access 100+ AI models from OpenAI, Anthropic, Google, Meta, and more 🆓
+- [Otter.ai](./pages/otterai/README.md) - Generates rich notes for meetings, interviews, lectures, and other important voice conversations
+- [ParallelDots](./pages/paralleldots/README.md) - ParallelDots AI APIs are the most comprehensive set of document classification and NLP APIs for software developers that provide state-of-the-art accuracy on most common NLP use-cases such as sentiment analysis and emotion detection
+- [Perfect Tense API](./pages/perfect-tense-api/README.md) - Automated
+- [Perplexity AI](./pages/perplexity-ai/README.md) - Perplexity&#x27;s API provides search-augmented language model responses
+- [Quora API](./pages/quora-api/README.md) - Connect the people who have knowledge to the people who need it, to bring together people with different perspectives so they can understand each other better, and to empower everyone to share their knowledge for the benefit of the rest of the world
+- [Recast.AI](./pages/recast-ai/README.md) - Collaborative chatbot software
+- [Replicate](./pages/replicate/README.md) - Replicate lets you run machine learning models via API
+- [rev.ai](./pages/revai/README.md) - Accurate Speech-to-Text APIs for all of your speech recognition needs
+- [Ryft](./pages/ryft/README.md) - Integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence
+- [Semantira](./pages/semantira/README.md) - To get started check out Install the SDK
+- [Sentim-API](./pages/sentim-api/README.md) - A free API for sentiment analysis
+- [Shotstack](./pages/shotstack/README.md) - Shotstack API enables programmatic video editing and generation
+- [SpeechText.AI API](./pages/speechtext-ai-api/README.md) - Cloud Speech Recognition API
+- [Stability AI](./pages/stability-ai/README.md) - Stability AI&#x27;s API provides access to Stable Diffusion and SDXL models for image generation, editing, and upscaling
+- [SummarizeBot API](./pages/summarizebot-api/README.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
+- [TasteDive](./pages/tastedive/README.md) - The TasteDive API can be used to integrate recommendations in other products
+- [Telegram Bot](./pages/telegram-bot/README.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
+- [TextRazor](./pages/textrazor/README.md) - TextRazor is the world&#x27;s fastest and most accurate Natural Language Processing API
+- [This Person Does not Exist](./pages/this-person-does-not-exist/README.md) - This Person Does Not Exist
+- [Together AI](./pages/together-ai/README.md) - Together AI provides fast inference for 100+ open-source models including Llama 3, Mistral, and FLUX image models
+- [Traitify](./pages/traitify/README.md) - A diverse set of fun visual assessments used to uncover personality types and traits
+- [Unplugg](./pages/unplugg/README.md) - Add intelligence to your energy products
+- [VOCAPIA](./pages/vocapia/README.md) - Speech Recognition, Broadcast Monitoring, Lecture and Seminar Transcription, Video Subtitling, Conference Call and Voicemail Transcription, Speech Analytics
+- [VoiceRSS](./pages/voicerss/README.md) - An API to convert Text to Speech, supporting 15+ major languages
+- [Vuforia](./pages/vuforia/README.md) - Developers can easily add advanced computer vision functionality to Android, iOS, and UWP apps, to create AR experiences that realistically interact with objects and the environment
+- [Watson Natural Language Understanding](./pages/watson-natural-language-understanding/README.md) - Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understanding will give you results for the features you request
+- [Wikitude](./pages/wikitude/README.md) - Powerful augmented reality apps
+- [Wit.ai](./pages/wit-ai/README.md) - Natural Language Processing
+- [Word Associations API](./pages/word-associations-api/README.md) - Provides service to get associations for a word or phrase
+- [xAI Grok](./pages/xai-grok/README.md) - xAI&#x27;s API provides access to the Grok family of language models for text generation and reasoning
+- [Yelp](./pages/yelp/README.md) - Yelp&#x27;s API exposes search to 3rd party developers
+
+### Analytics 📈
+- [Amazon Mobile Analytics](./pages/amazon-mobile-analytics/README.md) - Service for collecting, visualizing, and understanding app usage data at scale
+- [Amplitude](./pages/amplitude/README.md) - Amplitude&#x27;s API enables sending events, managing user properties, and querying behavioral analytics 🆓
+- [ClickMeter](./pages/clickmeter/README.md) - ClickMeter API RESTful services
+- [Clicky](./pages/clicky/README.md) - Clicky Web Analytics is simply the best way to monitor, analyze, and react to your blog or web site&#x27;s traffic in real time
+- [Countly](./pages/countly/README.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
+- [Datadog](./pages/datadog/README.md) - Datadog&#x27;s API provides access to metrics, logs, traces, monitors, dashboards, and alerts
+- [Fabric](./pages/fabric/README.md) - A platform that helps your mobile team build better apps, understand your users, and grow your business
+- [Flurry](./pages/flurry/README.md) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data
+- [Full Story](./pages/full-story/README.md) - Capture every user event across your application with Full Story, it is an advanced analytics platform with an extensive API
+- [Google Analytics](./pages/google-analytics/README.md) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content
+- [Google Charts](./pages/google-charts/README.md) - Free tool with a wide range of capabilities for visualizing data from a website
+- [Grafana](./pages/grafana/README.md) - Grafana&#x27;s HTTP API enables management of dashboards, datasources, alerts, users, and organizations programmatically 🆓
+- [ipstack](./pages/ipstack/README.md) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
+- [Kaltura VPaaS](./pages/kaltura-vpaas/README.md) - Build video apps and add native video capabilities to your products
+- [Keen IO](./pages/keen-io/README.md) - Keen IO is a powerful, flexible, and scalable solution that’s literally Big Data, easy-to-implement and at your fingertips
+- [Lexalytics](./pages/semantria/README.md) - Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams
+- [LinkedData.Center](./pages/linkeddata-center/README.md) - a RDF graph database as a service with W3C SPARQL query and SPARQL update apis
+- [Localytics](./pages/localytics/README.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
+- [Looker](./pages/looker/README.md) - Looker&#x27;s REST API manages dashboards, looks, queries, users, and data connections
+- [Mailjet](./pages/mailjet/README.md) - Reliable and scalable email delivery platform with SMTP and API
+- [Matomo](./pages/matomo/README.md) - This page is a hub space linking to the Analytics API guides
+- [MixPanel](./pages/mixpanel/README.md) - Maintains a custom datastore that queries your data in a fast, scalable, and reliable manner
+- [New Relic](./pages/new-relic/README.md) - New Relic&#x27;s API provides access to application performance metrics, errors, infrastructure health, alerts, and dashboards 🆓
+- [Open Web Analytics](./pages/open-web-analytics/README.md) - Web Analytics, open sourced
+- [Plaid](./pages/plaid/README.md) - Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services
+- [PostHog](./pages/posthog/README.md) - PostHog&#x27;s API provides product analytics, feature flags, session recording, A/B testing, and user management 🆓
+- [Power BI REST API](./pages/powerbi/README.md) - Power BI&#x27;s REST API manages datasets, reports, dashboards, workspaces, and data refreshes
+- [Riot Games](./pages/riot-games/README.md) - Provide the League of Legends developer community with access to game data in a secure and reliable way
+- [Ryft](./pages/ryft/README.md) - Integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence
+- [Segment](./pages/segment/README.md) - Segment&#x27;s API is a customer data platform that collects, unifies, and routes user events to analytics, marketing, and data warehouse tools from a single source of truth 🆓
+- [Sentry](./pages/sentry/README.md) - Sentry&#x27;s API provides access to error events, issues, projects, organizations, and releases 🆓
+- [SparkPost](./pages/sparkpost/README.md) - SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails
+- [Tableau REST API](./pages/tableau/README.md) - Tableau&#x27;s REST API manages workbooks, views, data sources, projects, and users on Tableau Server and Tableau Cloud
+- [Unplugg](./pages/unplugg/README.md) - Add intelligence to your energy products
+- [Woopra](./pages/woopra/README.md) - End-to-end Customer Journey Analytics
+- [Zoho Reports API](./pages/zoho-reports-api/README.md) - Zoho Analytics API Zoho Analytics API offers wide range of functions to help developers build &amp; manage powerful reporting and analytical capabilities for their business application needs
+
+### Animals 🐈
+- [Cat as a Service (CATAAS)](./pages/cat-as-a-service-cataas/README.md) - Cat as a service (CATAAS) is a REST API to spread peace and love (or not) thanks to cats
+- [Cat Facts](./pages/cat-facts/README.md) - Daily cat facts! 🐱
+- [Cats](./pages/cats/README.md) - A public service API all about Cats, free to use when making your fancy new App, Website or Service
+- [Dogs](./pages/dogs/README.md) - Over 20,000 images of dogs programmaticaly accessible by over 120 breeds
+- [eBird](./pages/ebird/README.md) - eBird&#x27;s API from Cornell Lab provides bird observation data including recent sightings, rare birds, checklists, and hotspot information submitted by birders worldwide 🆓
+- [GBIF](./pages/gbif/README.md) - Free and open access to biodiversity data
+- [HTTPCat](./pages/httpcat/README.md) - API for HTTP Cats. API for HTTP Cats
+- [iDigBio](./pages/idigbio/README.md) - Making data and images of millions of biological specimens available on the web
+- [iNaturalist](./pages/inaturalist/README.md) - iNaturalist&#x27;s API provides access to biodiversity observations, species identifications, taxa, and geographic data contributed by naturalists worldwide 🆓
+- [IUCN](./pages/iucn/README.md) - List of more than 35,500 species that are threatened with extinction
+- [Movebank](./pages/movebank/README.md) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data 🆓
+- [Petfinder](./pages/petfinder/README.md) - The Petfinder API (Application Programming Interface) allows you to access the Petfinder database of hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations
+- [PlaceGoat](./pages/placegoat/README.md) - PlaceGOAT placeholder service.
+- [PlaceKitten](./pages/placekitten/README.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
+- [RandomCat](./pages/randomcat/README.md) - Random cat image API
+- [RandomDog](./pages/randomdog/README.md) - Random dog image API
+- [RandomFox](./pages/randomfox/README.md) - Random image of a fox
+- [Request Kittens](./pages/request-kittens/README.md) - A randomized set of category-specific cat images.
+- [RescueGroups](./pages/rescuegroups/README.md) - org APIs Not all adoptable pet data APIs are made equal
+- [Shibe.Online](./pages/shibe-online/README.md) - In this day and age, everyone and their dog has an API
+- [The Cat Api](./pages/the-cat-api/README.md) - A public service API all about cat pictures
+- [The Dog Api](./pages/the-dog-api/README.md) - An API all about dogs
+
+### Art & Design 🎨
+- [@Font-Face Generation Api](./pages/atfont-face-generation-api/README.md) - Generate font-face using REST API
+- [Abstract](./pages/abstract/README.md) - Suite of utility API&#x27;s (validate emails, create user avatars, calculate VAT, and more)
+- [Behance](./pages/behance/README.md) - Behance is the world&#x27;s largest creative network for showcasing and discovering creative work
+- [Cooper Hewitt](./pages/cooper-hewitt/README.md) - Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style application programming interface (API) for developers to use in their products and services
+- [DeviantArt](./pages/deviantart/README.md) - The largest social networking website for artists and art enthusiasts
+- [Dribbble](./pages/dribbble/README.md) - Build and integrate tools and applications to help members publish their design work on Dribbble
+- [Figma](./pages/figma/README.md) - Figma&#x27;s API provides access to files, components, styles, comments, and team projects 🆓
+- [Font Conversion Api](./pages/font-conversion-api/README.md) - Font format conversion REST API
+- [Font Hinting Api](./pages/font-hinting-api/README.md) - Fonts API - Subscription. Font hinting REST API
+- [Font Subsetting Api](./pages/font-subsetting-api/README.md) - Font subsetting REST API. Fonts API - Subscription
+- [Getty Images](./pages/getty-images/README.md) - Page moved here. Page moved here
+- [Gfycat](./pages/gfycat/README.md) - Gfycat’s API - collection of GIFs
+- [Gyazo](./pages/gyazo/README.md) - Take screenshots, GIFS, and replays that are ready to share
+- [Harvard Art Museums](./pages/harvard-art-museums/README.md) - The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects
+- [Iconfinder](./pages/iconfinder/README.md) - The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc
+- [Icons8](./pages/icons8/README.md) - Icons8 offers simple reliable solutions to cope with all sorts of the challenges concerning icons
+- [Lorem Picsum](./pages/lorem-picsum/README.md) - Lorem Ipsum, but for photos.
+- [LottieFiles](./pages/lottiefiles/README.md) - LottieFiles API provides access to a library of Lottie animations, enables uploading and managing animation files, and converting between animation formats for web and mobile apps 🆓
+- [Marvel](./pages/marvel/README.md) - The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&amp;#039;s systems
+- [Microlink](./pages/microlink/README.md) - Generate PDF from any website
+- [Noun Project](./pages/noun-project/README.md) - Grab a hold of the World’s Visual Language
+- [ObjectCut](./pages/objectcut/README.md) - Automatic background removal real-time service powered by AI
+- [Pexels](./pages/pexels/README.md) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
+- [Rijksmuseum](./pages/rijksmuseum/README.md) - The Rijksmuseum links individuals with art and history
+- [ScreenShotLayer](./pages/screenshotlayer/README.md) - Free for personal use
+- [The Google Fonts Developer API.](./pages/the-google-fonts-developer-api/README.md) - High-quality fonts to use on your web site
+- [TheSportsDB](./pages/thesportsdb/README.md) - Various sports events, results, players, teams and high quality artwork
+
+### Authentication & User Management 👥
+- [Auth0](./pages/auth0/README.md) - Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business
+- [Best Buy Commerce API](./pages/best-buy-commerce-api/README.md) - Allows companies to conduct commerce with Best Buy services within their own e-commerce application
+- [BlockScore](./pages/blockscore/README.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
+- [Clerk](./pages/clerk/README.md) - Clerk&#x27;s API handles authentication and user management including sign-up, sign-in, MFA, SSO, and user profiles 🆓
+- [Countly](./pages/countly/README.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
+- [EventBrite](./pages/eventbrite/README.md) - Eventbrite Python SDK
+- [Facebook Login for Apps](./pages/facebook-login-for-apps/README.md) - Secure, fast, convenient way to login in your app/website
+- [Firebase](./pages/firebase/README.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
+- [Google Identity Toolkit API.](./pages/google-identity-toolkit-api/README.md) - Enable users to sign into apps and authorize apps to use Google services
+- [Instagram](./pages/instagram/README.md) - How to use the Instagram Graph API
+- [LinkedIn](./pages/linkedin/README.md) - Make it convenient for your users to sign in with their professional identity
+- [Naver Login for Apps](./pages/naver-login-for-apps/README.md) - Access to Naver’s Authentication API
+- [Okta](./pages/okta/README.md) - Okta&#x27;s API manages users, groups, applications, and authentication policies for enterprise identity
+- [Onfido](./pages/onfido/README.md) - Our document verification and facial biometrics technology lets your users verify themselves anywhere, anytime
+- [PayPal](./pages/paypal/README.md) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials
+- [PhantAuth](./pages/phantauth/README.md) - Random User Generator + OpenID Connect Provider
+- [Picatic](./pages/picatic/README.md) - Sell tickets directly from your app or website
+- [ReqRes](./pages/reqres/README.md) - A hosted REST-API ready to respond to AJAX requests
+- [Supabase](./pages/supabase/README.md) - Supabase is an open-source Firebase alternative offering a RESTful API over PostgreSQL, real-time subscriptions, authentication, file storage, and Edge Functions 🆓
+- [Twitter Sign-in](./pages/twitter-sign-in/README.md) - Works on websites, iOS, mobile and desktop applications
+- [WorkOS](./pages/workos/README.md) - Easily integrate Okta SAML, Google OAuth, and more
+
+### Bar & QR Codes 🏪
+- [EAN Barcode Search](./pages/ean-barcode-search/README.md) - EAN Barcode API Integrate our database into your app or website
+- [EAN-Search](./pages/ean-search/README.md) - Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name
+- [Google Barcode](./pages/google-barcode/README.md) - It can also detect multiple barcodes at once
+- [Google Charts](./pages/google-charts/README.md) - Free tool with a wide range of capabilities for visualizing data from a website
+- [Nutritionix](./pages/nutritionix/README.md) - Add robust nutrition tracking capability to any health app
+- [QR Code API](./pages/qr-code-api/README.md) - QR Code REST API
+- [Qrcode Monkey](./pages/qrcode-monkey/README.md) - Create thousands of QR codes with design and logo automatically
+- [Stakdek&#x27;s QR generator API](./pages/stakdeks-qr-generator-api/README.md) - The QR-Code generator gets your data and generates a QR-Code
+- [UPC database](./pages/upc-database/README.md) - Database contains a mixture of barcode types from the standard UPC numbering system, the worldwide EAN numbering system, and the Bookland numbering system
+
+### Blockchain & Cryptocurrencies 📒️
+- [Alchemy](./pages/alchemy-api/README.md) - Alchemy&#x27;s Web3 API provides enhanced node access, NFT data, transaction history, token balances, and webhook notifications across Ethereum, Polygon, Solana, and other blockchains 🆓
+- [Alpha Vantage](./pages/alpha-vantage/README.md) - Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series
+- [Binance](./pages/binance/README.md) - Binance cryptocurrency exchange official API
+- [Bitcoin](./pages/bitcoin/README.md) - Bitcoin is an innovative payment network and a new kind of money
+- [BitcoinAverage](./pages/bitcoinaverage/README.md) - The world&#x27;s best and longest running Cryptocurrency price API provider
+- [Bitcoincharts](./pages/bitcoincharts/README.md) - You can use this API to include markets data in your websites, mobile apps or desktop applets
+- [Bitfinex](./pages/bitfinex/README.md) - The Bitfinex API is designed to allow access to all the features of the Bitfinex platform on the condition that it is used in compliance with our API Terms of Service
+- [Bitmex](./pages/bitmex/README.md) - BitMEX is the world&#x27;s most advanced P2P crypto-products trading platform and API
+- [bitpay](./pages/bitpay/README.md) - A simple, RESTful API to the most powerful bitcoin infrastructure on the planet
+- [Bittrex](./pages/bittrex/README.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
+- [Block](./pages/block/README.md) - The most versatile and secure wallet for all your coins
+- [Blockchain](./pages/blockchain/README.md) - The easiest and most trusted transaction search engine and block explorer
+- [BlockCypher](./pages/blockcypher/README.md) - Build blockchain applications easily with our web APIs and callbacks
+- [BlockFacts.io](./pages/blockfacts-io/README.md) - SDKs for integration, rich historic tick data
+- [Bybit](./pages/bybit/README.md) - Bybit&#x27;s API provides spot, derivatives, and options trading, market data, and account management for one of the largest crypto derivatives exchanges globally 🆓
+- [Chasing Coin](./pages/chasing-coin/README.md) - Cryptocurrency, coin and token resource on the web
+- [CoinAPI](./pages/coinapi/README.md) - CoinAPI is a platform which provides fast, reliable
+- [Coinbase](./pages/coinbase/README.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications
+- [Coinbase Pro](./pages/coinbase-pro/README.md) - Trading APIs require authentication and provide access to placing orders and other account information
+- [CoinDesk](./pages/coindesk/README.md) - Bitcoin Price Index
+- [Coingecko.com](./pages/coingecko-com/README.md) - Free, comprehensive cryptocurrency API
+- [Coinigy](./pages/coinigy/README.md) - Interact with Coinigy Accounts and Exchange Accounts Directly
+- [CoinLayer](./pages/coinlayer/README.md) - Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide
+- [Coinlib](./pages/coinlib/README.md) - Coinlib - Crypto Prices, Charts, Lists &amp; Crypto Market News
+- [Coinlore](./pages/coinlore/README.md) - Coinlore presents public free crypto tick data api
+- [CoinMarketCap](./pages/coinmarketcap/README.md) - Cryptocurrencies Prices
+- [coinpaprika](./pages/coinpaprika/README.md) - Cryptocurrencies prices, market capitalization, volume and more
+- [CoinRanking](./pages/coinranking/README.md) - Introduction Power your projects with the high quality cryptocurrency data coinranking
+- [Crypto Monitor Api](./pages/crypto-monitor-api/README.md) - The Crypto monitor API provides bots that show savings in cryptocurrencies
+- [CryptoCompare](./pages/cryptocompare/README.md) - Cryptocurrencies Comparison
+- [Cryptonator](./pages/cryptonator/README.md) - Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 exchanges
+- [CurrencyScoop.com](./pages/currencyscoop-com/README.md) - Real-time and historical currency rates JSON API
+- [Exchange Rates API](./pages/exchange-rates-api/README.md) - The most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies
+- [Gemini](./pages/gemini/README.md) - Public REST APIs provide market data such as: current order book recent trading activity trade history
+- [Hybrix](./pages/hybrix/README.md) - The API is an open source multi ledger API, that allows developers to build multi-blockchain and multi-ledger solutions on 26+ blockchains
+- [ICObench](./pages/icobench/README.md) - ICObench Data API allows you to get various information and data from the platform including ICO listings, ratings, and stats
+- [IEX Trading](./pages/iex/README.md) - Free Stocks and Market Data
+- [Kraken](./pages/kraken-api/README.md) - Kraken&#x27;s REST and WebSocket APIs provide cryptocurrency trading, market data, order management, and account information 🆓
+- [KuCoin](./pages/kucoin-api/README.md) - KuCoin&#x27;s API supports spot, margin, and futures trading with market data, order management, and account endpoints 🆓
+- [Messari](./pages/messari/README.md) - Messari provides an institutional grade Bitcoin and blockchain data API, ranging from market data to fundamentals, blockchain metrics and news
+- [Moralis](./pages/moralis/README.md) - Moralis Web3 API provides NFT data, token balances, DeFi positions, transaction history, and wallet analytics across EVM-compatible blockchains including Ethereum, Polygon, and BNB Chain 🆓
+- [Nexchange](./pages/nexchange/README.md) - API for crypto currency exchange.
+- [Nicehash](./pages/nicehash/README.md) - Largest Crypto Mining Marketplace
+- [Nimiq Hub](./pages/nimiq-hub/README.md) - Nimiq aims to be the best performing and easiest-to-use decentralized payment protocol ecosystem
+- [OKX](./pages/okx-api/README.md) - OKX&#x27;s API provides spot, futures, options, and DeFi trading with real-time market data and account management 🆓
+- [OpenSea](./pages/opensea/README.md) - OpenSea&#x27;s API provides NFT metadata, collection stats, listings, offers, and transaction history from the world&#x27;s largest NFT marketplace across Ethereum, Polygon, and other chains 🆓
+- [Pocket Network](./pages/pocket-network/README.md) - Pocket proportionally rewards the participating nodes with native cryptographic tokens POKT
+- [Poloniex](./pages/poloniex/README.md) - US based digital asset exchange
+- [Quidax Merchant](./pages/quidax-merchant/README.md) - Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin &amp; other cryptocurrencies with Naira
+- [Ripple XRP Ledger](./pages/ripple-xrp/README.md) - The XRP Ledger&#x27;s rippled API provides access to accounts, transactions, order books, and payment channels on the XRP Ledger 🆓
+- [ShapeShift.io](./pages/shapeshift-io/README.md) - Exchange between cryptocurrencies without an account
+- [Solana RPC API](./pages/solana-rpc/README.md) - Solana&#x27;s JSON-RPC API provides access to account data, transaction history, block info, and program interactions on the high-performance Solana blockchain network 🆓
+- [Stellar](./pages/stellar/README.md) - Stellar&#x27;s Horizon API provides access to accounts, transactions, payments, offers, and assets on the Stellar blockchain network 🆓
+- [SuredBits](./pages/suredbits/README.md) - This API allows you to query our NFL, NBA and Crypto Exchange data
+- [Tardis](./pages/tardis/README.md) - Raw historical market data is available both in exchange native and normalized formats and includes full order book depth snapshots plus incremental updates, tick-by-tick trades, historical open interest, funding, index and mark prices
+- [Technical Analysis](./pages/technical-analysis/README.md) - Coin predictions as a service
+- [The Graph](./pages/the-graph/README.md) - The Graph is an indexing protocol for querying blockchain data via GraphQL 🆓
+- [The Shrimpy Universal Crypto Exchange Api](./pages/the-shrimpy-universal-crypto-exchange-api/README.md) - Collect real-time trade or order book data for free, manage user exchange accounts, execute trading strategies, and simplify the way you connect to each exchange
+- [Twelve Data](./pages/twelve-data/README.md) - Stock market data (real-time &amp; historical)
+- [Upvest Blockchain Api](./pages/upvest-blockchain-api/README.md) - The Upvest Blockchain API is a multi-protocol blockchain API for building blockchain-interacting applications
+- [WorldCoinIndex](./pages/worldcoinindex/README.md) - Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
+
+### Bookmarks 📑
+- [Openwhyd](./pages/openwhyd/README.md) - 💎 Like Pinterest, for Music
+- [Pocket](./pages/pocket/README.md) - When you find something you want to view later, put it in Pocket
+
+### Books 📚
+- [Bhagavad Gita](./pages/bhagavad-gita/README.md) - Bhagwat Geeta in Hindi and English
+- [British National Bibliography](./pages/british-national-bibliography/README.md) - Welcome to bnb
+- [Crossref](./pages/crossref/README.md) - Crossref&#x27;s API provides metadata for 150M+ scholarly works including DOIs, citations, author information, funding data, and license information for academic research integration 🆓
+- [GoodReads](./pages/goodreads/README.md) - The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social
+- [Google Books](./pages/google-books-api/README.md) - Access the full text of the Google Books repository
+- [Harry Potter](./pages/harry-potter/README.md) - Harry Potter API 🆓
+- [LibGen](./pages/libgen/README.md) - An English-language guide to using the LibGen API
+- [Open Library](./pages/open-library/README.md) - Open Library is an open, editable library catalog, building towards a web page for every book ever published
+- [OpenAlex](./pages/openalex/README.md) - OpenAlex is a fully open catalog of the global research system 🆓
+- [Penguin Publishing](./pages/penguin-publishing/README.md) - Sample XML response Sample JSON response
+
+### Bots 📝
+- [Cat Facts](./pages/cat-facts/README.md) - Daily cat facts! 🐱
+- [Infermedica API](./pages/infermedica-api/README.md) - The most advanced Symptom Checker and Patient Triage API
+- [Recast.AI](./pages/recast-ai/README.md) - Collaborative chatbot software
+- [Telegram](./pages/telegram/README.md) - The Bot API allows you to easily create programs that use Telegram
+- [Telegram Bot](./pages/telegram-bot/README.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
+
+### Business 👔
+- [Adzuna](./pages/adzuna/README.md) - Get the very latest ads and data with Adzuna&#x27;s API
+- [Basecamp API](./pages/basecamp-api/README.md) - A web based system for managing collaborative projects
+- [Box](./pages/box/README.md) - Explore the Box APIs and SDKs to use for app development,
+- [Braintree](./pages/braintree/README.md) - Specializes in mobile and web payment systems for ecommerce companies
+- [Clearbit Logo](./pages/clearbit-logo/README.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
+- [Clust](./pages/clust/README.md) - The best way to gather anyone’s documents, directly from your app &amp; without hassle
+- [Ecart](./pages/ecart/README.md) - Data is offered in JSON format
+- [Elasticpath](./pages/elasticpath/README.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
+- [Enigma Public](./pages/enigma-public/README.md) - Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time
+- [Formstack](./pages/formstack/README.md) - The Formstack API allows users and 3rd-party applications to access Formstack resources programmatically
+- [Freelancer](./pages/freelancer/README.md) - Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more
+- [Freshdesk](./pages/freshdesk/README.md) - Freshdesk&#x27;s API manages support tickets, contacts, agents, groups, and canned responses 🆓
+- [Freshsales](./pages/freshsales/README.md) - Freshsales CRM API provides access to contacts, accounts, deals, tasks, and sales sequences 🆓
+- [Freshservice](./pages/freshservice/README.md) - Freshservice&#x27;s ITSM API manages IT service desk tickets, assets, changes, problems, and releases
+- [Furniture Store Data Api](./pages/furniture-store-data-api/README.md) - The aim is to provide every bit of information which is felt required for a user to know about a furniture store
+- [Google Analytics](./pages/google-analytics/README.md) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content
+- [Hunter.io](./pages/hunter-io/README.md) - Hunter 🆓
+- [ITA&#x27;s Data Services Platform](./pages/itas-data-services-platform/README.md) - The Data Services Platform from the International Trade Administration (ITA) provides direct access to authoritative information on U 🆓
+- [LinkedIn](./pages/linkedin/README.md) - Make it convenient for your users to sign in with their professional identity
+- [LiveChat](./pages/livechat/README.md) - Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools
+- [Localytics](./pages/localytics/README.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
+- [MailboxValidator](./pages/mailboxvalidator/README.md) - MailboxValidator provides single email validation API that checks if an email address is valid and exists
+- [Make (Integromat)](./pages/make/README.md) - Make&#x27;s API manages scenarios, modules, connections, and executions on the visual automation platform 🆓
+- [markerapi](./pages/markerapi/README.md) - Trademark search API to search the US trademarks database (USPTO) based on a search string
+- [n8n](./pages/n8n/README.md) - n8n&#x27;s REST API manages workflows, executions, credentials, and users on the open-source workflow automation platform 🆓
+- [Ontraport](./pages/ontraport/README.md) - Marketing automation
+- [OpenCorporates](./pages/opencorporates/README.md) - World&#x27;s largest open database of companies
+- [PagerDuty](./pages/pagerduty/README.md) - PagerDuty&#x27;s API manages incidents, alerts, on-call schedules, escalation policies, and services
+- [Pipedrive](./pages/pipedrive/README.md) - Pipedrive&#x27;s API provides access to deals, contacts, organizations, pipelines, and activities 🆓
+- [Postmark](./pages/postmark/README.md) - No bulk
+- [Quantumdigital](./pages/quantumdigital/README.md) - QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
+- [Rushtranslate](./pages/rushtranslate/README.md) - RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals
+- [Salesforce](./pages/salesforce/README.md) - The Salesforce Platform connects the entire customer journey across Sales, Service, Marketing, Commerce, and every touchpoint
+- [Square](./pages/square/README.md) - Square provides support and tools for you to build apps for today’s business needs
+- [Telleroo](./pages/telleroo/README.md) - Instant Bulk Payments for your Finance Team
+- [US Restaurant Menus](./pages/us-restaurant-menus/README.md) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
+- [Whitepages Pro](./pages/whitepages-pro/README.md) - Global Identity Verification API
+- [WorkOS](./pages/workos/README.md) - Easily integrate Okta SAML, Google OAuth, and more
+- [Xyz Menus](./pages/xyz-menus/README.md) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
+- [Yammer API](./pages/yammer-api/README.md) - Yammer Developer Site was created using ReadMe
+- [Yelp](./pages/yelp/README.md) - Yelp&#x27;s API exposes search to 3rd party developers
+- [Zapier](./pages/zapier/README.md) - Zapier&#x27;s API enables creating and managing Zaps (automated workflows), accessing connected app data, and triggering automations programmatically across 6,000+ integrated apps 🆓
+- [Zendesk](./pages/zendesk/README.md) - Zendesk&#x27;s REST API manages support tickets, users, organizations, macros, and automations
+- [Zoho Reports API](./pages/zoho-reports-api/README.md) - Zoho Analytics API Zoho Analytics API offers wide range of functions to help developers build &amp; manage powerful reporting and analytical capabilities for their business application needs
+
+### Calendar & Time 📅
+- [24 Pull Requests](./pages/24-pull-requests/README.md) - 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
+- [Cal.com](./pages/cal-com/README.md) - Cal 🆓
+- [Calendarific](./pages/calendarific/README.md) - With Calendarific API you can display the dates of public holidays, bank holidays, local holidays and religious holidays for over 200 countries worldwide
+- [Church Calendar](./pages/church-calendar/README.md) - Liturgical Calendar API
+- [Cronofy](./pages/cronofy/README.md) - Scheduler lets you share your availability with contacts no matter what application you use
+- [Czech Namedays Calendar](./pages/czech-namedays-calendar/README.md) - Czech Holidays API
+- [Eventful API](./pages/eventful-api/README.md) - Eventful is a leading digital media company connecting consumers with entertainment, movies and local events
+- [Google Calendar](./pages/google-calendar-api/README.md) - Create and manage events and calendars for Google Calendar
+- [Hebrew Calendar](./pages/hebrew-calendar/README.md) - You can embed Hebcal
+- [Holiday Oracle](./pages/holiday-oracle/README.md) - A consensus driven API for national, federal and public holidays servicing over 166 countries and 300 subdivisions worldwide
+- [Holidays](./pages/holidays/README.md) - Don&#x27;t let sourcing and maintaining holiday information get in the way of building your product
+- [LectServe](./pages/lectserve/README.md) - Your daily lectionary readings…
+- [Microsoft Graph](./pages/microsoft-graph/README.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
+- [Nager.Date](./pages/nager-date/README.md) - Worldwide public holidays API
+- [Namedays Calendar](./pages/namedays-calendar/README.md) - API returns namedays for various countries
+- [Non-Working Days](./pages/non-working-days/README.md) - Open repository of non-working days ics files
+- [Russian Calendar](./pages/russian-calendar/README.md) - Work calendar service
+- [Unix Timestamp Converteri](./pages/unix-timestamp-converteri/README.md) - Unix Timestamp Converter API Unix Timestamp converter REST API Convert Unix Timestamps to DateTime objects and DateTime objects to Unix Timestamps This WebService was built in 20 minutes using Li
+- [WorldTimeAPI](./pages/worldtimeapi/README.md) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP
+
+### Captcha 🔒
+- [Anti-Captcha](./pages/anti-captcha/README.md) - Access to Anti-Captcha’s API
+- [Google reCAPTCHA](./pages/google-recaptcha/README.md) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse
+- [Naver Captcha](./pages/naver-captcha/README.md) - The image capturing function used by Naver Service can be used for customer service to identify people and computers to prevent abusing
+- [ProxyCrawl](./pages/proxycrawl/README.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
+
+### Casino & Gambling 🎰
+- [Lottery Number Generation](./pages/lottery-number-generation/README.md) - Hundereds of lottery games from various countries are supported
+- [Oddsapi](./pages/oddsapi/README.md) - Sports data API provides live and historical sports data from all around the world
+
+### Chats & Messaging 💬
+- [Ably](./pages/ably/README.md) - API for making cross-protocol realtime communication between devices easy
+- [Africa&#x27;s Talking](./pages/africas-talking/README.md) - A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications
+- [Chat Messaging By Stream](./pages/chat-messaging-by-stream/README.md) - Stream&#x27;s API and SDKs enable developers to build messaging solutions very quickly and reliably
+- [Cisco Spark](./pages/cisco-spark/README.md) - Build the future of business collaboration with Webex
+- [Clust](./pages/clust/README.md) - The best way to gather anyone’s documents, directly from your app &amp; without hassle
+- [Discord](./pages/discord/README.md) - Integrate your service with Discord — whether it&#x27;s a bot or a game or whatever your wildest imagination can come up with
+- [Gitter](./pages/gitter/README.md) - Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery
+- [Intercom](./pages/intercom/README.md) - Intercom&#x27;s API provides access to conversations, contacts, companies, and events
+- [Liveblocks](./pages/liveblocks/README.md) - Liveblocks API enables real-time collaboration features including presence, live cursors, shared state, comments, and notifications 🆓
+- [LiveChat](./pages/livechat/README.md) - Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools
+- [MessageBird](./pages/messagebird/README.md) - MessageBird&#x27;s API provides SMS, voice, WhatsApp, email, and live chat communications 🆓
+- [Microsoft Teams API](./pages/microsoft-teams-api/README.md) - Microsoft Teams API via Microsoft Graph provides access to chats, channels, messages, meetings, and team membership
+- [MySocialApp](./pages/mysocialapp/README.md) - Build scalable news feed for your app
+- [Nexmo](./pages/nexmo/README.md) - Make and receive phone calls, send and receive SMS worldwide
+- [Orange SMS API](./pages/orange-sms-api/README.md) - The SMS Service,allows you to send and receive text messages, of up to 160 characters, to and from a mobile phone
+- [PubNub](./pages/pubnub/README.md) - &lt;div class&#x3D;&quot;homepage-wrap&quot;&gt;
+- [Slack](./pages/slack/README.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations they provide out of the box
+- [Sms And Phone Calls Api - 46elks](./pages/sms-and-phone-calls-api-46elks/README.md) - Integrate SMS, MMS and Phone calls into your applications with just a few lines of code
+- [SparkPost](./pages/sparkpost/README.md) - SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails
+- [Telegram](./pages/telegram/README.md) - The Bot API allows you to easily create programs that use Telegram
+- [Telegram Bot](./pages/telegram-bot/README.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
+- [Viber](./pages/viber/README.md) - Millions of Viber users call, text, and send photos to each other, worldwide - for free
+- [Vidyo.Io](./pages/vidyo-io/README.md) - Developers do not need to be experts in video, all of the complexities of video communication is handled by the Vidyo
+- [Vonage (Nexmo)](./pages/vonage/README.md) - Vonage&#x27;s Communications APIs provide SMS, voice calls, video, WhatsApp, and verification services 🆓
+- [WhatsApp Business API](./pages/whatsapp-business/README.md) - WhatsApp Business Platform API enables sending and receiving WhatsApp messages, managing message templates, and handling webhooks for business-to-customer communications at scale
+- [Yo Developers API](./pages/yo-developers-api/README.md) - Yo API Documentation
+- [Zoom API](./pages/zoom-api/README.md) - Zoom&#x27;s REST API manages meetings, webinars, users, recordings, and reports 🆓
+
+### Collaboration 👨‍👩‍👦‍👦
+- [Abstract](./pages/abstract/README.md) - Suite of utility API&#x27;s (validate emails, create user avatars, calculate VAT, and more)
+- [Apileap](./pages/apileap/README.md) - Make screenshots from web pages and HTML
+- [Basecamp API](./pages/basecamp-api/README.md) - A web based system for managing collaborative projects
+- [Box](./pages/box/README.md) - Explore the Box APIs and SDKs to use for app development,
+- [Cisco Spark](./pages/cisco-spark/README.md) - Build the future of business collaboration with Webex
+- [Clust](./pages/clust/README.md) - The best way to gather anyone’s documents, directly from your app &amp; without hassle
+- [Codeship](./pages/codeship/README.md) - Hosted API documentation for every OAS (Swagger) and RAML spec out there
+- [GitLab](./pages/gitlab/README.md) - Access to GitLab&#x27;s API
+- [Google Calendar](./pages/google-calendar-api/README.md) - Create and manage events and calendars for Google Calendar
+- [Gyazo](./pages/gyazo/README.md) - Take screenshots, GIFS, and replays that are ready to share
+- [Let&#x27;S Validate](./pages/lets-validate/README.md) - Uncovers the technologies used on websites and URL to thumbnail
+- [Liveblocks](./pages/liveblocks/README.md) - Liveblocks API enables real-time collaboration features including presence, live cursors, shared state, comments, and notifications 🆓
+- [Microlink](./pages/microlink/README.md) - Generate PDF from any website
+- [Microsoft Graph](./pages/microsoft-graph/README.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
+- [Microsoft Teams API](./pages/microsoft-teams-api/README.md) - Microsoft Teams API via Microsoft Graph provides access to chats, channels, messages, meetings, and team membership
+- [Open Science Framework](./pages/open-science-framework/README.md) - OSF is a free, open platform to support your research and enable collaboration
+- [Pastebin](./pages/pastebin/README.md) - Pastebin is a website where you can store text online for a set period of time
+- [Pexels](./pages/pexels/README.md) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
+- [ScreenShotLayer](./pages/screenshotlayer/README.md) - Free for personal use
+- [Slack](./pages/slack/README.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations they provide out of the box
+- [Trello](./pages/trello/README.md) - Trello is a web-based, Kanban-style, list-making application
+
+### Comics & Anime 🦸
+- [AniList](./pages/anilist/README.md) - The AniList GraphQL Api provides quick and powerful access to over 500k anime and manga entries, including character, staff, and live airing data
+- [Comic Vine](./pages/comic-vine/README.md) - An extremely mature, well organized and continuely updated resource of comic information
+- [Danbooru](./pages/danbooru/README.md) - Danbooru Imageboard API
+- [Kitsu](./pages/kitsu/README.md) - Kitsu is a modern anime discovery platform that helps you track the anime you&#x27;re watching, discover new anime and socialize with other fans
+- [Marvel](./pages/marvel/README.md) - The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&amp;#039;s systems
+- [MyAnimeList](./pages/myanimelist/README.md) - MyAnimeList.net official API
+- [Rick and Morty](./pages/rick-and-morty/README.md) - The Rick and Morty API is a REST and GraphQL API based on the television show Rick and Morty
+- [Studio Ghibli](./pages/studio-ghibli/README.md) - Resources from Studio Ghibli films
+- [What Anime](./pages/what-anime/README.md) - trace
+- [xkcd](./pages/xkcd/README.md) - xkcd API
+
+### Commerce 💰
+- [Adobe Commerce (Magento)](./pages/magento/README.md) - Adobe Commerce (Magento) REST and GraphQL APIs manage products, orders, customers, carts, and inventory for enterprise e-commerce stores 🆓
+- [Adyen](./pages/adyen/README.md) - Adyen&#x27;s payments API processes online, in-person, and in-app payments globally
+- [AfterShip](./pages/aftership/README.md) - Provides multi-carrier shipment tracking APIs.
+- [Amazon Mobile Ads](./pages/amazon-mobile-ads/README.md) - Monetize across platforms with multiple ad formats
+- [Amazon Product Advertising API](./pages/amazon-product-advertising-api/README.md) - The web address you entered is not a functioning page on our site
+- [API2Cart](./pages/api2cart/README.md) - Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once
+- [Barzahlen](./pages/barzahlen/README.md) - viafintech API v2 allows you to create payment, partial payment, payout, and refund slips customers can use in stores like supermarkets to pay or receive money
+- [Best Buy Commerce API](./pages/best-buy-commerce-api/README.md) - Allows companies to conduct commerce with Best Buy services within their own e-commerce application
+- [BlockScore](./pages/blockscore/README.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
+- [Braintree](./pages/braintree/README.md) - Specializes in mobile and web payment systems for ecommerce companies
+- [Bratabase](./pages/bratabase/README.md) - Bratabase API Widget
+- [CheapShark](./pages/cheapshark/README.md) - CheapShark is a price comparison website for digital PC Games
+- [Checkout.com](./pages/checkout-com/README.md) - Checkout
+- [CityGrid](./pages/citygrid/README.md) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria
+- [DroneDeploy](./pages/dronedeploy/README.md) - Integrate your existing service into DroneDeploy and reach tens of thousands of commercial drone users from over 160 countries and industries like agriculture, construction, mining, surveying, and more
+- [EAN-Search](./pages/ean-search/README.md) - Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name
+- [eBay](./pages/ebay/README.md) - eBay&#x27;s APIs
+- [EBay Shopping API](./pages/ebay-shopping-api/README.md) - If you&#x27;re interested in
+- [Ecart](./pages/ecart/README.md) - Data is offered in JSON format
+- [Elasticpath](./pages/elasticpath/README.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
+- [envoice](./pages/envoice/README.md) - Invoicing for online businesses
+- [FIDEL API](./pages/fidel-api/README.md) - FIDEL is a card-linked API that lets developers create web and mobile applications for linking banks cards with reward services
+- [Freelancer](./pages/freelancer/README.md) - Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more
+- [GamerPower](./pages/gamerpower/README.md) - The GamerPower API (Aka Game Giveaway Tracker API)
+- [Gumroad](./pages/gumroad/README.md) - Gumroad helps creators do more of what they love by offering tools to get paid online, they have sent over $202M to artists, designers, educators, writers, influencers and more
+- [Klarna](./pages/klarna/README.md) - Klarna&#x27;s Payments API enables buy-now-pay-later, installment plans, and direct bank payments at checkout
+- [koomalooma](./pages/koomalooma/README.md) - koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries
+- [Marketcloud](./pages/marketcloud/README.md) - It covers inventory and database, carts and checkout, payments, user authentication, and more
+- [MLScrape](./pages/mlscrape/README.md) - MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API
+- [Mollie](./pages/mollie/README.md) - Mollie&#x27;s Payments API supports iDEAL, credit cards, SEPA, PayPal, and 30+ other payment methods
+- [PayPal](./pages/paypal/README.md) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials
+- [Postmates](./pages/postmates/README.md) - Build on-demand delivery into your app or website.
+- [Product Hunt](./pages/product-hunt/README.md) - The best new products, every day
+- [Quantumdigital](./pages/quantumdigital/README.md) - QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
+- [Razorpay](./pages/razorpay/README.md) - Razorpay&#x27;s Payment APIs support UPI, cards, net banking, and wallets for the Indian market
+- [Reverb](./pages/reverb/README.md) - Sell and buy music related merchandise
+- [Shippo](./pages/shippo/README.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
+- [Shopify API](./pages/shopify-api/README.md) - Shopify&#x27;s Admin API provides programmatic access to store data including products, orders, customers, inventory, and fulfillments 🆓
+- [Shopify Storefront API](./pages/shopify-storefront/README.md) - Shopify&#x27;s Storefront API (GraphQL) enables building custom headless storefronts with product catalogs, carts, checkout, and customer authentication without Shopify&#x27;s default themes 🆓
+- [Square](./pages/square/README.md) - Square provides support and tools for you to build apps for today’s business needs
+- [Stripe](./pages/stripe/README.md) - Stripe&#x27;s API
+- [Trash Nothing](./pages/trash-nothing/README.md) - Developer API trash nothing
+- [Treopim Api](./pages/treopim-api/README.md) - AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich and configurable PIM solution of the new generation
+- [Uber](./pages/uber/README.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
+- [UPC database](./pages/upc-database/README.md) - Database contains a mixture of barcode types from the standard UPC numbering system, the worldwide EAN numbering system, and the Bookland numbering system
+- [UPS](./pages/ups/README.md) - UPS is an American multinational package delivery and supply chain management company
+- [Upwork](./pages/upwork/README.md) - Upwork Developers Site offers you access to Upwork&#x27;s web services
+- [vatlayer](./pages/vatlayer/README.md) - Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers &amp; businesses
+- [Wal-Mart](./pages/wal-mart/README.md) - Product Lookup API gives access to item price and availability in real-time
+- [Wegmans](./pages/wegmans/README.md) - APIs for products and store information
+- [Wip](./pages/wip/README.md) - Open API for the maker community
+- [Wix REST API](./pages/wix-api/README.md) - Wix&#x27;s REST API provides access to site data, members, contacts, orders, bookings, and blog posts 🆓
+- [Yclas](./pages/yclas/README.md) - Be creative and create any type of marketplace
+- [Yelp](./pages/yelp/README.md) - Yelp&#x27;s API exposes search to 3rd party developers
+
+### Content & Dictionaries 📖
+- [Agarathi](./pages/agarathi/README.md) - Tamil language Dictionary API
+- [Cambridge Dictionaries Online](./pages/cambridge-dictionaries-online/README.md) - Access to Cambridge’s custom-developed API
+- [Datamuse API](./pages/datamuse-api/README.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
+- [Elasticpath](./pages/elasticpath/README.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
+- [FavQs](./pages/favqs/README.md) - FavQs allows you to collect, discover, and share your favorite quotes
+- [Forismatic](./pages/forismatic/README.md) - Gives you a random quote per click.
+- [Glosbe API](./pages/glosbe-api/README.md) - Dictionary API and Translation Memory API description
+- [Graphql360](./pages/graphql360/README.md) - Create and consume 360 degree panoramic tours using a GraphQL API
+- [Lingua Robot API](./pages/lingua-robot-api/README.md) - English dictionary API providing an access to the data of over 800 000 English lexical entries, such as words, phrasal verbs, multiword expressions etc
+- [Merriam-Webster Dictionary API](./pages/merriam-webster-dictionary-api/README.md) - A comprehensive resource of dictionary and thesaurus data powered by Merriam-Webster&#x27;s trusted references
+- [Open Access Button](./pages/open-access-button/README.md) - Free, legal research articles delivered instantly or automatically requested from authors 🆓
+- [OwlBot](./pages/owlbot/README.md) - OwlBot is an english dictionary API
+- [Oxford Dictionary API](./pages/oxford-dictionary-api/README.md) - Access to Oxford Dictionary services with several different subscription options including a free tier
+- [Pearson Dictionaries API](./pages/pearson-dictionaries-api/README.md) - ) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month
+- [Perfect Tense API](./pages/perfect-tense-api/README.md) - Automated
+- [qKast Channel Content](./pages/qkast-channel-content/README.md) - qKast API documentation and examples
+- [Tamil Dictionary Api](./pages/tamil-dictionary-api/README.md) - Lookup Tamil words and build your own Tamil dictionary APP using this API
+- [Today in History](./pages/today-in-history/README.md) - Database of historical events
+- [Utelly](./pages/utelly/README.md) - Check where a tv show or movie is available
+- [Vimeo](./pages/vimeo/README.md) - Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate
+- [Wikimedia REST API](./pages/wikimedia/README.md) - Wikimedia&#x27;s REST API provides access to Wikipedia articles, summaries, page metadata, media files, and editing history across all Wikimedia projects in multiple formats 🆓
+- [Wikipedia](./pages/wikipedia/README.md) - Free multilingual Encyclopedia.
+- [Wiktionary API](./pages/wiktionary-api/README.md) - This is an auto-generated MediaWiki API documentation page
+- [Wordnik](./pages/wordnik/README.md) - The Wordnik API Docs. Dictionary functions
+- [Words API](./pages/words-api/README.md) - An API for the english language
+
+### CRM 🤝
+- [Clust](./pages/clust/README.md) - The best way to gather anyone’s documents, directly from your app &amp; without hassle
+- [Data Demograph](./pages/data-demograph/README.md) - Enrich your contact lists with intelligent demographics
+- [Freshdesk](./pages/freshdesk/README.md) - Freshdesk&#x27;s API manages support tickets, contacts, agents, groups, and canned responses 🆓
+- [Freshsales](./pages/freshsales/README.md) - Freshsales CRM API provides access to contacts, accounts, deals, tasks, and sales sequences 🆓
+- [HubSpot](./pages/hubspot/README.md) - HubSpot&#x27;s API provides access to CRM contacts, companies, deals, tickets, marketing emails, and automation workflows 🆓
+- [Intercom](./pages/intercom/README.md) - Intercom&#x27;s API provides access to conversations, contacts, companies, and events
+- [Microsoft Graph](./pages/microsoft-graph/README.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
+- [Ontraport](./pages/ontraport/README.md) - Marketing automation
+- [Phone Number Validation](./pages/phone-number-validation/README.md) - Check phone number validity, location and timezones
+- [Pipedrive](./pages/pipedrive/README.md) - Pipedrive&#x27;s API provides access to deals, contacts, organizations, pipelines, and activities 🆓
+- [Salesforce](./pages/salesforce/README.md) - The Salesforce Platform connects the entire customer journey across Sales, Service, Marketing, Commerce, and every touchpoint
+- [Whitepages Pro](./pages/whitepages-pro/README.md) - Global Identity Verification API
+- [Zendesk](./pages/zendesk/README.md) - Zendesk&#x27;s REST API manages support tickets, users, organizations, macros, and automations
+
+### Databases 🗄️
+- [Airtable](./pages/airtable/README.md) - Airtable&#x27;s API allows reading and writing records, managing tables, and handling attachments in Airtable bases 🆓
+- [Azure Cosmos DB](./pages/azure-cosmos-db/README.md) - Azure Cosmos DB REST API provides globally distributed NoSQL database access with SQL, MongoDB, Cassandra, Gremlin, and Table APIs
+- [Convex](./pages/convex/README.md) - Convex is a backend-as-a-service platform offering a reactive database, serverless functions, file storage, and real-time subscriptions accessible via TypeScript SDK and HTTP actions 🆓
+- [Directus](./pages/directus/README.md) - Directus is an open-source headless CMS with a dynamic REST and GraphQL API automatically generated from any SQL database schema 🆓
+- [Firebase](./pages/firebase/README.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
+- [Google BigQuery API](./pages/google-bigquery-api/README.md) - A data platform for customers to create, manage, share and query data
+- [Hasura](./pages/hasura/README.md) - Hasura auto-generates a real-time GraphQL and REST API from your PostgreSQL, MySQL, or other databases 🆓
+- [Json Base](./pages/json-base/README.md) - API Based JSON Storage
+- [MongoDB Atlas](./pages/mongodb-atlas/README.md) - MongoDB Atlas Administration API manages clusters, database users, network access, backups, and organizations 🆓
+- [Neon](./pages/neon/README.md) - Neon&#x27;s API manages serverless Postgres databases, branches, compute endpoints, and projects 🆓
+- [Notion API](./pages/notion/README.md) - Notion&#x27;s API provides access to pages, databases, blocks, users, and comments in Notion workspaces 🆓
+- [PlanetScale](./pages/planetscale/README.md) - PlanetScale&#x27;s API provides programmatic access to manage MySQL-compatible databases, branches, deploy requests, and organizations on the PlanetScale platform
+- [Rackspace Cloud Databases API](./pages/rackspace-cloud-databases-api/README.md) - Can be created, updated, and deleted using the OS::Trove::Instance resource
+- [Sheetsu](./pages/sheetsu/README.md) - Get data from Google Spreadsheet in a matter of seconds
+- [Supabase](./pages/supabase/README.md) - Supabase is an open-source Firebase alternative offering a RESTful API over PostgreSQL, real-time subscriptions, authentication, file storage, and Edge Functions 🆓
+- [Time Door](./pages/time-door/README.md) - A time series analysis API
+- [Turso](./pages/turso/README.md) - Turso provides edge SQLite databases powered by libSQL 🆓
+- [Upstash](./pages/upstash/README.md) - Upstash provides serverless Redis and Kafka with a REST API 🆓
+
+### Development 👨‍💻
+- [24 Pull Requests](./pages/24-pull-requests/README.md) - 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
+- [Abstract](./pages/abstract/README.md) - Suite of utility API&#x27;s (validate emails, create user avatars, calculate VAT, and more)
+- [Abstract API](./pages/abstractapi/README.md) - Abstract API provides a suite of utility APIs including email validation, phone validation, IP geolocation, VAT validation, currency exchange, and holiday data via simple REST endpoints 🆓
+- [Agify.io](./pages/agify-io/README.md) - Free API to check and predict the age of a name
+- [Alchemy](./pages/alchemy-api/README.md) - Alchemy&#x27;s Web3 API provides enhanced node access, NFT data, transaction history, token balances, and webhook notifications across Ethereum, Polygon, Solana, and other blockchains 🆓
+- [Algolia](./pages/algolia/README.md) - Algolia&#x27;s Search API provides fast, typo-tolerant full-text search with faceting, filtering, and personalization 🆓
+- [API2Cart](./pages/api2cart/README.md) - Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once
+- [Apiary](./pages/apiary/README.md) - Apiary provides the leading API-First platform designed specifically to help companies accelerate and control the design, development, and documentation of APIs
+- [Apify](./pages/apify/README.md) - Apify&#x27;s API lets you run web scraping and automation actors, manage datasets, key-value stores, and proxies 🆓
+- [Apileap](./pages/apileap/README.md) - Make screenshots from web pages and HTML
+- [Approveapi](./pages/approveapi/README.md) - A simple API to request a user&#x27;s real-time approval on any device or platform via Email, SMS, Slack, and in-app mobile Push
+- [Asana](./pages/asana/README.md) - Asana&#x27;s API provides programmatic access to tasks, projects, teams, portfolios, and goals 🆓
+- [AudD](./pages/audd/README.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
+- [AWS Lambda](./pages/aws-lambda/README.md) - AWS Lambda API enables invoking, managing, and configuring serverless functions 🆓
+- [AWS SES](./pages/aws-ses/README.md) - AWS Simple Email Service API enables sending transactional and marketing emails at scale with high deliverability 🆓
+- [AWS SNS](./pages/aws-sns/README.md) - AWS Simple Notification Service API enables pub/sub messaging, mobile push notifications, and SMS delivery 🆓
+- [Azure Cosmos DB](./pages/azure-cosmos-db/README.md) - Azure Cosmos DB REST API provides globally distributed NoSQL database access with SQL, MongoDB, Cassandra, Gremlin, and Table APIs
+- [Azure Functions](./pages/azure-functions/README.md) - Azure Functions management API enables deploying and managing serverless functions, triggers, bindings, and app settings on Microsoft Azure&#x27;s event-driven compute platform 🆓
+- [Bacon Ipsum](./pages/bacon-ipsum/README.md) - JSON API for returning meaty lorem ipsum filler text
+- [Bitbucket](./pages/bitbucket/README.md) - Code against the Bitbucket API to automate simple tasks, embed Bitbucket data into your own site, build mobile or desktop apps, or even add custom UI add-ons into Bitbucket itself using the Connect framework
+- [Bored](./pages/bored/README.md) - Find random activities to fight boredom
+- [Cal.com](./pages/cal-com/README.md) - Cal 🆓
+- [CDNJS](./pages/cdnjs/README.md) - cdnjs provides a simple API to allow anyone to quickly query the libraries it has on the CDN
+- [Changelogs.md](./pages/changelogs-md/README.md) - Search changelogs from open source projects, or use the REST API for a parsed JSON changelog format
+- [Chat Messaging By Stream](./pages/chat-messaging-by-stream/README.md) - Stream&#x27;s API and SDKs enable developers to build messaging solutions very quickly and reliably
+- [CircleCI](./pages/circleci/README.md) - CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI
+- [Clerk](./pages/clerk/README.md) - Clerk&#x27;s API handles authentication and user management including sign-up, sign-in, MFA, SSO, and user profiles 🆓
+- [ClickUp](./pages/clickup/README.md) - ClickUp&#x27;s API provides access to tasks, lists, folders, spaces, goals, and time tracking 🆓
+- [Cloudflare AI](./pages/cloudflare-ai/README.md) - Cloudflare Workers AI provides serverless inference for LLMs, text embedding, image classification, speech recognition, and translation models running on Cloudflare&#x27;s global edge network 🆓
+- [Cloudflare Workers](./pages/cloudflare-workers/README.md) - Cloudflare Workers API manages serverless functions deployed to Cloudflare&#x27;s global edge network, including KV storage, D1 databases, R2 object storage, and Queues 🆓
+- [Codacy API](./pages/codacy-api/README.md) - 0 Scroll down for code samples, example requests and responses
+- [Codeship](./pages/codeship/README.md) - Hosted API documentation for every OAS (Swagger) and RAML spec out there
+- [Confluence](./pages/confluence/README.md) - Confluence&#x27;s REST API provides access to spaces, pages, blog posts, and comments
+- [Contify Newfeed Api](./pages/contify-newfeed-api/README.md) - Contify&#x27;s News Feed APIs provides a clean, company-based market and competitive intelligence feed with only business and industry-relevant information
+- [Convex](./pages/convex/README.md) - Convex is a backend-as-a-service platform offering a reactive database, serverless functions, file storage, and real-time subscriptions accessible via TypeScript SDK and HTTP actions 🆓
+- [CountAPI](./pages/countapi/README.md) - You can use it to track page hits, and specific events among other things
+- [Countly](./pages/countly/README.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
+- [Creative Commons Catalog](./pages/creative-commons-catalog/README.md) - The Creative Commons Catalog API (&#x27;cccatalog-api&#x27;) is a system that allows programmatic access to public domain digital media
+- [Datadog](./pages/datadog/README.md) - Datadog&#x27;s API provides access to metrics, logs, traces, monitors, dashboards, and alerts
+- [Deno Deploy](./pages/deno-deploy/README.md) - Deno Deploy API manages projects and deployments on Deno&#x27;s edge JavaScript/TypeScript runtime 🆓
+- [DEV.to (Forem)](./pages/dev-to/README.md) - DEV 🆓
+- [DigitalOcean Status](./pages/digitalocean-status/README.md) - API exists to let users of the DigitalOcean status page programmatically access various elements on the page
+- [Directus](./pages/directus/README.md) - Directus is an open-source headless CMS with a dynamic REST and GraphQL API automatically generated from any SQL database schema 🆓
+- [Docker Hub](./pages/docker-hub/README.md) - Docker Hub&#x27;s API provides access to repositories, images, tags, and organizations 🆓
+- [Domainsdb.info](./pages/domainsdb-info/README.md) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols
+- [DroneDeploy](./pages/dronedeploy/README.md) - Integrate your existing service into DroneDeploy and reach tens of thousands of commercial drone users from over 160 countries and industries like agriculture, construction, mining, surveying, and more
+- [Drupal.org](./pages/drupal-org/README.md) - Drupal
+- [Dummyapi.Io](./pages/dummyapi-io/README.md) - Simple API that includes a common data for most of the applications
+- [DummyImage](./pages/dummyimage/README.md) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility
+- [EAN Barcode Search](./pages/ean-barcode-search/README.md) - EAN Barcode API Integrate our database into your app or website
+- [Faceplusplus](./pages/faceplusplus/README.md) - Meta description. A tool to detect face
+- [FakeJSON](./pages/fakejson/README.md) - Easily create custom HTTP resources complete with fake data
+- [Figma](./pages/figma/README.md) - Figma&#x27;s API provides access to files, components, styles, comments, and team projects 🆓
+- [Firebase](./pages/firebase/README.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
+- [Fly.io](./pages/fly-io/README.md) - Fly 🆓
+- [Freshservice](./pages/freshservice/README.md) - Freshservice&#x27;s ITSM API manages IT service desk tickets, assets, changes, problems, and releases
+- [Genderize.io](./pages/genderize-io/README.md) - Free API to predict the gender of a name
+- [Ghost](./pages/ghost/README.md) - Ghost&#x27;s Content and Admin APIs provide access to posts, pages, authors, tags, and settings 🆓
+- [GitHub](./pages/github/README.md) - World&#x27;s most famous code hosting service 🆓
+- [GitHub Gists](./pages/github-gists/README.md) - For more information
+- [GitHub Licenses API](./pages/github-licenses-api/README.md) - The Licenses API returns metadata about popular open source licenses and information about a particular project&#x27;s license file
+- [GitLab](./pages/gitlab/README.md) - Access to GitLab&#x27;s API
+- [Gitter](./pages/gitter/README.md) - Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery
+- [Google App Engine API](./pages/google-app-engine-api/README.md) - Build scalable web and mobile backends in any language on Google’s infrastructure
+- [Google BigQuery API](./pages/google-bigquery-api/README.md) - A data platform for customers to create, manage, share and query data
+- [Google Cloud IoT solutions](./pages/google-cloud-iot-solutions/README.md) - Unlock insights from your global device network with an intelligent IoT platform whose scalable, fully managed integration lets you connect, store, and analyze data at the edge and in the cloud
+- [Google Monitoring API](./pages/google-monitoring-api/README.md) - This page describes some of the features of the Cloud Monitoring API v3
+- [Grafana](./pages/grafana/README.md) - Grafana&#x27;s HTTP API enables management of dashboards, datasources, alerts, users, and organizations programmatically 🆓
+- [Hashnode](./pages/hashnode/README.md) - Hashnode&#x27;s GraphQL API provides access to posts, publications, tags, and user profiles on the developer blogging platform 🆓
+- [Hasura](./pages/hasura/README.md) - Hasura auto-generates a real-time GraphQL and REST API from your PostgreSQL, MySQL, or other databases 🆓
+- [Html2pdf.App](./pages/html2pdf-app/README.md) - Free Html to Pdf online generator
+- [HTTP2.Pro](./pages/http2-pro/README.md) - Pro, Client HTTP/2 Support API. HTTP2. HTTP2
+- [IFTTT](./pages/ifttt/README.md) - Learn how to build an API to show and update connections, run actions, perform queries, and listen for triggers
+- [import.io](./pages/import-io/README.md) - Import
+- [Intellexer](./pages/intellexer/README.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
+- [IPinfo](./pages/ipinfo/README.md) - The Trusted Source for IP Address Data
+- [Jira](./pages/jira/README.md) - Jira&#x27;s REST API provides access to issues, projects, sprints, users, and workflows
+- [JSON 2 JSONP](./pages/json-2-jsonp/README.md) - Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using pure JavaScript
+- [JSON Pretty Print](./pages/json-pretty-print/README.md) - JSON Pretty Print with modern user interface and ssl
+- [JSONPlaceholder](./pages/jsonplaceholder/README.md) - Free online REST API that you can use whenever you need some fake data
+- [Judge0 API](./pages/judge0-api/README.md) - Judge0 is a robust, scalable, and open-source online code execution system that can be used to build a wide range of applications that need online code execution features
+- [Let&#x27;S Validate](./pages/lets-validate/README.md) - Uncovers the technologies used on websites and URL to thumbnail
+- [License-API](./pages/license-api/README.md) - com
+- [Linear](./pages/linear/README.md) - Linear&#x27;s API enables programmatic access to issues, projects, cycles, teams, and workflows 🆓
+- [Liveblocks](./pages/liveblocks/README.md) - Liveblocks API enables real-time collaboration features including presence, live cursors, shared state, comments, and notifications 🆓
+- [Liveedu](./pages/liveedu/README.md) - Live Coding Streaming
+- [Loripsum](./pages/loripsum/README.md) - This Lorem Ipsum generator fits all your Lipsum needs
+- [MAC address vendor lookup](./pages/mac-address-vendor-lookup/README.md) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research&#x27;s results regarding the given MAC address or the OUI
+- [Make (Integromat)](./pages/make/README.md) - Make&#x27;s API manages scenarios, modules, connections, and executions on the visual automation platform 🆓
+- [Marketcloud](./pages/marketcloud/README.md) - It covers inventory and database, carts and checkout, payments, user authentication, and more
+- [Matlab](./pages/matlab/README.md) - MATLAB is a high-level language and interactive environment for numerical computation, visualization, and programming
+- [Meilisearch](./pages/meilisearch/README.md) - Meilisearch is an open-source search engine with a REST API 🆓
+- [Mercurial](./pages/mercurial/README.md) - Access to Mercurial’s API
+- [MLScrape](./pages/mlscrape/README.md) - MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API
+- [monday.com](./pages/monday-com/README.md) - monday 🆓
+- [MongoDB Atlas](./pages/mongodb-atlas/README.md) - MongoDB Atlas Administration API manages clusters, database users, network access, backups, and organizations 🆓
+- [Mozilla Addons](./pages/mozilla-addons/README.md) - Firefox Addons API
+- [MySocialApp](./pages/mysocialapp/README.md) - Build scalable news feed for your app
+- [n8n](./pages/n8n/README.md) - n8n&#x27;s REST API manages workflows, executions, credentials, and users on the open-source workflow automation platform 🆓
+- [Nationalize.io](./pages/nationalize-io/README.md) - Free API to check and predict the nationality of a name
+- [Neon](./pages/neon/README.md) - Neon&#x27;s API manages serverless Postgres databases, branches, compute endpoints, and projects 🆓
+- [New Relic](./pages/new-relic/README.md) - New Relic&#x27;s API provides access to application performance metrics, errors, infrastructure health, alerts, and dashboards 🆓
+- [npm Registry](./pages/npm-registry/README.md) - The npm Registry API provides access to package metadata, versions, download counts, and search 🆓
+- [OpenAPI](./pages/openapi/README.md) - The OpenAPI Specification: a broadly adopted industry standard for describing modern APIs
+- [PageCDN](./pages/pagecdn/README.md) - PageCDN provides a state of the art opensource content delivery network that uses brotli-11 compression
+- [PagerDuty](./pages/pagerduty/README.md) - PagerDuty&#x27;s API manages incidents, alerts, on-call schedules, escalation policies, and services
+- [Pixabay](./pages/pixabay/README.md) - Restful API for searching and retrieving free images and videos
+- [PlaceGoat](./pages/placegoat/README.md) - PlaceGOAT placeholder service.
+- [Placehold](./pages/placehold/README.md) - Contents1 What Is Placeholder
+- [PlanetScale](./pages/planetscale/README.md) - PlanetScale&#x27;s API provides programmatic access to manage MySQL-compatible databases, branches, deploy requests, and organizations on the PlanetScale platform
+- [Plino](./pages/plino/README.md) - Plino - A responsive spam filtering system
+- [PostHog](./pages/posthog/README.md) - PostHog&#x27;s API provides product analytics, feature flags, session recording, A/B testing, and user management 🆓
+- [Postman](./pages/postman/README.md) - The Postman API allows you to programmatically access data stored in Postman account with ease
+- [Postmen](./pages/postmen/README.md) - Download Postmen&#x27;s JSON schema
+- [Product Hunt API](./pages/producthunt-api/README.md) - Product Hunt&#x27;s GraphQL API provides access to products, posts, collections, topics, and user data 🆓
+- [ProxyCrawl](./pages/proxycrawl/README.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
+- [Pusher Beams](./pages/pusher-beams/README.md) - Get realtime delivery and transparency to develop your iOS and Android apps
+- [PyPI API](./pages/pypi-api/README.md) - PyPI&#x27;s JSON API provides package metadata, release information, download statistics, and vulnerability data for Python packages hosted on the Python Package Index 🆓
+- [Railway](./pages/railway/README.md) - Railway&#x27;s API enables programmatic management of projects, services, deployments, and environments on the Railway cloud platform 🆓
+- [Render](./pages/render/README.md) - Render&#x27;s API lets you manage web services, static sites, databases, cron jobs, and private services on the Render cloud platform programmatically 🆓
+- [ReqRes](./pages/reqres/README.md) - A hosted REST-API ready to respond to AJAX requests
+- [Resend](./pages/resend/README.md) - Resend is an email API built for developers 🆓
+- [Restpack](./pages/restpack/README.md) - Screenshot API, HTML to PDF API, Content Extraction API
+- [Sanity](./pages/sanity/README.md) - Sanity&#x27;s Content Lake API provides real-time headless CMS access via GROQ queries and REST 🆓
+- [Satyr](./pages/satyr/README.md) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode
+- [Scraper.AI](./pages/scraper-ai/README.md) - Scraper
+- [Scrapestack](./pages/scrapestack/README.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
+- [Sentry](./pages/sentry/README.md) - Sentry&#x27;s API provides access to error events, issues, projects, organizations, and releases 🆓
+- [Storyblok](./pages/storyblok/README.md) - Storyblok&#x27;s API is a headless CMS that provides content delivery and management APIs 🆓
+- [Strapi](./pages/strapi/README.md) - Strapi is an open-source headless CMS with auto-generated REST and GraphQL APIs 🆓
+- [Supabase](./pages/supabase/README.md) - Supabase is an open-source Firebase alternative offering a RESTful API over PostgreSQL, real-time subscriptions, authentication, file storage, and Edge Functions 🆓
+- [SVN](./pages/svn/README.md) - It is intended mainly for programmers, both those working on Subversion itself, as well as developers of 3rd-party ap
+- [Swagger](./pages/swagger/README.md) - Find out how Swagger can help you and get started today
+- [Team Foundation Server](./pages/team-foundation-server/README.md) - Overview of integrating with Azure DevOps
+- [Terraform Cloud](./pages/terraform-cloud/README.md) - Terraform Cloud&#x27;s API manages workspaces, runs, state versions, variables, and organizations 🆓
+- [The Graph](./pages/the-graph/README.md) - The Graph is an indexing protocol for querying blockchain data via GraphQL 🆓
+- [Time Door](./pages/time-door/README.md) - A time series analysis API
+- [TLDRLegal Licenses API](./pages/tldrlegal-licenses-api/README.md) - Software Licenses in Plain English
+- [Travis CI](./pages/travis-ci/README.md) - If you’re new to the Travis CI API, you should be using API V3
+- [Turso](./pages/turso/README.md) - Turso provides edge SQLite databases powered by libSQL 🆓
+- [Typesense](./pages/typesense/README.md) - Typesense is an open-source, typo-tolerant search engine with a REST API 🆓
+- [Unsplash](./pages/unsplash/README.md) - but for photos. Lorem Ipsum. Lorem Ipsum
+- [Upstash](./pages/upstash/README.md) - Upstash provides serverless Redis and Kafka with a REST API 🆓
+- [Vercel](./pages/vercel/README.md) - Vercel&#x27;s API lets you manage deployments, domains, environment variables, projects, and teams programmatically 🆓
+- [Verse](./pages/verse/README.md) - Check what&#x27;s the latest version of your favorite open-source project
+- [Webflow](./pages/webflow/README.md) - Webflow&#x27;s CMS API manages collections, items, sites, pages, and forms 🆓
+- [Wix REST API](./pages/wix-api/README.md) - Wix&#x27;s REST API provides access to site data, members, contacts, orders, bookings, and blog posts 🆓
+- [Wordpress](./pages/wordpress/README.md) - WordPress is open source software you can use to create a beautiful website, blog, or app
+- [WordPress REST API](./pages/wordpress-rest/README.md) - WordPress REST API provides endpoints for posts, pages, media, users, taxonomies, and custom post types 🆓
+- [Wrike](./pages/wrike/README.md) - Wrike&#x27;s API provides access to tasks, folders, projects, timesheets, and workflows 🆓
+- [Xml To Json](./pages/xml-to-json/README.md) - Integration developer utility APIs
+- [Zapier](./pages/zapier/README.md) - Zapier&#x27;s API enables creating and managing Zaps (automated workflows), accessing connected app data, and triggering automations programmatically across 6,000+ integrated apps 🆓
+
+### Documents & Productivity 📋
+- [Airtable](./pages/airtable/README.md) - Airtable&#x27;s API allows reading and writing records, managing tables, and handling attachments in Airtable bases 🆓
+- [ApiFlash](./pages/apiflash/README.md) - Chrome based screenshot API to convert URLs to images
+- [Barzahlen](./pages/barzahlen/README.md) - viafintech API v2 allows you to create payment, partial payment, payout, and refund slips customers can use in stores like supermarkets to pay or receive money
+- [Buffer](./pages/buffer/README.md) - Buffer makes it super easy to share any page you&#x27;re reading
+- [Cloudmersive Document and Data Conversion](./pages/cloudmersive-document-and-data-conversion/README.md) - Document and Data Conversion APIs
+- [Clust](./pages/clust/README.md) - The best way to gather anyone’s documents, directly from your app &amp; without hassle
+- [Codacy API](./pages/codacy-api/README.md) - 0 Scroll down for code samples, example requests and responses
+- [Confluence](./pages/confluence/README.md) - Confluence&#x27;s REST API provides access to spaces, pages, blog posts, and comments
+- [Cronofy](./pages/cronofy/README.md) - Scheduler lets you share your availability with contacts no matter what application you use
+- [Elis](./pages/elis/README.md) - Automate data extraction from your documents with Artificial Intelligence
+- [File.io](./pages/file-io/README.md) - Ephemeral file sharing
+- [Freelancer Api](./pages/freelancer-api/README.md) - It can be used to set up a food delivery network, crowdsource the price for a local repair job, plug into a large pool of translators and more
+- [Ghost](./pages/ghost/README.md) - Ghost&#x27;s Content and Admin APIs provide access to posts, pages, authors, tags, and settings 🆓
+- [Html2pdf.App](./pages/html2pdf-app/README.md) - Free Html to Pdf online generator
+- [Intellexer](./pages/intellexer/README.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
+- [Microsoft Graph](./pages/microsoft-graph/README.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
+- [Notepad Api - Simplenotes](./pages/notepad-api-simplenotes/README.md) - Share the notes with everyone you want.
+- [Notion API](./pages/notion/README.md) - Notion&#x27;s API provides access to pages, databases, blocks, users, and comments in Notion workspaces 🆓
+- [pdflayer](./pages/pdflayer/README.md) - Free, powerful HTML to PDF API supporting both URL and raw HTML conversion 🆓
+- [PDFmyURL](./pages/pdfmyurl/README.md) - Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line
+- [Pdfshift ](./pages/pdfshift/README.md) - An API to convert HTML/CSS documents to PDF
+- [Pocket](./pages/pocket/README.md) - When you find something you want to view later, put it in Pocket
+- [PrexView](./pages/prexview/README.md) - Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
+- [Restpack](./pages/restpack/README.md) - Screenshot API, HTML to PDF API, Content Extraction API
+- [Rushtranslate](./pages/rushtranslate/README.md) - RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals
+- [Sanity](./pages/sanity/README.md) - Sanity&#x27;s Content Lake API provides real-time headless CMS access via GROQ queries and REST 🆓
+- [Secured Signing Digital Signature Api](./pages/secured-signing-digital-signature-api/README.md) - The Secured Signing REST-based, JSON API allows you to add PKI based digital signing capabilities to your software, web applications or business processes
+- [Sheetsu](./pages/sheetsu/README.md) - Get data from Google Spreadsheet in a matter of seconds
+- [Slack](./pages/slack/README.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations they provide out of the box
+- [Smartsheet](./pages/smartsheet/README.md) - Smartsheet&#x27;s API provides access to sheets, rows, columns, reports, and automations
+- [Storyblok](./pages/storyblok/README.md) - Storyblok&#x27;s API is a headless CMS that provides content delivery and management APIs 🆓
+- [Strapi](./pages/strapi/README.md) - Strapi is an open-source headless CMS with auto-generated REST and GraphQL APIs 🆓
+- [SummarizeBot API](./pages/summarizebot-api/README.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
+- [Thumbnails Cloud](./pages/thumbnails-cloud/README.md) - Cloud API generates JPG and PDF file previews for all common document formats, using a super simple API
+- [Todoist](./pages/todoist/README.md) - Todo Lists
+- [Trello](./pages/trello/README.md) - Trello is a web-based, Kanban-style, list-making application
+- [Vector Express](./pages/vector-express/README.md) - Convert your AI, CDR, DWG, DXF, EPS, HPGL, PDF, PLT, PS and SVG vector fast and quickly
+- [WakaTime](./pages/wakatime/README.md) - Dashboards for developers
+- [Webflow](./pages/webflow/README.md) - Webflow&#x27;s CMS API manages collections, items, sites, pages, and forms 🆓
+- [Wetransfer](./pages/wetransfer/README.md) - Put us in unexpected places, challenge the traditional creative flow, think big, go wild
+- [WordPress REST API](./pages/wordpress-rest/README.md) - WordPress REST API provides endpoints for posts, pages, media, users, taxonomies, and custom post types 🆓
+
+### Education 🎓
+- [Cambridge Dictionaries Online](./pages/cambridge-dictionaries-online/README.md) - Access to Cambridge’s custom-developed API
+- [Cat Facts](./pages/cat-facts/README.md) - Daily cat facts! 🐱
+- [CORE](./pages/core/README.md) - CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories
+- [Google Classroom API](./pages/google-classroom-api/README.md) - Provision and manage your Classroom courses
+- [Harvard Art Museums](./pages/harvard-art-museums/README.md) - The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects
+- [Liveedu](./pages/liveedu/README.md) - Live Coding Streaming
+- [Numbers Api](./pages/numbers-api/README.md) - Numbers
+- [Rijksmuseum](./pages/rijksmuseum/README.md) - The Rijksmuseum links individuals with art and history
+- [Universities List](./pages/universities-list/README.md) - List of universities and their domain names
+- [University of Oslo](./pages/university-of-oslo/README.md) - University of Oslo
+
+### Email & SMS 📨
+- [Africa&#x27;s Talking](./pages/africas-talking/README.md) - A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications
+- [Antideo](./pages/antideo/README.md) - API for IP and Email Intelligence &amp; Phone Number Validation
+- [Autopilot](./pages/autopilot/README.md) - The Autopilot API documentation, examples and blog for Autopilot REST API
+- [AWS SES](./pages/aws-ses/README.md) - AWS Simple Email Service API enables sending transactional and marketing emails at scale with high deliverability 🆓
+- [AWS SNS](./pages/aws-sns/README.md) - AWS Simple Notification Service API enables pub/sub messaging, mobile push notifications, and SMS delivery 🆓
+- [ClickMeter](./pages/clickmeter/README.md) - ClickMeter API RESTful services
+- [Cloudmersive Validate](./pages/cloudmersive-validate/README.md) - Data Validation APIs
+- [Gmail API](./pages/gmail-api/README.md) - The Gmail API: modern, fast, RESTful
+- [Hunter.io](./pages/hunter-io/README.md) - Hunter 🆓
+- [Image-Charts](./pages/image-charts/README.md) - A drop-in-replacement for the deprecated Google Image Charts
+- [iP1sms](./pages/ip1sms/README.md) - Here you will find everything you need to get started with your integration of oyur SMS services
+- [Lob.com](./pages/lob-com/README.md) - Lob provides direct mail and address verification APIs that allow businesses to send timely, personalized, automated offline communications to their customers
+- [mailboxlayer](./pages/mailboxlayer/README.md) - Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering
+- [Mailchimp](./pages/mailchimp/README.md) - Mailchimp&#x27;s Marketing API manages email campaigns, audiences, automations, and reports 🆓
+- [MailGun](./pages/mailgun/README.md) - Learn more today
+- [Mailjet](./pages/mailjet/README.md) - Reliable and scalable email delivery platform with SMTP and API
+- [MessageBird](./pages/messagebird/README.md) - MessageBird&#x27;s API provides SMS, voice, WhatsApp, email, and live chat communications 🆓
+- [Microsoft Graph](./pages/microsoft-graph/README.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
+- [Nexmo](./pages/nexmo/README.md) - Make and receive phone calls, send and receive SMS worldwide
+- [Nylas Email Api](./pages/nylas-email-api/README.md) - Email API to integrate 100% of Email Services Providers directly into your app
+- [Phone Number Validation](./pages/phone-number-validation/README.md) - Check phone number validity, location and timezones
+- [Postmark](./pages/postmark/README.md) - No bulk
+- [Resend](./pages/resend/README.md) - Resend is an email API built for developers 🆓
+- [Sakari](./pages/sakari/README.md) - Integrates with 1000+ applications with no code
+- [SendGrid](./pages/sendgrid/README.md) - SendGrid&#x27;s Email API enables sending transactional and marketing emails at scale 🆓
+- [Sms And Phone Calls Api - 46elks](./pages/sms-and-phone-calls-api-46elks/README.md) - Integrate SMS, MMS and Phone calls into your applications with just a few lines of code
+- [SparkPost](./pages/sparkpost/README.md) - SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails
+- [Telnyx](./pages/telnyx/README.md) - Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, purpose-built global communications network
+- [The SMS Works](./pages/the-sms-works/README.md) - The SMS Works provides a low-cost, reliable SMS API for developers
+- [Twilio](./pages/twilio/README.md) - APIs for SMS, Voice, Video and more
+- [Vonage (Nexmo)](./pages/vonage/README.md) - Vonage&#x27;s Communications APIs provide SMS, voice calls, video, WhatsApp, and verification services 🆓
+
+### Entertainment 🍿
+- [Age of Empires II](./pages/age-of-empires-ii/README.md) - Simple API to retrieve resources related to Age of Empires II
+- [AmiiboAPI](./pages/amiiboapi/README.md) - The Amiibo RESTful API
+- [AnimeNewsNetwork](./pages/animenewsnetwork/README.md) - ANN provides a direct feed to the Encyclopedia data in XML format
+- [Api Meme](./pages/api-meme/README.md) - Generate memes with a simple link
+- [AudD](./pages/audd/README.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
+- [Braille Api](./pages/braille-api/README.md) - It is traditionally written with embossed paper
+- [Breaking Bad &amp; Better Call Saul API](./pages/breaking-bad-and-better-call-saul-api/README.md) - Get data about characters, episodes, quotes, and deaths
+- [Cat Facts](./pages/cat-facts/README.md) - Daily cat facts! 🐱
+- [CheapShark](./pages/cheapshark/README.md) - CheapShark is a price comparison website for digital PC Games
+- [Clash of Clans](./pages/clash-of-clans/README.md) - Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and Leagues
+- [Clash Royale](./pages/clash-royale/README.md) - API that provides informations about Clash Royale game
+- [Comic Vine](./pages/comic-vine/README.md) - An extremely mature, well organized and continuely updated resource of comic information
+- [Comichron Data](./pages/comichron-data/README.md) - com - comichron-data/api
+- [Dailymotion](./pages/dailymotion/README.md) - Build applications centered around DailyMotion
+- [Deck of Cards](./pages/deck-of-cards/README.md) - Deck of Cards - an API for playing cards
+- [Destiny The Game](./pages/destiny-the-game/README.md) - These endpoints constitute the functionality exposed by Bungie
+- [Dungeons and Dragons](./pages/dungeons-and-dragons/README.md) - D&amp;D 5th Edition SRD API. D&amp;D 5th Edition SRD API
+- [Eve Online](./pages/eve-online/README.md) - An OpenAPI for EVE Online
+- [Final Fantasy XIV](./pages/final-fantasy-xiv/README.md) - A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, linkshells, lodestone, markets &amp; maps
+- [Final Space API](./pages/final-space-api/README.md) - The Final Space API is a RESTful API based on the television show Final Space
+- [FreeToGame](./pages/freetogame/README.md) - Free-to-play games database API
+- [GamerPower](./pages/gamerpower/README.md) - The GamerPower API (Aka Game Giveaway Tracker API)
+- [Giant Bomb](./pages/giant-bomb/README.md) - The largest video game database online
+- [Guild Wars 2](./pages/guild-wars-2/README.md) - The current version of the API
+- [Halo](./pages/halo/README.md) - Halo Public API
+- [Harry Potter](./pages/harry-potter/README.md) - Harry Potter API 🆓
+- [Hypixel](./pages/hypixel/README.md) - Hypixel API
+- [IGDB.com](./pages/igdb-com/README.md) - Video Game database on demand
+- [Jikan](./pages/jikan/README.md) - Jikan is an unofficial MyAnimeList REST based API
+- [Jokes](./pages/jokes/README.md) - Full featured Jokes API
+- [Kitsu](./pages/kitsu/README.md) - Kitsu is a modern anime discovery platform that helps you track the anime you&#x27;re watching, discover new anime and socialize with other fans
+- [Liveedu](./pages/liveedu/README.md) - Live Coding Streaming
+- [Lord of the Rings API](./pages/lord-of-the-rings-api/README.md) - Get data about the books, the movie trilogy, many characters and quotes
+- [Magic The Gathering](./pages/magic-the-gathering/README.md) - The MTG API allows developers to easily consume MTG card and set data in JSON format
+- [Marvel](./pages/marvel/README.md) - The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&amp;#039;s systems
+- [mod.io](./pages/mod-io/README.md) - Cross-platform mod support
+- [My Anime List API](./pages/my-anime-list-api/README.md) - Jikan is an unofficial MyAnimeList REST based API
+- [Netflix Roulette](./pages/netflix-roulette/README.md) - Wondering what to watch
+- [OMDB](./pages/omdb/README.md) - The Open Movie Database
+- [Open Movie Database](./pages/open-movie-database/README.md) - Attention Users 04/08/19 - Added support for eight digit IMDb IDs
+- [PandaScore](./pages/pandascore/README.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more
+- [PlayerUnknown&#x27;s Battlegrounds](./pages/playerunknowns-battlegrounds/README.md) - Start building your own website today using official PUBG data
+- [Pokéapi](./pages/pokeapi/README.md) - This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series
+- [Pokémon TCG](./pages/pokemon-tcg/README.md) - The Pokémon TCG API allows developers to easily consume Pokémon card and set data in JSON format
+- [RAWG](./pages/rawg/README.md) - IO ♛ Keep all games in one profile ✔ See what friends are playing, and find your next great game
+- [Redtube Api](./pages/redtube-api/README.md) - The Redtube API
+- [Rick and Morty](./pages/rick-and-morty/README.md) - The Rick and Morty API is a REST and GraphQL API based on the television show Rick and Morty
+- [Riot Games](./pages/riot-games/README.md) - Provide the League of Legends developer community with access to game data in a secure and reliable way
+- [Ron Swanson Quotes](./pages/ron-swanson-quotes/README.md) - Node
+- [Scryfall](./pages/scryfall/README.md) - Scryfall is a powerful Magic: The Gathering card search
+- [Star Wars API (SWAPI)](./pages/star-wars-api-swapi/README.md) - A Remake of the original api, using the MERN stack
+- [Starwars Translations Api](./pages/starwars-translations-api/README.md) - Translate from imperial language ( English that is ) to one of the Starwars language
+- [Steam Web API](./pages/steam/README.md) - Steam WEB API created to provide programmatic access to Steam data and services
+- [Studio Ghibli](./pages/studio-ghibli/README.md) - Resources from Studio Ghibli films
+- [SuperHeroes](./pages/superheroes/README.md) - From both the universe, and more
+- [TMDb](./pages/tmdb/README.md) - TMDb provides powerful searches as well as powerful movie discovery
+- [Trakt](./pages/trakt/README.md) - Trakt collect lots of information about what tv shows and movies everyone is watching
+- [TuneFind](./pages/tunefind/README.md) - Since 2005 Tunefind has been the leading site dedicated to tracking the music featured in TV shows and movies
+- [TVmaze](./pages/tvmaze/README.md) - Add schedules, show, episode, cast information
+- [Utelly](./pages/utelly/README.md) - Check where a tv show or movie is available
+- [Vimeo](./pages/vimeo/README.md) - Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate
+- [Wargaming.net](./pages/wargaming-net/README.md) - Wargaming Games API. Stats, Matches, Data
+- [xkcd](./pages/xkcd/README.md) - xkcd API
+
+### Environment & Nature 🌲
+- [AirVisual](./pages/airvisual/README.md) - Enhance your projects with free trusted historical, real-time and forecast air quality data
+- [eBird](./pages/ebird/README.md) - eBird&#x27;s API from Cornell Lab provides bird observation data including recent sightings, rare birds, checklists, and hotspot information submitted by birders worldwide 🆓
+- [EPA](./pages/epa/README.md) - United States Environmental Protection Agency API 🆓
+- [GBIF](./pages/gbif/README.md) - Free and open access to biodiversity data
+- [GrünstromIndex](./pages/grunstromindex/README.md) - The green electricity index shows when a lot of renewable electricity is in the grid and can be used in the household
+- [iDigBio](./pages/idigbio/README.md) - Making data and images of millions of biological specimens available on the web
+- [iNaturalist](./pages/inaturalist/README.md) - iNaturalist&#x27;s API provides access to biodiversity observations, species identifications, taxa, and geographic data contributed by naturalists worldwide 🆓
+- [IUCN](./pages/iucn/README.md) - List of more than 35,500 species that are threatened with extinction
+- [Open Charge Map](./pages/open-charge-map/README.md) - Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world
+- [OpenAQ](./pages/openaq/README.md) - Loading
+- [OpenWeatherMap](./pages/openweathermap/README.md) - Simple and fast and free weather API from OpenWeatherMap
+- [Pm2.5.In](./pages/pm2-5-in/README.md) - Air quality of China
+- [PVWatts](./pages/pvwatts/README.md) - system_capacit
+- [Reliefweb](./pages/reliefweb/README.md) - ReliefWeb API to get the latest updates when a disaster happens
+- [Skywatch](./pages/skywatch/README.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
+- [Teleport](./pages/teleport/README.md) - Welcome to Teleport for Developers
+- [Trash Nothing](./pages/trash-nothing/README.md) - Developer API trash nothing
+- [Trefle](./pages/trefle/README.md) - Trefle is a botanical API and data source
+- [UK Carbon Intensity](./pages/uk-carbon-intensity/README.md) - This is the Official Carbon Intensity API for Great Britain developed by National Grid
+- [USGS Earthquake Hazards](./pages/usgs-earthquakes/README.md) - USGS Earthquake Hazards API provides real-time and historical earthquake data including magnitude, location, depth, and ShakeMap intensity 🆓
+- [USGS Earthquake Hazards Program](./pages/usgs-earthquake-hazards-program/README.md) - USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards
+- [USGS Water Services](./pages/usgs-water-services/README.md) - Home page for water resources information from the US Geological Survey
+
+### Events 🏟️
+- [24 Pull Requests](./pages/24-pull-requests/README.md) - 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
+- [Bandsintown](./pages/bandsintown/README.md) - The Bandsintown API is designed for artists and enterprises representing artists
+- [EventBrite](./pages/eventbrite/README.md) - Eventbrite Python SDK
+- [Eventful API](./pages/eventful-api/README.md) - Eventful is a leading digital media company connecting consumers with entertainment, movies and local events
+- [Meetup.com](./pages/meetup-com/README.md) - Find groups that host online or in person events and meet people in your local community who share your interests
+- [Picatic](./pages/picatic/README.md) - Sell tickets directly from your app or website
+- [Songkick](./pages/songkick/README.md) - Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts
+- [Ticketmaster](./pages/ticketmaster/README.md) - Everything you need to start playing with the Ticketmaster API
+
+### Files & Storage 💾
+- [Amazon S3 API](./pages/amazon-s3-api/README.md) - Amazon Simple Storage Service (Amazon S3) is storage for the internet
+- [Box](./pages/box/README.md) - Explore the Box APIs and SDKs to use for app development,
+- [Cloudinary](./pages/cloudinary/README.md) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs
+- [DeviantArt](./pages/deviantart/README.md) - The largest social networking website for artists and art enthusiasts
+- [DigitalOcean Spaces](./pages/digitalocean-spaces/README.md) - The simplest way to cost effectively store, serve, backup, and archive a virtually infinite amount of media, content, images, and static files for your apps
+- [Dropbox](./pages/dropbox/README.md) - API for accessing stored files and pictures which is easy to use and free for small amounts of data
+- [Filestack](./pages/filestack/README.md) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget
+- [GitHub Gists](./pages/github-gists/README.md) - For more information
+- [Metadefnder Cloud API](./pages/metadefnder-cloud-api/README.md) - Metadefender Cloud provides unique set of APIs for everyone who is working with files post by users
+- [Microsoft Graph](./pages/microsoft-graph/README.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
+- [OneDrive](./pages/onedrive/README.md) - File storage &amp; sharing
+- [Open Science Framework](./pages/open-science-framework/README.md) - OSF is a free, open platform to support your research and enable collaboration
+- [Pastebin](./pages/pastebin/README.md) - Pastebin is a website where you can store text online for a set period of time
+- [Pexels](./pages/pexels/README.md) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
+- [Temporal](./pages/temporal/README.md) - IPFS API
+- [Verizon Cloud](./pages/verizon-cloud/README.md) - API for accessing stored pictures and other files stored by users of Verizon Cloud app
+- [Wetransfer](./pages/wetransfer/README.md) - Put us in unexpected places, challenge the traditional creative flow, think big, go wild
+
+### Finance & Economics 🏦
+- [1Forge.com](./pages/1forge-com/README.md) - Real-time forex and crypto quotes via JSON and WebSocket
+- [Afex](./pages/afex/README.md) - Send payments to recipients all over the world 24/7 with secure and flexible online platform
+- [Alpaca Trading](./pages/alpaca-trading/README.md) - Alpaca&#x27;s Trading API provides commission-free stock and crypto trading, market data, and portfolio management 🆓
+- [Barchart OnDemand](./pages/barchart-ondemand/README.md) - Free Market Data APIs for Stock, futures and forex quotes, and historical data
+- [Brex](./pages/brex/README.md) - Brex&#x27;s API provides access to corporate card transactions, expenses, budgets, vendors, and reimbursements
+- [Bunq Api](./pages/bunq-api/README.md) - Open RESTful bank API that lets you work with bank cards, accounts, payments, transactions, attachments, and more
+- [Bybit](./pages/bybit/README.md) - Bybit&#x27;s API provides spot, derivatives, and options trading, market data, and account management for one of the largest crypto derivatives exchanges globally 🆓
+- [Consumer Financial Protection Bureau](./pages/consumer-financial-protection-bureau/README.md) - Financial services consumer complaint data
+- [CurrencyAPI](./pages/currencyapi/README.md) - CurrencyAPI provides real-time and historical foreign exchange rates for 170+ currencies 🆓
+- [CurrencyLayer.com](./pages/currencylayer-com/README.md) - Currencylayer provides a simple REST API with real-time and historical exchange rates for 168 world currencies, delivering currency pairs in universally usable JSON format
+- [CurrencyScoop.com](./pages/currencyscoop-com/README.md) - Real-time and historical currency rates JSON API
+- [Currencystack](./pages/currencystack/README.md) - Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment
+- [Czech National Bank](./pages/czech-national-bank/README.md) - A collection of exchange rates
+- [ExchangeRate-API.com](./pages/exchangerate-api-com/README.md) - Accurate &amp; reliable Exchange Rates API trusted by tens of thousands of developers since 2010 🆓
+- [ExchangeRatesAPI.io](./pages/exchangeratesapi-io/README.md) - Exchange rates API is a free service for current and historical foreign exchange rates published by the European Central Bank
+- [Financial Modeling Prep](./pages/financial-modeling-prep/README.md) - Access all stocks discounted cash flow statements, market price, stock markets news, and learn more about Financial Modeling
+- [Finnhub](./pages/finnhub/README.md) - Finnhub&#x27;s API provides real-time stock prices, company fundamentals, earnings estimates, news sentiment, and alternative data for 60+ global exchanges and crypto markets 🆓
+- [Fixer.io](./pages/fixer-io/README.md) - The API tracks rates published daily by the European Central Bank
+- [Frankfurter.app](./pages/frankfurter-app/README.md) - Frankfurter currency data API
+- [GoCardless Bank Account Data (Nordigen)](./pages/nordigen/README.md) - GoCardless Bank Account Data API (formerly Nordigen) provides free open banking access to transaction data and account information from 2,500+ European banks via PSD2 🆓
+- [IEX Cloud](./pages/iex-cloud/README.md) - IEX Cloud is a financial data infrastructure platform that connects developers and financial data creators
+- [IEX Trading](./pages/iex/README.md) - Free Stocks and Market Data
+- [Kraken](./pages/kraken-api/README.md) - Kraken&#x27;s REST and WebSocket APIs provide cryptocurrency trading, market data, order management, and account information 🆓
+- [KuCoin](./pages/kucoin-api/README.md) - KuCoin&#x27;s API supports spot, margin, and futures trading with market data, order management, and account endpoints 🆓
+- [Louis Dorrad](./pages/louis-dorrad/README.md) - Google’s product is quite similar to Amazon’s but it’s actually
+- [Music Machinery](./pages/music-machinery/README.md) - Here’s a categorized list of all the Music APIs
+- [NewStack](./pages/newstack/README.md) - Vendors offer a variety of methods and capabilities that allow devices to talk to each other and cloud/Web-based services
+- [OKX](./pages/okx-api/README.md) - OKX&#x27;s API provides spot, futures, options, and DeFi trading with real-time market data and account management 🆓
+- [OpenCorporates](./pages/opencorporates/README.md) - World&#x27;s largest open database of companies
+- [OpenRates.io](./pages/openrates-io/README.md) - Free live exchange rates and currency conversion API for developers 🆓
+- [PayPal](./pages/paypal/README.md) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials
+- [Plaid](./pages/plaid/README.md) - Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services
+- [Polygon.io](./pages/polygon-io/README.md) - Polygon 🆓
+- [Portfolio Optimizer](./pages/portfolio-optimizer/README.md) - API for investment portfolio optimization
+- [Quandl](./pages/quandl/README.md) - The source for financial, economic, and alternative datasets, serving investment professionals
+- [ratesapi.io](./pages/ratesapi-io/README.md) - Free currency exchange rates and currency conversion 🆓
+- [Razorpay IFSC](./pages/razorpay-ifsc/README.md) - An API to query IFSC codes
+- [Ripple XRP Ledger](./pages/ripple-xrp/README.md) - The XRP Ledger&#x27;s rippled API provides access to accounts, transactions, order books, and payment channels on the XRP Ledger 🆓
+- [Routingnumbers.Info](./pages/routingnumbers-info/README.md) - API for ACH/NACHA Bank Routing Numbers
+- [Russian Central Bank](./pages/russian-federation/README.md) - Central bank of Russian Federation
+- [Stellar](./pages/stellar/README.md) - Stellar&#x27;s Horizon API provides access to accounts, transactions, payments, offers, and assets on the Stellar blockchain network 🆓
+- [Stock News API](./pages/stock-news-api/README.md) - Get the latest stock news from the best news sources
+- [Stripe](./pages/stripe/README.md) - Stripe&#x27;s API
+- [Tink (Visa)](./pages/tink/README.md) - Tink&#x27;s Open Banking API provides bank account data, payment initiation, and income verification across 3,500+ European banks
+- [Tradier](./pages/tradier/README.md) - Set of fully hosted APIs, modules and &#x27;out of the box&#x27; tools built to serve developers, providers and investors
+- [VATComply.com](./pages/vatcomply-com/README.md) - VAT Number Validation API, Geolocation API, Exchange rates API
+- [vatlayer](./pages/vatlayer/README.md) - Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers &amp; businesses
+- [Wise (TransferWise)](./pages/wise-transferwise/README.md) - Wise&#x27;s API enables international money transfers, multi-currency accounts, balance management, and payment automation
+- [World Bank](./pages/world-bank/README.md) - World Bank APIs
+- [World Trading Data](./pages/world-trading-data/README.md) - World Trading Data is a worldwide market data provider, for example provide a stock name and dates and get trading data for those
+- [YNAB](./pages/ynab/README.md) - You Need A Budget API 🆓
+- [You Need A Budget](./pages/you-need-a-budget/README.md) - Introduction Hello Developers Welcome to the YNAB API
+
+### Food & Drinks 🍹
+- [Chomp - Food Nutrition Database Api](./pages/chomp-food-nutrition-database-api/README.md) - A powerful API that provides detailed data on over 500,000 products such as nutrition labels, barcodes, ingredients, allergens, and more
+- [Edamam nutrition &amp; recipes](./pages/edamam-nutrition/README.md) - API for Nutrition Analysis, Food Database Lookup, Recipe Search and other
+- [FoodData Central](./pages/food-data-central/README.md) - USDA FoodData Central API provides detailed nutritional information for branded foods, standard references, and experimental data 🆓
+- [Foodish](./pages/foodish/README.md) - - surhud004/Foodish
+- [LCBO](./pages/lcbo/README.md) - LCBO API is open source now, find it on GitHub: heycarsten/lcbo-api 🆓
+- [Nutritionix](./pages/nutritionix/README.md) - Add robust nutrition tracking capability to any health app
+- [Open Brewery DB](./pages/open-brewery-db/README.md) - The goal of Open Brewery DB is to maintain an open-source, community-driven database on breweries, cideries, brewpubs, and bottleshops 🆓
+- [Open Food Facts](./pages/open-food-facts/README.md) - Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels 🆓
+- [openFDA](./pages/openfda/README.md) - openFDA is an Elasticsearch-based API that serves public FDA data about nouns like drugs, devices, and foods
+- [Order Pizza Api](./pages/order-pizza-api/README.md) - A RESTful API as pizza restaurant ordering system
+- [PunkAPI](./pages/punkapi/README.md) - Brewdog&#x27;s DIY Dog as a searchable, filterable API
+- [Recipe Puppy](./pages/recipe-puppy/README.md) - Recipe Puppy API lets you search through recipe puppy database of over a million recipes by keyword and/or by search query
+- [Spoonacular Food API](./pages/spoonacular-food-api/README.md) - The only Food API you&#x27;ll ever need
+- [TacoFancy API](./pages/tacofancy/README.md) - API for community-driven, object-oriented taco recipe repo - https://github 🆓
+- [The Meal Db](./pages/the-meal-db/README.md) - This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more
+- [The Report of the Week](./pages/the-report-of-the-week/README.md) - API of The Report Of The Week Reviews
+- [TheCocktailDB](./pages/thecocktaildb/README.md) - An open, crowd-sourced database of drinks and cocktails from around the world
+- [Untappd](./pages/untappd/README.md) - Access the Untappd API documentation to power your app or project
+- [US Restaurant Menus](./pages/us-restaurant-menus/README.md) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
+- [USDA Nutrients](./pages/usda-nutrients/README.md) - FoodData Central is an integrated data system that provides expanded nutrient profile data and links to related agricultural and experimental research
+- [Wegmans](./pages/wegmans/README.md) - APIs for products and store information
+- [What&#x27;s on the menu?](./pages/whats-on-the-menu/README.md) - Historical menu data 🆓
+- [Whisky Hunter](./pages/whisky-hunter/README.md) - Explore lots from the past online whisky auctions 🆓
+- [Xyz Menus](./pages/xyz-menus/README.md) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
+- [Yelp Fusion API](./pages/yelp-fusion/README.md) - Yelp Fusion API provides business search, reviews, photos, and events data from Yelp&#x27;s local business directory 🆓
+- [Yummly](./pages/yummly/README.md) - Find food recipes
+- [Zestful Data](./pages/zestful-data/README.md) - The Zestful&#x27;s ingredient parser API turns plain recipe strings into beautiful, structured data
+- [Zomato](./pages/zomato/README.md) - Zomato API
+
+### Forms & Surveys 📝
+- [Autopilot](./pages/autopilot/README.md) - The Autopilot API documentation, examples and blog for Autopilot REST API
+- [Clust](./pages/clust/README.md) - The best way to gather anyone’s documents, directly from your app &amp; without hassle
+- [Form-Api](./pages/form-api/README.md) - Build forms easily, autocomplete and validate data
+- [Formstack](./pages/formstack/README.md) - The Formstack API allows users and 3rd-party applications to access Formstack resources programmatically
+- [Gender API](./pages/gender-api/README.md) - Keep your registration forms simple
+- [Typeform](./pages/typeform/README.md) - Typeform&#x27;s APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand
+
+### Fun 🤪
+- [Advice Slip](./pages/advice-slip/README.md) - Parameters callback string To define your own callback function name and return the
+- [Api Meme](./pages/api-meme/README.md) - Generate memes with a simple link
+- [Cat as a Service (CATAAS)](./pages/cat-as-a-service-cataas/README.md) - Cat as a service (CATAAS) is a REST API to spread peace and love (or not) thanks to cats
+- [Cat Facts](./pages/cat-facts/README.md) - Daily cat facts! 🐱
+- [Chuck Norris Database](./pages/chuck-norris-database/README.md) - API for online Chuck Norris jokes database
+- [ChuckNorris.io](./pages/chucknorris-io/README.md) - Read more Chuck Norris facts are satirical factoids about martial artist and actor Chuck Norris that have become an Internet p
+- [FavQs](./pages/favqs/README.md) - FavQs allows you to collect, discover, and share your favorite quotes
+- [FOAAS](./pages/foaas/README.md) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off
+- [Forismatic](./pages/forismatic/README.md) - Gives you a random quote per click.
+- [Fun Translations API](./pages/fun-translations-api/README.md) - World&#x27;s best fun translation tools via REST API
+- [Gfycat](./pages/gfycat/README.md) - Gfycat’s API - collection of GIFs
+- [Giphy](./pages/giphy/README.md) - Worlds largest library of GIFs
+- [icanhazdadjoke](./pages/icanhazdadjoke/README.md) - The largest collection of dad jokes on the internet
+- [Imgflip](./pages/imgflip/README.md) - Get 100 of memes with Imgflip API, or add text/caption to memes directly from this awesome API
+- [JokeAPI](./pages/jokeapi/README.md) - JokeAPI is a RESTful API that serves jokes from many categories while also offering a lot of filtering methods
+- [Jokes](./pages/jokes/README.md) - Full featured Jokes API
+- [Numbers](./pages/numbers/README.md) - An API for interesting facts about numbers
+- [PlaceGoat](./pages/placegoat/README.md) - PlaceGOAT placeholder service.
+- [Quotes Api](./pages/quotes-api/README.md) - They Said So. Quotes API with lot of features
+- [Random Facts](./pages/random-facts/README.md) - Random Facts API
+- [Random Facts Api](./pages/random-facts-api/README.md) - Get random Facts on different topics
+- [RandomDog](./pages/randomdog/README.md) - Random dog image API
+- [Ron Swanson Quotes](./pages/ron-swanson-quotes/README.md) - Node
+- [SHOUTCLOUD](./pages/shoutcloud/README.md) - ALL CAPS AS A SERVICE
+- [Superhero Api](./pages/superhero-api/README.md) - Biography
+- [TacoFancy API](./pages/tacofancy/README.md) - API for community-driven, object-oriented taco recipe repo - https://github 🆓
+- [The Cat Api](./pages/the-cat-api/README.md) - A public service API all about cat pictures
+- [The Dog Api](./pages/the-dog-api/README.md) - An API all about dogs
+- [They Said So](./pages/they-said-so/README.md) - They Said So Quotes API offers a complete feature rich REST API access to its quotes platform
+- [Tronald Dump](./pages/tronald-dump/README.md) - Tronald Dump Api &amp; web archive for the dumbest things Donald Trump has ever said
+- [xkcd](./pages/xkcd/README.md) - xkcd API
+
+### Games 🎮
+- [AmiiboAPI](./pages/amiiboapi/README.md) - The Amiibo RESTful API
+- [Battle.Net](./pages/battle-net/README.md) - Blizzard Entertainment
+- [Battlefield 4](./pages/battlefield-4/README.md) - Battlefield 4 Information
+- [CheapShark](./pages/cheapshark/README.md) - CheapShark is a price comparison website for digital PC Games
+- [Clash of Clans](./pages/clash-of-clans/README.md) - Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and Leagues
+- [Clash Royale](./pages/clash-royale/README.md) - API that provides informations about Clash Royale game
+- [Deck of Cards](./pages/deck-of-cards/README.md) - Deck of Cards - an API for playing cards
+- [Destiny The Game](./pages/destiny-the-game/README.md) - These endpoints constitute the functionality exposed by Bungie
+- [Discord](./pages/discord/README.md) - Integrate your service with Discord — whether it&#x27;s a bot or a game or whatever your wildest imagination can come up with
+- [Dota 2](./pages/dota-2/README.md) - The OpenDota API provides Dota 2 related data including advanced match data extracted from match replays
+- [Eve Online](./pages/eve-online/README.md) - An OpenAPI for EVE Online
+- [Fortnite Api](./pages/fortnite-api/README.md) - A fortnite tracker api that returns data about and account
+- [GamerPower](./pages/gamerpower/README.md) - The GamerPower API (Aka Game Giveaway Tracker API)
+- [Giant Bomb](./pages/giant-bomb/README.md) - The largest video game database online
+- [Globalstats.Io](./pages/globalstats-io/README.md) - Enrich your games&#x27; experience by adding a global highscore for your games
+- [Graphql360](./pages/graphql360/README.md) - Create and consume 360 degree panoramic tours using a GraphQL API
+- [Guild Wars 2](./pages/guild-wars-2/README.md) - The current version of the API
+- [Halo](./pages/halo/README.md) - Halo Public API
+- [Hearthstone](./pages/hearthstone/README.md) - This Hearthstone API provides up to date Hearthstone data pulled directly from the game
+- [Hytale](./pages/hytale/README.md) - Official Hytale API
+- [IGDB.com](./pages/igdb-com/README.md) - Video Game database on demand
+- [Jservice](./pages/jservice/README.md) - Trivia Questions
+- [Lolwallpapers Api](./pages/lolwallpapers-api/README.md) - League of Legends Wallpapers website official API
+- [Magic The Gathering](./pages/magic-the-gathering/README.md) - The MTG API allows developers to easily consume MTG card and set data in JSON format
+- [Newseum NewsMania](./pages/newseum-newsmania/README.md) - Gives you access to 1000s of Trivia questions
+- [Open Trivia](./pages/open-trivia/README.md) - Free to use, user-contributed trivia questions!
+- [PandaScore](./pages/pandascore/README.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more
+- [PlayerUnknown&#x27;s Battlegrounds](./pages/playerunknowns-battlegrounds/README.md) - Start building your own website today using official PUBG data
+- [Pokéapi](./pages/pokeapi/README.md) - This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series
+- [Pokémon TCG](./pages/pokemon-tcg/README.md) - The Pokémon TCG API allows developers to easily consume Pokémon card and set data in JSON format
+- [Riot Games](./pages/riot-games/README.md) - Provide the League of Legends developer community with access to game data in a secure and reliable way
+- [Scryfall](./pages/scryfall/README.md) - Scryfall is a powerful Magic: The Gathering card search
+- [Steam Web API](./pages/steam/README.md) - Steam WEB API created to provide programmatic access to Steam data and services
+- [Trivia Api](./pages/trivia-api/README.md) - 100k+ trivia entries available via REST API
+- [Vainglory](./pages/vainglory/README.md) - Vainglory Players, Matches and Telemetry
+- [Wargaming.net](./pages/wargaming-net/README.md) - Wargaming Games API. Stats, Matches, Data
+
+### Government 🏛️
+- [18F](./pages/18f/README.md) - The /Developer Program, a service of GSA’s 18F team, seeks to provide comprehensive support for any federal agency engaged in the production or use of APIs
+- [Aadhaar Bridge](./pages/aadhaar-bridge/README.md) - Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India
+- [Australia](./pages/australia/README.md) - Central bank of Australia
+- [BCLaws](./pages/bclaws/README.md) - CiviX Server is an electronic library providing free public access to law and bylaw content of British Columbia
+- [BusinessUSA](./pages/businessusa/README.md) - Software developers and researchers can use these APIs and data feeds to help people find useful government information
+- [Canada](./pages/canada/README.md) - Central bank of Canada
+- [Census.gov](./pages/census-gov/README.md) - Access demographic, economic and population data from the U
+- [Central bank of New Zealand](./pages/new-zealand/README.md) - Central bank of New Zealand
+- [City, Lyon Opendata](./pages/city-lyon-opendata/README.md) - Les données des acteurs du territoire de la Métropole de Lyon
+- [City, Nantes Opendata](./pages/city-nantes-opendata/README.md) - Open public data (Open data) made available by the City of Nantes and Nantes Métropole
+- [City, New York Opendata](./pages/city-new-york-opendata/README.md) - NYC Open Data helps New Yorkers use and learn about City data
+- [City, Prague Opendata](./pages/city-prague-opendata/README.md) - Welcome to the city-wide port 🆓
+- [Code.gov](./pages/code-gov/README.md) - America&#x27;s primary platform for aggregating Open Source Software from the federal government
+- [Colorado Data Engine](./pages/colorado-data-engine/README.md) - Formatted and geolocated Colorado public data
+- [Colorado Information Marketplace](./pages/colorado-information-marketplace/README.md) - Dive into Colorado’s water, including wells, surface water conditions, and water rights
+- [Covid-19 Government Response](./pages/covid-19-government-response/README.md) - Oxford COVID-19 Government Response Tracker
+- [Czech Namedays Calendar](./pages/czech-namedays-calendar/README.md) - Czech Holidays API
+- [Data USA](./pages/data-usa/README.md) - public data
+- [Data.gov](./pages/data-gov/README.md) - Our aim is to make it easier for
+- [data.parliament.uk](./pages/data-parliament-uk/README.md) - UK&#x27;s parliament Open Data
+- [District of Columbia Open Data](./pages/district-of-columbia-open-data/README.md) - Goal is for this API is to be your platform for developing apps around DC’s freely available, machine readable data
+- [EPA](./pages/epa/README.md) - United States Environmental Protection Agency API 🆓
+- [EPO](./pages/epo/README.md) - Open Patent Services (OPS) is a web service which provides access to the EPO&#x27;s raw data via a standardised XML interface
+- [FBI Wanted](./pages/fbi-wanted/README.md) - The FBI Wanted API is designed to help developers easily get information on the FBI wanted program
+- [FEC](./pages/fec/README.md) - Information on campaign donations in federal elections
+- [Federal Register](./pages/federal-register/README.md) - SFederal Register 2
+- [Food Standards Agency](./pages/food-standards-agency/README.md) - Find out if a restaurant, takeaway or food shop you want to visit has good food hygiene standards
+- [Foreca Weather Warnings](./pages/foreca-weather-warnings/README.md) - Data feed of the governmental severe weather warnings
+- [Georgia](./pages/georgia/README.md) - Central bank of Georgia
+- [Icelandic APIs](./pages/icelandic-apis/README.md) - The purpose of APIs
+- [Ireland](./pages/ireland/README.md) - Central bank of Ireland
+- [ITA&#x27;s Data Services Platform](./pages/itas-data-services-platform/README.md) - The Data Services Platform from the International Trade Administration (ITA) provides direct access to authoritative information on U 🆓
+- [Moldova](./pages/moldova/README.md) - Central bank of Moldova
+- [Myanmar](./pages/myanmar/README.md) - Central bank of New Myanmar
+- [National Bank of Ukraine](./pages/national-bank-of-ukraine/README.md) - National Bank of Ukraine
+- [NHTSA](./pages/nhtsa/README.md) - Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications
+- [Nigeria](./pages/nigeria/README.md) - The Official Site of The Central Bank of Nigeria.
+- [Open Government, Australia](./pages/open-government-australia/README.md) - Australian Government Open Data
+- [Open Government, Belgium](./pages/open-government-belgium/README.md) - The Belgian Open Data Initiative
+- [Open Government, Canada](./pages/open-government-canada/README.md) - Collaborative open source project led by the Government of Canada
+- [Open Government, France](./pages/open-government-france/README.md) - data. gouv. fr accueil. data
+- [Open Government, India](./pages/open-government-india/README.md) - The requested URL was rejected
+- [Open Government, Italy](./pages/open-government-italy/README.md) - dati
+- [Open Government, New Zealand](./pages/open-government-new-zealand/README.md) - govt
+- [Open Government, Romania](./pages/open-government-romania/README.md) - 2123 SETURI DE DATE 26000 FIȘIERE CORELATE 106 INSTITUȚII 14 GRUPURI 3873 ADRESE DE LEGĂTURĂ EXTERNE
+- [Open Government, Taiwan](./pages/open-government-taiwan/README.md) - Taiwan&#x27;s open data and public service APIs
+- [Open Government, USA](./pages/open-government-usa/README.md) - Government’s open data Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more
+- [openFDA](./pages/openfda/README.md) - openFDA is an Elasticsearch-based API that serves public FDA data about nouns like drugs, devices, and foods
+- [Peru](./pages/peru/README.md) - Central bank of Peru
+- [Poland](./pages/poland/README.md) - Central bank of Poland
+- [Prague Opendata](./pages/prague-opendata/README.md) - Prague City Open Data
+- [Regulations.gov](./pages/regulations-gov/README.md) - More information is available here
+- [Reliefweb](./pages/reliefweb/README.md) - ReliefWeb API to get the latest updates when a disaster happens
+- [Represent by Open North](./pages/represent-by-open-north/README.md) - Find the elected officials and electoral districts for any Canadian address or postal code, at all levels of government
+- [Russian Central Bank](./pages/russian-federation/README.md) - Central bank of Russian Federation
+- [Switzerland](./pages/switzerland/README.md) - Swiss National Bank
+- [Transportation in Philadelphia, USA](./pages/transport-for-philadelphia-us/README.md) - Southeastern Pennsylvania Transportation Authority API 🆓
+- [UK Police](./pages/uk-police/README.md) - Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A
+- [USA Census API&#x27;S](./pages/usa-census-apis/README.md) - These data are currently used to distribute around $400 B in Federal, State and local funds in ways that help communities plan for schools, social and emergency services, highway improvements and economic developments
+- [USAJOBS](./pages/usajobs/README.md) - USAJOBS API
+- [USAspending.gov](./pages/usaspending-gov/README.md) - Announcement The USASpending API is in V2
+- [USPTO](./pages/uspto/README.md) - United States patent and trademark office API
+- [World Bank](./pages/world-bank/README.md) - World Bank APIs
+
+### Hardware ⚙️
+- [Don&#x27;t Kill My App](./pages/dont-kill-my-app/README.md) - Android vendors, don&#x27;t kill my app
+- [DroneDeploy](./pages/dronedeploy/README.md) - Integrate your existing service into DroneDeploy and reach tens of thousands of commercial drone users from over 160 countries and industries like agriculture, construction, mining, surveying, and more
+- [fonoApi](./pages/fonoapi/README.md) - Mobile Device Description Api
+- [Keyserv](./pages/keyserv/README.md) - SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world
+- [MAC address vendor lookup](./pages/mac-address-vendor-lookup/README.md) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research&#x27;s results regarding the given MAC address or the OUI
+- [Philips Hue](./pages/philips-hue/README.md) - Philips Hue, smart home lighting
+
+### Health 💊
+- [COVID-19 Data](./pages/covid-19-data/README.md) - The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases
+- [Covid-19 Government Response](./pages/covid-19-government-response/README.md) - Oxford COVID-19 Government Response Tracker
+- [Diabetes](./pages/diabetes/README.md) - Welcome to the PredictBGL API The PredictBGL API allows you to build the power of PredictBGL&#x27;s diabetes management, coaching and analysis dire
+- [Drchrono Healthcare Api](./pages/drchrono-healthcare-api/README.md) - Electronic medical records, practice management and medical billing API
+- [Edamam nutrition &amp; recipes](./pages/edamam-nutrition/README.md) - API for Nutrition Analysis, Food Database Lookup, Recipe Search and other
+- [FitBit](./pages/fitbit/README.md) - You&#x27;ll fit in here
+- [Flutrack](./pages/flutrack/README.md) - Flutrack is a system that detects in real time influenza symptoms, using Twitter
+- [FoodData Central](./pages/food-data-central/README.md) - USDA FoodData Central API provides detailed nutritional information for branded foods, standard references, and experimental data 🆓
+- [Getguidelines](./pages/getguidelines/README.md) - Get personalized clinical recommendations using parameters such as weight, blood pressure, age, etc
+- [Google Genomics API](./pages/google-genomics-api/README.md) - Beta This product or feature is covered by the Pre-GA Offerings Terms of the Google Cloud Platform Terms of Service
+- [Healthcare.gov](./pages/healthcare-gov/README.md) - HealthCare
+- [Infermedica API](./pages/infermedica-api/README.md) - The most advanced Symptom Checker and Patient Triage API
+- [kanye.rest](./pages/kanye-rest/README.md) - A free REST API for random Kanye West quotes
+- [Lexigram](./pages/lexigram/README.md) - io
+- [Marijuana Strains](./pages/marijuana-strains/README.md) - The Strain API 🆓
+- [Medicare](./pages/medicare/README.md) - gov. Access to the data from the CMS - medicare
+- [NaMoMemes](./pages/namomemes/README.md) - Is a description required
+- [NPPES](./pages/nppes/README.md) - National Plan &amp; Provider Enumeration System, info on healthcare providers registered in US
+- [Nutritionix](./pages/nutritionix/README.md) - Add robust nutrition tracking capability to any health app
+- [openFDA](./pages/openfda/README.md) - openFDA is an Elasticsearch-based API that serves public FDA data about nouns like drugs, devices, and foods
+- [Orion Health](./pages/orion-health/README.md) - Leverage the power of our Open APIs and our FHIR capabilities to enable the best applications to be developed for every healthcare scenario
+- [Programming Quotes](./pages/programming-quotes/README.md) - Programming Quotes API for open source projects
+- [PubMed (NCBI E-utilities)](./pages/pubmed/README.md) - NCBI&#x27;s E-utilities API provides programmatic access to PubMed abstracts, full-text articles, gene sequences, and other biomedical literature from the National Center for Biotechnology Information 🆓
+- [Quotable Quotes](./pages/quotable-quotes/README.md) - Contribute to lukePeavey/quotable development by creating an account on GitHub
+- [Quote Garden](./pages/quote-garden/README.md) - A RESTful API for quotes
+- [taylor.rest](./pages/taylor-rest/README.md) - A Taylor Swift REST API, written in Deno
+- [USDA Nutrients](./pages/usda-nutrients/README.md) - FoodData Central is an integrated data system that provides expanded nutrient profile data and links to related agricultural and experimental research
+- [Withings](./pages/withings/README.md) - Access to data from Withings activity trackers and body measures
+
+### Images & Photography 📸
+- [500px](./pages/500px/README.md) - Viewing feature streams, photo information and comments, as well as user profiles
+- [ApiFlash](./pages/apiflash/README.md) - Chrome based screenshot API to convert URLs to images
+- [Associated Press](./pages/associated-press/README.md) - AP Media API Get all your AP multimedia content in one place Access the content programmatically via the API or use the AP Media Agent to download content automatically
+- [Bannerbear](./pages/bannerbear/README.md) - Bannerbear API auto-generates social media images, banners, and PDFs from templates
+- [Browshot](./pages/browshot/README.md) - Full API to take screenshots of any website.
+- [Clarifai](./pages/clarifai/README.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
+- [Clearbit Logo](./pages/clearbit-logo/README.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
+- [Cloudinary](./pages/cloudinary/README.md) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs
+- [Cloudmersive Document and Data Conversion](./pages/cloudmersive-document-and-data-conversion/README.md) - Document and Data Conversion APIs
+- [Dicebear Avatars](./pages/dicebear-avatars/README.md) - Avatars is an avatar placeholder library for designers and developers
+- [Everypixel](./pages/everypixel/README.md) - Automatic image keywording and categorization API
+- [fal.ai](./pages/fal-ai/README.md) - fal
+- [Filestack](./pages/filestack/README.md) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget
+- [Flickr](./pages/flickr/README.md) - Search through user Flickr content, contacts, upload or replace photos
+- [Getscreenshot By Rasterwise](./pages/getscreenshot-by-rasterwise/README.md) - GetScreenshot is an affordable and highly scalable screenshot API service
+- [Getty Images](./pages/getty-images/README.md) - Page moved here. Page moved here
+- [Gfycat](./pages/gfycat/README.md) - Gfycat’s API - collection of GIFs
+- [Gifs.Com Public API](./pages/gifs-com-public-api/README.md) - com API makes it dead simple to convert and transcode a vast array of media into our HTML5 optimized gifs
+- [Giphy](./pages/giphy/README.md) - Worlds largest library of GIFs
+- [Google Earth Engine](./pages/google-earth-engine/README.md) - Perform geospatial processing powered by Google&#x27;s cloud infrastructure
+- [Gracenote](./pages/gracenote/README.md) - Largest source of music and video metadata on the planet
+- [Graphql360](./pages/graphql360/README.md) - Create and consume 360 degree panoramic tours using a GraphQL API
+- [Gravatar](./pages/gravatar/README.md) - Use the links below to find out more about constructing request URLs, different imp
+- [Gyazo](./pages/gyazo/README.md) - Take screenshots, GIFS, and replays that are ready to share
+- [Iconfinder](./pages/iconfinder/README.md) - The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc
+- [Icons8](./pages/icons8/README.md) - Icons8 offers simple reliable solutions to cope with all sorts of the challenges concerning icons
+- [Imagga Api](./pages/imagga-api/README.md) - identifies the content of images and videos, classify images based on content, extracts colors, moderates NSFW content
+- [imgix](./pages/imgix/README.md) - imgix&#x27;s Image Processing API transforms, optimizes, and delivers images on-the-fly via URL parameters
+- [Imgur](./pages/imgur/README.md) - Imgur: The magic of the Internet
+- [Instagram](./pages/instagram/README.md) - How to use the Instagram Graph API
+- [Kairos](./pages/kairos/README.md) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application
+- [Let&#x27;S Validate](./pages/lets-validate/README.md) - Uncovers the technologies used on websites and URL to thumbnail
+- [Lolwallpapers Api](./pages/lolwallpapers-api/README.md) - League of Legends Wallpapers website official API
+- [Lorem Picsum](./pages/lorem-picsum/README.md) - Lorem Ipsum, but for photos.
+- [LottieFiles](./pages/lottiefiles/README.md) - LottieFiles API provides access to a library of Lottie animations, enables uploading and managing animation files, and converting between animation formats for web and mobile apps 🆓
+- [Noun Project](./pages/noun-project/README.md) - Grab a hold of the World’s Visual Language
+- [Nudity Detection Api](./pages/nudity-detection-api/README.md) - io detects nudity in images and helps to recognise and filter undesired content
+- [Openverse](./pages/openverse/README.md) - Openverse API provides search access to 800M+ openly licensed and public domain images, audio, and other media 🆓
+- [PDFmyURL](./pages/pdfmyurl/README.md) - Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line
+- [Pexels](./pages/pexels/README.md) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
+- [Pinterest](./pages/pinterest/README.md) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles
+- [Pixabay](./pages/pixabay/README.md) - Restful API for searching and retrieving free images and videos
+- [PlaceKitten](./pages/placekitten/README.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
+- [PrexView](./pages/prexview/README.md) - Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
+- [RandomFox](./pages/randomfox/README.md) - Random image of a fox
+- [Replicate](./pages/replicate/README.md) - Replicate lets you run machine learning models via API
+- [Request Kittens](./pages/request-kittens/README.md) - A randomized set of category-specific cat images.
+- [ScreenShotLayer](./pages/screenshotlayer/README.md) - Free for personal use
+- [Screenshotscloud](./pages/screenshotscloud/README.md) - With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service
+- [Shutterstock](./pages/shutterstock/README.md) - Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more
+- [Sketchfab API](./pages/sketchfab-api/README.md) - Manage your 3D assets
+- [Skywatch](./pages/skywatch/README.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
+- [Stability AI](./pages/stability-ai/README.md) - Stability AI&#x27;s API provides access to Stable Diffusion and SDXL models for image generation, editing, and upscaling
+- [SummarizeBot API](./pages/summarizebot-api/README.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
+- [Telegram](./pages/telegram/README.md) - The Bot API allows you to easily create programs that use Telegram
+- [Teleport](./pages/teleport/README.md) - Welcome to Teleport for Developers
+- [TheCocktailDB](./pages/thecocktaildb/README.md) - An open, crowd-sourced database of drinks and cocktails from around the world
+- [TheSportsDB](./pages/thesportsdb/README.md) - Various sports events, results, players, teams and high quality artwork
+- [Thumbnails Cloud](./pages/thumbnails-cloud/README.md) - Cloud API generates JPG and PDF file previews for all common document formats, using a super simple API
+- [Tinypng](./pages/tinypng/README.md) - TinyPNG API will help you compress and reduce the size of your JPEF and PNG files
+- [Unsplash](./pages/unsplash/README.md) - but for photos. Lorem Ipsum. Lorem Ipsum
+- [WebPurify](./pages/webpurify/README.md) - Provides live image moderation by humans or AI-based image moderation service
+- [Yahoo Map Image API](./pages/yahoo-map-image-api/README.md) - Measure, monetize, advertise and improve your apps with Yahoo tools
+
+### IoT & Home Automation 🏠
+- [Ably](./pages/ably/README.md) - API for making cross-protocol realtime communication between devices easy
+- [Cloud Wallet](./pages/cloud-wallet/README.md) - Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide
+- [Cloudpronouncer](./pages/cloudpronouncer/README.md) - Text To Speech API
+- [Google Cloud IoT solutions](./pages/google-cloud-iot-solutions/README.md) - Unlock insights from your global device network with an intelligent IoT platform whose scalable, fully managed integration lets you connect, store, and analyze data at the edge and in the cloud
+- [Houndify](./pages/houndify/README.md) - The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and retain data ownership and customer relationships
+- [Keyserv](./pages/keyserv/README.md) - SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world
+- [Particle](./pages/particle/README.md) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them
+- [Philips Hue](./pages/philips-hue/README.md) - Philips Hue, smart home lighting
+- [PubNub](./pages/pubnub/README.md) - &lt;div class&#x3D;&quot;homepage-wrap&quot;&gt;
+- [Shodan](./pages/shodan/README.md) - Shodan API, the easiest way to access the Shodan search engine on your own terms
+- [SmartThings](./pages/smartthings/README.md) - An open, programmatic interface for controlling smart devices The SmartThings platform has the largest coverage of competitive IoT devices on the market, including Samsung devices and appliances
+- [Temboo SDK](./pages/temboo-sdk/README.md) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform
+- [ThingSpeak](./pages/thingspeak/README.md) - Ppen source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network
+- [Withings](./pages/withings/README.md) - Access to data from Withings activity trackers and body measures
+- [Zetta](./pages/zetta/README.md) - An API-first, open source software platform for the Internet of Things
+
+### Jobs 🛠️
+- [Adzuna](./pages/adzuna/README.md) - Get the very latest ads and data with Adzuna&#x27;s API
+- [Authentic Jobs](./pages/authentic-jobs/README.md) - Since 2005
+- [Careerjet](./pages/careerjet/README.md) - Careerjet public search API
+- [Freelancer](./pages/freelancer/README.md) - Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more
+- [Github Jobs](./pages/github-jobs/README.md) - The GitHub Jobs API allows you to search, and view jobs with JSON over HTTP
+- [GraphQL Jobs](./pages/graphql-jobs/README.md) - GET query missing
+- [Indeed](./pages/indeed/README.md) - Post your jobs on Indeed, the #1 job site worldwide
+- [Jobs2Careers](./pages/jobs2careers/README.md) - %PDF-1
+- [Jooble](./pages/jooble/README.md) - The REST API allows developers to access and integrate Jooble&#x27;s search results within your web products, or to build an entirely new web product of your own 🆓
+- [Juju](./pages/juju/README.md) - Juju
+- [Open Skills](./pages/open-skills/README.md) - Skills API
+- [Product Hunt](./pages/product-hunt/README.md) - The best new products, every day
+- [Reed](./pages/reed/README.md) - Official API for reed.co.uk jobs website
+- [Search.Gov Jobs](./pages/search-gov-jobs/README.md) - gov • Terms of Service • Site Policies • D
+- [The Muse](./pages/the-muse/README.md) - Public API to provide job and company listings.
+- [Traitify](./pages/traitify/README.md) - A diverse set of fun visual assessments used to uncover personality types and traits
+- [Upwork](./pages/upwork/README.md) - Upwork Developers Site offers you access to Upwork&#x27;s web services
+- [USAJOBS](./pages/usajobs/README.md) - USAJOBS API
+- [ZipRecruiter](./pages/ziprecruiter/README.md) - Jobs API
+
+### Maps & Geo 📌
+- [adresse.data.gouv.fr](./pages/adresse-data-gouv-fr/README.md) - The national address site of France
+- [Amazon Maps API v2](./pages/amazon-maps-api-v2/README.md) - Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps
+- [Astronomy](./pages/astronomy/README.md) - Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth and moon distance from the earth from latitude and longitude or an IPv4 or IPv6 address for a given date
+- [Battuta](./pages/battuta/README.md) - Country Region City. Country Region City
+- [Bing Maps](./pages/bing-maps/README.md) - Bing Maps platform provides multiple API options for your application
+- [bng2latlong](./pages/bng2latlong/README.md) - Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
+- [Cartes.io](./pages/cartes-io/README.md) - Allows anyone to create maps and markers for anything
+- [CartoDB](./pages/cartodb/README.md) - Allows you to generate maps based on data hosted in your CartoDB account
+- [CityGrid](./pages/citygrid/README.md) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria
+- [CitySDK](./pages/citysdk/README.md) - CitySDK is a “service development kit” for cities and developers that aims at harmonizing application programming interfaces (APIs) across cities
+- [Clients can be found here.](./pages/clients-can-be-found-here/README.md) - Google Maps has 35 repositories available
+- [CountryAPI](./pages/countryapi/README.md) - A Rest Api of simple country information that you need
+- [D3 Visualization](./pages/d3-visualization/README.md) - D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS
+- [Daum Maps API](./pages/daum-maps-api/README.md) - Kakao 지도 API를 이용해보세요
+- [Elasticpath](./pages/elasticpath/README.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
+- [Factual](./pages/factual/README.md) - Provids a places search that can be searched by latitude/longitude, and “where” using full text search query string
+- [Foursquare API](./pages/foursquare-api/README.md) - Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants
+- [Foursquare Venue](./pages/foursquare-venue/README.md) - Providing a places search that can be searched by hierarchical list of categories, longitude/latitude etc
+- [FreeGeoIP](./pages/freegeoip/README.md) - Free IP Geolocation API with no registration required
+- [French Address Search](./pages/french-address-search/README.md) - Find addresses and localities in France
+- [GeoApi](./pages/geoapi/README.md) - Administrative Breakdown API - (Geo API) is one of the France&#x27;s public service APIs
+- [Geoapify](./pages/geoapify/README.md) - Geoapify provides geocoding, reverse geocoding, routing, isoline, and place search APIs 🆓
+- [Geocod.io](./pages/geocod-io/README.md) - Geocode spreadsheets or use our API - without restrictions 🆓
+- [Geocode.xyz](./pages/geocode-xyz/README.md) - geocode
+- [Geocodify](./pages/geocodify/README.md) - Worldwide geocoding, geoparsing and autocomplete for addresses
+- [GeoDataSource](./pages/geodatasource/README.md) - Location Search Web Service (RESTful API) enable you to find nearest city information based on latitude and longitude provided
+- [GeoJS](./pages/geojs/README.md) - REST/JSON/JSONP GeoIP API
+- [GeoNames](./pages/geonames/README.md) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge
+- [geoPlugin](./pages/geoplugin/README.md) - geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your visitors based on their IP address
+- [Google Drive API](./pages/google-drive-api/README.md) - com/upload/drive/v2/files and PO
+- [Google Earth Engine](./pages/google-earth-engine/README.md) - Perform geospatial processing powered by Google&#x27;s cloud infrastructure
+- [Google Maps API](./pages/google-maps-api/README.md) - Choose Google Maps Platform to create immersive location experiences and make better business decisions with accurate real time data &amp; dynamic imagery
+- [Google Places](./pages/google-places/README.md) - Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding &amp; Place Search APIs
+- [Google Places API](./pages/google-places-api/README.md) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius
+- [GraphHopper](./pages/graphhopper/README.md) - A-to-B routing with turn-by-turn instructions
+- [Graphloc](./pages/graphloc/README.md) - Free GraphQL IP Geolocation API
+- [HelloSalut](./pages/hellosalut/README.md) - Say hello to your website visitors in their native language
+- [HERE Maps API](./pages/here-maps-api/README.md) - Wide range of APIs available through JavaScript, iOS, Android, or REST services
+- [HyperTrack](./pages/hypertrack/README.md) - Build applications that track the movement of your business
+- [IP 2 Country](./pages/ip-2-country/README.md) - JSON API returns the country of an IP address
+- [IP Address Details](./pages/ip-address-details/README.md) - Trusted source for IP address information, handling 20 billion IP geolocation API requests per month for over 1,000 businesses and 100,000+ developers
+- [Ip Geolocation Api](./pages/ip-geolocation-api/README.md) - Free IP Geolocation API and Accurate IP Database provides country, city, zip code, ISP data in REST JSON and XML format from any IPv4 and IPv6 Address
+- [Ip Geolocation Api By Ipwhois.Io](./pages/ip-geolocation-api-by-ipwhois-io/README.md) - Filter out bot traffic, customize content based on visitor&#x27;s location, display full country names, perform bulk IP geolocation, and more
+- [IP Location](./pages/ip-location/README.md) - Free IP Geolocation API - lookup any IP address
+- [IP Sidekick](./pages/ip-sidekick/README.md) - IP Sidekick is an API that returns information about an IP address
+- [IP2Location](./pages/ip2location/README.md) - IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone, Area Code, Mobile Data, Usage Type, Elevation and so on
+- [IP2Proxy](./pages/ip2proxy/README.md) - IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone, Area Code, Mobile Data, Usage Type, Elevation and so on
+- [IPGeolocationAPI.com](./pages/ipgeolocationapi-com/README.md) - IP Geolocation API is a free JSON REST API service for locating your visitors in real-time with detailed country information
+- [IPify](./pages/ipify/README.md) - ipify API is a simple public IP address API, easy enough to integrate into any application in seconds
+- [IPinfo](./pages/ipinfo-io/README.md) - IPinfo&#x27;s API provides accurate IP geolocation, ASN, carrier, privacy detection, and abuse contact data 🆓
+- [IPInfoDB](./pages/ipinfodb/README.md) - Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address
+- [ipstack](./pages/ipstack/README.md) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
+- [LocationIQ](./pages/locationiq/README.md) - Generous free tier, offering Enterprise-grade APIs for everyone
+- [Mapbox](./pages/mapbox/README.md) - Access to MapBox’s API
+- [Mapbox Directions API](./pages/mapbox-directions-api/README.md) - The Mapbox Directions API can calculate optimal driving, walking, and cycling routes, produce turn-by-turn instructions, produce routes with up to 25 coordinates anywhere on earth
+- [Mapbox Geocoding API](./pages/mapbox-geocoding-api/README.md) - The Mapbox Geocoding API does forward geocoding (search place names and return coordinates) and reverse geocoding (search coordinates and return place names)
+- [Mapbox Maps API](./pages/mapbox-maps-api/README.md) - The Mapbox Maps API reads and renders raster map tilesets and vector map tilesets
+- [Mapbox Matrix API](./pages/mapbox-matrix-api/README.md) - The Mapbox Matrix API returns travel times between many points
+- [Mexico](./pages/mexico/README.md) - Contribute to IcaliaLabs/sepomex development by creating an account on GitHub
+- [NASA](./pages/nasa/README.md) - Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more
+- [Nokia](./pages/nokia/README.md) - Use a set of easy-to-use class and method libraries to build interactive B2B and B2C experiences
+- [One Map, Singapore](./pages/one-map-singapore/README.md) - ####. #######. ##. Introduction. ###. ########
+- [OnWater](./pages/onwater/README.md) - An API to determine if a point (latitude and longitude) is on water, sea, lake, river, or land
+- [Open Charge Map](./pages/open-charge-map/README.md) - Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world
+- [Open Street Map](./pages/open-street-map/README.md) - Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indonesia Bahasa Melayu bosanski brezhoneg català čeština dansk Deutsch eesti English español Esperanto euskara français Fry
+- [OpenCage](./pages/opencage/README.md) - An easy-to-use forward and reverse geocoding API 🆓
+- [OpenRouteService](./pages/openrouteservice/README.md) - OpenRouteService API provides routing, isochrones, geocoding, matrix calculations, and elevation data based on OpenStreetMap 🆓
+- [OpenWeatherMap](./pages/openweathermap/README.md) - Simple and fast and free weather API from OpenWeatherMap
+- [Positionstack](./pages/positionstack/README.md) - Positionstack&#x27;s geocoding API converts addresses to coordinates and vice versa with global coverage 🆓
+- [PostcodeData.nl](./pages/postcodedata-nl/README.md) - Netherland&#x27;s post codes search
+- [Postcodes.io](./pages/postcodes-io/README.md) - Search, validate and reverse geocode postcodes
+- [Postmon](./pages/postmon/README.md) - API to query zip codes and orders in an easy, fast and free way
+- [Radar](./pages/radar-io/README.md) - Radar&#x27;s location platform API provides geofencing, trip tracking, address autocomplete, geocoding, and place detection 🆓
+- [REFUGE Restrooms](./pages/refuge-restrooms/README.md) - Refuge Restrooms
+- [REST Countries](./pages/rest-countries/README.md) - Get information about countries via a RESTful API.
+- [Scribble](./pages/scribble/README.md) - This service is an easy way to draw and share maps
+- [Shippo](./pages/shippo/README.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
+- [Skywatch](./pages/skywatch/README.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
+- [Smartip.Io](./pages/smartip-io/README.md) - SmartIP offers the following data points:
+- [Strava](./pages/strava/README.md) - API for accessing and managing data about athletes, activities and segments
+- [Sweden](./pages/sweden/README.md) - Information you need to get started using PostNord API
+- [TomTom](./pages/tomtom/README.md) - TomTom&#x27;s Maps APIs provide routing, geocoding, traffic, search, and map tiles 🆓
+- [Traveltime Api](./pages/traveltime-api/README.md) - Testing the TravelTime API is free
+- [Turf JS](./pages/turf-js/README.md) - js | Advanced geospatial analysis for browsers and Node
+- [Uber](./pages/uber/README.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
+- [Uebermaps](./pages/uebermaps/README.md) - uebermaps are interactive maps that enable people to
+- [UPS](./pages/ups/README.md) - UPS is an American multinational package delivery and supply chain management company
+- [US Autocomplete](./pages/us-autocomplete/README.md) - Address Autocomplete 
+- [US Street Address](./pages/us-street-address/README.md) - Verify one or more addresses using the SmartyStreets US Street Address API
+- [US ZipCode](./pages/us-zipcode/README.md) - Easily look up, verify and append ZIP Code data using the US ZIP Code API from SmartyStreets
+- [Utah AGRC](./pages/utah-agrc/README.md) - Geocoding API Methods API methods for finding a geolocation (x,y) for addresses
+- [ViaCep](./pages/viacep/README.md) - Free webservice for address search via CEP
+- [Wgs84 To Osgb36](./pages/wgs84-to-osgb36/README.md) - Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
+- [what3words](./pages/what3words/README.md) - what3words API converts between 3-word addresses and GPS coordinates 🆓
+- [WhatPulse](./pages/whatpulse/README.md) - Get to know your time with your computer
+- [Whitepages Pro](./pages/whitepages-pro/README.md) - Global Identity Verification API
+- [Wikitude](./pages/wikitude/README.md) - Powerful augmented reality apps
+- [WorldTimeAPI](./pages/worldtimeapi/README.md) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP
+- [Yahoo Local Search API](./pages/yahoo-local-search-api/README.md) - Join the 200,000 developers using Yahoo tools to build their app businesses
+- [Yahoo Map Image API](./pages/yahoo-map-image-api/README.md) - Measure, monetize, advertise and improve your apps with Yahoo tools
+- [Yahoo Maps](./pages/yahoo-maps/README.md) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform
+- [Yandex](./pages/yandex/README.md) - Maps and the necessary tools for working it on your web app or site
+- [Yelp](./pages/yelp/README.md) - Yelp&#x27;s API exposes search to 3rd party developers
+- [ZipCodeAPI](./pages/zipcodeapi/README.md) - Zip Codes to Location The API can convert a zip code to the primary location for the zip code
+- [Zippopotam](./pages/zippopotam/README.md) - Zippopotamus. Zippopotamus
+- [Zipstatic](./pages/zipstatic/README.md) - Ziptastic API is a super easy to use API that returns the Country, State, City of the zip code you supply
+
+### Marketing & SEO 💰
+- [Adzuna](./pages/adzuna/README.md) - Get the very latest ads and data with Adzuna&#x27;s API
+- [Amazon Mobile Ads](./pages/amazon-mobile-ads/README.md) - Monetize across platforms with multiple ad formats
+- [Autopilot](./pages/autopilot/README.md) - The Autopilot API documentation, examples and blog for Autopilot REST API
+- [Bannerbear](./pages/bannerbear/README.md) - Bannerbear API auto-generates social media images, banners, and PDFs from templates
+- [ClickMeter](./pages/clickmeter/README.md) - ClickMeter API RESTful services
+- [Countly](./pages/countly/README.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
+- [EventBrite](./pages/eventbrite/README.md) - Eventbrite Python SDK
+- [Facebook Marketing API](./pages/facebook-marketing-api/README.md) - Marketing API Marketing APIs are a collection of Graph API endpoints that can be used to help you advertise on Facebook
+- [Google AdSense](./pages/google-adsense/README.md) - Google AdSense provides a free, flexible way to earn money from your websites, mobile sites, and site search results with relevant and engaging ads
+- [Google AdWords API](./pages/google-adwords-api/README.md) - A SOAP API that provides access to Google Ads accounts, campaigns, and reports
+- [HubSpot](./pages/hubspot/README.md) - HubSpot&#x27;s API provides access to CRM contacts, companies, deals, tickets, marketing emails, and automation workflows 🆓
+- [Kaltura VPaaS](./pages/kaltura-vpaas/README.md) - Build video apps and add native video capabilities to your products
+- [Localytics](./pages/localytics/README.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
+- [Mailchimp](./pages/mailchimp/README.md) - Mailchimp&#x27;s Marketing API manages email campaigns, audiences, automations, and reports 🆓
+- [Mailjet](./pages/mailjet/README.md) - Reliable and scalable email delivery platform with SMTP and API
+- [Microsoft Advertising Platform - Bing Ads API](./pages/microsoft-advertising-platform-bing-ads-api/README.md) - Official developer documentation for Microsoft Advertising
+- [Ontraport](./pages/ontraport/README.md) - Marketing automation
+- [Product Hunt](./pages/product-hunt/README.md) - The best new products, every day
+- [Quantumdigital](./pages/quantumdigital/README.md) - QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
+- [Rocketium Video API](./pages/rocketium-video-api/README.md) - Create multiple videos with your logo, captions, and background music in different aspect ratios
+- [Salesforce](./pages/salesforce/README.md) - The Salesforce Platform connects the entire customer journey across Sales, Service, Marketing, Commerce, and every touchpoint
+- [Scoop.it](./pages/scoop-it/README.md) - Enables professionals and businesses to research and publish content through its content curation tool
+- [SearchApi](./pages/searchapi/README.md) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
+- [Segment](./pages/segment/README.md) - Segment&#x27;s API is a customer data platform that collects, unifies, and routes user events to analytics, marketing, and data warehouse tools from a single source of truth 🆓
+- [Visit Rank](./pages/visit-rank/README.md) - Get a rank for any of 385 million domains
+- [Yahoo Gemini API](./pages/yahoo-gemini-api/README.md) - Developer tools and the support you need to leverage Verizon Media&#x27;s powerful data and advertising solutions
+- [Yo Developers API](./pages/yo-developers-api/README.md) - Yo API Documentation
+- [Zenserp](./pages/zenserp/README.md) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
+
+### Music & Audio 🎸
+- [Acoustid](./pages/acoustid/README.md) - Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database
+- [AI Mastering](./pages/ai-mastering/README.md) - AI Mastering API provides automated audio mastering service
+- [AssemblyAI](./pages/assemblyai/README.md) - AssemblyAI&#x27;s API provides speech-to-text transcription, speaker diarization, sentiment analysis, topic detection, and summarization from audio and video files
+- [AudD](./pages/audd/README.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
+- [Audio Db](./pages/audio-db/README.md) - with the Audio DB API, you can get albums, artist, specific tracks data , youtube music videos , popularity and images for 1000s of musicians
+- [Bandsintown](./pages/bandsintown/README.md) - The Bandsintown API is designed for artists and enterprises representing artists
+- [ChartLyrics Lyrics API](./pages/chartlyrics-lyrics-api/README.md) - v1
+- [Deezer](./pages/deezer/README.md) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer&#x27;s music catalogue
+- [Discogs](./pages/discogs/README.md) - Access database of artists, labels, releases, marketplace and more
+- [ElevenLabs](./pages/elevenlabs/README.md) - ElevenLabs API provides AI voice generation and cloning 🆓
+- [Eventful API](./pages/eventful-api/README.md) - Eventful is a leading digital media company connecting consumers with entertainment, movies and local events
+- [Freesound](./pages/freesound/README.md) - With the Freesound API you can browse, search, and retrieve information about Freesound users, packs, and the sounds themselves
+- [Genius](./pages/genius/README.md) - Allows users to find details about Genius artists and songs
+- [Genrenator](./pages/genrenator/README.md) - Binary Jazz genrenator
+- [Gracenote](./pages/gracenote/README.md) - Largest source of music and video metadata on the planet
+- [iTunes Search](./pages/itunes-search/README.md) - Describes the iTunes Search API used to place search fields in a website
+- [Izi](./pages/izi/README.md) - izi
+- [Jamendo](./pages/jamendo/README.md) - Jamendo Api Documentation
+- [kanye.rest](./pages/kanye-rest/README.md) - A free REST API for random Kanye West quotes
+- [KKBOX](./pages/kkbox/README.md) - Get ready to unbox the joy of music!
+- [LastFm](./pages/lastfm/README.md) - fm
+- [Listen Api](./pages/listen-api/README.md) - Simple &amp; no-nonsense podcast search &amp; directory API
+- [Listen Notes](./pages/listen-notes/README.md) - Best podcast API trusted by 2,104 companies and developers
+- [Lololyrics API](./pages/lololyrics-api/README.md) - Specializes more in electronic dance music genres such as hardstyle
+- [Lyrics.ovh](./pages/lyrics-ovh/README.md) - A place where APIs are kept
+- [Mixcloud](./pages/mixcloud/README.md) - Music
+- [musicApi](./pages/musicapi/README.md) - Centralized package to get data from qq, xiami, netease music - LIU9293/musicAPI
+- [MusicBrainz](./pages/musicbrainz/README.md) - The API discussed here is an interface to the MusicBrainz Database
+- [Musixmatch](./pages/musixmatch/README.md) - Power your music project by licensing access to the world’s most authoritative lyrics DB
+- [NPR API](./pages/npr-api/README.md) - NPR&#x27;s API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way
+- [Openverse](./pages/openverse/README.md) - Openverse API provides search access to 800M+ openly licensed and public domain images, audio, and other media 🆓
+- [Openwhyd](./pages/openwhyd/README.md) - 💎 Like Pinterest, for Music
+- [QuantOneMusic](./pages/quantonemusic/README.md) - Answers the need for digital music data
+- [Reverb](./pages/reverb/README.md) - Sell and buy music related merchandise
+- [Rhapsody](./pages/rhapsody/README.md) - Access metadata, user’s entire library of music and do much more
+- [Rovi](./pages/rovi/README.md) - Access to Metadata, search capabilities and recommendations
+- [SearchLy](./pages/searchly/README.md) - Contribute to AlbertSuarez/searchly development by creating an account on GitHub
+- [Setlist.fm](./pages/setlist-fm/README.md) - setlist
+- [Shutterstock](./pages/shutterstock/README.md) - Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more
+- [Songkick](./pages/songkick/README.md) - Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts
+- [Songsterr](./pages/songsterr/README.md) - One accurate tab per song
+- [SoundCloud](./pages/soundcloud/README.md) - Using the SoundCloud API, you can build applications that take sound on the web to the next level
+- [Spotify](./pages/spotify/README.md) - Let’s you search and lookup metadata about artists, tracks and albums
+- [Spreaker](./pages/spreaker/README.md) - Enables developers to read and write data to Spreaker
+- [The Audio DB](./pages/theaudiodb/README.md) - TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API 🆓
+- [TuneFind](./pages/tunefind/README.md) - Since 2005 Tunefind has been the leading site dedicated to tracking the music featured in TV shows and movies
+- [Vagalume](./pages/vagalume/README.md) - Vagalume » API » Documentação Documentação Conteúdo disponível na API do Vagalume Artistas Letras de Músicas Buscas Artista Música/Trecho Músicas/Artistas Álbuns Discografia Hot Spot Notícias Ranki
+
+### News & Feeds 📰
+- [Adzuna](./pages/adzuna/README.md) - Get the very latest ads and data with Adzuna&#x27;s API
+- [Associated Press](./pages/associated-press/README.md) - AP Media API Get all your AP multimedia content in one place Access the content programmatically via the API or use the AP Media Agent to download content automatically
+- [Aylien Text Analysis](./pages/aylien-text-analysis/README.md) - Explore AYLIEN’s advanced NLP APIs
+- [Chronicling America](./pages/chronicling-america/README.md) - Newspaper Directory to find information about American newspapers published between 1690-present
+- [CivicFeed](./pages/civicfeed/README.md) - Get online news, blogs, social and TV/radio through a JSON API - easy integration for developers
+- [CORE](./pages/core/README.md) - CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories
+- [Currents](./pages/currents/README.md) - Currents - Capture the world news through simple json News API
+- [Faroo](./pages/faroo/README.md) - Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms
+- [Feedbin](./pages/feedbin/README.md) - Feedbin API Documentation
+- [Gapi](./pages/gapi/README.md) - Unofficial Google News API
+- [Gnews](./pages/gnews/README.md) - Unofficial Google News API
+- [Hacker News](./pages/hacker-news/README.md) - Documentation and Samples for the Official HN API
+- [kanye.rest](./pages/kanye-rest/README.md) - A free REST API for random Kanye West quotes
+- [New York Times](./pages/new-york-times/README.md) - Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, people
+- [NewsAPI](./pages/newsapi/README.md) - Search worldwide news articles and headlines from all over the web in real-time with our free News API
+- [NewsCatcherAPI](./pages/newscatcherapi/README.md) - Search news articles from all over the world in real-time with News API
+- [Open Access Button](./pages/open-access-button/README.md) - Free, legal research articles delivered instantly or automatically requested from authors 🆓
+- [Reddit](./pages/reddit/README.md) - Contribute to reddit-archive/reddit development by creating an account on GitHub
+- [Reliefweb](./pages/reliefweb/README.md) - ReliefWeb API to get the latest updates when a disaster happens
+- [Spaceflight News](./pages/spaceflight-news/README.md) - The Spaceflight News API lets you add space related news to your apps
+- [SummarizeBot API](./pages/summarizebot-api/README.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
+- [Teleport](./pages/teleport/README.md) - Welcome to Teleport for Developers
+- [The Guardian](./pages/the-guardian/README.md) - All accessible with a single open platform key
+- [The Old Reader](./pages/the-old-reader/README.md) - The Old Reader API
+- [Trawlingweb](./pages/trawlingweb/README.md) - Trawlingweb structures, stores and indexes millions of web pages per day in vertical data pools
+- [Unofficial Google News Api](./pages/unofficial-google-news-api/README.md) - GNews is an API to search for articles from a variety of sources, including Google News
+
+### Open Source 🔓
+- [Changelogs.md](./pages/changelogs-md/README.md) - Search changelogs from open source projects, or use the REST API for a parsed JSON changelog format
+- [Code.gov](./pages/code-gov/README.md) - America&#x27;s primary platform for aggregating Open Source Software from the federal government
+- [Countly](./pages/countly/README.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
+- [Drupal.org](./pages/drupal-org/README.md) - Drupal
+- [Genius](./pages/genius/README.md) - Allows users to find details about Genius artists and songs
+- [GitLab](./pages/gitlab/README.md) - Access to GitLab&#x27;s API
+- [Libraries.Io](./pages/libraries-io/README.md) - Discover open source libraries, modules and frameworks you can use in your code
+- [Pexels](./pages/pexels/README.md) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
+- [The Meal Db](./pages/the-meal-db/README.md) - This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more
+- [The Sports Db](./pages/the-sports-db/README.md) - With the Sports DB API you can query teams, players in teams, player details, player contract details, and just about any player or team data from a broad range of sports (from soccer/football to handball)
+- [TheCocktailDB](./pages/thecocktaildb/README.md) - An open, crowd-sourced database of drinks and cocktails from around the world
+- [ThingSpeak](./pages/thingspeak/README.md) - Ppen source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network
+
+### Payments 💳
+- [Adyen](./pages/adyen/README.md) - Adyen&#x27;s payments API processes online, in-person, and in-app payments globally
+- [Afex](./pages/afex/README.md) - Send payments to recipients all over the world 24/7 with secure and flexible online platform
+- [Barzahlen](./pages/barzahlen/README.md) - viafintech API v2 allows you to create payment, partial payment, payout, and refund slips customers can use in stores like supermarkets to pay or receive money
+- [bitpay](./pages/bitpay/README.md) - A simple, RESTful API to the most powerful bitcoin infrastructure on the planet
+- [BlockScore](./pages/blockscore/README.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
+- [Braintree](./pages/braintree/README.md) - Specializes in mobile and web payment systems for ecommerce companies
+- [Brex](./pages/brex/README.md) - Brex&#x27;s API provides access to corporate card transactions, expenses, budgets, vendors, and reimbursements
+- [Bunq Api](./pages/bunq-api/README.md) - Open RESTful bank API that lets you work with bank cards, accounts, payments, transactions, attachments, and more
+- [Checkout.com](./pages/checkout-com/README.md) - Checkout
+- [Cloud Wallet](./pages/cloud-wallet/README.md) - Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide
+- [Coinbase](./pages/coinbase/README.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications
+- [Elasticpath](./pages/elasticpath/README.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
+- [Elis](./pages/elis/README.md) - Automate data extraction from your documents with Artificial Intelligence
+- [envoice](./pages/envoice/README.md) - Invoicing for online businesses
+- [FIDEL API](./pages/fidel-api/README.md) - FIDEL is a card-linked API that lets developers create web and mobile applications for linking banks cards with reward services
+- [Gumroad](./pages/gumroad/README.md) - Gumroad helps creators do more of what they love by offering tools to get paid online, they have sent over $202M to artists, designers, educators, writers, influencers and more
+- [Keygen](./pages/keygen/README.md) - Keygen is a dead-simple software licensing API built for developers of desktop apps, on-prem software and other digital products
+- [Keyserv](./pages/keyserv/README.md) - SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world
+- [Klarna](./pages/klarna/README.md) - Klarna&#x27;s Payments API enables buy-now-pay-later, installment plans, and direct bank payments at checkout
+- [Marketcloud](./pages/marketcloud/README.md) - It covers inventory and database, carts and checkout, payments, user authentication, and more
+- [Mastercard](./pages/mastercard/README.md) - Mastercard official API
+- [Mollie](./pages/mollie/README.md) - Mollie&#x27;s Payments API supports iDEAL, credit cards, SEPA, PayPal, and 30+ other payment methods
+- [PayPal](./pages/paypal/README.md) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials
+- [Picatic](./pages/picatic/README.md) - Sell tickets directly from your app or website
+- [Plaid](./pages/plaid/README.md) - Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services
+- [Razorpay](./pages/razorpay/README.md) - Razorpay&#x27;s Payment APIs support UPI, cards, net banking, and wallets for the Indian market
+- [Square](./pages/square/README.md) - Square provides support and tools for you to build apps for today’s business needs
+- [Stripe](./pages/stripe/README.md) - Stripe&#x27;s API
+- [Telleroo](./pages/telleroo/README.md) - Instant Bulk Payments for your Finance Team
+- [Tink (Visa)](./pages/tink/README.md) - Tink&#x27;s Open Banking API provides bank account data, payment initiation, and income verification across 3,500+ European banks
+- [Wise (TransferWise)](./pages/wise-transferwise/README.md) - Wise&#x27;s API enables international money transfers, multi-currency accounts, balance management, and payment automation
+
+### Point of Interest 🍺
+- [CityGrid](./pages/citygrid/README.md) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria
+- [Eventful API](./pages/eventful-api/README.md) - Eventful is a leading digital media company connecting consumers with entertainment, movies and local events
+- [Facebook Check-In](./pages/facebook-check-in/README.md) - A check-in made to a location-based Page
+- [Foursquare API](./pages/foursquare-api/README.md) - Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants
+- [Foursquare Check-In](./pages/foursquare-check-in/README.md) - Allows you to check in to a place
+- [Google Places](./pages/google-places/README.md) - Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding &amp; Place Search APIs
+- [Harvard Art Museums](./pages/harvard-art-museums/README.md) - The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects
+- [Open Brewery DB](./pages/open-brewery-db/README.md) - The goal of Open Brewery DB is to maintain an open-source, community-driven database on breweries, cideries, brewpubs, and bottleshops 🆓
+- [REFUGE Restrooms](./pages/refuge-restrooms/README.md) - Refuge Restrooms
+- [Rijksmuseum](./pages/rijksmuseum/README.md) - The Rijksmuseum links individuals with art and history
+- [TripAdvisor Content API](./pages/tripadvisor/README.md) - TripAdvisor&#x27;s Content API provides access to hotel, restaurant, and attraction reviews, photos, ratings, and location details from the world&#x27;s largest travel platform 🆓
+- [US Restaurant Menus](./pages/us-restaurant-menus/README.md) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
+- [Xyz Menus](./pages/xyz-menus/README.md) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
+- [Yelp](./pages/yelp/README.md) - Yelp&#x27;s API exposes search to 3rd party developers
+- [Yelp Fusion API](./pages/yelp-fusion/README.md) - Yelp Fusion API provides business search, reviews, photos, and events data from Yelp&#x27;s local business directory 🆓
+- [Zomato](./pages/zomato/README.md) - Zomato API
+
+### Post & Logistics 📬
+- [AfterShip](./pages/aftership/README.md) - Provides multi-carrier shipment tracking APIs.
+- [bng2latlong](./pages/bng2latlong/README.md) - Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
+- [Form-Api](./pages/form-api/README.md) - Build forms easily, autocomplete and validate data
+- [GeoNames](./pages/geonames/README.md) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge
+- [GraphHopper](./pages/graphhopper/README.md) - A-to-B routing with turn-by-turn instructions
+- [HyperTrack](./pages/hypertrack/README.md) - Build applications that track the movement of your business
+- [Mapbox Directions API](./pages/mapbox-directions-api/README.md) - The Mapbox Directions API can calculate optimal driving, walking, and cycling routes, produce turn-by-turn instructions, produce routes with up to 25 coordinates anywhere on earth
+- [Mapbox Matrix API](./pages/mapbox-matrix-api/README.md) - The Mapbox Matrix API returns travel times between many points
+- [Onfleet API](./pages/onfleet-api/README.md) - Onfleet is the easiest way for businesses to manage and analyze their last-mile delivery operations
+- [PostcodeData.nl](./pages/postcodedata-nl/README.md) - Netherland&#x27;s post codes search
+- [Postcodes.io](./pages/postcodes-io/README.md) - Search, validate and reverse geocode postcodes
+- [Postmates](./pages/postmates/README.md) - Build on-demand delivery into your app or website.
+- [Postmon](./pages/postmon/README.md) - API to query zip codes and orders in an easy, fast and free way
+- [Quantumdigital](./pages/quantumdigital/README.md) - QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
+- [Shippo](./pages/shippo/README.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
+- [Sweden](./pages/sweden/README.md) - Information you need to get started using PostNord API
+- [UPS](./pages/ups/README.md) - UPS is an American multinational package delivery and supply chain management company
+- [US Extract](./pages/us-extract/README.md) - Extract USPS addresses from any text with our easy-to-use API
+- [US Street Address](./pages/us-street-address/README.md) - Verify one or more addresses using the SmartyStreets US Street Address API
+- [US ZipCode](./pages/us-zipcode/README.md) - Easily look up, verify and append ZIP Code data using the US ZIP Code API from SmartyStreets
+- [Wgs84 To Osgb36](./pages/wgs84-to-osgb36/README.md) - Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
+- [Zipstatic](./pages/zipstatic/README.md) - Ziptastic API is a super easy to use API that returns the Country, State, City of the zip code you supply
+
+### Project Management 🚧
+- [Asana](./pages/asana/README.md) - Asana&#x27;s API provides programmatic access to tasks, projects, teams, portfolios, and goals 🆓
+- [Basecamp API](./pages/basecamp-api/README.md) - A web based system for managing collaborative projects
+- [ClickUp](./pages/clickup/README.md) - ClickUp&#x27;s API provides access to tasks, lists, folders, spaces, goals, and time tracking 🆓
+- [GitLab](./pages/gitlab/README.md) - Access to GitLab&#x27;s API
+- [Jira](./pages/jira/README.md) - Jira&#x27;s REST API provides access to issues, projects, sprints, users, and workflows
+- [Linear](./pages/linear/README.md) - Linear&#x27;s API enables programmatic access to issues, projects, cycles, teams, and workflows 🆓
+- [monday.com](./pages/monday-com/README.md) - monday 🆓
+- [Smartsheet](./pages/smartsheet/README.md) - Smartsheet&#x27;s API provides access to sheets, rows, columns, reports, and automations
+- [Todoist](./pages/todoist/README.md) - Todo Lists
+- [Trello](./pages/trello/README.md) - Trello is a web-based, Kanban-style, list-making application
+- [Wrike](./pages/wrike/README.md) - Wrike&#x27;s API provides access to tasks, folders, projects, timesheets, and workflows 🆓
+
+### Random 🎲
+- [Faker API](./pages/faker-api/README.md) - Generate fake data and get by REST API requests
+- [Forismatic](./pages/forismatic/README.md) - Gives you a random quote per click.
+- [JSONPlaceholder](./pages/jsonplaceholder/README.md) - Free online REST API that you can use whenever you need some fake data
+- [Lorem Picsum](./pages/lorem-picsum/README.md) - Lorem Ipsum, but for photos.
+- [Lottery Number Generation](./pages/lottery-number-generation/README.md) - Hundereds of lottery games from various countries are supported
+- [Numbers](./pages/numbers/README.md) - An API for interesting facts about numbers
+- [PIPL API](./pages/pipl-api/README.md) - Free and public API that generates random and fake people&#x27;s data in JSON 🆓
+- [Random Data Generator](./pages/random-data-generator/README.md) - API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards
+- [Random Facts](./pages/random-facts/README.md) - Random Facts API
+- [Random Facts Api](./pages/random-facts-api/README.md) - Get random Facts on different topics
+- [RandomDog](./pages/randomdog/README.md) - Random dog image API
+- [RandomFox](./pages/randomfox/README.md) - Random image of a fox
+- [RoboHash](./pages/robohash/README.md) - Generate Unique images from any text
+- [This Person Does not Exist](./pages/this-person-does-not-exist/README.md) - This Person Does Not Exist
+- [UI Names](./pages/ui-names/README.md) - A simple tool to generate names for use in designs and mockups
+
+### Real Estate 🏗️
+- [Graphql360](./pages/graphql360/README.md) - Create and consume 360 degree panoramic tours using a GraphQL API
+- [HouseCanary Analytics API](./pages/housecanary-analytics-api/README.md) - Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available
+
+### Recognition 👁️
+- [Anti-Captcha](./pages/anti-captcha/README.md) - Access to Anti-Captcha’s API
+- [AudD](./pages/audd/README.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
+- [Clarifai](./pages/clarifai/README.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
+- [Deepaffects](./pages/deepaffects/README.md) - DeepAffects enables developers to analyze conversational audio by applying powerful machine learning models offered as a set of easy to use REST APIs
+- [Everypixel](./pages/everypixel/README.md) - Automatic image keywording and categorization API
+- [Imagga Api](./pages/imagga-api/README.md) - identifies the content of images and videos, classify images based on content, extracts colors, moderates NSFW content
+- [Kairos](./pages/kairos/README.md) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application
+- [Language Detection](./pages/language-detection/README.md) - Detect language(s) from pieces of text
+- [Microsoft Cognitive Services](./pages/microsoft-cognitive-services/README.md) - A comprehensive family of AI services and cognitive APIs to help you build intelligent apps
+- [Nudity Detection Api](./pages/nudity-detection-api/README.md) - io detects nudity in images and helps to recognise and filter undesired content
+- [Sky Biometry](./pages/sky-biometry/README.md) - SkyBiometry uses completely different computer vision algorithms for face detection and recognition than face
+- [TrueFace.Ai API](./pages/trueface-ai-api/README.md) - Our endpoints include face detection (detect 1 or multiple faces), face matching (1 to 1 matching, good for authentication), face identification (face recognition - good for a a crowd/group), spoof detection (determine if someone is trying to trick the technology by holding up a picture of someone else), raw landmark detection (determine the facial characteristics to size a face)
+- [TuneFind](./pages/tunefind/README.md) - Since 2005 Tunefind has been the leading site dedicated to tracking the music featured in TV shows and movies
+
+### Science & Math 🔬
+- [arcsecond.io](./pages/arcsecond-io/README.md) - Unified REST APIs for world-wide astronomy data
+- [Astronomy](./pages/astronomy/README.md) - Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth and moon distance from the earth from latitude and longitude or an IPv4 or IPv6 address for a given date
+- [CORE](./pages/core/README.md) - CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories
+- [Crossref](./pages/crossref/README.md) - Crossref&#x27;s API provides metadata for 150M+ scholarly works including DOIs, citations, author information, funding data, and license information for academic research integration 🆓
+- [GBIF](./pages/gbif/README.md) - Free and open access to biodiversity data
+- [inspirehep.net](./pages/inspirehep-net/README.md) - INSPIRE API Q: I want to do automated searching and receive machine readable responses
+- [ITIS](./pages/itis/README.md) - Hosted by the USGS Core Science Analytics and Synthesis
+- [Launch Library 2](./pages/launch-library-2/README.md) - Upcoming Space Launches
+- [Matlab](./pages/matlab/README.md) - MATLAB is a high-level language and interactive environment for numerical computation, visualization, and programming
+- [Minor Planet Center](./pages/minor-planet-center/README.md) - Minor Planet Center API Overview Asterank offers a database API for the Minor Planet Center&#x27;s MPCORB
+- [MPDS](./pages/mpds/README.md) - Online PAULING FILE materials database with nearly 2 million data entries (physical properties, crystal structures, phase diagrams) available via API, ready for modern data-intensive applications
+- [NASA](./pages/nasa/README.md) - Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more
+- [NASA APOD (unofficial API)](./pages/nasa-apod-unofficial-api/README.md) - What&#x27;s this API for
+- [Newton](./pages/newton/README.md) - A really micro micro-service for advanced math
+- [Numbers](./pages/numbers/README.md) - An API for interesting facts about numbers
+- [Numbers Api](./pages/numbers-api/README.md) - Numbers
+- [Open Access Button](./pages/open-access-button/README.md) - Free, legal research articles delivered instantly or automatically requested from authors 🆓
+- [Open Science Framework](./pages/open-science-framework/README.md) - OSF is a free, open platform to support your research and enable collaboration
+- [OpenAlex](./pages/openalex/README.md) - OpenAlex is a fully open catalog of the global research system 🆓
+- [Portfolio Optimizer](./pages/portfolio-optimizer/README.md) - API for investment portfolio optimization
+- [PubMed (NCBI E-utilities)](./pages/pubmed/README.md) - NCBI&#x27;s E-utilities API provides programmatic access to PubMed abstracts, full-text articles, gene sequences, and other biomedical literature from the National Center for Biotechnology Information 🆓
+- [SHARE](./pages/share/README.md) - SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable
+- [Sunrise and Sunset](./pages/sunrise-and-sunset/README.md) - Sunset and sunrise times API
+- [USGS Earthquake Hazards](./pages/usgs-earthquakes/README.md) - USGS Earthquake Hazards API provides real-time and historical earthquake data including magnitude, location, depth, and ShakeMap intensity 🆓
+
+### Scrapers & Data Mining 🕸️
+- [ApiFlash](./pages/apiflash/README.md) - Chrome based screenshot API to convert URLs to images
+- [Apify](./pages/apify/README.md) - Apify&#x27;s API lets you run web scraping and automation actors, manage datasets, key-value stores, and proxies 🆓
+- [aScraper](./pages/ascraper/README.md) - Scraping Service API
+- [BetterMeta](./pages/bettermeta/README.md) - A simple API to return the meta tags of any site in a digestable JSON format
+- [Blogcast](./pages/blogcast/README.md) - Generate audio versions of your articles
+- [Browshot](./pages/browshot/README.md) - Full API to take screenshots of any website.
+- [Cloudmersive Document and Data Conversion](./pages/cloudmersive-document-and-data-conversion/README.md) - Document and Data Conversion APIs
+- [Currents](./pages/currents/README.md) - Currents - Capture the world news through simple json News API
+- [Dashblock](./pages/dashblock/README.md) - The easiest way to access websites programmatically and collect structured data
+- [Elis](./pages/elis/README.md) - Automate data extraction from your documents with Artificial Intelligence
+- [Getscreenshot By Rasterwise](./pages/getscreenshot-by-rasterwise/README.md) - GetScreenshot is an affordable and highly scalable screenshot API service
+- [Icelandic APIs](./pages/icelandic-apis/README.md) - The purpose of APIs
+- [import.io](./pages/import-io/README.md) - Import
+- [Intellexer](./pages/intellexer/README.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
+- [LinkPreview](./pages/linkpreview/README.md) - Preview Web links with our reliable API service
+- [Mercury](./pages/mercury/README.md) - Mercury Web Parser turns web articles into structured content reliably and easily
+- [Microlink](./pages/microlink/README.md) - Generate PDF from any website
+- [MLScrape](./pages/mlscrape/README.md) - MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API
+- [pdflayer](./pages/pdflayer/README.md) - Free, powerful HTML to PDF API supporting both URL and raw HTML conversion 🆓
+- [PDFmyURL](./pages/pdfmyurl/README.md) - Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line
+- [Pdfshift ](./pages/pdfshift/README.md) - An API to convert HTML/CSS documents to PDF
+- [ProxyCrawl](./pages/proxycrawl/README.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
+- [Restpack](./pages/restpack/README.md) - Screenshot API, HTML to PDF API, Content Extraction API
+- [Scraper API](./pages/scraper-api/README.md) - Scraper API is a web scraping API that handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call
+- [Scrapestack](./pages/scrapestack/README.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
+- [Scrapingbee](./pages/scrapingbee/README.md) - Scraping is hard, scraping at scale can be very challenging
+- [Screenshot Machine](./pages/screenshot-machine/README.md) - Free screenshot api for capturing web pages
+- [Screenshotscloud](./pages/screenshotscloud/README.md) - With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service
+- [SearchApi](./pages/searchapi/README.md) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
+- [Spotify](./pages/spotify/README.md) - Let’s you search and lookup metadata about artists, tracks and albums
+- [SummarizeBot API](./pages/summarizebot-api/README.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
+- [Trawlingweb](./pages/trawlingweb/README.md) - Trawlingweb structures, stores and indexes millions of web pages per day in vertical data pools
+- [Zenscrape](./pages/zenscrape-web-scraping-api/README.md) - This web scraping API handles all problems that are related to web scraping
+- [Zenserp](./pages/zenserp/README.md) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
+
+### Search 🔎
+- [Algolia](./pages/algolia/README.md) - Algolia&#x27;s Search API provides fast, typo-tolerant full-text search with faceting, filtering, and personalization 🆓
+- [Bing Search API](./pages/bing-search-api/README.md) - Add intelligent search to your app, combing hundreds of billions of webpages, images, videos, and news to provide relevant results with no ad requirements
+- [CityGrid](./pages/citygrid/README.md) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria
+- [Datamuse API](./pages/datamuse-api/README.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
+- [Deezer](./pages/deezer/README.md) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer&#x27;s music catalogue
+- [Faroo](./pages/faroo/README.md) - Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms
+- [Freesound](./pages/freesound/README.md) - With the Freesound API you can browse, search, and retrieve information about Freesound users, packs, and the sounds themselves
+- [Gnews](./pages/gnews/README.md) - Unofficial Google News API
+- [Google AdWords API](./pages/google-adwords-api/README.md) - A SOAP API that provides access to Google Ads accounts, campaigns, and reports
+- [Google Custom Search API](./pages/google-custom-search-api/README.md) - With this API, you can use RESTful req
+- [Google CustomSearch API](./pages/google-customsearch-api/README.md) - With this API, you can use RESTful req
+- [Iconfinder](./pages/iconfinder/README.md) - The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc
+- [Indeed](./pages/indeed/README.md) - Post your jobs on Indeed, the #1 job site worldwide
+- [Intellexer](./pages/intellexer/README.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
+- [Jooble](./pages/jooble/README.md) - The REST API allows developers to access and integrate Jooble&#x27;s search results within your web products, or to build an entirely new web product of your own 🆓
+- [Lolwallpapers Api](./pages/lolwallpapers-api/README.md) - League of Legends Wallpapers website official API
+- [Mapbox Geocoding API](./pages/mapbox-geocoding-api/README.md) - The Mapbox Geocoding API does forward geocoding (search place names and return coordinates) and reverse geocoding (search coordinates and return place names)
+- [Meilisearch](./pages/meilisearch/README.md) - Meilisearch is an open-source search engine with a REST API 🆓
+- [NewsAPI](./pages/newsapi/README.md) - Search worldwide news articles and headlines from all over the web in real-time with our free News API
+- [OMDB](./pages/omdb/README.md) - The Open Movie Database
+- [Open Access Button](./pages/open-access-button/README.md) - Free, legal research articles delivered instantly or automatically requested from authors 🆓
+- [Open Movie Database](./pages/open-movie-database/README.md) - Attention Users 04/08/19 - Added support for eight digit IMDb IDs
+- [Perplexity AI](./pages/perplexity-ai/README.md) - Perplexity&#x27;s API provides search-augmented language model responses
+- [Petfinder](./pages/petfinder/README.md) - The Petfinder API (Application Programming Interface) allows you to access the Petfinder database of hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations
+- [Qmeta Global Search Engine](./pages/qmeta-global-search-engine/README.md) - RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden und Gefahrenstellen die so gravierend sind, dass sie zu einem Unfall führen könnten
+- [Scrapestack](./pages/scrapestack/README.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
+- [SearchApi](./pages/searchapi/README.md) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
+- [Shodan](./pages/shodan/README.md) - Shodan API, the easiest way to access the Shodan search engine on your own terms
+- [Shutterstock](./pages/shutterstock/README.md) - Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more
+- [TMDb](./pages/tmdb/README.md) - TMDb provides powerful searches as well as powerful movie discovery
+- [Typesense](./pages/typesense/README.md) - Typesense is an open-source, typo-tolerant search engine with a REST API 🆓
+- [Unofficial Google News Api](./pages/unofficial-google-news-api/README.md) - GNews is an API to search for articles from a variety of sources, including Google News
+- [Upwork](./pages/upwork/README.md) - Upwork Developers Site offers you access to Upwork&#x27;s web services
+- [Visit Rank](./pages/visit-rank/README.md) - Get a rank for any of 385 million domains
+- [Web Search Engine Api](./pages/web-search-engine-api/README.md) - QMeta offers a free, uncensored and unlimited web search engine API
+- [Wolfram|Alpha](./pages/wolfram-alpha/README.md) - General knowledge on every topic; query it all with natural language input
+- [Yahoo BOSS API](./pages/yahoo-boss-api/README.md) - Join the 200,000 developers using Yahoo tools to build their app businesses
+- [Yahoo Local Search API](./pages/yahoo-local-search-api/README.md) - Join the 200,000 developers using Yahoo tools to build their app businesses
+- [Yahoo Term Extraction API](./pages/yahoo-term-extraction-api/README.md) - Join the 200,000 developers using Yahoo tools to build their app businesses
+- [Yandex](./pages/yandex/README.md) - Maps and the necessary tools for working it on your web app or site
+- [Yelp](./pages/yelp/README.md) - Yelp&#x27;s API exposes search to 3rd party developers
+- [Yummly](./pages/yummly/README.md) - Find food recipes
+- [Zenserp](./pages/zenserp/README.md) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
+
+### Security 🛡️
+- [AbuseIPDB](./pages/abuseipdb/README.md) - This is most commonly done through Fail2Ban, which comes prepackaged with an AbuseIPDB configuration
+- [AlienVault Open Threat Exchange (OTX)](./pages/alienvault-open-threat-exchange-otx/README.md) - Share and collaborate in developing threat intelligence
+- [BlockScore](./pages/blockscore/README.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
+- [Censys.io](./pages/censys-io/README.md) - Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security
+- [CRXcavator](./pages/crxcavator/README.md) - These factors include permissions, inclusion of vulnerable third party javascript libraries, weak content security policies, missing details from the Chrome Web Store description, and more
+- [FilterLists](./pages/filterlists/README.md) - By Collin M
+- [Firebase](./pages/firebase/README.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
+- [FraudLabs Pro](./pages/fraudlabs-pro/README.md) - FraudLabs Pro Rest API to screen the order transaction for online fraud
+- [Google reCAPTCHA](./pages/google-recaptcha/README.md) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse
+- [Google Safe Browsing](./pages/google-safe-browsing/README.md) - APIs to access the Google Safe Browsing lists of unsafe web resources
+- [HaveIBeenPwned](./pages/haveibeenpwned/README.md) - Have I Been Pwned allows you to search across multiple data breaches to see if your email address has been compromised
+- [Intelligence X](./pages/intelligence-x/README.md) - Public SDK for Intelligence X
+- [IPinfo](./pages/ipinfo-io/README.md) - IPinfo&#x27;s API provides accurate IP geolocation, ASN, carrier, privacy detection, and abuse contact data 🆓
+- [ipstack](./pages/ipstack/README.md) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
+- [MAC address vendor lookup](./pages/mac-address-vendor-lookup/README.md) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research&#x27;s results regarding the given MAC address or the OUI
+- [mailboxlayer](./pages/mailboxlayer/README.md) - Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering
+- [Metacert](./pages/metacert/README.md) - MetaCert reduces the risk of identity theft, data breaches, phishing, malware and ransomware attacks, by more than 98%
+- [Metadefnder Cloud API](./pages/metadefnder-cloud-api/README.md) - Metadefender Cloud provides unique set of APIs for everyone who is working with files post by users
+- [Monapi - Ip Address &amp; Domain Api](./pages/monapi-ip-address-and-domain-api/README.md) - Our Anomaly API gives you IP &amp; Domain Data for your Business
+- [National Vulnerability Database](./pages/national-vulnerability-database/README.md) - Information Technology Laboratory (ITL) National Vulnerability Database (NVD) Announcement and Discussion Lists General Questions &amp; Webmaster Contact Email:nvd@nist
+- [NHTSA](./pages/nhtsa/README.md) - Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications
+- [Okta](./pages/okta/README.md) - Okta&#x27;s API manages users, groups, applications, and authentication policies for enterprise identity
+- [Onfido](./pages/onfido/README.md) - Our document verification and facial biometrics technology lets your users verify themselves anywhere, anytime
+- [OOPSpam](./pages/oopspam/README.md) - Stop bots and manual spam from reaching you or your customer
+- [Packettotal Api](./pages/packettotal-api/README.md) - Search, correlate, and download PCAP files, based on their behaviors and contents
+- [Plino](./pages/plino/README.md) - Plino - A responsive spam filtering system
+- [Pulsedive](./pages/pulsedive/README.md) - Pulsedive is a free threat intelligence platform
+- [Qmeta Global Search Engine](./pages/qmeta-global-search-engine/README.md) - RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden und Gefahrenstellen die so gravierend sind, dass sie zu einem Unfall führen könnten
+- [SecurityTrails](./pages/securitytrails/README.md) - SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
+- [Shodan](./pages/shodan/README.md) - Shodan API, the easiest way to access the Shodan search engine on your own terms
+- [URLScan.io](./pages/urlscan-io/README.md) - urlscan
+- [VirusTotal](./pages/virustotal/README.md) - The VirusTotal API lets you upload and scan files or URLs, access finished scan reports and make automatic comments without the need of using the website interface
+- [Web Of Trust (WOT)](./pages/web-of-trust-wot/README.md) - The WOT reputation system computes website reputations using ratings received from users and information from third-party sources
+- [WebPurify](./pages/webpurify/README.md) - Provides live image moderation by humans or AI-based image moderation service
+- [WorkOS](./pages/workos/README.md) - Easily integrate Okta SAML, Google OAuth, and more
+- [Xposedornot Passwords](./pages/xposedornot-passwords/README.md) - XposedOrNot is a collection of ~850 million real time passwords collated from real time data breaches
+
+### Social 👥
+- [500px](./pages/500px/README.md) - Viewing feature streams, photo information and comments, as well as user profiles
+- [Bluesky (AT Protocol)](./pages/bluesky/README.md) - Bluesky&#x27;s AT Protocol API provides access to decentralized social networking including posts, profiles, follows, feeds, and notifications 🆓
+- [Buffer](./pages/buffer/README.md) - Buffer makes it super easy to share any page you&#x27;re reading
+- [Carro Score](./pages/carro-score/README.md) - Carro makes finding influencers that love your brand easier than ever before
+- [Chat Messaging By Stream](./pages/chat-messaging-by-stream/README.md) - Stream&#x27;s API and SDKs enable developers to build messaging solutions very quickly and reliably
+- [Cisco Spark](./pages/cisco-spark/README.md) - Build the future of business collaboration with Webex
+- [Dailymotion](./pages/dailymotion/README.md) - Build applications centered around DailyMotion
+- [Danbooru](./pages/danbooru/README.md) - Danbooru Imageboard API
+- [DEV.to (Forem)](./pages/dev-to/README.md) - DEV 🆓
+- [DeviantArt](./pages/deviantart/README.md) - The largest social networking website for artists and art enthusiasts
+- [Dicebear Avatars](./pages/dicebear-avatars/README.md) - Avatars is an avatar placeholder library for designers and developers
+- [Discord](./pages/discord/README.md) - Integrate your service with Discord — whether it&#x27;s a bot or a game or whatever your wildest imagination can come up with
+- [Disqus](./pages/disqus/README.md) - Disqus is a global comment system that improves discussion on websites and connects conversations across the web
+- [Dropbox](./pages/dropbox/README.md) - API for accessing stored files and pictures which is easy to use and free for small amounts of data
+- [EventBrite](./pages/eventbrite/README.md) - Eventbrite Python SDK
+- [Facebook API](./pages/facebook-api/README.md) - Helps developers build, grow and monetize their business
+- [Facebook Marketing API](./pages/facebook-marketing-api/README.md) - Marketing API Marketing APIs are a collection of Graph API endpoints that can be used to help you advertise on Facebook
+- [Flickr](./pages/flickr/README.md) - Search through user Flickr content, contacts, upload or replace photos
+- [Foursquare API](./pages/foursquare-api/README.md) - Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants
+- [Foursquare Check-In](./pages/foursquare-check-in/README.md) - Allows you to check in to a place
+- [Fuck Off as a Service](./pages/fuck-off-as-a-service/README.md) - Introduction FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off
+- [Full Contact](./pages/full-contact/README.md) - Build a clearer picture of your customers in minutes with our data-focused APIs
+- [Gfycat](./pages/gfycat/README.md) - Gfycat’s API - collection of GIFs
+- [GoodReads](./pages/goodreads/README.md) - The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social
+- [Gravatar](./pages/gravatar/README.md) - Use the links below to find out more about constructing request URLs, different imp
+- [Gumroad](./pages/gumroad/README.md) - Gumroad helps creators do more of what they love by offering tools to get paid online, they have sent over $202M to artists, designers, educators, writers, influencers and more
+- [Gyazo](./pages/gyazo/README.md) - Take screenshots, GIFS, and replays that are ready to share
+- [Hacker News](./pages/hacker-news/README.md) - Documentation and Samples for the Official HN API
+- [Hacker News GraphQL](./pages/hacker-news-graphql/README.md) - Convenient HackerNews GraphQL wrapper API
+- [Hashnode](./pages/hashnode/README.md) - Hashnode&#x27;s GraphQL API provides access to posts, publications, tags, and user profiles on the developer blogging platform 🆓
+- [Imgur](./pages/imgur/README.md) - Imgur: The magic of the Internet
+- [Instagram](./pages/instagram/README.md) - How to use the Instagram Graph API
+- [LinkedIn](./pages/linkedin/README.md) - Make it convenient for your users to sign in with their professional identity
+- [Mastodon](./pages/mastodon/README.md) - Welcome to the Mastodon documentation
+- [Medium](./pages/medium/README.md) - Documentation for Medium&#x27;s OAuth2 API
+- [Meetup.com](./pages/meetup-com/README.md) - Find groups that host online or in person events and meet people in your local community who share your interests
+- [Microlink](./pages/microlink/README.md) - Generate PDF from any website
+- [MySocialApp](./pages/mysocialapp/README.md) - Build scalable news feed for your app
+- [Notepad Api - Simplenotes](./pages/notepad-api-simplenotes/README.md) - Share the notes with everyone you want.
+- [Open Collective](./pages/open-collective/README.md) - Learn more about it here: https://medium
+- [Pinterest](./pages/pinterest/README.md) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles
+- [Product Hunt API](./pages/producthunt-api/README.md) - Product Hunt&#x27;s GraphQL API provides access to products, posts, collections, topics, and user data 🆓
+- [Pwrtelegram Bot](./pages/pwrtelegram-bot/README.md) - The PWRTelegram MTProto API
+- [Quora API](./pages/quora-api/README.md) - Connect the people who have knowledge to the people who need it, to bring together people with different perspectives so they can understand each other better, and to empower everyone to share their knowledge for the benefit of the rest of the world
+- [Reddit](./pages/reddit/README.md) - Contribute to reddit-archive/reddit development by creating an account on GitHub
+- [Saidit](./pages/saidit/README.md) - Raw Saidit API Wrapper
+- [Sketchfab API](./pages/sketchfab-api/README.md) - Manage your 3D assets
+- [Slack](./pages/slack/README.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations they provide out of the box
+- [Snapchat](./pages/snapchat/README.md) - Snapchat’s private API
+- [SoundCloud](./pages/soundcloud/README.md) - Using the SoundCloud API, you can build applications that take sound on the web to the next level
+- [Strava](./pages/strava/README.md) - API for accessing and managing data about athletes, activities and segments
+- [Telegram](./pages/telegram/README.md) - The Bot API allows you to easily create programs that use Telegram
+- [Threads API](./pages/threads-api/README.md) - Threads API by Meta enables publishing posts, replies, and media, retrieving user profiles, and accessing insights for Threads accounts 🆓
+- [TikTok API](./pages/tiktok-api/README.md) - TikTok&#x27;s Developer API provides access to video publishing, user data, content insights, and the TikTok for Business advertising platform for content creators and brands 🆓
+- [Trash Nothing](./pages/trash-nothing/README.md) - Developer API trash nothing
+- [Tumblr](./pages/tumblr/README.md) - Create new ways to use Tumblr with access to content, likes, followers, and drafts
+- [Twitch](./pages/twitch/README.md) - The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides
+- [Twitter API](./pages/twitter-api/README.md) - Explore now
+- [Twitter Sign-in](./pages/twitter-sign-in/README.md) - Works on websites, iOS, mobile and desktop applications
+- [Uebermaps](./pages/uebermaps/README.md) - uebermaps are interactive maps that enable people to
+- [Untappd](./pages/untappd/README.md) - Access the Untappd API documentation to power your app or project
+- [Viber](./pages/viber/README.md) - Millions of Viber users call, text, and send photos to each other, worldwide - for free
+- [Vimeo](./pages/vimeo/README.md) - Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate
+- [VK](./pages/vk/README.md) - Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community&#x27;s market section)
+- [Weibo](./pages/weibo/README.md) - 9 Block API [NEW]
+- [WhatsApp Business API](./pages/whatsapp-business/README.md) - WhatsApp Business Platform API enables sending and receiving WhatsApp messages, managing message templates, and handling webhooks for business-to-customer communications at scale
+- [Whatsapp Document Interaction](./pages/whatsapp-document-interaction/README.md) - Universal links are the preferred method of linking to a WhatsApp account
+- [Wip](./pages/wip/README.md) - Open API for the maker community
+- [Wordpress](./pages/wordpress/README.md) - WordPress is open source software you can use to create a beautiful website, blog, or app
+- [Yammer API](./pages/yammer-api/README.md) - Yammer Developer Site was created using ReadMe
+- [YouTube](./pages/youtube/README.md) - Add YouTube functionality to your sites and apps
+- [Zomato](./pages/zomato/README.md) - Zomato API
+
+### Space 🚀
+- [arcsecond.io](./pages/arcsecond-io/README.md) - Unified REST APIs for world-wide astronomy data
+- [Astronomy](./pages/astronomy/README.md) - Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth and moon distance from the earth from latitude and longitude or an IPv4 or IPv6 address for a given date
+- [LaunchLibrary](./pages/launchlibrary/README.md) - Aggregated info about space launches.
+- [Open Notify](./pages/open-notify/README.md) - API Examples Current ISS Location The International Space Station is moving at close to 28,000 km/h so its location changes really fast
+- [Spaceflight News](./pages/spaceflight-news/README.md) - The Spaceflight News API lets you add space related news to your apps
+- [SpaceX](./pages/spacex/README.md) - Open Source REST API for rocket, core, capsule, pad, and launch data - r-spacex/SpaceX-API
+- [Weather Source](./pages/weather-source/README.md) - Powerful Weather API built for systems that demand speed, reliability and heavy load
+
+### Sport & Fitness ⚾
+- [balldontlie](./pages/balldontlie/README.md) - Access NBA related data
+- [BikeWise](./pages/bikewise/README.md) - Bicycle registration service.
+- [Broadage Sports Data Api](./pages/broadage-sports-data-api/README.md) - Create your unique project or enrich your content with Broadage Sports real-time data feeds, the flexible and cost effective data solution in the market for more than 10 years, reaching out to millions of users
+- [Canadian Football League (CFL)](./pages/canadian-football-league-cfl/README.md) - CFL API Need assistance
+- [Cartola Fc](./pages/cartola-fc/README.md) - The Cartola FC API serves to check the partial points of your team
+- [City Bikes](./pages/city-bikes/README.md) - Project that provides bike sharing data for apps, research and projects to use 🆓
+- [Ergast F1](./pages/ergast-f1/README.md) - Please read the terms and conditions of use
+- [FIFA women&#x27;s world cup 2019](./pages/fifa-womens-world-cup-2019/README.md) - FIFA women&#x27;s world cup 2019 matches and group stage results
+- [FitBit](./pages/fitbit/README.md) - You&#x27;ll fit in here
+- [Football (Soccer) Video Api By Scorebat](./pages/football-soccer-video-api-by-scorebat/README.md) - Embed codes of videos of the goals and highlights from a number of football leagues and tournaments including the Premier League, Champions League, La Liga, Serie A, Bundesliga and many more
+- [Football Prediction](./pages/football-prediction/README.md) - he API supports competitions in over 90 countries and over 140 national leagues
+- [Football-Data.org](./pages/football-data-org/README.md) - A restful API for football data
+- [Footystats Api - Soccer Stats &amp; Data](./pages/footystats-api-soccer-stats-and-data/README.md) - Affordable Soccer Stats API for making football predictions
+- [Google Fitness API](./pages/google-fitness-api/README.md) - Google Fit is an open ecosystem that makes it easy to store, access, and manage fitness data
+- [HealthGraph](./pages/healthgraph/README.md) - RunKeeper&#x27;s web-based HealthGraph API presents Health Graph data, and provides information about a user and friends
+- [JCDecaux Bike](./pages/jcdecaux-bike/README.md) - From the location of the bike stations to the availability of bikes and parking spaces in real time, use our data to experiment new representations or to provide innovative and useful services to users
+- [NBA Stats](./pages/nba-stats/README.md) - Current and historical NBA Statistics
+- [Nfl Arrests](./pages/nfl-arrests/README.md) - NFL Arrest provides an interactive visualized database of National Football League player Arrests &amp; Charges
+- [NHL Records and Stats](./pages/nhl-records-and-stats/README.md) - Documenting the publicly accessible portions of the NHL API
+- [Nutritionix](./pages/nutritionix/README.md) - Add robust nutrition tracking capability to any health app
+- [Oddsapi](./pages/oddsapi/README.md) - Sports data API provides live and historical sports data from all around the world
+- [Open Food Facts](./pages/open-food-facts/README.md) - Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels 🆓
+- [PandaScore](./pages/pandascore/README.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more
+- [Strava](./pages/strava/README.md) - API for accessing and managing data about athletes, activities and segments
+- [SuredBits](./pages/suredbits/README.md) - This API allows you to query our NFL, NBA and Crypto Exchange data
+- [The Sports Db](./pages/the-sports-db/README.md) - With the Sports DB API you can query teams, players in teams, player details, player contract details, and just about any player or team data from a broad range of sports (from soccer/football to handball)
+- [TheSportsDB](./pages/thesportsdb/README.md) - Various sports events, results, players, teams and high quality artwork
+- [Ufc Data](./pages/ufc-data/README.md) - Ultimate Fighting Championship information for events and fighters
+- [Wger](./pages/wger/README.md) - de/api/v2/ Authentication Public endpoints, such as the list of exercises or the ingredients can be accessed with
+- [Withings](./pages/withings/README.md) - Access to data from Withings activity trackers and body measures
+
+### Statistics & Data 🗃️
+- [Archive.org](./pages/archive-org/README.md) - The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization committed to Universal Access of Knowledge
+- [Census.gov](./pages/census-gov/README.md) - Access demographic, economic and population data from the U
+- [City, Prague Opendata](./pages/city-prague-opendata/README.md) - Welcome to the city-wide port 🆓
+- [Colorado Information Marketplace](./pages/colorado-information-marketplace/README.md) - Dive into Colorado’s water, including wells, surface water conditions, and water rights
+- [Data Demograph](./pages/data-demograph/README.md) - Enrich your contact lists with intelligent demographics
+- [Data Science Toolkit](./pages/data-science-toolkit/README.md) - A collection of the best open data sets and open-source tools for data science 🆓
+- [data.parliament.uk](./pages/data-parliament-uk/README.md) - UK&#x27;s parliament Open Data
+- [District of Columbia Open Data](./pages/district-of-columbia-open-data/README.md) - Goal is for this API is to be your platform for developing apps around DC’s freely available, machine readable data
+- [EAN-Search](./pages/ean-search/README.md) - Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name
+- [EPO](./pages/epo/README.md) - Open Patent Services (OPS) is a web service which provides access to the EPO&#x27;s raw data via a standardised XML interface
+- [GBIF](./pages/gbif/README.md) - Free and open access to biodiversity data
+- [HouseCanary Analytics API](./pages/housecanary-analytics-api/README.md) - Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available
+- [Looker](./pages/looker/README.md) - Looker&#x27;s REST API manages dashboards, looks, queries, users, and data connections
+- [Open Food Facts](./pages/open-food-facts/README.md) - Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels 🆓
+- [Open Government, Canada](./pages/open-government-canada/README.md) - Collaborative open source project led by the Government of Canada
+- [Open Government, Taiwan](./pages/open-government-taiwan/README.md) - Taiwan&#x27;s open data and public service APIs
+- [OpenCorporates](./pages/opencorporates/README.md) - World&#x27;s largest open database of companies
+- [PandaScore](./pages/pandascore/README.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more
+- [Power BI REST API](./pages/powerbi/README.md) - Power BI&#x27;s REST API manages datasets, reports, dashboards, workspaces, and data refreshes
+- [Prague Opendata](./pages/prague-opendata/README.md) - Prague City Open Data
+- [Tableau REST API](./pages/tableau/README.md) - Tableau&#x27;s REST API manages workbooks, views, data sources, projects, and users on Tableau Server and Tableau Cloud
+- [TheSportsDB](./pages/thesportsdb/README.md) - Various sports events, results, players, teams and high quality artwork
+- [UK Police](./pages/uk-police/README.md) - Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A
+- [USA Census API&#x27;S](./pages/usa-census-apis/README.md) - These data are currently used to distribute around $400 B in Federal, State and local funds in ways that help communities plan for schools, social and emergency services, highway improvements and economic developments
+- [USPTO](./pages/uspto/README.md) - United States patent and trademark office API
+- [Wolfram|Alpha](./pages/wolfram-alpha/README.md) - General knowledge on every topic; query it all with natural language input
+
+### Testing 🐞
+- [Bacon Ipsum](./pages/bacon-ipsum/README.md) - JSON API for returning meaty lorem ipsum filler text
+- [CircleCI](./pages/circleci/README.md) - CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI
+- [Dicebear Avatars](./pages/dicebear-avatars/README.md) - Avatars is an avatar placeholder library for designers and developers
+- [Dummyapi.Io](./pages/dummyapi-io/README.md) - Simple API that includes a common data for most of the applications
+- [FakeJSON](./pages/fakejson/README.md) - Easily create custom HTTP resources complete with fake data
+- [Faker API](./pages/faker-api/README.md) - Generate fake data and get by REST API requests
+- [JSONPlaceholder](./pages/jsonplaceholder/README.md) - Free online REST API that you can use whenever you need some fake data
+- [Lorempicsum](./pages/lorempicsum/README.md) - Generate placeholder pictures
+- [Loripsum](./pages/loripsum/README.md) - This Lorem Ipsum generator fits all your Lipsum needs
+- [PhantAuth](./pages/phantauth/README.md) - Random User Generator + OpenID Connect Provider
+- [PIPL API](./pages/pipl-api/README.md) - Free and public API that generates random and fake people&#x27;s data in JSON 🆓
+- [PlaceGoat](./pages/placegoat/README.md) - PlaceGOAT placeholder service.
+- [PlaceKitten](./pages/placekitten/README.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
+- [Random Data Generator](./pages/random-data-generator/README.md) - API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards
+- [RandomUserGenerator](./pages/randomusergenerator/README.md) - Random user generator is a FREE API for generating placeholder user information
+- [ReqRes](./pages/reqres/README.md) - A hosted REST-API ready to respond to AJAX requests
+- [RoboHash](./pages/robohash/README.md) - Generate Unique images from any text
+- [Satyr](./pages/satyr/README.md) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode
+- [This Person Does not Exist](./pages/this-person-does-not-exist/README.md) - This Person Does Not Exist
+- [UI Names](./pages/ui-names/README.md) - A simple tool to generate names for use in designs and mockups
+- [Yes No](./pages/yes-no/README.md) - Yes or No
+
+### Text Analysis & Tools 📖
+- [Aylien Text Analysis](./pages/aylien-text-analysis/README.md) - Explore AYLIEN’s advanced NLP APIs
+- [Cloudmersive Natural Language Processing](./pages/cloudmersive-natural-language-processing/README.md) - Powerful Natural Language Processing APIs
+- [Cohere](./pages/cohere/README.md) - Cohere&#x27;s API provides NLP capabilities including text generation, embeddings, classification, and reranking
+- [Datamuse API](./pages/datamuse-api/README.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
+- [Deepaffects](./pages/deepaffects/README.md) - DeepAffects enables developers to analyze conversational audio by applying powerful machine learning models offered as a set of easy to use REST APIs
+- [Detect Language](./pages/detect-language/README.md) - Detects 164 languages
+- [Everypixel](./pages/everypixel/README.md) - Automatic image keywording and categorization API
+- [Gnews](./pages/gnews/README.md) - Unofficial Google News API
+- [Google Cloud Natural](./pages/google-cloud-natural/README.md) - Enables easy integration of Google natural language understanding technologies into developer applications
+- [IBM Watson](./pages/ibm-watson/README.md) - Build and train models, and create apps, with a trusted AI-infused platform
+- [Intellexer](./pages/intellexer/README.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
+- [languagelayer](./pages/languagelayer/README.md) - Free, powerful language detection JSON API for 173 languages, supporting single and batch requests, PHP, JavaScript, Python, Ruby, Java, and more
+- [Lexalytics](./pages/semantria/README.md) - Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams
+- [MusicBrainz](./pages/musicbrainz/README.md) - The API discussed here is an interface to the MusicBrainz Database
+- [PurgoMalum](./pages/purgomalum/README.md) - PurgoMalum is a simple, free, RESTful web service for filtering and removing content of profanity, obscenity and other unwanted text
+- [Recast.AI](./pages/recast-ai/README.md) - Collaborative chatbot software
+- [Semantira](./pages/semantira/README.md) - To get started check out Install the SDK
+- [SMMRY](./pages/smmry/README.md) - Summarize articles, text, websites, essays and documents online for free with SMMRY
+- [SummarizeBot API](./pages/summarizebot-api/README.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
+- [TextRazor](./pages/textrazor/README.md) - TextRazor is the world&#x27;s fastest and most accurate Natural Language Processing API
+- [Unofficial Google News Api](./pages/unofficial-google-news-api/README.md) - GNews is an API to search for articles from a variety of sources, including Google News
+- [Watson Natural Language Understanding](./pages/watson-natural-language-understanding/README.md) - Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understanding will give you results for the features you request
+- [Wolfram|Alpha](./pages/wolfram-alpha/README.md) - General knowledge on every topic; query it all with natural language input
+- [Wordnik](./pages/wordnik/README.md) - The Wordnik API Docs. Dictionary functions
+- [Yummly](./pages/yummly/README.md) - Find food recipes
+
+### Translation ㊗️
+- [Braille Api](./pages/braille-api/README.md) - It is traditionally written with embossed paper
+- [DeepL](./pages/deepl/README.md) - DeepL API provides high-quality machine translation for 30+ languages 🆓
+- [Fun Translations API](./pages/fun-translations-api/README.md) - World&#x27;s best fun translation tools via REST API
+- [Google Cloud Translation API](./pages/google-translate-v3/README.md) - Google Cloud Translation API v3 provides neural machine translation for 100+ languages with AutoML support, glossaries, batch translation, and document translation capabilities
+- [Lang API](./pages/lang-api/README.md) - LangAPI exists to help developers rapidly translate and localize their apps for users worldwide
+- [Rushtranslate](./pages/rushtranslate/README.md) - RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals
+- [Shakespeare Translation Api](./pages/shakespeare-translation-api/README.md) - Translate from English to Shakespeare English
+- [Starwars Translations Api](./pages/starwars-translations-api/README.md) - Translate from imperial language ( English that is ) to one of the Starwars language
+
+### Transportation 🚇
+- [ADS-B Exchange](./pages/ads-b-exchange/README.md) - Access real-time and historical data of any and all airborne aircraft
+- [AIS Hub](./pages/ais-hub/README.md) - AISHub members have access to AISHub aggregated AIS data via this API and receive real time data in XML, JSON or CSV format
+- [Bay Area Rapid Transit](./pages/bay-area-rapid-transit/README.md) - The BART API gives you access to pretty much all of the BART service and station data available on the BART website
+- [BlaBlaCar](./pages/blablacar/README.md) - Connects people together, making it possible to travel literally anywhere, directly
+- [Community Transit](./pages/community-transit/README.md) - Transitland&#x27;s centralized web service API for both querying and editing aggregated transit data from around the world
+- [Deutsche Bahn Open Data Portal](./pages/transport-for-germany/README.md) - API provides the timetable data
+- [Deutsche Bahn Timetables](./pages/deutsche-bahn-timetables/README.md) - A RESTful web service for timetable information for train stations operated by DB Station&amp;Service AG
+- [GraphHopper](./pages/graphhopper/README.md) - A-to-B routing with turn-by-turn instructions
+- [Indian Railways](./pages/indian-railways/README.md) - Indian Railways Information
+- [Lyft](./pages/lyft/README.md) - Get real-time ETAs, availability, price estimates, ride status through the Lyft API
+- [Metro Lisboa](./pages/metro-lisboa/README.md) - Lisboa metro data
+- [Navitia](./pages/navitia/README.md) - The open API for building cool stuff with transport data
+- [Ola](./pages/ola/README.md) - Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India
+- [OpenRouteService](./pages/openrouteservice/README.md) - OpenRouteService API provides routing, isochrones, geocoding, matrix calculations, and elevation data based on OpenStreetMap 🆓
+- [Schiphol Airport](./pages/schiphol-airport/README.md) - Schiphol Airport&#x27;s API
+- [TomTom](./pages/tomtom/README.md) - TomTom&#x27;s Maps APIs provide routing, geocoding, traffic, search, and map tiles 🆓
+- [TransitLand](./pages/transitland/README.md) - Transitland is a community-edited open data service aggregating transit networks across metropolitan and rural around the world
+- [Transportation in Atlanta, USA](./pages/transport-for-atlanta-us/README.md) - MARTA. Atlanta transporation services 🆓
+- [Transportation in Auckland, New Zealand](./pages/transport-for-auckland-new-zealand/README.md) - The Auckland Transport developer portal is a platform that exposes a diverse range of API&#x27;s and transport data 🆓
+- [Transportation in Belgium](./pages/transport-for-belgium/README.md) - Belgian Transport API 🆓
+- [Transportation in Berlin, Germany](./pages/transport-for-berlin-germany/README.md) - An HTTP API for Berlin &amp; Brandenburg public transport 🆓
+- [Transportation in Bordeaux, France](./pages/transport-for-bordeaux-france/README.md) - Bordeaux Transportion Data 🆓
+- [Transportation in Boston, USA](./pages/transport-for-boston-us/README.md) - Official website of the MBTA -- schedules, maps, and fare information for Greater Boston&#x27;s public transportation system, including subway, commuter rail, bus routes, and boat lines 🆓
+- [Transportation in Budapest, Hungary](./pages/transport-for-budapest-hungary/README.md) - A place where APIs are kept 🆓
+- [Transportation in Chicago, USA](./pages/transport-for-chicago-us/README.md) - The CTA&#x27;s Developer Center offers a variety of data feeds that allow anyone to develop Web, mobile and other applications to help transit riders throughout the Chicago area 🆓
+- [Transportation in Czech Republic](./pages/transport-for-czech-republic/README.md) - CHAPS spol 🆓
+- [Transportation in Denver, USA](./pages/transport-for-denver-us/README.md) - RTD OPEN DATA 🆓
+- [Transportation in Finland](./pages/transport-for-finland/README.md) - Route planning algorithms and APIs… 🆓
+- [Transportation in Grenoble, France](./pages/transport-for-grenoble-france/README.md) - Service that brings together all your travel information in the Grenoble area 🆓
+- [Transportation in Honolulu, USA](./pages/transport-for-honolulu-us/README.md) - « Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data 🆓
+- [Transportation in India](./pages/transport-for-india/README.md) - Your support ID is: 15960026853378924585 [Go Back] 🆓
+- [Transportation in Lisbon, Portugal](./pages/transport-for-lisbon-portugal/README.md) - Data access is free upon registration, in order to enhanc 🆓
+- [Transportation in London, UK](./pages/transport-for-london-england/README.md) - Transport for London open data 🆓
+- [Transportation in Madrid, Spain](./pages/transport-for-madrid-spain/README.md) - Madrid BUS transport API 🆓
+- [Transportation in Manchester, England](./pages/transport-for-manchester-england/README.md) - The s 🆓
+- [Transportation in Minneapolis, USA](./pages/transport-for-minneapolis-us/README.md) - NexTrip API 🆓
+- [Transportation in Netherlands](./pages/transport-for-the-netherlands/README.md) - NS has a large amount of data with information about the planned and current timetable 🆓
+- [Transportation in New York City, USA](./pages/transport-for-new-york-city-us/README.md) - MTA 🆓
+- [Transportation in Ottawa, Canada](./pages/transport-for-ottawa-canada/README.md) - OC Transpo next bus arrival API 🆓
+- [Transportation in Philadelphia, USA](./pages/transport-for-philadelphia-us/README.md) - Southeastern Pennsylvania Transportation Authority API 🆓
+- [Transportation in Sao Paulo, Brazil](./pages/transport-for-sao-paulo-brazil/README.md) - Bus lines in the city of São Paulo 🆓
+- [Transportation in Sweden](./pages/transport-for-sweden/README.md) - Arrival and departure forecasts for buses, metro, commuter trains, local railways and boats in Stockholm 🆓
+- [Transportation in Switzerland](./pages/transport-for-switzerland/README.md) - Here you can view mobility data free of charge and access various services 🆓
+- [Transportation in Toronto, Canada](./pages/transport-for-toronto-canada/README.md) - MyTTC is the best trip planner available for the TTC 🆓
+- [Transportation in United States](./pages/transport-for-united-states/README.md) - NextBus API 🆓
+- [Transportation in Vancouver, Canada](./pages/transport-for-vancouver-canada/README.md) - The TransLink Open API provides access to data associated with the regional bus network, bus service operations, and major road network 🆓
+- [Transportation in Victoria, Australia](./pages/transport-for-victoria-au/README.md) - This page is not yet available on the PTV Beta website 🆓
+- [Transportation in Washington, USA](./pages/transport-for-washington-us/README.md) - GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT 🆓
+- [Uber](./pages/uber/README.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
+- [Uber API](./pages/uber-api/README.md) - API to request Uber rides
+- [WhereIsMyTransport](./pages/whereismytransport/README.md) - WhereIsMyTransport connects public transport data in one place
+
+### Travel ✈️
+- [Amadeus Travel Innovation Sandbox](./pages/amadeus-travel-innovation-sandbox/README.md) - Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel
+- [GraphHopper](./pages/graphhopper/README.md) - A-to-B routing with turn-by-turn instructions
+- [Izi](./pages/izi/README.md) - izi
+- [Lufthansa Open API](./pages/lufthansa-open-api/README.md) - Lufthansa Developer Network
+- [Travel Advisory Data](./pages/travel-advisory-data/README.md) - This is a simple REST API that replies with an UTF8 encoded JSON Object
+- [TripAdvisor Content API](./pages/tripadvisor/README.md) - TripAdvisor&#x27;s Content API provides access to hotel, restaurant, and attraction reviews, photos, ratings, and location details from the world&#x27;s largest travel platform 🆓
+- [Uber](./pages/uber/README.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
+- [Webcams.Travel](./pages/webcams-travel/README.md) - Webcams
+
+### URLs 🔗
+- [Bit.Ly API](./pages/bit-ly-api/README.md) - The Bitly API Bitly is the most widely trusted link management platform in the world
+- [Bitly](./pages/bitly/README.md) - Access to Bitly’s API
+- [CleanURI](./pages/cleanuri/README.md) - API Documentation cleanuri
+- [ClickMeter](./pages/clickmeter/README.md) - ClickMeter API RESTful services
+- [Google URL Shortener API](./pages/google-url-shortener-api/README.md) - Used by Google products to create short URLs that can be easily shared, tweeted, or emailed to friends
+- [Is.gd](./pages/is-gd/README.md) - Simple URL shortener
+- [LinkPreview](./pages/linkpreview/README.md) - Preview Web links with our reliable API service
+- [Long Url Shortener](./pages/long-url-shortener/README.md) - Given a long URL, returns a short link
+- [Microlink](./pages/microlink/README.md) - Generate PDF from any website
+- [Naver URL Shortener](./pages/naver-url-shortener/README.md) - Access to Naver’s URL shortening API
+- [Rebrandly](./pages/rebrandly/README.md) - Rebrandly is the link management platform to brand, track and share short URLs using a custom domain name
+- [Shrtco.De Api](./pages/shrtco-de-api/README.md) - Secure and reliable Online Tools
+- [Shrtlnk.dev](./pages/shrtlnk-dev/README.md) - URL shortener API
+- [ShrtURI](./pages/shrturi/README.md) - API Documentation This is version 3 of the shrturi
+- [Tiny.cc](./pages/tiny-cc/README.md) - Easy-to-use URL shortener
+- [Tiny.UID](./pages/tiny-uid/README.md) - API Documentation tinyuid
+- [V.gd](./pages/v-gd/README.md) - Simple URL shortener
+- [Yourls](./pages/yourls/README.md) - Generate or get existing short URLs, with sequential or custom keyword
+- [Zero Width Shortener](./pages/zero-width-shortener/README.md) - Shorten URLs with invisible spaces
+
+### Validation & Verification ✅
+- [Abstract API](./pages/abstractapi/README.md) - Abstract API provides a suite of utility APIs including email validation, phone validation, IP geolocation, VAT validation, currency exchange, and holiday data via simple REST endpoints 🆓
+- [Antideo](./pages/antideo/README.md) - API for IP and Email Intelligence &amp; Phone Number Validation
+- [Approveapi](./pages/approveapi/README.md) - A simple API to request a user&#x27;s real-time approval on any device or platform via Email, SMS, Slack, and in-app mobile Push
+- [BlockScore](./pages/blockscore/README.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
+- [Clarifai](./pages/clarifai/README.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
+- [Cloudmersive Validate](./pages/cloudmersive-validate/README.md) - Data Validation APIs
+- [Cognito](./pages/cognito/README.md) - Can take a customer&#x27;s cellphone number and return name, address history, full SSN, and date of birth
+- [Form-Api](./pages/form-api/README.md) - Build forms easily, autocomplete and validate data
+- [FraudLabs Pro](./pages/fraudlabs-pro/README.md) - FraudLabs Pro Rest API to screen the order transaction for online fraud
+- [ipstack](./pages/ipstack/README.md) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
+- [Let&#x27;S Validate](./pages/lets-validate/README.md) - Uncovers the technologies used on websites and URL to thumbnail
+- [Lob.com](./pages/lob-com/README.md) - Lob provides direct mail and address verification APIs that allow businesses to send timely, personalized, automated offline communications to their customers
+- [mailboxlayer](./pages/mailboxlayer/README.md) - Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering
+- [NumValidate](./pages/numvalidate/README.md) - Free and open source REST API that provides a simple yet effective way to validate and format a phone number
+- [numverify](./pages/numverify/README.md) - Free, powerful JSON API offering international and national phone number validation and carrier, location and line type lookup for developers and businesses
+- [Onfido](./pages/onfido/README.md) - Our document verification and facial biometrics technology lets your users verify themselves anywhere, anytime
+- [Phone Number Validation](./pages/phone-number-validation/README.md) - Check phone number validity, location and timezones
+- [Phone Validator](./pages/phone-validator/README.md) - Free phone number validation provided by PhoneValidator
+- [PurgoMalum](./pages/purgomalum/README.md) - PurgoMalum is a simple, free, RESTful web service for filtering and removing content of profanity, obscenity and other unwanted text
+- [SecurityTrails](./pages/securitytrails/README.md) - SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
+- [US Street Address](./pages/us-street-address/README.md) - Verify one or more addresses using the SmartyStreets US Street Address API
+- [Validator.Pizza](./pages/validator-pizza/README.md) - pizza is made to prevent users to register to websites with a disposable email address
+- [VATComply.com](./pages/vatcomply-com/README.md) - VAT Number Validation API, Geolocation API, Exchange rates API
+- [vatlayer](./pages/vatlayer/README.md) - Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers &amp; businesses
+- [WebPurify](./pages/webpurify/README.md) - Provides live image moderation by humans or AI-based image moderation service
+- [Whitepages Pro](./pages/whitepages-pro/README.md) - Global Identity Verification API
+
+### Vehicles 🚗
+- [BlaBlaCar](./pages/blablacar/README.md) - Connects people together, making it possible to travel literally anywhere, directly
+- [Brazilian Vehicles and Prices](./pages/brazilian-vehicles-and-prices/README.md) - Table FIPE Consultation API provides average vehicle prices in the brazilian market through a RESTful HTTP Json service 🆓
+- [Car Registration Api](./pages/car-registration-api/README.md) - Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian number plate (rego)
+- [CarsXE API](./pages/carsxe-api/README.md) - Get access to millions of vehicle records, specs, ownership costs and market values
+- [HyperTrack](./pages/hypertrack/README.md) - Build applications that track the movement of your business
+- [Kelley Blue Book](./pages/kelley-blue-book/README.md) - KBB
+- [Mercedes-Benz](./pages/mercedes-benz/README.md) - Mercedes-Benz&#x27;s live API products
+- [NHTSA](./pages/nhtsa/README.md) - Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications
+- [Open Charge Map](./pages/open-charge-map/README.md) - Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world
+- [Smartcar](./pages/smartcar/README.md) - Build web and mobile apps that communicate with vehicles
+
+### Video & Media 🎥
+- [Acoustid](./pages/acoustid/README.md) - Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database
+- [An API of Ice And Fire](./pages/an-api-of-ice-and-fire/README.md) - The API is open source! 🆓
+- [Braille Api](./pages/braille-api/README.md) - It is traditionally written with embossed paper
+- [Breaking Bad &amp; Better Call Saul API](./pages/breaking-bad-and-better-call-saul-api/README.md) - Get data about characters, episodes, quotes, and deaths
+- [Breaking Bad Quotes](./pages/breaking-bad-quotes/README.md) - A free API to retrieve some quotes of Breaking Bad
+- [Cisco Spark](./pages/cisco-spark/README.md) - Build the future of business collaboration with Webex
+- [CivicFeed](./pages/civicfeed/README.md) - Get online news, blogs, social and TV/radio through a JSON API - easy integration for developers
+- [Clarifai](./pages/clarifai/README.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
+- [Cloudinary](./pages/cloudinary/README.md) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs
+- [Czech Television](./pages/czech-television/README.md) - Czech Television TV Program
+- [Dailymotion](./pages/dailymotion/README.md) - Build applications centered around DailyMotion
+- [Deezer](./pages/deezer/README.md) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer&#x27;s music catalogue
+- [Filestack](./pages/filestack/README.md) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget
+- [Final Space API](./pages/final-space-api/README.md) - The Final Space API is a RESTful API based on the television show Final Space
+- [Flickr](./pages/flickr/README.md) - Search through user Flickr content, contacts, upload or replace photos
+- [Football (Soccer) Video Api By Scorebat](./pages/football-soccer-video-api-by-scorebat/README.md) - Embed codes of videos of the goals and highlights from a number of football leagues and tournaments including the Premier League, Champions League, La Liga, Serie A, Bundesliga and many more
+- [Getty Images](./pages/getty-images/README.md) - Page moved here. Page moved here
+- [Gifs.Com Public API](./pages/gifs-com-public-api/README.md) - com API makes it dead simple to convert and transcode a vast array of media into our HTML5 optimized gifs
+- [Gracenote](./pages/gracenote/README.md) - Largest source of music and video metadata on the planet
+- [Gyazo](./pages/gyazo/README.md) - Take screenshots, GIFS, and replays that are ready to share
+- [Harry Potter](./pages/harry-potter/README.md) - Harry Potter API 🆓
+- [Harvard Art Museums](./pages/harvard-art-museums/README.md) - The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects
+- [Kaltura VPaaS](./pages/kaltura-vpaas/README.md) - Build video apps and add native video capabilities to your products
+- [Liveedu](./pages/liveedu/README.md) - Live Coding Streaming
+- [Loom](./pages/loom/README.md) - Loom&#x27;s API provides access to recorded videos, transcripts, viewer analytics, and workspace data 🆓
+- [Netflix API](./pages/netflix-api/README.md) - The service that handles the (sign-up, discovery and playback) traffic from all devices from all users
+- [OMDB](./pages/omdb/README.md) - The Open Movie Database
+- [Open Movie Database](./pages/open-movie-database/README.md) - Attention Users 04/08/19 - Added support for eight digit IMDb IDs
+- [Rocketium Video API](./pages/rocketium-video-api/README.md) - Create multiple videos with your logo, captions, and background music in different aspect ratios
+- [Ron Swanson Quotes](./pages/ron-swanson-quotes/README.md) - Node
+- [ScreenshotAPI.net](./pages/screenshotapi-net/README.md) - Use one simple API call to generate screenshots of any website
+- [Shotstack](./pages/shotstack/README.md) - Shotstack API enables programmatic video editing and generation
+- [Shutterstock](./pages/shutterstock/README.md) - Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more
+- [STAPI](./pages/stapi/README.md) - Information on all things Star Trek
+- [SWAPI](./pages/swapi/README.md) - A Remake of the original api, using the MERN stack
+- [Telegram](./pages/telegram/README.md) - The Bot API allows you to easily create programs that use Telegram
+- [Teleport](./pages/teleport/README.md) - Welcome to Teleport for Developers
+- [The Lord of the Rings](./pages/the-lord-of-the-rings/README.md) - The Lord of the Rings API - The one API
+- [TikTok API](./pages/tiktok-api/README.md) - TikTok&#x27;s Developer API provides access to video publishing, user data, content insights, and the TikTok for Business advertising platform for content creators and brands 🆓
+- [TMDb](./pages/tmdb/README.md) - TMDb provides powerful searches as well as powerful movie discovery
+- [Trakt](./pages/trakt/README.md) - Trakt collect lots of information about what tv shows and movies everyone is watching
+- [TVDB](./pages/tvdb/README.md) - Token Added. Token Added
+- [TVmaze](./pages/tvmaze/README.md) - Add schedules, show, episode, cast information
+- [Utelly](./pages/utelly/README.md) - Check where a tv show or movie is available
+- [Viber](./pages/viber/README.md) - Millions of Viber users call, text, and send photos to each other, worldwide - for free
+- [Vimeo](./pages/vimeo/README.md) - Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate
+- [YouTube](./pages/youtube/README.md) - Add YouTube functionality to your sites and apps
+- [YouTube API](./pages/youtube-api/README.md) - Add YouTube functionality to your sites and apps
+- [Zoom API](./pages/zoom-api/README.md) - Zoom&#x27;s REST API manages meetings, webinars, users, recordings, and reports 🆓
+
+### Virtual & Augmented Reality 📱
+- [Facebook API](./pages/facebook-api/README.md) - Helps developers build, grow and monetize their business
+- [Sketchfab API](./pages/sketchfab-api/README.md) - Manage your 3D assets
+- [Wikitude](./pages/wikitude/README.md) - Powerful augmented reality apps
+
+### Visualizations 📊
+- [D3 Visualization](./pages/d3-visualization/README.md) - D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS
+- [Google Charts](./pages/google-charts/README.md) - Free tool with a wide range of capabilities for visualizing data from a website
+- [Google Visualization API](./pages/google-visualization-api/README.md) - This page lists the objects exposed by the Google Visualization API, and the standard methods exposed by all visualizations
+- [Image-Charts](./pages/image-charts/README.md) - A drop-in-replacement for the deprecated Google Image Charts
+- [Mapbox](./pages/mapbox/README.md) - Access to MapBox’s API
+- [Matlab](./pages/matlab/README.md) - MATLAB is a high-level language and interactive environment for numerical computation, visualization, and programming
+- [Noun Project](./pages/noun-project/README.md) - Grab a hold of the World’s Visual Language
+- [QuickChart](./pages/quickchart/README.md) - Create a chart image with one API call and embed it anywhere
+
+### Voice 🎙️
+- [Amazon Transcribe](./pages/amazon-transcribe/README.md) - Automatically convert speech to text
+- [AssemblyAI](./pages/assemblyai/README.md) - AssemblyAI&#x27;s API provides speech-to-text transcription, speaker diarization, sentiment analysis, topic detection, and summarization from audio and video files
+- [Blogcast](./pages/blogcast/README.md) - Generate audio versions of your articles
+- [Cloudpronouncer](./pages/cloudpronouncer/README.md) - Text To Speech API
+- [Deepaffects](./pages/deepaffects/README.md) - DeepAffects enables developers to analyze conversational audio by applying powerful machine learning models offered as a set of easy to use REST APIs
+- [Deepgram](./pages/deepgram/README.md) - Deepgram&#x27;s API offers real-time and batch speech recognition with high accuracy 🆓
+- [Discord](./pages/discord/README.md) - Integrate your service with Discord — whether it&#x27;s a bot or a game or whatever your wildest imagination can come up with
+- [ElevenLabs](./pages/elevenlabs/README.md) - ElevenLabs API provides AI voice generation and cloning 🆓
+- [Google Speech-to-Text API](./pages/google-speech-to-text-api/README.md) - Accurately convert speech into text using an API powered by Google’s AI technologies
+- [Houndify](./pages/houndify/README.md) - The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and retain data ownership and customer relationships
+- [IBM Watson](./pages/ibm-watson/README.md) - Build and train models, and create apps, with a trusted AI-infused platform
+- [MessageBird](./pages/messagebird/README.md) - MessageBird&#x27;s API provides SMS, voice, WhatsApp, email, and live chat communications 🆓
+- [Microsoft Cognitive Services](./pages/microsoft-cognitive-services/README.md) - A comprehensive family of AI services and cognitive APIs to help you build intelligent apps
+- [Nexmo](./pages/nexmo/README.md) - Make and receive phone calls, send and receive SMS worldwide
+- [Otter.ai](./pages/otterai/README.md) - Generates rich notes for meetings, interviews, lectures, and other important voice conversations
+- [rev.ai](./pages/revai/README.md) - Accurate Speech-to-Text APIs for all of your speech recognition needs
+- [Sms And Phone Calls Api - 46elks](./pages/sms-and-phone-calls-api-46elks/README.md) - Integrate SMS, MMS and Phone calls into your applications with just a few lines of code
+- [Twilio](./pages/twilio/README.md) - APIs for SMS, Voice, Video and more
+- [Viber](./pages/viber/README.md) - Millions of Viber users call, text, and send photos to each other, worldwide - for free
+- [Vonage (Nexmo)](./pages/vonage/README.md) - Vonage&#x27;s Communications APIs provide SMS, voice calls, video, WhatsApp, and verification services 🆓
+
+### Weather ☔
+- [7Timer!](./pages/7timer/README.md) - Last Update: November 1, 2012 7Timer
+- [AerisWeather](./pages/aerisweather/README.md) - AerisWeather provides a powerful weather API, mapping platform, and developer toolkits that allow weather-sensitive businesses worldwide to operate more efficiently, safely, and profitably
+- [AirVisual](./pages/airvisual/README.md) - Enhance your projects with free trusted historical, real-time and forecast air quality data
+- [APIXU](./pages/apixu/README.md) - Get current weather information, historical data and forecasts using weatherstack - a free world weather REST API supporting millions of global locations
+- [Climacell Micro Weather](./pages/climacell-micro-weather/README.md) - Historical, real-time and nowcast weather data.
+- [Dark Sky](./pages/dark-sky/README.md) - Weather API
+- [Foreca Weather Warnings](./pages/foreca-weather-warnings/README.md) - Data feed of the governmental severe weather warnings
+- [MetaWeather](./pages/metaweather/README.md) - API MetaWeather provides an API that delivers JSON over HTTPS for access to our data
+- [Meteorologisk Institutt](./pages/meteorologisk-institutt/README.md) - A
+- [NOAA Climate Data](./pages/noaa-climate-data/README.md) - Climate Data Online (CDO) provides free access to NCDC&#x27;s archive of global historical weather and climate data in addition to station history information
+- [ODWeather](./pages/odweather/README.md) - Weather for boating
+- [Open Weather](./pages/open-weather/README.md) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts
+- [Open-Meteo](./pages/open-meteo/README.md) - Open-Meteo is a free, open-source weather API with no API key required 🆓
+- [OpenUV](./pages/openuv/README.md) - The minimalistic JSON real-time UV Index API
+- [OpenWeatherMap](./pages/openweathermap/README.md) - Simple and fast and free weather API from OpenWeatherMap
+- [Storm Glass Marine Weather API](./pages/storm-glass-marine-weather-api/README.md) - Read More
+- [Tomorrow.io](./pages/tomorrow-io/README.md) - Tomorrow 🆓
+- [Visual Crossing Weather Api](./pages/visual-crossing-weather-api/README.md) - Weather API for businesses &amp; data science
+- [Weather Source](./pages/weather-source/README.md) - Powerful Weather API built for systems that demand speed, reliability and heavy load
+- [WeatherAPI](./pages/weatherapi/README.md) - WeatherAPI provides real-time, forecast, and historical weather data, plus astronomy, time zone, and geolocation information 🆓
+- [Weatherbit](./pages/weatherbit/README.md) - Weather API Documentation
+- [Webcams.Travel](./pages/webcams-travel/README.md) - Webcams
+- [Wunderground API](./pages/wunderground-api/README.md) - Reliable data, accurate forecast, &amp; global coverage in 80 languages
+- [Yahoo Weather](./pages/yahoo-weather/README.md) - Yahoo Weather API for your apps Get up-to-date weather information for any location, including 10-day forecast, wind, atmosphere, astronomy conditions, and more
+
+### Wiki 📗
+- [Genius](./pages/genius/README.md) - Allows users to find details about Genius artists and songs
+- [Wikidata](./pages/wikidata/README.md) - Wikidata is a free and open knowledge base that can be read and edited by both humans and machines
+- [Wikimedia REST API](./pages/wikimedia/README.md) - Wikimedia&#x27;s REST API provides access to Wikipedia articles, summaries, page metadata, media files, and editing history across all Wikimedia projects in multiple formats 🆓
+- [Wikipedia](./pages/wikipedia/README.md) - Free multilingual Encyclopedia.
+- [Wikipedia API](./pages/wikipedia-api/README.md) - A web service that provides convenient access to wiki features, data, and meta-data over HTTP, via a URL usually at api
+
+### Other ✨
+- [Airports Web](./pages/airports-web/README.md) - Covered Airports mostly Germany
+- [API Test Center](./pages/api-test-center/README.md) - Innovative License Management Solution
+- [Callook.info](./pages/callook-info/README.md) - A
+- [Carbon Intensity](./pages/carbon-intensity/README.md) - Regional Data new National Grid ESO forecasts the carbon intensity and generation mix of electricity consumed across 14 geographical regions in Great Britain
+- [Charity Search](./pages/charity-search/README.md) - The OrgHunter Charity API provides developers access to over 2M charities in it&#x27;s database
+- [Dataflow Kit](./pages/dataflow-kit/README.md) - Web Scraper API to extract information from web sites, scrape SERPs, convert web pages to PDF, and capture screenshots
+- [Don&#x27;t Kill My App](./pages/dont-kill-my-app/README.md) - Android vendors, don&#x27;t kill my app
+- [Dronestream](./pages/dronestream/README.md) - Tracks United States drone strikes
+- [Evident Proof](./pages/evident-proof/README.md) - Users of Evident Proof can plug any data source sitting on current databases to Evident Proof’s immutable un-hackable Blockchain data platform and through Evident Proof&#x27;s Verification Bundle &amp; Proof Seals Engine produce court-ready certificates for any data or workflow to prove data has not been tampered with or hacked, and/or meets GDPR, HIPPA, FISMA, Sarbanes-Oxley and other Regulatory Compliance
+- [Evil Insult Generator](./pages/evil-insult-generator/README.md) - The following parameters are optional lang - The language of the insult you want
+- [Game of Thrones Quotes](./pages/game-of-thrones-quotes/README.md) - A free API to retrieve some quotes of Game of Thrones
+- [Gender API](./pages/gender-api-2/README.md) - Determine gender of first name
+- [Geo Info](./pages/geo-info/README.md) - A simple free reverse geocoding API for turning coordinates into human readable locations
+- [Global Solar Forecasting And Irradiance](./pages/global-solar-forecasting-and-irradiance/README.md) - Solar radiation and forecasting data globally available and free for researchers, hobbyists 🆓
+- [Ip Address Api](./pages/ip-address-api/README.md) - IP Address API free service provides country name, 2 symbol code and 3 symbol code for free
+- [Ip Finder](./pages/ip-finder/README.md) - Locate website visitors for free using ipfinder - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
+- [Iplegit.Com](./pages/iplegit-com/README.md) - Easily detect possible bad users and act upon them
+- [JSONbin.io](./pages/jsonbin-io/README.md) - Free JSON data storage service, ideal for small scale web apps, website, mobile apps
+- [Labs64 NetLicensing](./pages/labs64-netlicensing/README.md) - Innovative License Management Solution
+- [Logdna](./pages/logdna/README.md) - Learn about logging, how to get started, and how to maximize our log collection, monitoring, retention, alerting, and analysis features
+- [Makeup](./pages/makeup/README.md) - Search makeup products
+- [National Flood Data (US)](./pages/national-flood-data-us/README.md) - The FEMA Flood Map API offers up-to-date FEMA flood zone maps and data that can be easily embedded into partners&#x27; products or workflow
+- [Neobi](./pages/neobi/README.md) - A comprehensive Cannabis database includes products, prices, stock and inventory status, images, Producer and Brand information and other metadata
+- [Recreation Information Database](./pages/recreation-information-database/README.md) - Recreation
+- [Rig Veda API](./pages/rig-veda-api/README.md) - All of the poets and gods in the Rig Veda, presented with the mandal and sukta numbers they&#x27;re mentioned in, the meters the verses are composed in, and the categories the poets and gods belong to
+- [RiteKit](./pages/ritekit/README.md) - Looking for hashtag suggestions, analytics, trend data, influencers of a hashtag or historical data
+- [Sheet2site Api](./pages/sheet2site-api/README.md) - Create JSON from Google Sheets without writing code
+- [Simple Analytics](./pages/simple-analytics/README.md) - Simple, clean, and friendly analytics for developers (privacy focused alternative to Google Analytics)
+- [StackExchange](./pages/stackexchange/README.md) - The StackExchange API provides RESTful services to all the sites on the StackExchange domain
+- [ToSDR terms of service API](./pages/tosdr-terms-of-service-api/README.md) - Terms of service are often too long to read, but it&#x27;s important to understand what&#x27;s in them
+- [Trace.Moe](./pages/trace-moe/README.md) - Scan anime image to get specific detail
+- [Vedic Society API](./pages/vedic-society-api/README.md) - A description of all of the nouns in vedic literature, including the flora, fauna, geography, food, relationships, and objects (personal nouns not included, though)
+- [Wallhaven](./pages/wallhaven/README.md) - wallhaven. cc help docs!. A huge wallpaper library
+- [Web Crawl Data](./pages/web-crawl-data/README.md) - An open repository of web crawl data that can be accessed and analyzed by anyone
+- [Website Text Extraction](./pages/website-text-extraction/README.md) - Scrape websites and get their content as plaintext
+- [Who Hosts This](./pages/who-hosts-this/README.md) - Detect the hosting provider powering any web site
+
+
+## Graveyard 🪦
+APIs that are no longer available, kept for the record.
+- [3ps](./pages/3ps/README.md)
+- [Abbreviation](./pages/abbreviation/README.md) - Get abbreviations and meanings
+- [Adorable Avatars](./pages/adorable-avatars/README.md) - Generate random cartoon avatars
+- [Ais Web](./pages/ais-web/README.md) - Aeronautical information in digital media produced by the Department of Airspace Control (DECEA)
+- [Anon.click](./pages/anon-click/README.md) - Shorten long URLs and optionally protect them with passwords or captcha
+- [Apility.io](./pages/apility-io/README.md)
+- [Axfr Database](./pages/axfr-database/README.md) - AXFR public database
+- [BetterDoctor](./pages/betterdoctor/README.md) - BetterDoctor API is the most frequently updated and trusted source of doctor data
+- [Booknomads](./pages/booknomads/README.md) - 5 million), book covers and related data
+- [Business.Gov API](./pages/business-gov-api/README.md) - Create the Uber for anything, a small business API for on-demand fulfillment
+- [Celebinfo](./pages/celebinfo/README.md) - Celebrity information
+- [Channel Messaing API](./pages/channel-messaing-api/README.md) - Channel Messaging API lets your build real-time application
+- [Choppingboard.Recipes](./pages/choppingboard-recipes/README.md)
+- [City Context](./pages/city-context/README.md) - Crime, school and transportation data for US cities
+- [Coinbin](./pages/coinbin/README.md) - Cryptocurrency information
+- [Contentxtractor](./pages/contentxtractor/README.md) - Extract relevant content from articles
+- [Count.Io](./pages/count-io/README.md) - Persistent counting and A/B testing
+- [Cricket Live Scores](./pages/cricket-live-scores/README.md) - Live cricket scores
+- [Cryptostandardizer](./pages/cryptostandardizer/README.md) - Standardize crypto coin symbols (eg
+- [Datakick](./pages/datakick/README.md) - The open product database.
+- [Del.Icio.Us API](./pages/del-icio-us-api/README.md) - Keep, share, and discover the best of the Web using Delicious, the world&#x27;s leading social bookmarking service
+- [Delion.Io](./pages/delion-io/README.md) - A powerful API for developers and companies to explore and develop new apps based on IOTA distributed ledger technology
+- [Digital Owl Free Text Classification Api](./pages/digital-owl-free-text-classification-api/README.md) - Free for use text classification, sentiment analysis, semantic similarity and word analysis api
+- [Edmunds](./pages/edmunds/README.md) - A dataset containing all the car makes
+- [ERMAHGERD Translator](./pages/ermahgerd-translator/README.md) - This translates text to ERMAHGERD
+- [Face++](./pages/face/README.md) - Let’s you detect the information of a given photo (face location, age, race, gender etc
+- [Feedster](./pages/feedster/README.md) - Searchable and categorized collections of RSS feeds
+- [FengShui](./pages/fengshui/README.md) - Let’s you enter your name and the name of your partner/lover/crush to find Love compatibility &amp; chances of successful love relationship
+- [Fhir](./pages/fhir/README.md) - Fast Healthcare Interoperability Resources test data
+- [Figo](./pages/figo/README.md) - Banking API that allows you to extract financial data such as transaction history, account balance, account owner name and others to extract from any financial account
+- [Food2fork](./pages/food2fork/README.md) - Recipe Search
+- [Goibibo](./pages/goibibo/README.md) - API for travel search
+- [Google Buzz API](./pages/google-buzz-api/README.md) - A social platform that both users and developers can interact with, the company has faced some difficulty in gaining ongoing traction
+- [Gowalla API](./pages/gowalla-api/README.md) - Gather and compare all kinds of interesting data, they weren&#x27;t really interactive with Gowalla itself
+- [Hampton Roads Crime](./pages/hampton-roads-crime/README.md) - Let’s you get most recent and historical crime data so you feel safe in your neighbourhood
+- [Heroes GraphQL API](./pages/heroes-graphql-api/README.md)
+- [Hipster Ipsum](./pages/hipster-ipsum/README.md) - Generates Hipster Ipsum text
+- [Holiday API (holidayapi.pl)](./pages/holiday-api/README.md) - Public holiday API service for several supported countries
+- [IBM Visual Recognition](./pages/ibm-visual-recognition/README.md) - The IBM Watson Visual Recognition service uses deep learning algorithms to identify scenes and objects in images that you upload to the service
+- [Identi.Ca API](./pages/identi-ca-api/README.md) - It pumps your life in and out of your friends, family and colleagues
+- [IP Vigilante](./pages/ip-vigilante/README.md) - IP Vigilante provides a free geographical IP locator API, so the developers can obtain geographical information of an IP in various formats: JSON and CSV
+- [Jesus Api](./pages/jesus-api/README.md)
+- [Job Titles And Professionals Skills Api](./pages/job-titles-and-professionals-skills-api/README.md) - Like job and skill match etc
+- [Livecoin](./pages/livecoin/README.md)
+- [Lorem Text](./pages/lorem-text/README.md) - Generates Lorem Ipsum text
+- [MercadoBitcoin](./pages/mercadobitcoin/README.md)
+- [Mlrequest](./pages/mlrequest/README.md) - Serverless, high-performance machine learning contained in a simple API
+- [Musikki](./pages/musikki/README.md) - Music
+- [Myjson](./pages/myjson/README.md) - A simple JSON store for your web or mobile app
+- [MySpace API](./pages/myspace-api/README.md) - A social networking website offering an interactive, user-submitted network of friends, personal profiles, blogs, groups, photos, music, and videos
+- [NanoSDK](./pages/nanosdk/README.md)
+- [News Feed Search](./pages/news-feed-search/README.md) - Free news search API
+- [Next Big Sound API](./pages/next-big-sound/README.md) - Next Big Sound helps artists and their teams use Pandora to understand performance, grow audiences, and fuel strategy
+- [Notable And Quotable Random Quote](./pages/notable-and-quotable-random-quote/README.md) - Gets you a random quote from famous movies in XML,SOAP format
+- [Path Tech Crypto API](./pages/path-tech-crypto-api/README.md) - Single interface to retrieve transactions across crypto exchanges and wallets
+- [Pixhost](./pages/pixhost/README.md) - Upload images, photos, galleries
+- [Population.Io](./pages/population-io/README.md) - Open demographic data such as population tables, population rank and life expectancy
+- [Posterous API](./pages/posterous-api/README.md) - Similar to other blogging platforms
+- [Pro Motocross](./pages/pro-motocross/README.md) - The RESTful AMA Pro Motocross lap times for every racer on the start gate
+- [Qriusity](./pages/qriusity/README.md)
+- [Quotes on Design](./pages/quotes-on-design/README.md) - Quotes on Design
+- [Restwords](./pages/restwords/README.md) - You can GET to retrieve your text and you can POST to change your stored text
+- [Robohash Image Generator](./pages/robohash-image-generator/README.md) - Generates cool looking robot image for any text
+- [Rss News Api](./pages/rss-news-api/README.md)
+- [Scrape Website Email](./pages/scrape-website-email/README.md) - Grabs email addresses from a URL
+- [Scrapeboss](./pages/scrapeboss/README.md) - Return developer friendly JSON data for almost any article
+- [Sharedcount](./pages/sharedcount/README.md) - Social media like and share data for any URL.
+- [Shopping.Com API](./pages/shopping-com-api/README.md) - Makes it easy to search for things on eBay
+- [SimpleGeo API](./pages/simplegeo-api/README.md) - Offers an API that allows developers to build location-aware applications for mobile devices
+- [Texas Holdem](./pages/texas-holdem/README.md) - With this API you can easily create a full Texas Holdem game, just create the graphic and associate it with the results
+- [Textfilter Api](./pages/textfilter-api/README.md) - Convert web page content into epub, Kindle/mobi and multi-column PDF files
+- [The Star Wars Api](./pages/the-star-wars-api/README.md) - All the Star Wars data you&#x27;ve ever wanted: Planets, Spaceships, Vehicles, People, Films and Species
+- [Transportation in Paris, France](./pages/transport-for-paris-france/README.md) - Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
+- [Tweetmeme API](./pages/tweetmeme-api/README.md) - Provides third-party integration with the TweetMeme web service, used to track popular links on Twitter
+- [Upcoming.Org API](./pages/upcoming-org-api/README.md) - A simple way to share and discover interesting events from your friends, followers, and the artists and organizations you care about
+- [Vat Rates](./pages/vat-rates/README.md) - A collection of all VAT rates for EU countries
+- [Voice Actions Jeannie](./pages/voice-actions-jeannie/README.md) - Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, now also available via API
+- [WatchMouse API](./pages/watchmouse-api/README.md) - Offers self-service website and application performance monitoring solutions
+- [Windows Live Spaces API](./pages/windows-live-spaces-api/README.md) - Included a blogging system, photo gallery, lists, friends, a guestbook, and a social profile
+- [Word Cloud Maker](./pages/word-cloud-maker/README.md) - Multi color and different sizes illustrate the frequency, and the “vibe” of the bigger text
+- [Wunderlist](./pages/wunderlist/README.md) - Todo Lists
+- [Yahoo Image Search API](./pages/yahoo-image-search-api/README.md) - Web Service allows you to search the Internet for images
+
+## Credits
+
+This project was bootstrapped from and heavily inspired by
+[tools-collection/apis-collection](https://github.com/tools-collection/apis-collection) (MIT licensed —
+see [NOTICE](./NOTICE)). Huge thanks to its maintainers and contributors for the original dataset and idea.
+
+## Similar projects
+
+Inspired by:
+- [tools-collection/apis-collection](https://github.com/tools-collection/apis-collection) — the original project this collection was bootstrapped from
+
+Also worth checking out:
+- [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory)
+
+Maintained by [Bigibyte](https://github.com/Bigibyte).

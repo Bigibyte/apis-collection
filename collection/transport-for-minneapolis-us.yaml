@@ -1,0 +1,9 @@
+name: Transportation in Minneapolis, USA
+slug: transport-for-minneapolis-us
+description: NexTrip API
+categories:
+  - Transportation
+pricing: free
+links:
+  - name: Docs / Website
+    url: https://svc.metrotransit.org/

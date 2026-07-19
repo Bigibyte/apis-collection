@@ -1,0 +1,10 @@
+name: OpenAPI
+slug: openapi
+description: "The OpenAPI Specification: a broadly adopted industry standard for describing modern APIs."
+categories:
+  - Development
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://www.openapis.org

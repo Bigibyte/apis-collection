@@ -1,0 +1,10 @@
+name: Breaking Bad Quotes
+slug: breaking-bad-quotes
+description: A free API to retrieve some quotes of Breaking Bad.
+categories:
+  - Video & Media
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://breakingbadquotes.xyz/

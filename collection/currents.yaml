@@ -1,0 +1,17 @@
+name: Currents
+slug: currents
+description: Currents - Capture the world news through simple json News API.
+categories:
+  - News & Feeds
+  - Scrapers & Data Mining
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://currentsapi.services/
+libraries:
+  - name: Currents NodeJS SDK
+    documentation_url: https://currentsapi.services/en/docs/official
+    source_code_url: https://github.com/currentsapi-dev/currentsapi_nodejs
+    platform: Node.js
+    stargazers_count: 1

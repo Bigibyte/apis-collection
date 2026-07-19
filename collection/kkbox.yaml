@@ -1,0 +1,10 @@
+name: KKBOX
+slug: kkbox
+description: Get ready to unbox the joy of music!
+categories:
+  - Music & Audio
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://developer.kkbox.com

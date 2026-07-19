@@ -1,0 +1,60 @@
+# Public APIs Collection
+![APIs: {{activeCount}}](https://img.shields.io/badge/apis-{{activeCount}}-violet)
+![Categories: {{categoryCount}}](https://img.shields.io/badge/categories-{{categoryCount}}-blue)
+![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-green)
+![License: MIT](https://img.shields.io/badge/license-MIT-yellow)
+
+A community-maintained, human, machine and AI readable collection of public APIs — every API lives as a
+structured YAML file in [`collection/`](./collection), validated against a strict schema, and this README,
+the per-API pages and the JSON data files in [`data/`](./data) are all generated from it.
+
+Legend: 🆓 free &nbsp;·&nbsp; 🪙 freemium &nbsp;·&nbsp; ⚠️ deprecated
+
+Want to add or fix an API? See the [contributing guide](./CONTRIBUTING.md).
+
+## Machine-readable data
+- [`data/apis.json`](./data/apis.json) — the full collection as JSON
+- [`data/apis.min.json`](./data/apis.min.json) — slim index (name, slug, categories, pricing, auth)
+- [`data/categories.json`](./data/categories.json) — category list with icons
+
+## Table of Contents
+- [APIs](#apis):
+{{#each categoriesNames}}
+    - [{{{ this }}}](#{{slug this}}-) {{{category_icon this}}}
+{{/each}}
+- [Graveyard](#graveyard-) 🪦
+- [Credits](#credits)
+- [Similar projects](#similar-projects)
+
+## APIs
+{{#each categoriesNames }}
+### {{{ this }}} {{{category_icon .}}}
+{{#each (lookup ../apis this) as |api| }}
+- [{{ api.name }}](./pages/{{api.slug}}/README.md){{#if api.description}} - {{short api.description}}{{/if}}{{pricing_badge api.pricing}}{{status_badge api.status}}
+{{/each}}
+
+{{/each}}
+
+## Graveyard 🪦
+APIs that are no longer available, kept for the record.
+{{#each Graveyard }}
+- [{{ this.name }}](./pages/{{this.slug}}/README.md){{#if this.description}} - {{short this.description }}{{/if}}
+{{/each}}
+
+## Credits
+
+This project was bootstrapped from and heavily inspired by
+[tools-collection/apis-collection](https://github.com/tools-collection/apis-collection) (MIT licensed —
+see [NOTICE](./NOTICE)). Huge thanks to its maintainers and contributors for the original dataset and idea.
+
+## Similar projects
+
+Inspired by:
+- [tools-collection/apis-collection](https://github.com/tools-collection/apis-collection) — the original project this collection was bootstrapped from
+
+Also worth checking out:
+- [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory)
+
+Maintained by [Bigibyte](https://github.com/Bigibyte).

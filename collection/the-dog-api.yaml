@@ -1,0 +1,11 @@
+name: The Dog Api
+slug: the-dog-api
+description: An API all about dogs. A public service API all about Dogs, free to use when making your fancy new App,
+  Website or Service
+categories:
+  - Animals
+  - Fun
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://thedogapi.com

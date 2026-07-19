@@ -1,0 +1,10 @@
+name: Google Fitness API
+slug: google-fitness-api
+description: Google Fit is an open ecosystem that makes it easy to store, access, and manage fitness data
+categories:
+  - Sport & Fitness
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://developers.google.com/fit/?hl=en

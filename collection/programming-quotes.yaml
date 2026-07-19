@@ -1,0 +1,11 @@
+name: Programming Quotes
+slug: programming-quotes
+description: Programming Quotes API for open source projects. Contribute to skolakoda/programming-quotes-api development
+  by creating an account on GitHub
+categories:
+  - Health
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://github.com/skolakoda/programming-quotes-api

@@ -1,0 +1,10 @@
+name: SpaceX
+slug: spacex
+description: Open Source REST API for rocket, core, capsule, pad, and launch data - r-spacex/SpaceX-API.
+categories:
+  - Space
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://github.com/r-spacex/SpaceX-API

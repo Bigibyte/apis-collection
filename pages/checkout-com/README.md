@@ -1,0 +1,33 @@
+# 📦 [Checkout.com](https://www.checkout.com/docs)
+
+
+> **Checkout.com&#x27;s Unified Payments API processes global card payments, digital wallets, and local payment methods with fraud detection, 3D Secure, and real-time reporting.**
+
+## 📝 Details
+- **Categories**: [Payments](https://github.com/Bigibyte/apis-collection#payments-), [Commerce](https://github.com/Bigibyte/apis-collection#commerce-)
+- **Type**: `REST`
+- **Auth**: `unknown`
+- **Pricing**: `paid`
+- **Status**: `active`
+
+## 🚦 Rate Limits
+*Not specified*
+
+## 📖 Specification
+*Not specified*
+
+## 🔗 Links
+- [Docs / Website](https://www.checkout.com/docs)
+- [API Reference](https://api-reference.checkout.com)
+
+## 🧰 Libraries
+*No libraries available*
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
+
+---
+[Back to README](../../README.md) · Maintained by [Bigibyte](https://github.com/Bigibyte)

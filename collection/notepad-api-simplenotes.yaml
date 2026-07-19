@@ -1,0 +1,10 @@
+name: Notepad Api - Simplenotes
+slug: notepad-api-simplenotes
+description: Share the notes with everyone you want.
+categories:
+  - Social
+  - Documents & Productivity
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://api.simplenotes.cc

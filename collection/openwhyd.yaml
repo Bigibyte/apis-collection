@@ -1,0 +1,11 @@
+name: Openwhyd
+slug: openwhyd
+description: 💎 Like Pinterest, for Music
+categories:
+  - Bookmarks
+  - Music & Audio
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://openwhyd.github.io/openwhyd/API

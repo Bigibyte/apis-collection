@@ -1,0 +1,10 @@
+name: Hypixel
+slug: hypixel
+description: Hypixel API
+categories:
+  - Entertainment
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://github.com/HypixelDev/PublicAPI/tree/master/Documentation

@@ -1,0 +1,13 @@
+name: Imagga Api
+slug: imagga-api
+description: identifies the content of images and videos, classify images based on content, extracts colors, moderates
+  NSFW content. Imagga Image Recognition API provides solutions for image tagging & categorization, visual search,
+  content moderation. Available in the Cloud and On-Premise
+categories:
+  - AI & ML
+  - Images & Photography
+  - Recognition
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://imagga.com/

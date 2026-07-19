@@ -1,0 +1,14 @@
+name: PandaScore
+slug: pandascore
+description: Get events and detailed match data in real time from major league tournaments, or fetch data about players,
+  tournaments, leagues, matches, teams and more
+categories:
+  - Games
+  - Statistics & Data
+  - Sport & Fitness
+  - Entertainment
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://pandascore.co

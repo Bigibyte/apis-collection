@@ -1,0 +1,10 @@
+name: HaveIBeenPwned
+slug: haveibeenpwned
+description: Have I Been Pwned allows you to search across multiple data breaches to see if your email address has been compromised
+categories:
+  - Security
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://haveibeenpwned.com/API/v3

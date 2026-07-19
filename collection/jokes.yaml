@@ -1,0 +1,11 @@
+name: Jokes
+slug: jokes
+description: Full featured Jokes API
+categories:
+  - Entertainment
+  - Fun
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://jokes.one/api/joke/

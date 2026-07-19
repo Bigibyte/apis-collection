@@ -1,0 +1,11 @@
+name: Mexico
+slug: mexico
+description: Contribute to IcaliaLabs/sepomex development by creating an account on GitHub. A REST API for the SEPOMEX
+  database. A REST API for the SEPOMEX database
+categories:
+  - Maps & Geo
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://github.com/IcaliaLabs/sepomex

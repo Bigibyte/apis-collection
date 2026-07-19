@@ -1,0 +1,38 @@
+# 📦 [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)
+
+
+> **The AniList GraphQL Api provides quick and powerful access to over 500k anime and manga entries, including character, staff, and live airing data**
+
+## 📝 Details
+- **Categories**: [Comics & Anime](https://github.com/Bigibyte/apis-collection#comics--anime-)
+- **Type**: `REST`
+- **Auth**: `unknown`
+- **Pricing**: `paid`
+- **Status**: `active`
+
+## 🚦 Rate Limits
+*Not specified*
+
+## 📖 Specification
+*Not specified*
+
+## 🔗 Links
+- [Docs / Website](https://github.com/AniList/ApiV2-GraphQL-Docs)
+
+## 🧰 Libraries
+### 🛠️ Minoshiro Python SDK by Minoshiro
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/Mino-shiro/Minoshiro)
+
+
+
+- **Stars**: ⭐ 21
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
+
+---
+[Back to README](../../README.md) · Maintained by [Bigibyte](https://github.com/Bigibyte)

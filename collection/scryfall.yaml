@@ -1,0 +1,11 @@
+name: Scryfall
+slug: scryfall
+description: "Scryfall is a powerful Magic: The Gathering card search"
+categories:
+  - Entertainment
+  - Games
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://scryfall.com/docs/api

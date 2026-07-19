@@ -1,0 +1,38 @@
+# 📦 [Bacon Ipsum](https://baconipsum.com/json-api/)
+
+
+> **JSON API for returning meaty lorem ipsum filler text.**
+
+## 📝 Details
+- **Categories**: [Development](https://github.com/Bigibyte/apis-collection#development-), [Testing](https://github.com/Bigibyte/apis-collection#testing-)
+- **Type**: `REST`
+- **Auth**: `unknown`
+- **Pricing**: `paid`
+- **Status**: `active`
+
+## 🚦 Rate Limits
+*Not specified*
+
+## 📖 Specification
+*Not specified*
+
+## 🔗 Links
+- [Docs / Website](https://baconipsum.com/json-api/)
+
+## 🧰 Libraries
+### 🛠️ Bacon Ipsum PHP SDK
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/petenelson/wp-any-ipsum/tree/master/lib)
+
+
+- **Author**: 👤 petenelson
+- **Stars**: ⭐ 104
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
+
+---
+[Back to README](../../README.md) · Maintained by [Bigibyte](https://github.com/Bigibyte)

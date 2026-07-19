@@ -1,0 +1,11 @@
+name: Russian Calendar
+slug: russian-calendar
+description: Work calendar service. Contribute to egno/work-calendar development by creating an account on GitHub. Work
+  calendar service
+categories:
+  - Calendar & Time
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://github.com/egno/work-calendar

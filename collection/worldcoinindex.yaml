@@ -1,0 +1,10 @@
+name: WorldCoinIndex
+slug: worldcoinindex
+description: Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://www.worldcoinindex.com/apiservice

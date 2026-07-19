@@ -1,0 +1,11 @@
+name: FavQs
+slug: favqs
+description: FavQs allows you to collect, discover, and share your favorite quotes.
+categories:
+  - Content & Dictionaries
+  - Fun
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://favqs.com/api

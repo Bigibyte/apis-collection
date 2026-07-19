@@ -1,0 +1,11 @@
+name: Form-Api
+slug: form-api
+description: Build forms easily, autocomplete and validate data. using gender api and zip code api
+categories:
+  - Validation & Verification
+  - Post & Logistics
+  - Forms & Surveys
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://form-api.com

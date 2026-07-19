@@ -1,0 +1,10 @@
+name: Ticketmaster
+slug: ticketmaster
+description: Everything you need to start playing with the Ticketmaster API
+categories:
+  - Events
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: http://developer.ticketmaster.com/products-and-docs/apis/getting-started/

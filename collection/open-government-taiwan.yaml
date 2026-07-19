@@ -1,0 +1,11 @@
+name: Open Government, Taiwan
+slug: open-government-taiwan
+description: Taiwan's open data and public service APIs
+categories:
+  - Government
+  - Statistics & Data
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://data.gov.tw/

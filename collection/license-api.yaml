@@ -1,0 +1,11 @@
+name: License-API
+slug: license-api
+description: com. Contribute to cmccandless/license-api development by creating an account on GitHub. Unofficial REST
+  API for choosealicense
+categories:
+  - Development
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://github.com/cmccandless/license-api/blob/master/README.md

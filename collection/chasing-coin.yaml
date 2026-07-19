@@ -1,0 +1,10 @@
+name: Chasing Coin
+slug: chasing-coin
+description: Cryptocurrency, coin and token resource on the web. Full and free cryptocurrency API for prices, stats,
+  coinheat, conversion, and more
+categories:
+  - Blockchain & Cryptocurrencies
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://chasing-coins.com/api

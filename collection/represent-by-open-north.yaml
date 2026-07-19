@@ -1,0 +1,10 @@
+name: Represent by Open North
+slug: represent-by-open-north
+description: Find the elected officials and electoral districts for any Canadian address or postal code, at all levels of government
+categories:
+  - Government
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://represent.opennorth.ca/

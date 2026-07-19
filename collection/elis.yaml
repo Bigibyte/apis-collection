@@ -1,0 +1,12 @@
+name: Elis
+slug: elis
+description: Automate data extraction from your documents with Artificial Intelligence
+categories:
+  - Documents & Productivity
+  - Payments
+  - Scrapers & Data Mining
+  - AI & ML
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://rossum.ai/developers/

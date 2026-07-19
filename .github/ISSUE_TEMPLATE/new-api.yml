@@ -1,0 +1,45 @@
+name: Suggest a new API
+description: Propose an API to add to the collection
+title: "[New API]: "
+labels: [new-api]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: API name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Docs / Website URL
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: One or two factual sentences about what the API does.
+    validations:
+      required: true
+  - type: input
+    id: categories
+    attributes:
+      label: Categories
+      description: Comma-separated, from categories.yaml (e.g. "Development, AI & ML")
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing
+      options: [free, freemium, paid, unknown]
+    validations:
+      required: true
+  - type: dropdown
+    id: auth
+    attributes:
+      label: Auth type
+      options: [none, api_key, oauth2, bearer, basic, unknown]
+    validations:
+      required: true

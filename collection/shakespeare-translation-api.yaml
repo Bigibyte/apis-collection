@@ -1,0 +1,9 @@
+name: Shakespeare Translation Api
+slug: shakespeare-translation-api
+description: Translate from English to Shakespeare English
+categories:
+  - Translation
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://funtranslations.com/api/shakespeare

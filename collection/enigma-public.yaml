@@ -1,0 +1,10 @@
+name: Enigma Public
+slug: enigma-public
+description: Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time.
+categories:
+  - Business
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: http://docs.enigma.com/public/public_v20_api_about

@@ -1,0 +1,13 @@
+name: mailboxlayer
+slug: mailboxlayer
+description: Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and
+  disposable provider filtering. Free for personal use.
+categories:
+  - Security
+  - Validation & Verification
+  - Email & SMS
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://mailboxlayer.com

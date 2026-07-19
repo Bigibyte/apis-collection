@@ -1,0 +1,14 @@
+name: Cat Facts
+slug: cat-facts
+description: Daily cat facts! 🐱
+categories:
+  - Bots
+  - Education
+  - Fun
+  - Animals
+  - Entertainment
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://alexwohlbruck.github.io/cat-facts/

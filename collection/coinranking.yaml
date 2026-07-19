@@ -1,0 +1,11 @@
+name: CoinRanking
+slug: coinranking
+description: Introduction Power your projects with the high quality cryptocurrency data coinranking.com provides. They
+  provides data about coins, exchanges, markets & more
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://docs.coinranking.com/

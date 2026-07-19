@@ -1,0 +1,11 @@
+name: Spaceflight News
+slug: spaceflight-news
+description: The Spaceflight News API lets you add space related news to your apps
+categories:
+  - Space
+  - News & Feeds
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://spaceflightnewsapi.net

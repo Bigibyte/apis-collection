@@ -1,0 +1,32 @@
+# 📦 [US Extract](https://smartystreets.com/products/apis/us-extract-api)
+
+
+> **Extract USPS addresses from any text with our easy-to-use API**
+
+## 📝 Details
+- **Categories**: [Post & Logistics](https://github.com/Bigibyte/apis-collection#post--logistics-)
+- **Type**: `REST`
+- **Auth**: `unknown`
+- **Pricing**: `paid`
+- **Status**: `active`
+
+## 🚦 Rate Limits
+*Not specified*
+
+## 📖 Specification
+*Not specified*
+
+## 🔗 Links
+- [Docs / Website](https://smartystreets.com/products/apis/us-extract-api)
+
+## 🧰 Libraries
+*No libraries available*
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
+
+---
+[Back to README](../../README.md) · Maintained by [Bigibyte](https://github.com/Bigibyte)

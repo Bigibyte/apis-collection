@@ -1,0 +1,10 @@
+name: Yes No
+slug: yes-no
+description: Yes or No
+categories:
+  - Testing
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://yesno.wtf/api

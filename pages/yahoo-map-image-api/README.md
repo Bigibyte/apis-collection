@@ -1,0 +1,32 @@
+# 📦 [Yahoo Map Image API](https://developer.yahoo.com/maps/rest/V1/)
+
+
+> **Measure, monetize, advertise and improve your apps with Yahoo tools. Join the 200,000 developers using Yahoo tools to build their app businesses. . Web Services**
+
+## 📝 Details
+- **Categories**: [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-)
+- **Type**: `N/A`
+- **Auth**: `unknown`
+- **Pricing**: `paid`
+- **Status**: `active`
+
+## 🚦 Rate Limits
+*Not specified*
+
+## 📖 Specification
+*Not specified*
+
+## 🔗 Links
+- [Docs / Website](https://developer.yahoo.com/maps/rest/V1/)
+
+## 🧰 Libraries
+*No libraries available*
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
+
+---
+[Back to README](../../README.md) · Maintained by [Bigibyte](https://github.com/Bigibyte)

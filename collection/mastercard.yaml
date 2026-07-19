@@ -1,0 +1,9 @@
+name: Mastercard
+slug: mastercard
+description: Mastercard official API
+categories:
+  - Payments
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://developer.mastercard.com/apis

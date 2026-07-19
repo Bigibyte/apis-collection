@@ -1,0 +1,11 @@
+name: Transportation in Paris, France
+slug: transport-for-paris-france
+description: Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
+categories:
+  - Transportation
+type: REST
+status: dead
+pricing: free
+links:
+  - name: Docs / Website
+    url: http://restratpws.azurewebsites.net/swagger/

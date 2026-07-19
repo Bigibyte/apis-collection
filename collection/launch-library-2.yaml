@@ -1,0 +1,10 @@
+name: Launch Library 2
+slug: launch-library-2
+description: Upcoming Space Launches
+categories:
+  - Science & Math
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://ll.thespacedevs.com/2.1.0/swagger

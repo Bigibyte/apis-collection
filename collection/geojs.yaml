@@ -1,0 +1,10 @@
+name: GeoJS
+slug: geojs
+description: REST/JSON/JSONP GeoIP API. REST/JSON/JSONP GeoIP API
+categories:
+  - Maps & Geo
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://geojs.io/

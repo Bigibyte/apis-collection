@@ -1,0 +1,10 @@
+name: HelloSalut
+slug: hellosalut
+description: Say hello to your website visitors in their native language
+categories:
+  - Maps & Geo
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://www.fourtonfish.com/hellosalut/hello/

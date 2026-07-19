@@ -1,0 +1,10 @@
+name: IFTTT
+slug: ifttt
+description: Learn how to build an API to show and update connections, run actions, perform queries, and listen for triggers
+categories:
+  - Development
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://platform.ifttt.com/docs/connect_api

@@ -1,0 +1,11 @@
+name: Naver Captcha
+slug: naver-captcha
+description: The image capturing function used by Naver Service can be used for customer service to identify people and
+  computers to prevent abusing
+categories:
+  - Captcha
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://developers.naver.com/products/captcha

@@ -1,0 +1,10 @@
+name: Czech Television
+slug: czech-television
+description: Czech Television TV Program
+categories:
+  - Video & Media
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: http://www.ceskatelevize.cz/xml/tv-program/

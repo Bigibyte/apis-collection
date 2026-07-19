@@ -1,0 +1,9 @@
+name: Font Hinting Api
+slug: font-hinting-api
+description: Fonts API - Subscription. Font hinting REST API
+categories:
+  - Art & Design
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://everythingfonts.com/api/hinting

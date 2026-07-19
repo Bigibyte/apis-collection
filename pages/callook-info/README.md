@@ -1,0 +1,32 @@
+# 📦 [Callook.info](https://callook.info)
+
+
+> **A. callsign lookups. Look up information about United States ham radio callsigns. No-nonsense amateur radio U. S**
+
+## 📝 Details
+- **Categories**: [Other](https://github.com/Bigibyte/apis-collection#other-)
+- **Type**: `REST`
+- **Auth**: `unknown`
+- **Pricing**: `paid`
+- **Status**: `active`
+
+## 🚦 Rate Limits
+*Not specified*
+
+## 📖 Specification
+*Not specified*
+
+## 🔗 Links
+- [Docs / Website](https://callook.info)
+
+## 🧰 Libraries
+*No libraries available*
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
+
+---
+[Back to README](../../README.md) · Maintained by [Bigibyte](https://github.com/Bigibyte)

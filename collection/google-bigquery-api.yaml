@@ -1,0 +1,11 @@
+name: Google BigQuery API
+slug: google-bigquery-api
+description: A data platform for customers to create, manage, share and query data.
+categories:
+  - Development
+  - Databases
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://cloud.google.com/bigquery/docs/reference/rest/v2/

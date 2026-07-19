@@ -1,0 +1,32 @@
+# 📦 [JokeAPI](https://sv443.net/jokeapi/v2/)
+
+
+> **JokeAPI is a RESTful API that serves jokes from many categories while also offering a lot of filtering methods**
+
+## 📝 Details
+- **Categories**: [Fun](https://github.com/Bigibyte/apis-collection#fun-)
+- **Type**: `REST`
+- **Auth**: `unknown`
+- **Pricing**: `paid`
+- **Status**: `active`
+
+## 🚦 Rate Limits
+*Not specified*
+
+## 📖 Specification
+*Not specified*
+
+## 🔗 Links
+- [Docs / Website](https://sv443.net/jokeapi/v2/)
+
+## 🧰 Libraries
+*No libraries available*
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
+
+---
+[Back to README](../../README.md) · Maintained by [Bigibyte](https://github.com/Bigibyte)

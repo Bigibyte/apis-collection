@@ -1,0 +1,11 @@
+name: Utelly
+slug: utelly
+description: Check where a tv show or movie is available
+categories:
+  - Content & Dictionaries
+  - Entertainment
+  - Video & Media
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://www.utelly.com/

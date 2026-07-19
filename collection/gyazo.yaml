@@ -1,0 +1,15 @@
+name: Gyazo
+slug: gyazo
+description: Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can be used in a wide array of
+  apps to upload new images, show a Gyazo users images, and more.
+categories:
+  - Images & Photography
+  - Collaboration
+  - Social
+  - Video & Media
+  - Art & Design
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://gyazo.com/api/docs

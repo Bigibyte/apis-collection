@@ -1,0 +1,10 @@
+name: Transportation in Netherlands
+slug: transport-for-the-netherlands
+description: NS has a large amount of data with information about the planned and current timetable
+categories:
+  - Transportation
+type: REST
+pricing: free
+links:
+  - name: Docs / Website
+    url: http://www.ns.nl/reisinformatie/ns-api

@@ -1,0 +1,10 @@
+name: Google Visualization API
+slug: google-visualization-api
+description: This page lists the objects exposed by the Google Visualization API, and the standard methods exposed by
+  all visualizations.
+categories:
+  - Visualizations
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://developers.google.com/chart/interactive/docs/reference

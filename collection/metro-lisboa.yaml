@@ -1,0 +1,10 @@
+name: Metro Lisboa
+slug: metro-lisboa
+description: Lisboa metro data
+categories:
+  - Transportation
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: http://app.metrolisboa.pt/status/getLinhas.php

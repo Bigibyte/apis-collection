@@ -1,0 +1,11 @@
+name: UI Names
+slug: ui-names
+description: A simple tool to generate names for use in designs and mockups
+categories:
+  - Random
+  - Testing
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://github.com/thm/uinames

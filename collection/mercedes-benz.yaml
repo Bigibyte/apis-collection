@@ -1,0 +1,10 @@
+name: Mercedes-Benz
+slug: mercedes-benz
+description: Mercedes-Benz's live API products
+categories:
+  - Vehicles
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://developer.mercedes-benz.com/apis

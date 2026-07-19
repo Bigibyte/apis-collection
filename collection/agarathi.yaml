@@ -1,0 +1,10 @@
+name: Agarathi
+slug: agarathi
+description: Tamil language Dictionary API. Fonts API - Subscription
+categories:
+  - Content & Dictionaries
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://agarathi.com/api/dictionary

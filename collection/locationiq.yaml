@@ -1,0 +1,10 @@
+name: LocationIQ
+slug: locationiq
+description: Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geocoding, Maps and Routing APIs
+categories:
+  - Maps & Geo
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://locationiq.org/docs/

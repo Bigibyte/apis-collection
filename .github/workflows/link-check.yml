@@ -1,0 +1,49 @@
+name: Link Check
+on:
+  schedule:
+    - cron: "0 3 * * 1" # every Monday 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run compile
+      - name: Check links
+        id: check
+        continue-on-error: true
+        run: node dist/cli.js check-links --report link-report.json
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-report
+          path: link-report.json
+          if-no-files-found: ignore
+      - name: Open issue with failures
+        if: steps.check.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            if (!fs.existsSync('link-report.json')) return;
+            const report = JSON.parse(fs.readFileSync('link-report.json', 'utf8'));
+            const lines = report.failures.slice(0, 100).map(f => `- \`${f.reason}\` ${f.url} (${f.context})`);
+            const more = report.failures.length > 100 ? `\n…and ${report.failures.length - 100} more (see workflow artifact).` : '';
+            const body = `Weekly link check found **${report.failed}** dead links out of ${report.checked} checked.\n\n${lines.join('\n')}${more}`;
+            const title = `Link check: ${report.failed} dead links (${new Date().toISOString().slice(0, 10)})`;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body,
+              labels: ['dead-links'],
+            });

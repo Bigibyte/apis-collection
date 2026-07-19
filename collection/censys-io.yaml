@@ -1,0 +1,11 @@
+name: Censys.io
+slug: censys-io
+description: Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to
+  reduce exposure and improve security
+categories:
+  - Security
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://censys.io/api

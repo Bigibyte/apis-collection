@@ -1,0 +1,9 @@
+name: Order Pizza Api
+slug: order-pizza-api
+description: A RESTful API as pizza restaurant ordering system. swagger Explore
+categories:
+  - Food & Drinks
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://order-pizza-api.herokuapp.com/api/ui/
