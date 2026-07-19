@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Fun](https://github.com/Bigibyte/apis-collection#fun-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

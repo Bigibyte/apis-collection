@@ -10,3 +10,5 @@ contact: support@aoncadis.org
 links:
   - name: Docs / Website
     url: https://developer.nrel.gov/docs/solar/pvwatts/v6/
+auth_type: api_key
+https: true

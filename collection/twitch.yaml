@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://dev.twitch.tv/docs
+auth_type: oauth2
+https: true

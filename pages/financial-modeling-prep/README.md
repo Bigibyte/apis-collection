@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Finance & Economics](https://github.com/Bigibyte/apis-collection#finance--economics-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

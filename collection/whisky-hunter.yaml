@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://whiskyhunter.net/api/
+auth_type: none
+https: true

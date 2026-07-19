@@ -57,3 +57,5 @@ libraries:
   - name: A Java wrapper for Bing Maps Web Services
     documentation_url: http://code.google.com/p/bing-maps-java-sdk/
     platform: Java
+auth_type: api_key
+https: true

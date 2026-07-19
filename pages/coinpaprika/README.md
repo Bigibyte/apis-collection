@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Blockchain & Cryptocurrencies](https://github.com/Bigibyte/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

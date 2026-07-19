@@ -12,3 +12,5 @@ links:
     url: https://thegraph.com/docs/en/querying/introduction
   - name: API Reference
     url: https://thegraph.com/docs/en/querying/graphql-api
+auth_type: api_key
+https: true

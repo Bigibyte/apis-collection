@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.themealdb.com/api.php
+auth_type: api_key
+https: true
+cors: yes

@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/
+auth_type: oauth2
+https: false

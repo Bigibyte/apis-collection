@@ -30,3 +30,5 @@ libraries:
     platform: Python
     author: jgoldshlag
     stargazers_count: 15
+auth_type: oauth2
+https: true

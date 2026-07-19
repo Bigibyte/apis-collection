@@ -11,3 +11,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://unplu.gg/test_api.html
+auth_type: api_key
+https: true

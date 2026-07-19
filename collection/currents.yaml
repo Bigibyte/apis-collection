@@ -15,3 +15,6 @@ libraries:
     source_code_url: https://github.com/currentsapi-dev/currentsapi_nodejs
     platform: Node.js
     stargazers_count: 1
+auth_type: api_key
+https: true
+cors: yes

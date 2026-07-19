@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Government](https://github.com/Bigibyte/apis-collection#government-), [Open Source](https://github.com/Bigibyte/apis-collection#open-source-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

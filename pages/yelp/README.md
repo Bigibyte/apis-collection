@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Business](https://github.com/Bigibyte/apis-collection#business-), [Commerce](https://github.com/Bigibyte/apis-collection#commerce-), [Point of Interest](https://github.com/Bigibyte/apis-collection#point-of-interest-), [Search](https://github.com/Bigibyte/apis-collection#search-), [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-), [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

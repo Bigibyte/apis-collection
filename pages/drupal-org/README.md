@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Development](https://github.com/Bigibyte/apis-collection#development-), [Open Source](https://github.com/Bigibyte/apis-collection#open-source-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Music & Audio](https://github.com/Bigibyte/apis-collection#music--audio-), [Text Analysis & Tools](https://github.com/Bigibyte/apis-collection#text-analysis--tools-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

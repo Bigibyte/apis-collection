@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Bots](https://github.com/Bigibyte/apis-collection#bots-), [Education](https://github.com/Bigibyte/apis-collection#education-), [Fun](https://github.com/Bigibyte/apis-collection#fun-), [Animals](https://github.com/Bigibyte/apis-collection#animals-), [Entertainment](https://github.com/Bigibyte/apis-collection#entertainment-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

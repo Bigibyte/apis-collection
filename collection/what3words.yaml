@@ -11,3 +11,5 @@ links:
     url: https://developer.what3words.com/public-api
   - name: API Reference
     url: https://developer.what3words.com/public-api/docs
+auth_type: api_key
+https: true

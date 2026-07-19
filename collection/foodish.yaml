@@ -8,3 +8,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/surhud004/Foodish#readme
+auth_type: none
+https: true
+cors: yes

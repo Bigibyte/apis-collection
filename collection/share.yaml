@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://share-research.readthedocs.io/en/latest/
+auth_type: none
+https: true
+cors: no

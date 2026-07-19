@@ -12,3 +12,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://crxcavator.io/apidocs
+auth_type: api_key
+https: true

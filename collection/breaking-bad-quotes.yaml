@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://breakingbadquotes.xyz/
+auth_type: none
+https: true

@@ -40,3 +40,5 @@ libraries:
     documentation_url: http://developer.ebay.com/developercenter/flash/client-alerts/
   - name: PHP Ultimate eBay Store
   - name: PHP Ultimate eBay Store
+auth_type: oauth2
+https: true

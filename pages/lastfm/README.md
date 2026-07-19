@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Music & Audio](https://github.com/Bigibyte/apis-collection#music--audio-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

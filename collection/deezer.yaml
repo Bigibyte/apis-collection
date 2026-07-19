@@ -136,3 +136,5 @@ libraries:
     platform: Java
     author: ernichechelski
     stargazers_count: 0
+auth_type: oauth2
+https: true

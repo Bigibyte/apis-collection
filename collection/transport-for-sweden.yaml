@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://www.trafiklab.se/api
+auth_type: oauth2
+https: true

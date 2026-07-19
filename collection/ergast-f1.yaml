@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://ergast.com/mrd/
+auth_type: none
+https: true

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [News & Feeds](https://github.com/Bigibyte/apis-collection#news--feeds-), [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-), [Text Analysis & Tools](https://github.com/Bigibyte/apis-collection#text-analysis--tools-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

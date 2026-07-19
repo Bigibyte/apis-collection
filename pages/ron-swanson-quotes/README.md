@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Entertainment](https://github.com/Bigibyte/apis-collection#entertainment-), [Fun](https://github.com/Bigibyte/apis-collection#fun-), [Video & Media](https://github.com/Bigibyte/apis-collection#video--media-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

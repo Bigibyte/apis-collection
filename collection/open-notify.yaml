@@ -28,3 +28,6 @@ libraries:
     platform: Python
     author: brayovsky
     stargazers_count: 0
+auth_type: none
+https: false
+cors: no

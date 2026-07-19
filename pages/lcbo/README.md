@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Food & Drinks](https://github.com/Bigibyte/apis-collection#food--drinks-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

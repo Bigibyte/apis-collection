@@ -12,3 +12,5 @@ links:
     url: https://mailchimp.com/developer
   - name: API Reference
     url: https://mailchimp.com/developer/marketing/api
+auth_type: api_key
+https: true

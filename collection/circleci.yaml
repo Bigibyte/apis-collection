@@ -139,3 +139,5 @@ libraries:
     platform: JavaScript
     author: kjirou
     stargazers_count: 0
+auth_type: api_key
+https: true

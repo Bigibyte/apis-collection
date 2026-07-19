@@ -47,3 +47,5 @@ libraries:
     platform: Python
     author: goldsmith
     stargazers_count: 2196
+auth_type: none
+https: true

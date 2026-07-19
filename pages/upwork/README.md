@@ -8,9 +8,10 @@ to your dashboards, websites and management systems.**
 ## 📝 Details
 - **Categories**: [Search](https://github.com/Bigibyte/apis-collection#search-), [Jobs](https://github.com/Bigibyte/apis-collection#jobs-), [Commerce](https://github.com/Bigibyte/apis-collection#commerce-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

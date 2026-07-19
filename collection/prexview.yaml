@@ -30,3 +30,5 @@ libraries:
     source_code_url: https://github.com/prexview/prexview-js
     platform: Node.js
     stargazers_count: 21
+auth_type: api_key
+https: true

@@ -35,3 +35,5 @@ libraries:
   - name: UPS Shipping PHP Library php-ups-api
     documentation_url: https://code.google.com/p/php-ups-api/
     platform: PHP
+auth_type: api_key
+https: true

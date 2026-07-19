@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Transportation](https://github.com/Bigibyte/apis-collection#transportation-), [Government](https://github.com/Bigibyte/apis-collection#government-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
 

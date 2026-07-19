@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Statistics & Data](https://github.com/Bigibyte/apis-collection#statistics--data-), [Government](https://github.com/Bigibyte/apis-collection#government-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

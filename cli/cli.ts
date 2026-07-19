@@ -47,6 +47,15 @@ program
   });
 
 program
+  .command("enrich-auth")
+  .description("Fill auth_type/https/cors by cross-referencing public-apis/public-apis (MIT)")
+  .option("--file <path>", "read the source markdown from a local file instead of fetching")
+  .action(async (opts: { file?: string }) => {
+    const { enrichAuth } = await import("./commands/enrich-auth.js");
+    await enrichAuth(opts);
+  });
+
+program
   .command("stats")
   .description("Print collection statistics")
   .action(async () => {

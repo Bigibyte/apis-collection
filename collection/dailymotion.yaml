@@ -81,3 +81,5 @@ libraries:
     source_code_url: https://github.com/dailymotion/dailymotion-sdk-php
     platform: PHP
     stargazers_count: 65
+auth_type: oauth2
+https: true

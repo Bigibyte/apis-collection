@@ -12,3 +12,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://developer.adzuna.com/overview
+auth_type: api_key
+https: true

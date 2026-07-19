@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Government](https://github.com/Bigibyte/apis-collection#government-), [Statistics & Data](https://github.com/Bigibyte/apis-collection#statistics--data-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

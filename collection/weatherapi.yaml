@@ -11,3 +11,6 @@ links:
     url: https://www.weatherapi.com/docs
   - name: API Reference
     url: https://www.weatherapi.com/api-explorer.aspx
+auth_type: api_key
+https: true
+cors: yes

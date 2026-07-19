@@ -11,3 +11,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
+auth_type: none
+https: true

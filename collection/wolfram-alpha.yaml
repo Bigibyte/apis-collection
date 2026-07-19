@@ -20,3 +20,5 @@ libraries:
   - name: Wolfram Alpha Python Library by Derik Pereira
     documentation_url: http://products.wolframalpha.com/api/libraries.html
     platform: Python
+auth_type: api_key
+https: true

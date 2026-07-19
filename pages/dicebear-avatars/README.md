@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Testing](https://github.com/Bigibyte/apis-collection#testing-), [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [Social](https://github.com/Bigibyte/apis-collection#social-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

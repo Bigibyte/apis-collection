@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/skolakoda/programming-quotes-api
+auth_type: none
+https: true

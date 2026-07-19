@@ -50,3 +50,5 @@ libraries:
     documentation_url: http://musicbrainz.org/
     source_code_url: https://python-musicbrainzngs.readthedocs.org/en/latest/
     platform: Python
+auth_type: none
+https: true

@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Scrapers & Data Mining](https://github.com/Bigibyte/apis-collection#scrapers--data-mining-), [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

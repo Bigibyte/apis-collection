@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Statistics & Data](https://github.com/Bigibyte/apis-collection#statistics--data-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

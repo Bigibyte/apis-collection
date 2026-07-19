@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/theIYD/NaMoMemes
+auth_type: none
+https: true

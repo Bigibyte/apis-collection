@@ -34,3 +34,6 @@ libraries:
     documentation_url: https://github.com/hummingbird-me/hummingbird-client
     platform: JavaScript
     stargazers_count: 156
+auth_type: oauth2
+https: true
+cors: yes

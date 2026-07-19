@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.federalregister.gov/reader-aids/developer-resources
+auth_type: none
+https: true

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Sport & Fitness](https://github.com/Bigibyte/apis-collection#sport--fitness-), [Blockchain & Cryptocurrencies](https://github.com/Bigibyte/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

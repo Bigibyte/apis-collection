@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://opendata.bordeaux-metropole.fr/explore/
+auth_type: api_key
+https: true

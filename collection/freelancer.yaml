@@ -25,3 +25,5 @@ libraries:
     platform: JavaScript, Node.js
     author: typicode
     stargazers_count: 75642
+auth_type: oauth2
+https: true

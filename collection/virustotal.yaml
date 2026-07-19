@@ -16,3 +16,5 @@ libraries:
     source_code_url: https://github.com/Yelp/threat_intel#virustotal-api
     platform: Python
     stargazers_count: 237
+auth_type: api_key
+https: true

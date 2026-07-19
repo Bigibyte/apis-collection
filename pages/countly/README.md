@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Development](https://github.com/Bigibyte/apis-collection#development-), [Open Source](https://github.com/Bigibyte/apis-collection#open-source-), [Analytics](https://github.com/Bigibyte/apis-collection#analytics-), [Marketing & SEO](https://github.com/Bigibyte/apis-collection#marketing--seo-), [Authentication & User Management](https://github.com/Bigibyte/apis-collection#authentication--user-management-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

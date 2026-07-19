@@ -39,3 +39,5 @@ libraries:
   - name: Musixmatch iOS SDK by Musixmatch
     documentation_url: https://developer.musixmatch.com/documentation/ios-lyrics-extension
     platform: Objective-C
+auth_type: api_key
+https: true

@@ -19,3 +19,6 @@ libraries:
     source_code_url: https://github.com/onitsoft/nexchange-sdk-go
     platform: Go
     stargazers_count: 1
+auth_type: none
+https: false
+cors: yes

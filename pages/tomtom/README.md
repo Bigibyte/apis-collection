@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-), [Transportation](https://github.com/Bigibyte/apis-collection#transportation-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -12,3 +12,6 @@ links:
     url: https://developers.asana.com/docs
   - name: API Reference
     url: https://developers.asana.com/reference/rest-api-reference
+auth_type: api_key
+https: true
+cors: yes

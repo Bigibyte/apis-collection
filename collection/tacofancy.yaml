@@ -10,3 +10,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://github.com/evz/tacofancy
+auth_type: none
+https: false

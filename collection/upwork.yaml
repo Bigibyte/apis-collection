@@ -22,3 +22,5 @@ libraries:
     source_code_url: https://github.com/upwork/node-upwork
     platform: JavaScript
     stargazers_count: 57
+auth_type: oauth2
+https: true

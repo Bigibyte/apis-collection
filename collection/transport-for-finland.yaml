@@ -12,3 +12,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://digitransit.fi/en/developers/
+auth_type: none
+https: true

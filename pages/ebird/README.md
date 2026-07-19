@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Environment & Nature](https://github.com/Bigibyte/apis-collection#environment--nature-), [Animals](https://github.com/Bigibyte/apis-collection#animals-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

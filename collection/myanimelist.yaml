@@ -129,3 +129,5 @@ libraries:
     platform: Python
     author: Utagai
     stargazers_count: 29
+auth_type: oauth2
+https: true

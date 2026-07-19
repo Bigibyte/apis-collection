@@ -24,3 +24,5 @@ libraries:
     platform: C#
     author: BigGranu
     stargazers_count: 15
+auth_type: api_key
+https: true

@@ -11,3 +11,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://vatlayer.com
+auth_type: api_key
+https: true

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Development](https://github.com/Bigibyte/apis-collection#development-), [Scrapers & Data Mining](https://github.com/Bigibyte/apis-collection#scrapers--data-mining-), [Captcha](https://github.com/Bigibyte/apis-collection#captcha-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://api.at.govt.nz/
+auth_type: none
+https: true

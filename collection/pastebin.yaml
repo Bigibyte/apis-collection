@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://pastebin.com/doc_scraping_api
+auth_type: api_key
+https: true

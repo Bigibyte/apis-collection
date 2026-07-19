@@ -17,3 +17,5 @@ libraries:
     source_code_url: http://rubygems.org/gems/noun-project-api/versions/0.0.5
     platform: Ruby
     stargazers_count: 21
+auth_type: oauth2
+https: false

@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Environment & Nature](https://github.com/Bigibyte/apis-collection#environment--nature-), [Vehicles](https://github.com/Bigibyte/apis-collection#vehicles-), [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

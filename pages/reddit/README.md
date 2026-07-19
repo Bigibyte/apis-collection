@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Social](https://github.com/Bigibyte/apis-collection#social-), [News & Feeds](https://github.com/Bigibyte/apis-collection#news--feeds-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

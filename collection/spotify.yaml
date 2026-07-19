@@ -141,3 +141,5 @@ libraries:
     platform: PHP
     author: jwilsson
     stargazers_count: 636
+auth_type: oauth2
+https: true

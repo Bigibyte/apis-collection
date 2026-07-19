@@ -53,3 +53,5 @@ libraries:
     platform: PHP
     author: j0k3r
     stargazers_count: 70
+auth_type: oauth2
+https: true

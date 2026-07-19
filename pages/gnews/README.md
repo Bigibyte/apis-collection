@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Text Analysis & Tools](https://github.com/Bigibyte/apis-collection#text-analysis--tools-), [Search](https://github.com/Bigibyte/apis-collection#search-), [News & Feeds](https://github.com/Bigibyte/apis-collection#news--feeds-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

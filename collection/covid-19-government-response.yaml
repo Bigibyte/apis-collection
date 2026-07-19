@@ -12,3 +12,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://covidtracker.bsg.ox.ac.uk
+auth_type: none
+https: true
+cors: yes

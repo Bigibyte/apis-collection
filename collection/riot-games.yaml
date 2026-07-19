@@ -72,3 +72,5 @@ libraries:
     platform: Node.js
     author: HardTacos
     stargazers_count: 8
+auth_type: api_key
+https: true

@@ -21,3 +21,5 @@ libraries:
     platform: Python
     author: RomelTorres
     stargazers_count: 4733
+auth_type: api_key
+https: true

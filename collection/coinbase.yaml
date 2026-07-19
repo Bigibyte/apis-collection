@@ -42,3 +42,5 @@ libraries:
     source_code_url: https://github.com/coinbase/coinbase-python
     platform: Python
     stargazers_count: 542
+auth_type: api_key
+https: true

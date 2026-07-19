@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Comics & Anime](https://github.com/Bigibyte/apis-collection#comics--anime-), [Entertainment](https://github.com/Bigibyte/apis-collection#entertainment-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

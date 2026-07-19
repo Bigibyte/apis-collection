@@ -13,3 +13,6 @@ libraries:
   - name: list of 30+ different SDKs (Python, PHP, Java, etc)
     documentation_url: https://opencagedata.com/sdks
     platform: many
+auth_type: api_key
+https: true
+cors: yes

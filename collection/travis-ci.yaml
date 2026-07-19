@@ -28,3 +28,5 @@ libraries:
     documentation_url: https://github.com/travis-ci/travis-web
     platform: JavaScript
     stargazers_count: 585
+auth_type: api_key
+https: true

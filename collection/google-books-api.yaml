@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://developers.google.com/books/
+auth_type: oauth2
+https: true

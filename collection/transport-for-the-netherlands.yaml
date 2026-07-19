@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://www.ns.nl/reisinformatie/ns-api
+auth_type: none
+https: true

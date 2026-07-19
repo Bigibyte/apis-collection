@@ -12,3 +12,5 @@ links:
     url: https://docs.kraken.com/api
   - name: REST API Reference
     url: https://docs.kraken.com/api/docs/rest-api/get-server-time
+auth_type: api_key
+https: true

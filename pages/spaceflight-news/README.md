@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Space](https://github.com/Bigibyte/apis-collection#space-), [News & Feeds](https://github.com/Bigibyte/apis-collection#news--feeds-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

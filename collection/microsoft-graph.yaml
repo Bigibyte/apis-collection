@@ -44,3 +44,5 @@ libraries:
     documentation_url: https://github.com/microsoftgraph/msgraph-sdk-dotnet
     platform: .Net
     stargazers_count: 374
+auth_type: oauth2
+https: true

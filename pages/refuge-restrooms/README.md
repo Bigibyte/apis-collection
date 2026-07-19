@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Point of Interest](https://github.com/Bigibyte/apis-collection#point-of-interest-), [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

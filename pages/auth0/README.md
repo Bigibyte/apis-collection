@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Authentication & User Management](https://github.com/Bigibyte/apis-collection#authentication--user-management-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

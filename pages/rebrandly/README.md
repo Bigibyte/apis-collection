@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [URLs](https://github.com/Bigibyte/apis-collection#urls-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

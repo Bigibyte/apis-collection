@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Validation & Verification](https://github.com/Bigibyte/apis-collection#validation--verification-), [Text Analysis & Tools](https://github.com/Bigibyte/apis-collection#text-analysis--tools-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

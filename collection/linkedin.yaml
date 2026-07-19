@@ -108,3 +108,5 @@ libraries:
   - name: A Java wrapper for LinkedIn APIs
     documentation_url: http://code.google.com/p/linkedin-j/
     platform: Java
+auth_type: oauth2
+https: true

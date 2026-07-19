@@ -23,3 +23,5 @@ libraries:
     platform: Node.js
     author: erlapso
     stargazers_count: 0
+auth_type: none
+https: true

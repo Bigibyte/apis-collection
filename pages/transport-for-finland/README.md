@@ -7,9 +7,10 @@ modern, highly available route planning service**
 ## 📝 Details
 - **Categories**: [Transportation](https://github.com/Bigibyte/apis-collection#transportation-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

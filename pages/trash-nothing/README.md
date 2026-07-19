@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Environment & Nature](https://github.com/Bigibyte/apis-collection#environment--nature-), [Commerce](https://github.com/Bigibyte/apis-collection#commerce-), [Social](https://github.com/Bigibyte/apis-collection#social-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

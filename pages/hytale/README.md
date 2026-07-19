@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Games](https://github.com/Bigibyte/apis-collection#games-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

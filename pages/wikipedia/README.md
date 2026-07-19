@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Content & Dictionaries](https://github.com/Bigibyte/apis-collection#content--dictionaries-), [Wiki](https://github.com/Bigibyte/apis-collection#wiki-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

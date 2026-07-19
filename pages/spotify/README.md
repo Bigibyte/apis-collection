@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Music & Audio](https://github.com/Bigibyte/apis-collection#music--audio-), [Scrapers & Data Mining](https://github.com/Bigibyte/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

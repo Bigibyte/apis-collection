@@ -12,3 +12,5 @@ links:
     url: https://developers.notion.com
   - name: API Reference
     url: https://developers.notion.com/reference/intro
+auth_type: oauth2
+https: true

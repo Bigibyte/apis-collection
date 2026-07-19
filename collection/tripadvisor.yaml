@@ -12,3 +12,5 @@ links:
     url: https://tripadvisor-content-api.readme.io/reference/overview
   - name: API Reference
     url: https://tripadvisor-content-api.readme.io/reference/searchforlocations
+auth_type: api_key
+https: true

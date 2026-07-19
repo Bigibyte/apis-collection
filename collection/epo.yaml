@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://developers.epo.org/
+auth_type: oauth2
+https: true

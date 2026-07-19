@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/cmccandless/license-api/blob/master/README.md
+auth_type: none
+https: true
+cors: no

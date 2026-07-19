@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://ratings.food.gov.uk/open-data/en-GB
+auth_type: none
+https: false

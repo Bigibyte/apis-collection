@@ -78,3 +78,5 @@ libraries:
     platform: Java
     author: migtavares
     stargazers_count: 79
+auth_type: api_key
+https: true

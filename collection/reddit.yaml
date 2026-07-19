@@ -128,3 +128,5 @@ libraries:
     platform: Ruby
     author: samsymons
     stargazers_count: 157
+auth_type: oauth2
+https: true

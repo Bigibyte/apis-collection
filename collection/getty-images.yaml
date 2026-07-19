@@ -54,3 +54,5 @@ libraries:
   - name: Getty Images Connect API C# SDK
     documentation_url: https://github.com/gettyimages/connect_sdk_csharp
     platform: C#
+auth_type: oauth2
+https: true

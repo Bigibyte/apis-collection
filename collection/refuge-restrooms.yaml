@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.refugerestrooms.org/api/docs/#!/restrooms
+auth_type: none
+https: true

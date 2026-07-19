@@ -7,9 +7,11 @@ Convert files and content between file formats. Convert data between file format
 ## 📝 Details
 - **Categories**: [Documents & Productivity](https://github.com/Bigibyte/apis-collection#documents--productivity-), [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [Scrapers & Data Mining](https://github.com/Bigibyte/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

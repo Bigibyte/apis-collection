@@ -11,3 +11,5 @@ contact: support@twitter.com
 links:
   - name: Docs / Website
     url: https://uebermaps.com/api/v2
+auth_type: api_key
+https: true

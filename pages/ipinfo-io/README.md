@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-), [Security](https://github.com/Bigibyte/apis-collection#security-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

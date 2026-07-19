@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://deckofcardsapi.com/
+auth_type: none
+https: false

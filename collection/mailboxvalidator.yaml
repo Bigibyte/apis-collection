@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.mailboxvalidator.com/api-single-validation
+auth_type: api_key
+https: true

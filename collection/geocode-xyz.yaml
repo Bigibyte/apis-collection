@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://geocode.xyz/
+auth_type: none
+https: true

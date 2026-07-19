@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://rickandmortyapi.com/
+auth_type: none
+https: true
+cors: yes

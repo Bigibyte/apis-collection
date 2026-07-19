@@ -121,3 +121,5 @@ libraries:
     documentation_url: http://search.cpan.org/~nilsonsfj/WebService-Audioscrobbler-0.07/lib/WebService/Audioscrobbler.pm
   - name: "LastFmLib.Net: Last.fm API .NET Library "
     documentation_url: http://lastfmlibnet.de.vu/
+auth_type: api_key
+https: true

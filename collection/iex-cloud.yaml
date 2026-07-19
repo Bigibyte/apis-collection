@@ -58,3 +58,6 @@ libraries:
     platform: Go
     author: timpalpant
     stargazers_count: 87
+auth_type: api_key
+https: true
+cors: yes

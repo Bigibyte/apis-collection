@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Food & Drinks](https://github.com/Bigibyte/apis-collection#food--drinks-), [Open Source](https://github.com/Bigibyte/apis-collection#open-source-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

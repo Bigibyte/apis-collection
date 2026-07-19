@@ -49,3 +49,5 @@ libraries:
     documentation_url: https://github.com/fernandezpablo85/scribe-java
     platform: Java
     stargazers_count: 5136
+auth_type: oauth2
+https: true

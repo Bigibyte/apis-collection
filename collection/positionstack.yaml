@@ -11,3 +11,5 @@ links:
     url: https://positionstack.com/documentation
   - name: API Reference
     url: https://positionstack.com/documentation#forward_geocoding
+auth_type: api_key
+https: true

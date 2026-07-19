@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-), [Sport & Fitness](https://github.com/Bigibyte/apis-collection#sport--fitness-), [Social](https://github.com/Bigibyte/apis-collection#social-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

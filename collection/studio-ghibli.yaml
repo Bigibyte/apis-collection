@@ -15,3 +15,6 @@ libraries:
     platform: Go
     author: Rchristiani
     stargazers_count: 4
+auth_type: none
+https: true
+cors: yes

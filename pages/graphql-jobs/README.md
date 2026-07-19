@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Jobs](https://github.com/Bigibyte/apis-collection#jobs-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

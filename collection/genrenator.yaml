@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://binaryjazz.us/genrenator-api/
+auth_type: none
+https: true

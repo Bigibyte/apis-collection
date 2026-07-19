@@ -74,3 +74,5 @@ libraries:
     platform: Java
     stargazers_count: 86
   - name: Clarifai Node.js Library by Clarifai
+auth_type: oauth2
+https: true

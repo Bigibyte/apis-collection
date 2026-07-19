@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Testing](https://github.com/Bigibyte/apis-collection#testing-), [Random](https://github.com/Bigibyte/apis-collection#random-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

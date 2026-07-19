@@ -67,3 +67,5 @@ libraries:
     platform: Ruby
     author: sogamoso
     stargazers_count: 82
+auth_type: api_key
+https: true

@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Databases](https://github.com/Bigibyte/apis-collection#databases-), [Development](https://github.com/Bigibyte/apis-collection#development-)
 - **Type**: `GraphQL`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

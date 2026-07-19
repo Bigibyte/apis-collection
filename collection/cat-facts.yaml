@@ -12,3 +12,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://alexwohlbruck.github.io/cat-facts/
+auth_type: none
+https: true
+cors: yes

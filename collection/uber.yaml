@@ -108,3 +108,6 @@ libraries:
     platform: Node.js
     author: nathanpdaniel
     stargazers_count: 11
+auth_type: oauth2
+https: true
+cors: yes

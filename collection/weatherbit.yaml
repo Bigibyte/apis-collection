@@ -14,3 +14,5 @@ libraries:
     documentation_url: https://github.com/weatherbit/weatherbit-python
     platform: Python
     stargazers_count: 18
+auth_type: api_key
+https: true

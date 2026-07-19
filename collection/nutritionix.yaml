@@ -39,3 +39,5 @@ libraries:
     platform: Ruby
     author: JigneshGohel-BoTreeConsulting
     stargazers_count: 1
+auth_type: api_key
+https: true

@@ -11,3 +11,5 @@ contact: contact@ijenko.com
 links:
   - name: Docs / Website
     url: http://api.docs.import.io/
+auth_type: api_key
+https: true

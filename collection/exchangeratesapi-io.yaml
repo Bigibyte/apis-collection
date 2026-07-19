@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://exchangeratesapi.io/
+auth_type: api_key
+https: true
+cors: yes

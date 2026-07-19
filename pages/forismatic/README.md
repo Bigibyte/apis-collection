@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Fun](https://github.com/Bigibyte/apis-collection#fun-), [Content & Dictionaries](https://github.com/Bigibyte/apis-collection#content--dictionaries-), [Random](https://github.com/Bigibyte/apis-collection#random-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

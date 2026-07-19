@@ -17,3 +17,6 @@ libraries:
     documentation_url: https://github.com/CodeLineFi/maclookup-python
     platform: Python
     stargazers_count: 1
+auth_type: api_key
+https: true
+cors: yes

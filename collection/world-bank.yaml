@@ -27,3 +27,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+auth_type: none
+https: true
+cors: no

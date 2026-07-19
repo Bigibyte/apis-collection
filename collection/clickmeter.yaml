@@ -13,3 +13,5 @@ contact: api@clickmeter.com
 links:
   - name: Docs / Website
     url: https://support.clickmeter.com/hc/en-us/categories/201474986
+auth_type: api_key
+https: true

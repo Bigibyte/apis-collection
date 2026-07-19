@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Security](https://github.com/Bigibyte/apis-collection#security-), [Search](https://github.com/Bigibyte/apis-collection#search-), [IoT & Home Automation](https://github.com/Bigibyte/apis-collection#iot--home-automation-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

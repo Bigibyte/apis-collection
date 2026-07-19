@@ -92,3 +92,5 @@ libraries:
   - name: Dropbox PHP Library by Kannan Goudan
     documentation_url: https://github.com/dropbox/dropbox-sdk-php
     platform: PHP
+auth_type: oauth2
+https: true

@@ -11,3 +11,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding
+auth_type: oauth2
+https: true

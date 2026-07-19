@@ -7,9 +7,10 @@ Coinbase’s APIs enable a variety of capabilities; from simply gathering read-o
 ## 📝 Details
 - **Categories**: [Payments](https://github.com/Bigibyte/apis-collection#payments-), [Blockchain & Cryptocurrencies](https://github.com/Bigibyte/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

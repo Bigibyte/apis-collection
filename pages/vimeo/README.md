@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Entertainment](https://github.com/Bigibyte/apis-collection#entertainment-), [Social](https://github.com/Bigibyte/apis-collection#social-), [Video & Media](https://github.com/Bigibyte/apis-collection#video--media-), [Content & Dictionaries](https://github.com/Bigibyte/apis-collection#content--dictionaries-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

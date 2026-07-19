@@ -131,3 +131,5 @@ libraries:
     platform: PHP
     author: ricbra
     stargazers_count: 155
+auth_type: oauth2
+https: true

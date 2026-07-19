@@ -17,3 +17,5 @@ libraries:
     platform: Python
     author: secops4thewin
     stargazers_count: 6
+auth_type: api_key
+https: true

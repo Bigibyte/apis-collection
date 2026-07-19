@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://bitcoincharts.com/about/markets-api/
+auth_type: none
+https: true

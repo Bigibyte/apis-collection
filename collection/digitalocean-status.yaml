@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://status.digitalocean.com/api
+auth_type: none
+https: true

@@ -50,3 +50,5 @@ libraries:
     documentation_url: https://github.com/openfoodfacts/openfoodfacts-dart
     platform: Dart
     stargazers_count: 49
+auth_type: none
+https: true

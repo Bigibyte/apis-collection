@@ -9,3 +9,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://emel.city-platform.com/opendata/
+auth_type: api_key
+https: true

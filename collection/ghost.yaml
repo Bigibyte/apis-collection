@@ -12,3 +12,6 @@ links:
     url: https://ghost.org/docs/content-api
   - name: Admin API
     url: https://ghost.org/docs/admin-api
+auth_type: api_key
+https: true
+cors: yes

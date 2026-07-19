@@ -127,3 +127,5 @@ libraries:
     documentation_url: https://github.com/flint-bot/sparky
     platform: Node.js
     stargazers_count: 17
+auth_type: oauth2
+https: true

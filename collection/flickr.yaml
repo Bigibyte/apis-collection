@@ -194,3 +194,5 @@ libraries:
     platform: Java
   - name: .NET Wrapper for Flickr API
   - name: .NET Wrapper for Flickr API
+auth_type: oauth2
+https: true

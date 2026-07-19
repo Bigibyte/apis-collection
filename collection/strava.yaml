@@ -133,3 +133,5 @@ libraries:
     platform: Python
     author: cnuahs
     stargazers_count: 0
+auth_type: oauth2
+https: true

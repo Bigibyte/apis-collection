@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
+auth_type: none
+https: true

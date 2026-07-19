@@ -12,3 +12,5 @@ links:
     url: https://developers.forem.com/api
   - name: API Reference
     url: https://developers.forem.com/api/v1
+auth_type: api_key
+https: true

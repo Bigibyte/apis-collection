@@ -7,3 +7,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://www.octranspo.com/developers
+auth_type: api_key
+https: true

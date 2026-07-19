@@ -53,3 +53,5 @@ libraries:
     documentation_url: https://github.com/google/safebrowsing
     platform: Go
     stargazers_count: 349
+auth_type: api_key
+https: true

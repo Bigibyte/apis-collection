@@ -56,3 +56,5 @@ libraries:
     source_code_url: https://github.com/plaid/plaid-java
     platform: Java
     stargazers_count: 69
+auth_type: api_key
+https: true

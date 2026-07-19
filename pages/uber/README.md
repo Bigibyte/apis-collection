@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Commerce](https://github.com/Bigibyte/apis-collection#commerce-), [Travel](https://github.com/Bigibyte/apis-collection#travel-), [Transportation](https://github.com/Bigibyte/apis-collection#transportation-), [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

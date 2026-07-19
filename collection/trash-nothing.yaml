@@ -13,3 +13,6 @@ contact: support@transitfeeds.com
 links:
   - name: Docs / Website
     url: https://trashnothing.com/developer
+auth_type: oauth2
+https: true
+cors: yes

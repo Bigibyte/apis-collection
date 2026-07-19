@@ -12,3 +12,6 @@ links:
     url: https://hasura.io/docs/latest/api-reference/overview
   - name: API Reference
     url: https://hasura.io/docs/latest/api-reference/graphql-api/query
+auth_type: api_key
+https: true
+cors: yes

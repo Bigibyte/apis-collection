@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-), [Video & Media](https://github.com/Bigibyte/apis-collection#video--media-), [Validation & Verification](https://github.com/Bigibyte/apis-collection#validation--verification-), [Recognition](https://github.com/Bigibyte/apis-collection#recognition-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

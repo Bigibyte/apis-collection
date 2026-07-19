@@ -149,3 +149,5 @@ libraries:
     platform: Node.js
     author: yagop
     stargazers_count: 4945
+auth_type: api_key
+https: true

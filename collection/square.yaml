@@ -31,3 +31,5 @@ libraries:
     source_code_url: https://github.com/square/picasso
     platform: Java
     stargazers_count: 17853
+auth_type: oauth2
+https: true

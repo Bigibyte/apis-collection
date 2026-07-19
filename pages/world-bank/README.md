@@ -12,9 +12,11 @@ World Bank APIs provide access to various types of data and databases:
 ## 📝 Details
 - **Categories**: [Government](https://github.com/Bigibyte/apis-collection#government-), [Finance & Economics](https://github.com/Bigibyte/apis-collection#finance--economics-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

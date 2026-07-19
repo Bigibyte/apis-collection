@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://docs.onemap.sg/
+auth_type: api_key
+https: true

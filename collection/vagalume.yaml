@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://api.vagalume.com.br/docs/
+auth_type: api_key
+https: true

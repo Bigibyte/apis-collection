@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Statistics & Data](https://github.com/Bigibyte/apis-collection#statistics--data-), [Search](https://github.com/Bigibyte/apis-collection#search-), [Text Analysis & Tools](https://github.com/Bigibyte/apis-collection#text-analysis--tools-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

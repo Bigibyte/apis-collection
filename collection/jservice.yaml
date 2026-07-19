@@ -19,3 +19,5 @@ libraries:
     platform: Ruby
     author: djds23
     stargazers_count: 8
+auth_type: none
+https: false

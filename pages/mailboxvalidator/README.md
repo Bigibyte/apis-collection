@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Business](https://github.com/Bigibyte/apis-collection#business-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -8,3 +8,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.mixcloud.com/developers/
+auth_type: oauth2
+https: true
+cors: yes

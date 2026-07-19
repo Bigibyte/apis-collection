@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Music & Audio](https://github.com/Bigibyte/apis-collection#music--audio-), [Open Source](https://github.com/Bigibyte/apis-collection#open-source-), [Wiki](https://github.com/Bigibyte/apis-collection#wiki-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

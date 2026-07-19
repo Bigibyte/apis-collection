@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Chats & Messaging](https://github.com/Bigibyte/apis-collection#chats--messaging-), [Voice](https://github.com/Bigibyte/apis-collection#voice-), [Games](https://github.com/Bigibyte/apis-collection#games-), [Social](https://github.com/Bigibyte/apis-collection#social-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

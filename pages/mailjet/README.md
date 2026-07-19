@@ -8,9 +8,10 @@ Responsive email design with MJML and Passport**
 ## 📝 Details
 - **Categories**: [Email & SMS](https://github.com/Bigibyte/apis-collection#email--sms-), [Marketing & SEO](https://github.com/Bigibyte/apis-collection#marketing--seo-), [Analytics](https://github.com/Bigibyte/apis-collection#analytics-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

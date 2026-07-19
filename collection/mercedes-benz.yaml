@@ -8,3 +8,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://developer.mercedes-benz.com/apis
+auth_type: api_key
+https: true
+cors: no

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Business](https://github.com/Bigibyte/apis-collection#business-), [Jobs](https://github.com/Bigibyte/apis-collection#jobs-), [News & Feeds](https://github.com/Bigibyte/apis-collection#news--feeds-), [Marketing & SEO](https://github.com/Bigibyte/apis-collection#marketing--seo-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

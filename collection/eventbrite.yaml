@@ -61,3 +61,5 @@ libraries:
     documentation_url: https://github.com/eventbrite/eventbrite.php
     platform: PHP
     stargazers_count: 1
+auth_type: oauth2
+https: true

@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://opentdb.com/api_config.php
+auth_type: none
+https: true

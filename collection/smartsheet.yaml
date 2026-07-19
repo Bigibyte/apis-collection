@@ -12,3 +12,6 @@ links:
     url: https://smartsheet.redoc.ly
   - name: API Reference
     url: https://smartsheet.redoc.ly/tag/sheets
+auth_type: oauth2
+https: true
+cors: no

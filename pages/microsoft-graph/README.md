@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Email & SMS](https://github.com/Bigibyte/apis-collection#email--sms-), [Collaboration](https://github.com/Bigibyte/apis-collection#collaboration-), [Files & Storage](https://github.com/Bigibyte/apis-collection#files--storage-), [Calendar & Time](https://github.com/Bigibyte/apis-collection#calendar--time-), [CRM](https://github.com/Bigibyte/apis-collection#crm-), [Documents & Productivity](https://github.com/Bigibyte/apis-collection#documents--productivity-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

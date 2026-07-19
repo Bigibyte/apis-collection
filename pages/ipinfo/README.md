@@ -7,9 +7,10 @@ With IPinfo, you can pinpoint your users’ locations, customize their experienc
 ## 📝 Details
 - **Categories**: [Development](https://github.com/Bigibyte/apis-collection#development-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

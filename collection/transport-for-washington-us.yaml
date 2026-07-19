@@ -9,3 +9,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://developer.wmata.com/
+auth_type: oauth2
+https: true

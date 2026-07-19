@@ -19,9 +19,10 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 ## 📝 Details
 - **Categories**: [Jobs](https://github.com/Bigibyte/apis-collection#jobs-), [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

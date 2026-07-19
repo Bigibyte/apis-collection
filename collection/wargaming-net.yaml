@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://developers.wargaming.net/
+auth_type: api_key
+https: true
+cors: no

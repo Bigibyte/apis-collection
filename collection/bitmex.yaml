@@ -49,3 +49,5 @@ libraries:
     documentation_url: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/android
     platform: Java
     stargazers_count: 912
+auth_type: api_key
+https: true

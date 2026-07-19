@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://tastedive.com/read/api
+auth_type: api_key
+https: true

@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://svatky.adresa.info
+auth_type: none
+https: false

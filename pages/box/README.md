@@ -8,9 +8,10 @@ the Box Developer Console.**
 ## 📝 Details
 - **Categories**: [Collaboration](https://github.com/Bigibyte/apis-collection#collaboration-), [Business](https://github.com/Bigibyte/apis-collection#business-), [Files & Storage](https://github.com/Bigibyte/apis-collection#files--storage-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -26,7 +26,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "contact": "support@interzoid.com",
     "specification": {
       "type": "openapi",
@@ -76,7 +77,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -161,7 +164,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -368,7 +372,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -454,7 +459,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -472,7 +478,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -490,7 +497,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -534,7 +542,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -660,7 +669,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -772,7 +783,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -790,7 +803,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -841,7 +856,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -882,7 +898,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -963,7 +980,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -1003,7 +1021,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -1205,7 +1224,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -1245,7 +1266,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -1263,7 +1285,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -1289,7 +1312,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -1602,7 +1627,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -1680,7 +1706,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -1774,7 +1801,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "contact": "support@aoncadis.org",
     "specification": {
       "type": "swagger",
@@ -1799,7 +1828,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -1818,7 +1848,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -1884,7 +1916,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -1986,7 +2019,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -2168,7 +2203,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -2286,7 +2322,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -2313,7 +2350,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -2332,7 +2371,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "specification": {
       "type": "swagger",
       "url": "https://app.swaggerhub.com/apiproxy/registry/Bandsintown/PublicAPI/3.0.0?resolved=true&flatten=true&pretty=true",
@@ -2497,7 +2537,9 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -2532,7 +2574,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -2550,7 +2593,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -2568,7 +2612,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -2668,7 +2713,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -2722,7 +2769,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -2913,7 +2961,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3036,7 +3085,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "support@bitbucket.org",
     "links": [
       {
@@ -3073,7 +3123,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3104,7 +3155,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3122,7 +3174,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3196,7 +3249,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3276,7 +3330,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3427,7 +3482,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3637,7 +3693,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3655,7 +3712,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3673,7 +3731,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3813,7 +3872,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -3836,7 +3897,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "contact": "info@getthedata.com",
     "links": [
       {
@@ -3873,7 +3936,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -3893,7 +3957,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -4194,7 +4259,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -4231,7 +4298,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -4272,7 +4340,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -4308,7 +4377,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -4473,7 +4544,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -4517,7 +4589,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -4535,7 +4608,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -4598,7 +4672,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -4651,7 +4727,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -4714,7 +4791,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -4834,7 +4912,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -4852,7 +4932,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -4870,7 +4952,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -4907,7 +4990,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -4962,7 +5046,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5000,7 +5085,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -5074,7 +5160,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -5155,7 +5243,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -5173,7 +5262,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -5191,7 +5281,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5209,7 +5300,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -5228,7 +5320,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5429,7 +5522,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5614,7 +5708,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5681,7 +5776,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5699,7 +5795,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5718,7 +5815,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -5772,7 +5870,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5813,7 +5912,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5921,7 +6021,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5940,7 +6041,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -5958,7 +6060,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -5978,7 +6082,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6047,7 +6152,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "contact": "api@clickmeter.com",
     "links": [
       {
@@ -6067,7 +6173,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6340,7 +6447,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -6359,7 +6468,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -6378,7 +6489,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -6456,7 +6569,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6475,7 +6589,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6556,7 +6671,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -6575,7 +6692,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6632,7 +6750,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6668,7 +6787,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6725,7 +6845,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6743,7 +6864,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6761,7 +6883,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6779,7 +6902,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6797,7 +6921,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -6984,7 +7109,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -7011,7 +7138,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -7048,7 +7176,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -7067,7 +7196,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -7187,7 +7317,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -7303,7 +7434,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -7323,7 +7455,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "contact": "support@configcat.com",
     "links": [
       {
@@ -7359,7 +7492,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -7381,7 +7516,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -7488,7 +7624,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -7506,7 +7644,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -7631,7 +7771,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -7666,7 +7807,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -7860,7 +8002,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -7896,7 +8039,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -7998,7 +8143,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -8026,7 +8173,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -8044,7 +8192,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -8062,7 +8211,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -8100,7 +8250,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -8461,7 +8612,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -8479,7 +8631,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "contact": "dani@daniwebmail.com",
     "links": [
       {
@@ -8499,7 +8652,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -8671,7 +8825,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -8725,7 +8880,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -8791,7 +8947,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9044,7 +9201,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9063,7 +9221,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9081,7 +9240,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "logo": "https://data.deutschebahn.com/images/logo.png",
     "links": [
       {
@@ -9119,7 +9279,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9200,7 +9361,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9220,7 +9382,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -9274,7 +9438,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9315,7 +9480,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9510,7 +9676,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9677,7 +9844,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9738,7 +9906,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9756,7 +9925,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -9778,7 +9949,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -9796,7 +9969,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "contact": "dhieber@umail.ucsb.edu",
     "links": [
       {
@@ -9834,7 +10009,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9869,7 +10045,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -9982,7 +10159,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -10123,7 +10301,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -10159,7 +10338,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -10177,7 +10357,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -10233,7 +10415,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -10322,7 +10505,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -10363,7 +10548,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -10507,7 +10693,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -10545,7 +10733,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -10564,7 +10753,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -10582,7 +10772,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -10621,7 +10812,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "hello@edrv.io",
     "links": [
       {
@@ -10674,7 +10866,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -10821,7 +11014,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -10876,7 +11071,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -11091,7 +11288,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -11110,7 +11309,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -11189,7 +11390,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11207,7 +11409,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11225,7 +11428,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11243,7 +11447,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11430,7 +11635,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11450,7 +11656,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11536,7 +11743,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11554,7 +11762,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -11590,7 +11800,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11608,7 +11819,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11769,7 +11981,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -11982,7 +12195,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -12338,7 +12552,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -12425,7 +12640,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -12462,7 +12678,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -12484,7 +12701,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -12594,7 +12813,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -12742,7 +12962,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -12789,7 +13010,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -12845,7 +13067,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "contact": "developers@flat.io",
     "links": [
       {
@@ -12882,7 +13105,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -12900,7 +13125,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -12987,7 +13213,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13005,7 +13232,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13076,7 +13304,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13096,7 +13325,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -13134,7 +13365,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -13152,7 +13385,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13208,7 +13442,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -13228,7 +13464,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13246,7 +13483,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13281,7 +13519,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13299,7 +13538,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -13321,7 +13562,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13339,7 +13581,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13375,7 +13618,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13393,7 +13637,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -13412,7 +13658,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -13618,7 +13865,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -13724,7 +13973,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "info@getthedata.com",
     "links": [
       {
@@ -13814,7 +14064,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -13991,7 +14242,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -14014,7 +14267,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -14067,7 +14321,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -14168,7 +14423,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "REST API",
@@ -14290,7 +14547,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "support@graphhopper.com",
     "links": [
       {
@@ -14418,7 +14676,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -14517,7 +14776,9 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -14535,7 +14796,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -14796,7 +15058,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "support@goog.io",
     "links": [
       {
@@ -14935,7 +15198,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -14971,7 +15235,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -15055,7 +15320,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -15150,7 +15416,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -15459,7 +15726,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -15721,7 +15989,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -15830,7 +16099,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -15910,7 +16181,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -15933,7 +16206,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -15960,7 +16235,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16095,7 +16371,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16114,7 +16391,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16344,7 +16622,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16404,7 +16683,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -16423,7 +16703,8 @@
     "type": "GraphQL",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16446,7 +16727,9 @@
     "type": "GraphQL",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -16468,7 +16751,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16486,7 +16770,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "contact": "contact@handwrytten.com",
     "links": [
       {
@@ -16523,7 +16808,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16541,7 +16827,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -16559,7 +16846,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16666,7 +16954,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16777,7 +17066,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16795,7 +17085,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -16836,7 +17128,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -16960,7 +17254,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -16978,7 +17273,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17218,7 +17514,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17237,7 +17534,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17275,7 +17573,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17294,7 +17593,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17330,7 +17630,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17348,7 +17649,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -17460,7 +17763,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17479,7 +17783,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17498,7 +17803,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "contact": "contact@ijenko.com",
     "links": [
       {
@@ -17535,7 +17842,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17576,7 +17884,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -17657,7 +17966,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "contact": "contact@ijenko.com",
     "links": [
       {
@@ -17986,7 +18296,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18006,7 +18317,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18247,7 +18559,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18288,7 +18601,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18323,7 +18637,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18465,7 +18780,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18505,7 +18821,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18541,7 +18858,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18560,7 +18878,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18582,7 +18901,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18600,7 +18920,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18638,7 +18959,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18710,7 +19032,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18728,7 +19051,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18747,7 +19071,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -18766,7 +19092,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18784,7 +19111,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18810,7 +19138,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18844,7 +19173,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -18863,7 +19194,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18903,7 +19235,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18921,7 +19254,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -18959,7 +19294,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -18977,7 +19313,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -19011,7 +19348,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -19064,7 +19402,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -19084,7 +19424,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -19120,7 +19461,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -19242,7 +19584,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -19261,7 +19605,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -19279,7 +19624,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -19335,7 +19682,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -19388,7 +19737,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -19407,7 +19757,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -19448,7 +19799,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -19471,7 +19823,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -19627,7 +19980,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -19807,7 +20161,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -19843,7 +20199,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -19861,7 +20218,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -19926,7 +20284,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "support@selectpdf.com",
     "links": [
       {
@@ -19967,7 +20326,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -20020,7 +20380,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -20099,7 +20461,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -20260,7 +20623,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -20417,7 +20782,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -20480,7 +20846,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -20634,7 +21002,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -20669,7 +21038,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -20688,7 +21058,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -20840,7 +21211,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -20860,7 +21232,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -20887,7 +21261,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -20907,7 +21282,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -20925,7 +21301,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -20944,7 +21321,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -21043,7 +21421,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -21188,7 +21567,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -21216,7 +21596,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -21450,7 +21831,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -21528,7 +21910,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -21714,7 +22097,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -21784,7 +22168,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -21842,7 +22227,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -21878,7 +22265,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -21937,7 +22325,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -21955,7 +22344,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -22009,7 +22399,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -22027,7 +22418,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -22045,7 +22438,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -22145,7 +22539,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -22230,7 +22625,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -22270,7 +22666,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -22410,7 +22808,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -22554,7 +22953,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -22645,7 +23046,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -22738,7 +23140,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -22818,7 +23221,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -23125,7 +23529,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -23143,7 +23549,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -23161,7 +23569,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -23196,7 +23605,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -23294,7 +23705,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -23312,7 +23724,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -23384,7 +23798,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -23402,7 +23817,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "contact": "contact@namsor.com",
     "links": [
       {
@@ -23574,7 +23990,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -23712,7 +24129,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -23730,7 +24149,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -23949,7 +24370,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -23969,7 +24391,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24075,7 +24498,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -24131,7 +24556,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24155,7 +24581,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": false,
     "contact": "support@telnyx.com",
     "links": [
       {
@@ -24183,7 +24610,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24205,7 +24633,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24262,7 +24691,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -24317,7 +24748,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24338,7 +24770,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24415,7 +24848,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -24451,7 +24886,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "contact": "matiasbonet@oceandrivers.com",
     "specification": {
       "type": "swagger",
@@ -24565,7 +25001,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24583,7 +25020,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24767,7 +25205,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24825,7 +25264,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -24845,7 +25286,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -24863,7 +25306,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24883,7 +25327,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24959,7 +25404,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24977,7 +25423,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -24996,7 +25443,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -25014,7 +25462,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25032,7 +25481,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25050,7 +25500,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25068,7 +25519,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25086,7 +25538,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -25105,7 +25558,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25123,7 +25577,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25141,7 +25596,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -25161,7 +25618,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25179,7 +25637,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -25225,7 +25685,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25243,7 +25704,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -25261,7 +25723,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -25279,7 +25742,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25333,7 +25797,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -25378,7 +25844,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -25418,7 +25886,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25436,7 +25905,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -25463,7 +25934,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25483,7 +25955,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25586,7 +26059,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25629,7 +26103,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25741,7 +26216,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -25793,7 +26270,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -25829,7 +26307,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -25882,7 +26362,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -25926,7 +26408,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -26015,7 +26498,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -26192,7 +26676,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -26270,7 +26756,9 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -26395,7 +26883,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -26531,7 +27021,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -26651,7 +27142,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -26748,7 +27240,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -26890,7 +27383,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -26909,7 +27403,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -27046,7 +27541,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -27093,7 +27589,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -27157,7 +27654,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -27397,7 +27895,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "contact": "contact@portfoliooptimizer.io",
     "links": [
       {
@@ -27416,7 +27916,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -27439,7 +27940,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -27458,7 +27960,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -27519,7 +28023,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -27801,7 +28306,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -27861,7 +28367,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -27929,7 +28436,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -28027,7 +28535,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -28047,7 +28556,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -28293,7 +28803,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -28311,7 +28822,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -28330,7 +28842,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -28348,7 +28861,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -28366,7 +28880,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "contact": "support@aoncadis.org",
     "links": [
       {
@@ -28477,7 +28992,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -28736,7 +29252,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -28789,7 +29307,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -28807,7 +29326,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29003,7 +29523,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -29023,7 +29545,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -29118,7 +29642,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29136,7 +29661,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29200,7 +29726,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29219,7 +29746,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29422,7 +29950,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29441,7 +29970,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29541,7 +30071,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29561,7 +30092,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29598,7 +30130,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29648,7 +30181,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -29668,7 +30203,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29808,7 +30344,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -29846,7 +30384,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -29866,7 +30405,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30012,7 +30552,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30071,7 +30612,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30159,7 +30701,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -30215,7 +30759,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30322,7 +30867,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30340,7 +30886,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -30396,7 +30943,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30433,7 +30981,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30502,7 +31051,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -30522,7 +31073,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30621,7 +31173,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -30713,7 +31267,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30783,7 +31338,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30904,7 +31460,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -30972,7 +31530,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -30990,7 +31549,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -31089,7 +31650,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -31225,7 +31787,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -31298,7 +31861,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -31488,7 +32052,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -31528,7 +32093,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -31657,7 +32223,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -31776,7 +32344,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -31908,7 +32478,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -31973,7 +32544,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -31992,7 +32564,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -32080,7 +32653,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -32098,7 +32673,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -32205,7 +32781,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "admin@spinbot.net",
     "links": [
       {
@@ -32427,7 +33004,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -32496,7 +33074,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "developers@squareup.com",
     "links": [
       {
@@ -32533,7 +33112,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -32589,7 +33170,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -32714,7 +33297,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -33066,7 +33650,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -33116,7 +33702,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -33175,7 +33763,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -33194,7 +33783,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -33248,7 +33839,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -33327,7 +33920,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -33379,7 +33973,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -33433,7 +34028,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -33605,7 +34202,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -33820,7 +34418,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34018,7 +34617,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34114,7 +34714,8 @@
     "type": "GraphQL",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34136,7 +34737,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34154,7 +34756,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34172,7 +34775,9 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -34190,7 +34795,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34208,7 +34814,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34226,7 +34833,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34279,7 +34887,9 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -34317,7 +34927,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -34338,7 +34950,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -34420,7 +35034,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34478,7 +35093,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34520,7 +35136,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -34665,7 +35283,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34702,7 +35321,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34765,7 +35385,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -34804,7 +35426,9 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -34822,7 +35446,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -34851,7 +35477,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34921,7 +35548,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -34939,7 +35568,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34957,7 +35587,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -34975,7 +35606,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -34993,7 +35625,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -35011,7 +35645,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35029,7 +35664,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35065,7 +35701,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35083,7 +35720,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -35101,7 +35739,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35119,7 +35758,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -35137,7 +35777,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35155,7 +35796,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -35173,7 +35816,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -35209,7 +35853,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35227,7 +35872,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "contact": "support@telnyx.com",
     "links": [
       {
@@ -35263,7 +35909,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -35298,7 +35946,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35332,7 +35981,8 @@
     ],
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35369,7 +36019,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -35387,7 +36038,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -35405,7 +36057,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35423,7 +36076,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35441,7 +36095,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35459,7 +36114,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -35477,7 +36133,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35512,7 +36169,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35532,7 +36190,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "contact": "support@transitfeeds.com",
     "links": [
       {
@@ -35585,7 +36245,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35669,7 +36330,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "support@transitfeeds.com",
     "links": [
       {
@@ -35873,7 +36535,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35912,7 +36575,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -35947,7 +36611,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -36098,7 +36763,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -36117,7 +36783,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -36327,7 +36994,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -36589,7 +37257,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -36709,7 +37378,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -36883,7 +37554,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "contact": "support@twitter.com",
     "links": [
       {
@@ -36938,7 +37610,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -36957,7 +37630,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -36983,7 +37657,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37001,7 +37676,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37056,7 +37732,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37075,7 +37752,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37250,7 +37928,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37298,7 +37977,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37336,7 +38016,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37432,7 +38113,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37464,7 +38146,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37482,7 +38165,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -37500,7 +38185,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -37539,7 +38226,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -37641,7 +38330,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -37678,7 +38369,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37696,7 +38388,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37756,7 +38449,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -37774,7 +38469,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -37793,7 +38490,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37811,7 +38509,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37866,7 +38565,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -37937,7 +38637,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -37957,7 +38659,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38068,7 +38771,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38127,7 +38831,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "contact": "support@twitter.com",
     "links": [
       {
@@ -38199,7 +38904,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38262,7 +38968,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38409,7 +39116,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38445,7 +39153,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38464,7 +39173,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -38501,7 +39212,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38538,7 +39250,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
+    "cors": "yes",
     "links": [
       {
         "name": "Docs / Website",
@@ -38560,7 +39274,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38787,7 +39502,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38842,7 +39558,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": false,
     "links": [
       {
         "name": "Docs / Website",
@@ -38860,7 +39577,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38882,7 +39600,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -38966,7 +39685,8 @@
     ],
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -39035,7 +39755,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -39077,7 +39798,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -39364,7 +40086,8 @@
     ],
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -39502,7 +40225,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "contact": "contact@wordassociations.net",
     "links": [
       {
@@ -39655,7 +40379,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "links": [
       {
         "name": "Docs / Website",
@@ -39690,7 +40416,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -39861,7 +40588,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
+    "cors": "no",
     "contact": "contact@wordassociations.net",
     "links": [
       {
@@ -40214,7 +40943,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -40412,7 +41142,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "none",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -40430,7 +41161,9 @@
     "type": "REST",
     "status": "active",
     "pricing": "free",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
+    "cors": "yes",
     "contact": "contact@wordassociations.net",
     "links": [
       {
@@ -40527,7 +41260,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "oauth2",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -40914,7 +41648,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",
@@ -40950,7 +41685,8 @@
     "type": "REST",
     "status": "active",
     "pricing": "paid",
-    "auth_type": "unknown",
+    "auth_type": "api_key",
+    "https": true,
     "links": [
       {
         "name": "Docs / Website",

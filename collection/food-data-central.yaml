@@ -12,3 +12,5 @@ links:
     url: https://fdc.nal.usda.gov/api-guide.html
   - name: API Reference
     url: https://app.swaggerhub.com/apis/fdcnal/food-data_central_api/1.0.1
+auth_type: api_key
+https: true

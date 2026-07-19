@@ -11,3 +11,5 @@ links:
     url: https://finnhub.io/docs/api
   - name: API Reference
     url: https://finnhub.io/docs/api/introduction
+auth_type: api_key
+https: true

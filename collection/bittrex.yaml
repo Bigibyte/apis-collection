@@ -143,3 +143,5 @@ libraries:
     platform: Node.js
     author: n0mad01
     stargazers_count: 180
+auth_type: api_key
+https: true

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Blockchain & Cryptocurrencies](https://github.com/Bigibyte/apis-collection#blockchain--cryptocurrencies-), [Finance & Economics](https://github.com/Bigibyte/apis-collection#finance--economics-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

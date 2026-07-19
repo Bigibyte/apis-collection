@@ -9,3 +9,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://www.transitchicago.com/developers/
+auth_type: api_key
+https: false

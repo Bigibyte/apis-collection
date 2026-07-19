@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.wikidata.org/w/api.php?action=help
+auth_type: oauth2
+https: true

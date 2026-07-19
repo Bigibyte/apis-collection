@@ -118,3 +118,5 @@ libraries:
   - name: Box PHP SDK
     documentation_url: https://github.com/brunomorency/box-php-sdk
     platform: PHP
+auth_type: oauth2
+https: true

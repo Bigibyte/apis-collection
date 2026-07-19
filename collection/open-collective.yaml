@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://docs.opencollective.com/help/developers/api
+auth_type: none
+https: true

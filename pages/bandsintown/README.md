@@ -9,9 +9,10 @@ artist events: returns the list of events including their date and time, venue n
 ## 📝 Details
 - **Categories**: [Events](https://github.com/Bigibyte/apis-collection#events-), [Music & Audio](https://github.com/Bigibyte/apis-collection#music--audio-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

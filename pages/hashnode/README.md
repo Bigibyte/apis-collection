@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Development](https://github.com/Bigibyte/apis-collection#development-), [Social](https://github.com/Bigibyte/apis-collection#social-)
 - **Type**: `GraphQL`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

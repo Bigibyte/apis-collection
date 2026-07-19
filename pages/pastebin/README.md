@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Collaboration](https://github.com/Bigibyte/apis-collection#collaboration-), [Files & Storage](https://github.com/Bigibyte/apis-collection#files--storage-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

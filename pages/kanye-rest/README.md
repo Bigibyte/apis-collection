@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Health](https://github.com/Bigibyte/apis-collection#health-), [Music & Audio](https://github.com/Bigibyte/apis-collection#music--audio-), [News & Feeds](https://github.com/Bigibyte/apis-collection#news--feeds-), [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

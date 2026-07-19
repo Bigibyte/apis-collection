@@ -8,3 +8,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://sv443.net/jokeapi/v2/
+auth_type: none
+https: true
+cors: yes

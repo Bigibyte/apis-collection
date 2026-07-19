@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Text Analysis & Tools](https://github.com/Bigibyte/apis-collection#text-analysis--tools-), [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

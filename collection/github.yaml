@@ -36,3 +36,6 @@ libraries:
   - name: ghapi
     documentation_url: https://github.com/fastai/ghapi
     platform: Python
+auth_type: oauth2
+https: true
+cors: yes

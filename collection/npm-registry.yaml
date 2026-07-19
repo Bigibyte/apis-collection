@@ -11,3 +11,5 @@ links:
     url: https://github.com/npm/registry/blob/main/docs/REGISTRY-API.md
   - name: Registry API
     url: https://registry.npmjs.org
+auth_type: none
+https: true

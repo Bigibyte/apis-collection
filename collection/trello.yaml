@@ -127,3 +127,5 @@ libraries:
     platform: Unspecified
     author: erjenkins29
     stargazers_count: 0
+auth_type: oauth2
+https: true

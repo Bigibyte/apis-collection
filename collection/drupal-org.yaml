@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.drupal.org/drupalorg/docs/api
+auth_type: none
+https: true

@@ -10,3 +10,6 @@ contact: contact@ijenko.com
 links:
   - name: Docs / Website
     url: https://www.image-charts.com
+auth_type: none
+https: true
+cors: yes

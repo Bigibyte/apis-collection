@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Random](https://github.com/Bigibyte/apis-collection#random-), [Fun](https://github.com/Bigibyte/apis-collection#fun-), [Science & Math](https://github.com/Bigibyte/apis-collection#science--math-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

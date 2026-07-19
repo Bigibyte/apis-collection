@@ -66,3 +66,6 @@ libraries:
   - name: SmartyStreets Ruby SDK by Peter Edge
     documentation_url: https://github.com/peter-edge/smartystreets_ruby
     platform: Ruby
+auth_type: api_key
+https: true
+cors: yes

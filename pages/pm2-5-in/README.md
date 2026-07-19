@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Environment & Nature](https://github.com/Bigibyte/apis-collection#environment--nature-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
 

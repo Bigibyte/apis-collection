@@ -10,3 +10,6 @@ contact: info@getthedata.com
 links:
   - name: Docs / Website
     url: https://www.getthedata.com/bng2latlong
+auth_type: none
+https: true
+cors: yes

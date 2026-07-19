@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Point of Interest](https://github.com/Bigibyte/apis-collection#point-of-interest-), [Food & Drinks](https://github.com/Bigibyte/apis-collection#food--drinks-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

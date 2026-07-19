@@ -16,3 +16,6 @@ specification:
 links:
   - name: Docs / Website
     url: https://archive.readme.io/docs
+auth_type: none
+https: true
+cors: no

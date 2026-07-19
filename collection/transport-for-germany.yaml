@@ -9,3 +9,5 @@ logo: https://data.deutschebahn.com/images/logo.png
 links:
   - name: Docs / Website
     url: http://data.deutschebahn.com/dataset/api-fahrplan
+auth_type: api_key
+https: false

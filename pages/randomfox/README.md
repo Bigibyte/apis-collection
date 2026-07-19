@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Animals](https://github.com/Bigibyte/apis-collection#animals-), [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [Random](https://github.com/Bigibyte/apis-collection#random-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

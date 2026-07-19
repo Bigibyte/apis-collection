@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://inspirehep.net/info/hep/api?ln=en
+auth_type: none
+https: true

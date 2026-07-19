@@ -10,3 +10,5 @@ contact: contact@handwrytten.com
 links:
   - name: Docs / Website
     url: https://www.healthcare.gov/developers/
+auth_type: none
+https: true

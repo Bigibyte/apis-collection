@@ -8,3 +8,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://api.abalin.net/
+auth_type: none
+https: true
+cors: yes

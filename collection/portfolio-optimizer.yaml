@@ -10,3 +10,6 @@ contact: contact@portfoliooptimizer.io
 links:
   - name: Docs / Website
     url: https://portfoliooptimizer.io/
+auth_type: none
+https: true
+cors: yes

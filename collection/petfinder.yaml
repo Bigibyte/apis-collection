@@ -82,3 +82,6 @@ libraries:
     platform: Ruby
     author: ehutzelman
     stargazers_count: 36
+auth_type: api_key
+https: true
+cors: yes

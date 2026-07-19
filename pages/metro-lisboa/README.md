@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Transportation](https://github.com/Bigibyte/apis-collection#transportation-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

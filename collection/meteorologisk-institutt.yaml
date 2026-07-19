@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://api.met.no/weatherapi/documentation
+auth_type: none
+https: true

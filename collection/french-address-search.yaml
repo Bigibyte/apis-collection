@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://geo.api.gouv.fr/adresse
+auth_type: none
+https: true

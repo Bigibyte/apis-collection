@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Animals](https://github.com/Bigibyte/apis-collection#animals-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

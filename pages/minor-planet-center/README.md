@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Science & Math](https://github.com/Bigibyte/apis-collection#science--math-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

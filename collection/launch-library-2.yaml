@@ -8,3 +8,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://ll.thespacedevs.com/2.1.0/swagger
+auth_type: none
+https: true
+cors: yes

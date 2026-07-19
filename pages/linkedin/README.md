@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Authentication & User Management](https://github.com/Bigibyte/apis-collection#authentication--user-management-), [Social](https://github.com/Bigibyte/apis-collection#social-), [Business](https://github.com/Bigibyte/apis-collection#business-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

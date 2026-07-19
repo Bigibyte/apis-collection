@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [Art & Design](https://github.com/Bigibyte/apis-collection#art--design-), [Visualizations](https://github.com/Bigibyte/apis-collection#visualizations-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
 

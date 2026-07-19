@@ -71,3 +71,5 @@ libraries:
     source_code_url: https://github.com/traitify/traitify-java
     platform: Java
     stargazers_count: 3
+auth_type: none
+https: true

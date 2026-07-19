@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://www.juju.com/publisher/spec/
+auth_type: api_key
+https: false

@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://docs.lexigram.io/v1/welcome
+auth_type: api_key
+https: true

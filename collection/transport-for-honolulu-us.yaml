@@ -9,3 +9,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://hea.thebus.org/api_info.asp
+auth_type: api_key
+https: false

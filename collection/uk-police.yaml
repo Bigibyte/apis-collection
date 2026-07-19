@@ -17,3 +17,5 @@ libraries:
     documentation_url: https://github.com/rkhleics/police-api-client-python/
     platform: Python
     stargazers_count: 25
+auth_type: none
+https: true

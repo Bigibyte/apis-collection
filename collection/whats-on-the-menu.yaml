@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://nypl.github.io/menus-api/
+auth_type: api_key
+https: false

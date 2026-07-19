@@ -12,3 +12,5 @@ links:
     url: https://ipinfo.io/developers
   - name: API Reference
     url: https://ipinfo.io/developers/data-types
+auth_type: none
+https: true

@@ -31,3 +31,6 @@ libraries:
     platform: Go
     author: nishanths
     stargazers_count: 43
+auth_type: none
+https: true
+cors: no

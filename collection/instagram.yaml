@@ -148,3 +148,5 @@ libraries:
     platform: PHP
     author: macuenca
     stargazers_count: 188
+auth_type: oauth2
+https: true

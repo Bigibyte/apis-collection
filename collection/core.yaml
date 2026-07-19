@@ -12,3 +12,5 @@ contact: support@configcat.com
 links:
   - name: Docs / Website
     url: https://core.ac.uk/services#api
+auth_type: api_key
+https: true

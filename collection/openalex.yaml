@@ -12,3 +12,6 @@ links:
     url: https://docs.openalex.org
   - name: API Reference
     url: https://docs.openalex.org/api-entities/works
+auth_type: none
+https: true
+cors: yes

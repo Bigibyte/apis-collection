@@ -11,3 +11,6 @@ links:
     url: https://console.groq.com/docs
   - name: API Reference
     url: https://console.groq.com/docs/openai
+auth_type: api_key
+https: true
+cors: yes

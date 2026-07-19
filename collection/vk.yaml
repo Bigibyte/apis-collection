@@ -31,3 +31,5 @@ libraries:
     documentation_url: https://github.com/VKCOM/vk-ios-sdk
     platform: Objective-C
     stargazers_count: 285
+auth_type: oauth2
+https: true

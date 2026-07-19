@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://docs.apis.is/
+auth_type: none
+https: true

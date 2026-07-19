@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

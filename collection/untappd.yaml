@@ -30,3 +30,5 @@ libraries:
     platform: Ruby
     author: cmar
     stargazers_count: 45
+auth_type: oauth2
+https: true

@@ -11,3 +11,5 @@ contact: developers@squareup.com
 links:
   - name: Docs / Website
     url: https://api.stackexchange.com/
+auth_type: oauth2
+https: true

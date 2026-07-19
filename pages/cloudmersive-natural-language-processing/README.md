@@ -15,9 +15,11 @@ The most powerful and cost-effective NLP AI APIs, continuously updated.
 ## 📝 Details
 - **Categories**: [Text Analysis & Tools](https://github.com/Bigibyte/apis-collection#text-analysis--tools-), [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

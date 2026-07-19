@@ -11,3 +11,6 @@ links:
     url: https://www.geoapify.com/api-docs
   - name: API Reference
     url: https://apidocs.geoapify.com
+auth_type: api_key
+https: true
+cors: yes

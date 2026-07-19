@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://www.bclaws.ca/civix/template/complete/api/index.html
+auth_type: none
+https: false

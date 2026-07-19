@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Bookmarks](https://github.com/Bigibyte/apis-collection#bookmarks-), [Music & Audio](https://github.com/Bigibyte/apis-collection#music--audio-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -49,3 +49,5 @@ libraries:
     platform: JavaScript
     author: joshuarossi
     stargazers_count: 2
+auth_type: api_key
+https: true

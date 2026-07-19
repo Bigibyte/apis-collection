@@ -13,3 +13,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/harvardartmuseums/api-docs
+auth_type: api_key
+https: false

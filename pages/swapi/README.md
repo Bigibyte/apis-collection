@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Video & Media](https://github.com/Bigibyte/apis-collection#video--media-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

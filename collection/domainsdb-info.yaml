@@ -10,3 +10,6 @@ contact: dhieber@umail.ucsb.edu
 links:
   - name: Docs / Website
     url: https://domainsdb.info
+auth_type: none
+https: true
+cors: no

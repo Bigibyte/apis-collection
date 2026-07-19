@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [Video & Media](https://github.com/Bigibyte/apis-collection#video--media-), [Social](https://github.com/Bigibyte/apis-collection#social-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

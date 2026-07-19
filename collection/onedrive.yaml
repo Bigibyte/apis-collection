@@ -28,3 +28,5 @@ libraries:
   - name: OneDrive Picker iOS SDK by OneDrive
     documentation_url: https://dev.onedrive.com/sdks.htm
     platform: Objective-C
+auth_type: oauth2
+https: true

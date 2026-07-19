@@ -51,3 +51,5 @@ libraries:
     documentation_url: https://github.com/producthunt/producthunt-api
     platform: JavaScript
     stargazers_count: 221
+auth_type: oauth2
+https: true

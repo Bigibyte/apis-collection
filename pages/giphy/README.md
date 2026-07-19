@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [Fun](https://github.com/Bigibyte/apis-collection#fun-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -122,3 +122,5 @@ libraries:
     documentation_url: https://github.com/gfycat/GfycatApiKit
     platform: Objective-C
     stargazers_count: 7
+auth_type: oauth2
+https: true

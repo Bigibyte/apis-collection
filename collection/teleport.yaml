@@ -16,3 +16,5 @@ libraries:
   - name: Teleport .NET SDK by Mark Embling
     documentation_url: https://github.com/markembling/MarkEmbling.Teleport
     platform: .Net
+auth_type: none
+https: true

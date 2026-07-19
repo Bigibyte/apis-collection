@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.qrcode-monkey.com/qr-code-api-with-logo
+auth_type: none
+https: true

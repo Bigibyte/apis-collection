@@ -11,3 +11,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.gamerpower.com/api-read
+auth_type: none
+https: true
+cors: yes

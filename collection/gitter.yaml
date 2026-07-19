@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://developer.gitter.im/docs/welcome
+auth_type: oauth2
+https: true

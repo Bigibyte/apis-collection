@@ -133,3 +133,5 @@ libraries:
     documentation_url: https://wiki.fitbit.com/display/API/API+Client+Libraries
     source_code_url: http://rubygems.org/gems/fitbit
     platform: Ruby
+auth_type: oauth2
+https: true

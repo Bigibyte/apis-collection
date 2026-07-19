@@ -146,3 +146,5 @@ libraries:
     platform: Ruby
     author: allcentury
     stargazers_count: 14
+auth_type: none
+https: true

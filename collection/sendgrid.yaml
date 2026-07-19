@@ -11,3 +11,5 @@ links:
     url: https://docs.sendgrid.com
   - name: API Reference
     url: https://docs.sendgrid.com/api-reference
+auth_type: api_key
+https: true

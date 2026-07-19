@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Travel](https://github.com/Bigibyte/apis-collection#travel-), [Point of Interest](https://github.com/Bigibyte/apis-collection#point-of-interest-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

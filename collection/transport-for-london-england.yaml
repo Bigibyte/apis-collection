@@ -11,3 +11,5 @@ contact: support@telnyx.com
 links:
   - name: Docs / Website
     url: https://api.tfl.gov.uk
+auth_type: api_key
+https: true

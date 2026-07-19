@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Bar & QR Codes](https://github.com/Bigibyte/apis-collection#bar--qr-codes-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

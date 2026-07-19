@@ -127,3 +127,5 @@ libraries:
     platform: JavaScript, Node.js
     author: haakym
     stargazers_count: 0
+auth_type: api_key
+https: true

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Social](https://github.com/Bigibyte/apis-collection#social-), [Chats & Messaging](https://github.com/Bigibyte/apis-collection#chats--messaging-), [Collaboration](https://github.com/Bigibyte/apis-collection#collaboration-), [Documents & Productivity](https://github.com/Bigibyte/apis-collection#documents--productivity-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

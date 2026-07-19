@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://bnb.data.bl.uk/
+auth_type: none
+https: false

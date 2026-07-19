@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://api.mapserv.utah.gov
+auth_type: api_key
+https: true

@@ -135,3 +135,5 @@ libraries:
     platform: Kotlin
     author: jdermont
     stargazers_count: 0
+auth_type: none
+https: false

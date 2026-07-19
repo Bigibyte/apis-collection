@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Business](https://github.com/Bigibyte/apis-collection#business-), [Statistics & Data](https://github.com/Bigibyte/apis-collection#statistics--data-), [Finance & Economics](https://github.com/Bigibyte/apis-collection#finance--economics-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -23,3 +23,5 @@ libraries:
     platform: Objective-C
     author: ffont
     stargazers_count: 10
+auth_type: api_key
+https: true

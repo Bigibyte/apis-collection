@@ -11,3 +11,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://suredbits.com/api/
+auth_type: none
+https: false
+cors: no

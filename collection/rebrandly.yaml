@@ -13,3 +13,5 @@ libraries:
     documentation_url: https://github.com/partnermarketing/rebrandly-sdk
     platform: PHP
     stargazers_count: 3
+auth_type: api_key
+https: true

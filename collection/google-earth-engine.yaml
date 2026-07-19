@@ -20,3 +20,5 @@ libraries:
     source_code_url: https://github.com/google/earthengine-api
     platform: Python
     stargazers_count: 1414
+auth_type: api_key
+https: true

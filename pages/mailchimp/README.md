@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Email & SMS](https://github.com/Bigibyte/apis-collection#email--sms-), [Marketing & SEO](https://github.com/Bigibyte/apis-collection#marketing--seo-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

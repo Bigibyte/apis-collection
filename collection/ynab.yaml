@@ -27,3 +27,6 @@ libraries:
     source_code_url: https://github.com/ynab/ynab-sdk-ruby
     platform: Ruby
     stargazers_count: 49
+auth_type: oauth2
+https: true
+cors: yes

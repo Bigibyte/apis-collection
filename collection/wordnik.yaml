@@ -30,3 +30,5 @@ libraries:
   - name: Wordnik's Library Page
     documentation_url: http://developer.wordnik.com/libraries
     platform: .Net, Java, Objective-C, PHP, Python, Ruby
+auth_type: api_key
+https: true

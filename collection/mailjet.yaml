@@ -83,3 +83,5 @@ libraries:
     documentation_url: https://github.com/mailjet/mailjet-apiv3-php-simple
     platform: PHP
     stargazers_count: 56
+auth_type: api_key
+https: true

@@ -15,3 +15,5 @@ libraries:
     platform: PHP
     author: petenelson
     stargazers_count: 104
+auth_type: none
+https: true

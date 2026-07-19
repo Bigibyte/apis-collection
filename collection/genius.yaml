@@ -11,3 +11,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://docs.genius.com/#/getting-started-h1
+auth_type: oauth2
+https: true

@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Sport & Fitness](https://github.com/Bigibyte/apis-collection#sport--fitness-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

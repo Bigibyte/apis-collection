@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Fun](https://github.com/Bigibyte/apis-collection#fun-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

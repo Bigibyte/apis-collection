@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/HypixelDev/PublicAPI/tree/master/Documentation
+auth_type: api_key
+https: true

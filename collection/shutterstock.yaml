@@ -95,3 +95,5 @@ libraries:
     source_code_url: https://github.com/shutterstock/php-shutterstock-api
     platform: PHP
     stargazers_count: 7
+auth_type: oauth2
+https: true

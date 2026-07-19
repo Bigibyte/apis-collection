@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Vehicles](https://github.com/Bigibyte/apis-collection#vehicles-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [News & Feeds](https://github.com/Bigibyte/apis-collection#news--feeds-), [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [Video & Media](https://github.com/Bigibyte/apis-collection#video--media-), [Environment & Nature](https://github.com/Bigibyte/apis-collection#environment--nature-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

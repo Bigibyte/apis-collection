@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://earthquake.usgs.gov/fdsnws/event/1/
+auth_type: none
+https: true
+cors: no

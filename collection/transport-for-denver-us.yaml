@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://www.rtd-denver.com/gtfs-developer-guide.shtml
+auth_type: none
+https: false

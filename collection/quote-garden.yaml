@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://pprathameshmore.github.io/QuoteGarden/
+auth_type: none
+https: true

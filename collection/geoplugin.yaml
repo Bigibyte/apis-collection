@@ -28,3 +28,6 @@ libraries:
     documentation_url: https://www.geoplugin.com/webservices/javascript
     source_code_url: http://www.geoplugin.net/javascript.gp
     platform: JavaScript
+auth_type: none
+https: true
+cors: yes

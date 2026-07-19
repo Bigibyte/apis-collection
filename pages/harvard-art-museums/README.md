@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Video & Media](https://github.com/Bigibyte/apis-collection#video--media-), [Point of Interest](https://github.com/Bigibyte/apis-collection#point-of-interest-), [Art & Design](https://github.com/Bigibyte/apis-collection#art--design-), [Education](https://github.com/Bigibyte/apis-collection#education-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
 

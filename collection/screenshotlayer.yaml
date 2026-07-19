@@ -11,3 +11,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://screenshotlayer.com
+auth_type: none
+https: true

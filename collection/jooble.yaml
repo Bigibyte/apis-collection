@@ -10,3 +10,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://us.jooble.org/api/about
+auth_type: api_key
+https: true

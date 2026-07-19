@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://openwhyd.github.io/openwhyd/API
+auth_type: none
+https: true
+cors: no

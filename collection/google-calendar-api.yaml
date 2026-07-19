@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://developers.google.com/google-apps/calendar/?hl=en
+auth_type: oauth2
+https: true

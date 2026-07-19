@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Search](https://github.com/Bigibyte/apis-collection#search-), [Animals](https://github.com/Bigibyte/apis-collection#animals-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

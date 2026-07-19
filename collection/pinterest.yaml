@@ -50,3 +50,5 @@ libraries:
     platform: Java
     author: rahuljiresal
     stargazers_count: 28
+auth_type: oauth2
+https: true

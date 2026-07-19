@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://developer.todoist.com
+auth_type: oauth2
+https: true

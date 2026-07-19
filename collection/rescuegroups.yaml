@@ -16,3 +16,5 @@ libraries:
     platform: Ruby
     author: bornfree
     stargazers_count: 1
+auth_type: none
+https: true

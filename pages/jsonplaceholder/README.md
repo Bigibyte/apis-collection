@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Development](https://github.com/Bigibyte/apis-collection#development-), [Random](https://github.com/Bigibyte/apis-collection#random-), [Testing](https://github.com/Bigibyte/apis-collection#testing-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

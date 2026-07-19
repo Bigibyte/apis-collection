@@ -42,3 +42,5 @@ libraries:
     platform: Ruby
     author: jrmehle
     stargazers_count: 41
+auth_type: api_key
+https: true

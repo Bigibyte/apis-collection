@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Events](https://github.com/Bigibyte/apis-collection#events-), [Calendar & Time](https://github.com/Bigibyte/apis-collection#calendar--time-), [Development](https://github.com/Bigibyte/apis-collection#development-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://forismatic.com/en/api/
+auth_type: none
+https: false

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Search](https://github.com/Bigibyte/apis-collection#search-), [Music & Audio](https://github.com/Bigibyte/apis-collection#music--audio-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

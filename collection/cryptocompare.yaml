@@ -134,3 +134,5 @@ libraries:
     platform: Java
     author: mistyhippo
     stargazers_count: 0
+auth_type: none
+https: true

@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://gitlab.com/dword4/nhlapi
+auth_type: none
+https: true

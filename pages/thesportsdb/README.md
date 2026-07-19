@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-), [Sport & Fitness](https://github.com/Bigibyte/apis-collection#sport--fitness-), [Art & Design](https://github.com/Bigibyte/apis-collection#art--design-), [Statistics & Data](https://github.com/Bigibyte/apis-collection#statistics--data-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

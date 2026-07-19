@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/egno/work-calendar
+auth_type: none
+https: true
+cors: no

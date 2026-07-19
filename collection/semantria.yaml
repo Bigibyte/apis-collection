@@ -26,3 +26,5 @@ libraries:
     source_code_url: https://github.com/Semantria/semantria-sdk/tree/master/JavaScript
     platform: JavaScript
     stargazers_count: 39
+auth_type: oauth2
+https: true

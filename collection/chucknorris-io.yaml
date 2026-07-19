@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://api.chucknorris.io
+auth_type: none
+https: true

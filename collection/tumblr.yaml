@@ -32,3 +32,5 @@ libraries:
     source_code_url: https://github.com/tumblr/TMTumblrSDK
     platform: Objective-C
     stargazers_count: 412
+auth_type: oauth2
+https: true

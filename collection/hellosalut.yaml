@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.fourtonfish.com/hellosalut/hello/
+auth_type: none
+https: true

@@ -99,3 +99,5 @@ libraries:
     source_code_url: https://github.com/mapbox/mapbox.js/
     platform: JavaScript
     stargazers_count: 1775
+auth_type: api_key
+https: true

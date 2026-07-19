@@ -66,3 +66,6 @@ libraries:
     source_code_url: https://github.com/smartcar/javascript-sdk
     platform: JavaScript
     stargazers_count: 3
+auth_type: oauth2
+https: true
+cors: yes

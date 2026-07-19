@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Files & Storage](https://github.com/Bigibyte/apis-collection#files--storage-), [Science & Math](https://github.com/Bigibyte/apis-collection#science--math-), [Collaboration](https://github.com/Bigibyte/apis-collection#collaboration-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

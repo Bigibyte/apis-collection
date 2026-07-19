@@ -16,3 +16,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://ipinfo.io/developers
+auth_type: none
+https: true

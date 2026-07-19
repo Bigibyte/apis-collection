@@ -8,3 +8,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://smartystreets.com/products/apis/us-extract-api
+auth_type: api_key
+https: true
+cors: yes

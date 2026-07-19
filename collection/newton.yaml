@@ -8,3 +8,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://newton.now.sh/
+auth_type: none
+https: true
+cors: no

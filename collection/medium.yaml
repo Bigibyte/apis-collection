@@ -43,3 +43,5 @@ libraries:
     documentation_url: https://github.com/Medium/medium-sdk-python
     platform: Python
     stargazers_count: 179
+auth_type: oauth2
+https: true

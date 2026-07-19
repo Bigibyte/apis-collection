@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Visualizations](https://github.com/Bigibyte/apis-collection#visualizations-), [Email & SMS](https://github.com/Bigibyte/apis-collection#email--sms-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

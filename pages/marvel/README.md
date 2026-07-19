@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Art & Design](https://github.com/Bigibyte/apis-collection#art--design-), [Entertainment](https://github.com/Bigibyte/apis-collection#entertainment-), [Comics & Anime](https://github.com/Bigibyte/apis-collection#comics--anime-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -135,3 +135,5 @@ libraries:
   - name: Ruby Library for Geonames
     documentation_url: http://www.tbcn.ca/ruby_geonames
     platform: Ruby
+auth_type: none
+https: false

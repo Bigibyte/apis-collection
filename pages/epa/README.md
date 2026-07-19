@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Government](https://github.com/Bigibyte/apis-collection#government-), [Environment & Nature](https://github.com/Bigibyte/apis-collection#environment--nature-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

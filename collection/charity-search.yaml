@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://charityapi.orghunter.com/
+auth_type: api_key
+https: false

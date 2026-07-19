@@ -67,3 +67,5 @@ libraries:
     stargazers_count: 21
   - name: Comic Vine Objective-C SDK by Bryan ClarkDeprecated
     platform: Objective-C
+auth_type: none
+https: true

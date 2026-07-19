@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Project Management](https://github.com/Bigibyte/apis-collection#project-management-), [Documents & Productivity](https://github.com/Bigibyte/apis-collection#documents--productivity-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

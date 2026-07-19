@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf
+auth_type: none
+https: false

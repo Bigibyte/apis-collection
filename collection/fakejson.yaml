@@ -11,3 +11,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://fakejson.com
+auth_type: api_key
+https: true
+cors: yes

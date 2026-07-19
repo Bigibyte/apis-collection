@@ -10,3 +10,5 @@ contact: support@bitbucket.org
 links:
   - name: Docs / Website
     url: https://developer.atlassian.com/bitbucket/api/2/reference/
+auth_type: oauth2
+https: true

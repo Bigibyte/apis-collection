@@ -14,3 +14,6 @@ libraries:
     source_code_url: https://github.com/MSiccDev/CoinpaprikaAPI
     platform: .Net, C#
     stargazers_count: 12
+auth_type: none
+https: true
+cors: yes

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Space](https://github.com/Bigibyte/apis-collection#space-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **CORS**: `no`
 
 ## 🚦 Rate Limits
 *Not specified*

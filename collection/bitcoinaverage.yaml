@@ -17,3 +17,5 @@ libraries:
     documentation_url: https://github.com/bitcoinaverage/api-integration-examples/
     platform: Python
     stargazers_count: 63
+auth_type: api_key
+https: true

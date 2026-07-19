@@ -27,3 +27,5 @@ libraries:
     documentation_url: https://github.com/clearbit/clearbit-ruby
     platform: Ruby
     stargazers_count: 52
+auth_type: api_key
+https: true

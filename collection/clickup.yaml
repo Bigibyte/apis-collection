@@ -12,3 +12,5 @@ links:
     url: https://clickup.com/api
   - name: API Reference
     url: https://clickup.com/api/clickupreference/operation/GetAuthorizedUser
+auth_type: oauth2
+https: true

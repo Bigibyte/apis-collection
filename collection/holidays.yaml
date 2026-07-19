@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://holidayapi.com/
+auth_type: api_key
+https: true

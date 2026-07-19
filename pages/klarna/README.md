@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Payments](https://github.com/Bigibyte/apis-collection#payments-), [Commerce](https://github.com/Bigibyte/apis-collection#commerce-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

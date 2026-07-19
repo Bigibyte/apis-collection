@@ -9,3 +9,6 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://deividfortuna.github.io/fipe/
+auth_type: none
+https: true
+cors: no

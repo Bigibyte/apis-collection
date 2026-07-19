@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://developer.kbb.com/#!/data/1-Default
+auth_type: api_key
+https: true
+cors: no

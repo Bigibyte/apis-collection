@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Commerce](https://github.com/Bigibyte/apis-collection#commerce-), [Payments](https://github.com/Bigibyte/apis-collection#payments-), [Business](https://github.com/Bigibyte/apis-collection#business-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

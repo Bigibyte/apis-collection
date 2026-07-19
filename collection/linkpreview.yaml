@@ -10,3 +10,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.linkpreview.net
+auth_type: api_key
+https: true
+cors: yes

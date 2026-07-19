@@ -122,3 +122,5 @@ libraries:
     platform: Java
   - name: Perl Library for YouTube API
     documentation_url: http://search.cpan.org/~yoshida/WebService-YouTube/
+auth_type: oauth2
+https: true

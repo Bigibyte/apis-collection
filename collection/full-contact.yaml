@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.fullcontact.com/developer/docs/
+auth_type: oauth2
+https: true

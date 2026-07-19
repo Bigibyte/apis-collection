@@ -10,3 +10,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://postcodes.io
+auth_type: none
+https: true
+cors: yes

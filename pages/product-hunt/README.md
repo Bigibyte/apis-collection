@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Commerce](https://github.com/Bigibyte/apis-collection#commerce-), [Jobs](https://github.com/Bigibyte/apis-collection#jobs-), [Marketing & SEO](https://github.com/Bigibyte/apis-collection#marketing--seo-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `oauth2`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

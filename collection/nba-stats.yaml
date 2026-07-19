@@ -9,3 +9,5 @@ contact: contact@namsor.com
 links:
   - name: Docs / Website
     url: https://any-api.com/nba_com/nba_com/docs/API_Description
+auth_type: none
+https: true

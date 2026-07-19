@@ -116,3 +116,5 @@ libraries:
     platform: Swift
     author: nuclearace
     stargazers_count: 122
+auth_type: oauth2
+https: true

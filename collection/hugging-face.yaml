@@ -11,3 +11,6 @@ links:
     url: https://huggingface.co/docs/api-inference
   - name: Models Hub
     url: https://huggingface.co/models
+auth_type: api_key
+https: true
+cors: yes

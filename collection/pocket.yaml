@@ -57,3 +57,5 @@ libraries:
   - name: Pocket Android SDK by Pocket
     documentation_url: https://github.com/Pocket/Pocket-AndroidWear-SDK
     platform: Java
+auth_type: oauth2
+https: true

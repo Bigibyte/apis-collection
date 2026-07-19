@@ -9,3 +9,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://developer.translink.ca/
+auth_type: oauth2
+https: true

@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://apiv3.iucnredlist.org/api/v3/docs
+auth_type: api_key
+https: false
+cors: no

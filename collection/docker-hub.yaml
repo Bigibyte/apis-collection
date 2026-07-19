@@ -11,3 +11,6 @@ links:
     url: https://docs.docker.com/docker-hub/api/latest
   - name: API Reference
     url: https://docs.docker.com/docker-hub/api/latest
+auth_type: api_key
+https: true
+cors: yes

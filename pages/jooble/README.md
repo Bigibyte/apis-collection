@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Jobs](https://github.com/Bigibyte/apis-collection#jobs-), [Search](https://github.com/Bigibyte/apis-collection#search-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

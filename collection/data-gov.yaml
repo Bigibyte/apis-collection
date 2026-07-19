@@ -10,3 +10,5 @@ contact: dani@daniwebmail.com
 links:
   - name: Docs / Website
     url: https://api.data.gov/
+auth_type: api_key
+https: true

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Food & Drinks](https://github.com/Bigibyte/apis-collection#food--drinks-), [Sport & Fitness](https://github.com/Bigibyte/apis-collection#sport--fitness-), [Statistics & Data](https://github.com/Bigibyte/apis-collection#statistics--data-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `free` 🆓
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/IThinkImOKAY/rsaw
+auth_type: oauth2
+https: true

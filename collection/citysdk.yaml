@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://www.citysdk.eu/citysdk-toolkit/
+auth_type: none
+https: true

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-), [Business](https://github.com/Bigibyte/apis-collection#business-), [Images & Photography](https://github.com/Bigibyte/apis-collection#images--photography-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

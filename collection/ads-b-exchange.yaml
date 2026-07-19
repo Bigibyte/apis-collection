@@ -11,3 +11,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.adsbexchange.com/data/
+auth_type: none
+https: true

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Validation & Verification](https://github.com/Bigibyte/apis-collection#validation--verification-), [Email & SMS](https://github.com/Bigibyte/apis-collection#email--sms-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

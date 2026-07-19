@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://open.fda.gov
+auth_type: api_key
+https: true

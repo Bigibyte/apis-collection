@@ -15,3 +15,5 @@ specification:
 links:
   - name: Docs / Website
     url: http://18f.github.io/API-All-the-X/
+auth_type: none
+https: false

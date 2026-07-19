@@ -16,3 +16,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.deepcode.ai/docs/Overview%252FOverview
+auth_type: none
+https: true

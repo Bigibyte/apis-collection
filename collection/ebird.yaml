@@ -12,3 +12,6 @@ links:
     url: https://documenter.getpostman.com/view/664302/S1ENwy59
   - name: API Reference
     url: https://documenter.getpostman.com/view/664302/S1ENwy59
+auth_type: api_key
+https: true
+cors: no

@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Books](https://github.com/Bigibyte/apis-collection#books-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

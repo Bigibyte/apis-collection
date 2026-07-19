@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Science & Math](https://github.com/Bigibyte/apis-collection#science--math-), [Education](https://github.com/Bigibyte/apis-collection#education-), [News & Feeds](https://github.com/Bigibyte/apis-collection#news--feeds-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

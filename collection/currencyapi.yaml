@@ -11,3 +11,6 @@ links:
     url: https://currencyapi.com/docs
   - name: API Reference
     url: https://currencyapi.com/docs/latest-endpoint
+auth_type: none
+https: true
+cors: yes

@@ -48,3 +48,5 @@ libraries:
     source_code_url: http://resources.count.ly/v1.0/docs/countly-sdk-for-android
     platform: Java
     stargazers_count: 623
+auth_type: none
+https: false

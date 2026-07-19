@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Post & Logistics](https://github.com/Bigibyte/apis-collection#post--logistics-), [Commerce](https://github.com/Bigibyte/apis-collection#commerce-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

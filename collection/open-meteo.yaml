@@ -11,3 +11,6 @@ links:
     url: https://open-meteo.com/en/docs
   - name: API Reference
     url: https://open-meteo.com/en/docs
+auth_type: none
+https: true
+cors: yes

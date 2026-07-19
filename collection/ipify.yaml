@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.ipify.org/
+auth_type: none
+https: true

@@ -12,3 +12,5 @@ links:
     url: https://www.kucoin.com/docs/beginners/introduction
   - name: API Reference
     url: https://www.kucoin.com/docs/rest/account-info/get-apikey-info
+auth_type: api_key
+https: true

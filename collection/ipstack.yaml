@@ -12,3 +12,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://ipstack.com/
+auth_type: api_key
+https: true

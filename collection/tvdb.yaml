@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://api.thetvdb.com/swagger
+auth_type: api_key
+https: true

@@ -10,3 +10,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://opendata.praha.eu/en
+auth_type: none
+https: false

@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-), [Post & Logistics](https://github.com/Bigibyte/apis-collection#post--logistics-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

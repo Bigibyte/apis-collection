@@ -90,3 +90,5 @@ libraries:
     documentation_url: https://hackage.haskell.org/package/slack
     source_code_url: https://hackage.haskell.org/package/slack
     platform: Haskell
+auth_type: oauth2
+https: true

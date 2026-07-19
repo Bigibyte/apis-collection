@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.ip2location.com/web-service/ip2proxy
+auth_type: api_key
+https: true

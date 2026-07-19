@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Bots](https://github.com/Bigibyte/apis-collection#bots-), [AI & ML](https://github.com/Bigibyte/apis-collection#ai--ml-), [Chats & Messaging](https://github.com/Bigibyte/apis-collection#chats--messaging-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

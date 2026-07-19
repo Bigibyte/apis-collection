@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://github.com/martincarrera/clash-royale-api
+auth_type: api_key
+https: true

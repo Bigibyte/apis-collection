@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Analytics](https://github.com/Bigibyte/apis-collection#analytics-), [Maps & Geo](https://github.com/Bigibyte/apis-collection#maps--geo-), [Security](https://github.com/Bigibyte/apis-collection#security-), [Validation & Verification](https://github.com/Bigibyte/apis-collection#validation--verification-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

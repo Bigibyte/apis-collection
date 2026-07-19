@@ -9,3 +9,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://bhagavadgita.io/
+auth_type: oauth2
+https: true
+cors: yes

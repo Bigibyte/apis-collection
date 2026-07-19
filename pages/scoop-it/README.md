@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Marketing & SEO](https://github.com/Bigibyte/apis-collection#marketing--seo-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
 

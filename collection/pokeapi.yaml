@@ -29,3 +29,5 @@ libraries:
     source_code_url: https://github.com/phalt/pykemon
     platform: Python
     stargazers_count: 93
+auth_type: none
+https: true

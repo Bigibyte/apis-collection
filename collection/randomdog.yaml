@@ -10,3 +10,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://random.dog/woof.json
+auth_type: none
+https: true
+cors: yes

@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Search](https://github.com/Bigibyte/apis-collection#search-), [Development](https://github.com/Bigibyte/apis-collection#development-), [Scrapers & Data Mining](https://github.com/Bigibyte/apis-collection#scrapers--data-mining-)
 - **Type**: `N/A`
-- **Auth**: `unknown`
+- **Auth**: `api_key`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

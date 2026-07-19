@@ -24,3 +24,5 @@ libraries:
     stargazers_count: 3
   - name: IP2Location Ruby Library
     documentation_url: https://github.com/ezkl/ip2location
+auth_type: api_key
+https: true

@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://json2jsonp.com/
+auth_type: none
+https: true

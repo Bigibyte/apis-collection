@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://npiregistry.cms.hhs.gov/registry/help-api
+auth_type: none
+https: true

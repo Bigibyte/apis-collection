@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://myttc.ca/developers
+auth_type: none
+https: true

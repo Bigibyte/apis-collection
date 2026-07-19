@@ -25,3 +25,5 @@ libraries:
     source_code_url: https://github.com/codeship/codeship-go
     platform: Go
     stargazers_count: 18
+auth_type: api_key
+https: true

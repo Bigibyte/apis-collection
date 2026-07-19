@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://wiki.openstreetmap.org/wiki/API
+auth_type: oauth2
+https: false

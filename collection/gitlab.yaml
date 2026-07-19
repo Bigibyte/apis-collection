@@ -88,3 +88,5 @@ libraries:
     documentation_url: https://github.com/gpocentek/python-gitlab
     platform: Python
     stargazers_count: 1469
+auth_type: oauth2
+https: true

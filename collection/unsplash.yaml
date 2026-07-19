@@ -116,3 +116,5 @@ libraries:
     documentation_url: https://github.com/CrewLabs/Unsplash-PHP
     platform: PHP
     stargazers_count: 331
+auth_type: oauth2
+https: true

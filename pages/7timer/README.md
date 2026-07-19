@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Weather](https://github.com/Bigibyte/apis-collection#weather-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

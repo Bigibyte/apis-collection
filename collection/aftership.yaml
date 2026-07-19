@@ -48,3 +48,6 @@ libraries:
     documentation_url: https://github.com/AfterShip/aftership-android
     platform: Java
     stargazers_count: 7
+auth_type: api_key
+https: true
+cors: yes

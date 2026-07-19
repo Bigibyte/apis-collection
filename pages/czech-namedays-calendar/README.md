@@ -6,7 +6,7 @@
 ## 📝 Details
 - **Categories**: [Government](https://github.com/Bigibyte/apis-collection#government-), [Calendar & Time](https://github.com/Bigibyte/apis-collection#calendar--time-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
 

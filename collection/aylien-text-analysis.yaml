@@ -29,3 +29,5 @@ libraries:
   - name: AYLIEN Text Analysis C# SDK
     documentation_url: https://developer.aylien.com/getting-started/cs
     platform: C#
+auth_type: api_key
+https: true

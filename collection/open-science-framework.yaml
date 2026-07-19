@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://osf.io/y9jdt/wiki/home/
+auth_type: none
+https: true

@@ -59,3 +59,5 @@ libraries:
     platform: Java
     author: nok
     stargazers_count: 56
+auth_type: oauth2
+https: true

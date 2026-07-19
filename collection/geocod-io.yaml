@@ -9,3 +9,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://www.geocod.io/
+auth_type: api_key
+https: true

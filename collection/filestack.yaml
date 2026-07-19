@@ -56,3 +56,5 @@ libraries:
     documentation_url: https://github.com/filestack/filestack-python
     platform: Python
     stargazers_count: 51
+auth_type: api_key
+https: true

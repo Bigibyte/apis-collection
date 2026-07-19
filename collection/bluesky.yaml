@@ -11,3 +11,6 @@ links:
     url: https://docs.bsky.app
   - name: API Reference
     url: https://docs.bsky.app/docs/api
+auth_type: none
+https: true
+cors: yes

@@ -9,3 +9,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://opentransportdata.swiss/en/
+auth_type: none
+https: true

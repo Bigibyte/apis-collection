@@ -11,3 +11,5 @@ links:
     url: https://developer.gocardless.com/bank-account-data/overview
   - name: API Reference
     url: https://developer.gocardless.com/bank-account-data/api-reference
+auth_type: api_key
+https: true

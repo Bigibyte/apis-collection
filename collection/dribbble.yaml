@@ -47,3 +47,5 @@ libraries:
     documentation_url: http://www.sangupta.com/projects/as3dribbble
   - name: dribbble-java-client
     documentation_url: http://www.sangupta.com/projects/dribbble-java-client.html
+auth_type: oauth2
+https: true

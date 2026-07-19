@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://datausa.io/about/api/
+auth_type: none
+https: true

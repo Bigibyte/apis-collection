@@ -9,3 +9,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://www.chaps.cz/eng/products/idos-internet
+auth_type: none
+https: true

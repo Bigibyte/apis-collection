@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://www.itsmarta.com/app-developer-resources.aspx
+auth_type: none
+https: false

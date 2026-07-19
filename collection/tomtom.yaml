@@ -12,3 +12,6 @@ links:
     url: https://developer.tomtom.com/documentation
   - name: API Reference
     url: https://developer.tomtom.com/routing-api/documentation/product-information/introduction
+auth_type: api_key
+https: true
+cors: yes

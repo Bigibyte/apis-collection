@@ -11,3 +11,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://openchargemap.org/site/develop/api
+auth_type: api_key
+https: true
+cors: yes

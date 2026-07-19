@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://haveibeenpwned.com/API/v3
+auth_type: api_key
+https: true

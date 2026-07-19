@@ -56,3 +56,5 @@ libraries:
     documentation_url: https://github.com/graphhopper/directions-api-java-client
     platform: Java
     stargazers_count: 27
+auth_type: api_key
+https: true

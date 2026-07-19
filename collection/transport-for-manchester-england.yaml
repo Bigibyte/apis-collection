@@ -9,3 +9,6 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://developer.tfgm.com/
+auth_type: api_key
+https: true
+cors: no

@@ -75,3 +75,5 @@ libraries:
   - name: Guild Wars 2 API C/C++ Library Project
     documentation_url: https://gw2apicpp.codeplex.com/
     platform: C, C++
+auth_type: api_key
+https: true

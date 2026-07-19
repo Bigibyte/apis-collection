@@ -134,3 +134,5 @@ libraries:
   - name: Poloniex API - PHP Wrapper
     documentation_url: http://pastebin.com/iuezwGRZ
     platform: PHP
+auth_type: api_key
+https: true

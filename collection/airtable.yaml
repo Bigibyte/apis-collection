@@ -12,3 +12,5 @@ links:
     url: https://airtable.com/developers/web/api/introduction
   - name: API Reference
     url: https://airtable.com/developers/web/api/field-model
+auth_type: api_key
+https: true

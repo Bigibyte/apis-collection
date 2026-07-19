@@ -52,3 +52,5 @@ libraries:
     platform: Node.js
     author: nkirby
     stargazers_count: 33
+auth_type: oauth2
+https: true

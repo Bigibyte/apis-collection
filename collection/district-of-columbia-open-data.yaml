@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://opendata.dc.gov/pages/using-apis
+auth_type: none
+https: true

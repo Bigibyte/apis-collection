@@ -9,3 +9,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://icons8.github.io/icons8-docs/
+auth_type: none
+https: true

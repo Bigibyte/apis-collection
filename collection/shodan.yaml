@@ -35,3 +35,5 @@ libraries:
     platform: Node.js
     author: jesusprubio
     stargazers_count: 171
+auth_type: api_key
+https: true

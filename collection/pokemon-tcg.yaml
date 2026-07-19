@@ -28,3 +28,5 @@ libraries:
     platform: Python
     author: joshua-hull
     stargazers_count: 7
+auth_type: none
+https: true

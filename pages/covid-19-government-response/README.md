@@ -6,9 +6,11 @@
 ## 📝 Details
 - **Categories**: [Health](https://github.com/Bigibyte/apis-collection#health-), [Government](https://github.com/Bigibyte/apis-collection#government-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+- **CORS**: `yes`
 
 ## 🚦 Rate Limits
 *Not specified*

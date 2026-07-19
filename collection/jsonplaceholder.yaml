@@ -11,3 +11,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://jsonplaceholder.typicode.com/
+auth_type: none
+https: false

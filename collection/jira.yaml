@@ -12,3 +12,5 @@ links:
     url: https://developer.atlassian.com/cloud/jira/platform/rest/v3
   - name: API Reference
     url: https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro
+auth_type: oauth2
+https: true

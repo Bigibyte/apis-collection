@@ -9,3 +9,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: http://www3.septa.org/hackathon/
+auth_type: none
+https: false

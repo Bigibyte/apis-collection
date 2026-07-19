@@ -15,3 +15,6 @@ libraries:
     platform: Java
     author: Utsav2
     stargazers_count: 7
+auth_type: oauth2
+https: true
+cors: yes

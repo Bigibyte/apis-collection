@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://thispersondoesnotexist.com
+auth_type: none
+https: true

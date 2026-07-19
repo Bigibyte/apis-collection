@@ -14,3 +14,5 @@ libraries:
     documentation_url: https://github.com/Mino-shiro/Minoshiro
     platform: Python
     stargazers_count: 21
+auth_type: oauth2
+https: true

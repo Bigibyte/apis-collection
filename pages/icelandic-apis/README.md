@@ -6,9 +6,10 @@
 ## 📝 Details
 - **Categories**: [Scrapers & Data Mining](https://github.com/Bigibyte/apis-collection#scrapers--data-mining-), [Government](https://github.com/Bigibyte/apis-collection#government-)
 - **Type**: `REST`
-- **Auth**: `unknown`
+- **Auth**: `none`
 - **Pricing**: `paid`
 - **Status**: `active`
+- **HTTPS**: `Yes` 🔒
 
 ## 🚦 Rate Limits
 *Not specified*

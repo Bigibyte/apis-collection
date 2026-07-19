@@ -8,3 +8,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: http://www.ceskatelevize.cz/xml/tv-program/
+auth_type: none
+https: false

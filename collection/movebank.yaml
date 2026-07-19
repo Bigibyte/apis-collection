@@ -8,3 +8,6 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://github.com/movebank/movebank-api-doc
+auth_type: none
+https: true
+cors: yes

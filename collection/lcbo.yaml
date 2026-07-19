@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://lcboapi.com/
+auth_type: api_key
+https: true

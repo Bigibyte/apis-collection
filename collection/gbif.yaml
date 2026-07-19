@@ -13,3 +13,6 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://www.gbif.org/developer/summary
+auth_type: none
+https: true
+cors: yes

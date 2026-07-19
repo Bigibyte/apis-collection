@@ -8,3 +8,5 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
+auth_type: none
+https: true

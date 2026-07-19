@@ -8,3 +8,6 @@ pricing: free
 links:
   - name: Docs / Website
     url: https://www.metromobilite.fr/pages/opendata/OpenDataApi.html
+auth_type: none
+https: false
+cors: no

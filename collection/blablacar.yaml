@@ -10,3 +10,5 @@ pricing: paid
 links:
   - name: Docs / Website
     url: https://dev.blablacar.com
+auth_type: api_key
+https: true
