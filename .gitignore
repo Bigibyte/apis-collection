@@ -2,5 +2,7 @@ node_modules/
 dist/
 *.js
 !vitest.config.ts
+!site/**/*.js
 .env
 link-report.json
+site/data/

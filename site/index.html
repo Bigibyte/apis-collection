@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Public APIs Collection — Bigibyte</title>
+    <meta
+      name="description"
+      content="A searchable, community-maintained collection of public APIs. Filter by category, auth type, pricing and HTTPS."
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <h1>Public APIs Collection</h1>
+        <p class="tagline">
+          A searchable directory of public APIs. Data lives as YAML in the
+          <a href="https://github.com/Bigibyte/apis-collection" rel="noopener">repository</a>.
+        </p>
+        <div class="search-row">
+          <input
+            id="search"
+            type="search"
+            placeholder="Search APIs by name or description…"
+            autocomplete="off"
+            aria-label="Search APIs"
+          />
+          <button id="theme-toggle" type="button" title="Toggle theme" aria-label="Toggle theme">◐</button>
+        </div>
+        <div id="filters" class="filters"></div>
+        <p id="count" class="count" aria-live="polite"></p>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <div id="results" class="grid"></div>
+      <p id="empty" class="empty" hidden>No APIs match your filters.</p>
+    </main>
+
+    <footer class="wrap">
+      <p>
+        Bootstrapped from
+        <a href="https://github.com/tools-collection/apis-collection" rel="noopener"
+          >tools-collection/apis-collection</a
+        >
+        (MIT). Maintained by <a href="https://github.com/Bigibyte" rel="noopener">Bigibyte</a>.
+      </p>
+    </footer>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>

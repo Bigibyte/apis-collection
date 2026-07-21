@@ -87,24 +87,30 @@ export async function build(): Promise<void> {
   const dataDir = path.join(root, "data");
   fs.mkdirSync(dataDir, { recursive: true });
   fs.writeFileSync(path.join(dataDir, "apis.json"), JSON.stringify(apis, null, 2));
-  fs.writeFileSync(
-    path.join(dataDir, "apis.min.json"),
-    JSON.stringify(
-      apis.map((a) => ({
-        name: a.name,
-        slug: a.slug,
-        description: a.description,
-        categories: a.categories,
-        status: a.status,
-        pricing: a.pricing,
-        auth_type: a.auth_type,
-        url: a.links?.[0]?.url,
-      })),
-    ),
-  );
+  const slim = apis.map((a) => ({
+    name: a.name,
+    slug: a.slug,
+    description: a.description,
+    categories: a.categories,
+    status: a.status,
+    pricing: a.pricing,
+    auth_type: a.auth_type,
+    https: a.https,
+    cors: a.cors,
+    url: a.links?.[0]?.url,
+  }));
+  fs.writeFileSync(path.join(dataDir, "apis.min.json"), JSON.stringify(slim));
   fs.writeFileSync(path.join(dataDir, "categories.json"), JSON.stringify(categories, null, 2));
 
+  // Feed the static site so `npm run build` keeps it in sync with the YAML source.
+  const siteDataDir = path.join(root, "site", "data");
+  if (fs.existsSync(path.join(root, "site"))) {
+    fs.mkdirSync(siteDataDir, { recursive: true });
+    fs.writeFileSync(path.join(siteDataDir, "apis.min.json"), JSON.stringify(slim));
+    fs.writeFileSync(path.join(siteDataDir, "categories.json"), JSON.stringify(categories, null, 2));
+  }
+
   console.log(
-    `Built: ${active.length} active, ${graveyard.length} graveyard, ${categoryNames.length} categories, ${pageCount} pages, 3 JSON files`,
+    `Built: ${active.length} active, ${graveyard.length} graveyard, ${categoryNames.length} categories, ${pageCount} pages, JSON + site data`,
   );
 }
