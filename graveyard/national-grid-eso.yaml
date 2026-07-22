@@ -1,0 +1,15 @@
+name: National Grid ESO
+slug: national-grid-eso
+description: Open data from Great Britain’s Electricity System Operator
+categories:
+  - Environment & Nature
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://data.nationalgrideso.com/
+status: dead
+last_verified: 2026-07-22

@@ -18,7 +18,8 @@ Assess potential risks and threats coming from certain IP addresses by detecting
 - **Type**: `N/A`
 - **Auth**: `unknown`
 - **Pricing**: `paid`
-- **Status**: `active`
+- **Status**: `Graveyard` 🪦
+- **Last verified**: `2026-07-22`
 
 ## 🚦 Rate Limits
 *Not specified*

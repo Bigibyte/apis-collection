@@ -1,0 +1,16 @@
+name: Impala Hotel Bookings
+slug: impala-hotel-bookings
+description: Hotel content, rates and room bookings
+categories:
+  - Transportation
+pricing: unknown
+auth_type: api_key
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.impala.travel/docs/booking-api/
+status: dead
+last_verified: 2026-07-22

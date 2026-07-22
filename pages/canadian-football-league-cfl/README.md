@@ -8,9 +8,10 @@
 - **Type**: `REST`
 - **Auth**: `api_key`
 - **Pricing**: `paid`
-- **Status**: `active`
+- **Status**: `Graveyard` 🪦
 - **HTTPS**: `Yes` 🔒
 - **CORS**: `no`
+- **Last verified**: `2026-07-22`
 
 ## 🚦 Rate Limits
 *Not specified*

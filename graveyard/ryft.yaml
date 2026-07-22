@@ -1,0 +1,14 @@
+name: Ryft
+slug: ryft
+description: Integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data
+  analysis and real-time intelligence.
+categories:
+  - AI & ML
+  - Analytics
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: http://www.ryft.com/api
+status: dead
+last_verified: 2026-07-22

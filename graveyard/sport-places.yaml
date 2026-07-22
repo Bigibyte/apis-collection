@@ -1,0 +1,16 @@
+name: Sport Places
+slug: sport-places
+description: Crowd-source sports places around the world
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developers.decathlon.com/products/sport-places
+status: dead
+last_verified: 2026-07-22

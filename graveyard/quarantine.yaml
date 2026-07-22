@@ -1,0 +1,16 @@
+name: Quarantine
+slug: quarantine
+description: Coronavirus API with free COVID-19 live updates
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://quarantine.country/coronavirus/api/
+status: dead
+last_verified: 2026-07-22

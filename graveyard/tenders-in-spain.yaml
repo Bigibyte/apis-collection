@@ -1,0 +1,15 @@
+name: Tenders in Spain
+slug: tenders-in-spain
+description: Get data for procurements in Spain in JSON format
+categories:
+  - Business
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://tenders.guru/es/api
+status: dead
+last_verified: 2026-07-22

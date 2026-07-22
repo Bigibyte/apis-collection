@@ -1,0 +1,12 @@
+name: Medicare
+slug: medicare
+description: gov. Access to the data from the CMS - medicare
+categories:
+  - Health
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://data.medicare.gov/developers
+status: dead
+last_verified: 2026-07-22

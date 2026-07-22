@@ -1,0 +1,16 @@
+name: Graphs for Coronavirus
+slug: graphs-for-coronavirus
+description: Each Country separately and Worldwide Graphs for Coronavirus. Daily updates
+categories:
+  - News & Feeds
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://corona.dnsforfamily.com/api.txt
+status: dead
+last_verified: 2026-07-22

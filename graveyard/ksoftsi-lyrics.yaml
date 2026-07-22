@@ -1,0 +1,15 @@
+name: KSoft.Si Lyrics
+slug: ksoftsi-lyrics
+description: API to get lyrics for songs
+categories:
+  - Music & Audio
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.ksoft.si/api/lyrics-api
+status: dead
+last_verified: 2026-07-22

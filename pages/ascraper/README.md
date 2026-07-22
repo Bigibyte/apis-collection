@@ -9,7 +9,8 @@
 - **Type**: `REST`
 - **Auth**: `unknown`
 - **Pricing**: `unknown`
-- **Status**: `active`
+- **Status**: `Graveyard` 🪦
+- **Last verified**: `2026-07-22`
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -1,0 +1,16 @@
+name: CryptoMarket
+slug: cryptomarket
+description: Cryptocurrencies Trading platform
+categories:
+  - Blockchain & Cryptocurrencies
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.exchange.cryptomkt.com/
+status: dead
+last_verified: 2026-07-22

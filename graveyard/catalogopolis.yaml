@@ -1,0 +1,15 @@
+name: Catalogopolis
+slug: catalogopolis
+description: Doctor Who API
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.catalogopolis.xyz/docs/
+status: dead
+last_verified: 2026-07-22

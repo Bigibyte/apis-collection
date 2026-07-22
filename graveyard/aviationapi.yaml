@@ -1,0 +1,16 @@
+name: AviationAPI
+slug: aviationapi
+description: FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather
+categories:
+  - Transportation
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.aviationapi.com
+status: dead
+last_verified: 2026-07-22

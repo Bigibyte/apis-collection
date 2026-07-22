@@ -1,9 +1,0 @@
-name: Vainglory
-slug: vainglory
-description: Vainglory Players, Matches and Telemetry
-categories:
-  - Games
-pricing: paid
-links:
-  - name: Docs / Website
-    url: https://developer.vainglorygame.com

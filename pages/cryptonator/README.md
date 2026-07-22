@@ -8,8 +8,9 @@
 - **Type**: `REST`
 - **Auth**: `none`
 - **Pricing**: `paid`
-- **Status**: `active`
+- **Status**: `Graveyard` 🪦
 - **HTTPS**: `Yes` 🔒
+- **Last verified**: `2026-07-22`
 
 ## 🚦 Rate Limits
 *Not specified*

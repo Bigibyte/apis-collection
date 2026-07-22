@@ -8,9 +8,10 @@
 - **Type**: `N/A`
 - **Auth**: `api_key`
 - **Pricing**: `unknown`
-- **Status**: `active`
+- **Status**: `Graveyard` 🪦
 - **HTTPS**: `Yes` 🔒
 - **CORS**: `yes`
+- **Last verified**: `2026-07-22`
 
 ## 🚦 Rate Limits
 *Not specified*

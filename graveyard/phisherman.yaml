@@ -1,0 +1,15 @@
+name: Phisherman
+slug: phisherman
+description: IP/domain/URL reputation
+categories:
+  - Security
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://phisherman.gg/
+status: dead
+last_verified: 2026-07-22

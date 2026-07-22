@@ -10,7 +10,8 @@ The Evident Proof API allows developers to access and integrate the functionalit
 - **Type**: `N/A`
 - **Auth**: `unknown`
 - **Pricing**: `paid`
-- **Status**: `active`
+- **Status**: `Graveyard` 🪦
+- **Last verified**: `2026-07-22`
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -263,9 +263,10 @@
       "Government"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -1610,11 +1611,12 @@
     "categories": [
       "Art & Design"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -1632,11 +1634,12 @@
       "Entertainment"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -2732,10 +2735,11 @@
       "Scrapers & Data Mining"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "unknown",
     "logo": "https://ascraper.com/static/images/logo_white.svg",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -3038,12 +3042,13 @@
     "categories": [
       "Transportation"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "no",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -3209,9 +3214,10 @@
       "AI & ML"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -3229,10 +3235,11 @@
       "Text Analysis & Tools"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -3518,12 +3525,13 @@
     "categories": [
       "Finance & Economics"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "oauth2",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -4506,9 +4514,10 @@
     "categories": [
       "Search"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -5740,10 +5749,11 @@
       "Development"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "none",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -5966,12 +5976,13 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -6247,9 +6258,10 @@
       "Entertainment"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -6456,12 +6468,13 @@
     "categories": [
       "Images & Photography"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -6613,12 +6626,13 @@
     "categories": [
       "Games"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -6906,11 +6920,12 @@
       "Sport & Fitness"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
     "cors": "no",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -7030,9 +7045,10 @@
       "Social"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -7227,11 +7243,12 @@
     "categories": [
       "Video & Media"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -8417,9 +8434,10 @@
       "Government"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -8517,9 +8535,10 @@
       "Point of Interest"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -8853,11 +8872,12 @@
       "Email & SMS"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
     "contact": "api@clickmeter.com",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -9062,9 +9082,10 @@
       "IoT & Home Automation",
       "Payments"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -9334,9 +9355,10 @@
       "Voice",
       "AI & ML"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -10566,9 +10588,10 @@
     "categories": [
       "Finance & Economics"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -10802,11 +10825,12 @@
       "Development"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -11391,10 +11415,11 @@
       "Security"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -11449,9 +11474,10 @@
     "categories": [
       "Blockchain & Cryptocurrencies"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -11661,12 +11687,13 @@
     "categories": [
       "Blockchain & Cryptocurrencies"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -11683,10 +11710,11 @@
       "Blockchain & Cryptocurrencies"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "none",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -12171,11 +12199,12 @@
     "categories": [
       "Social"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -12343,9 +12372,10 @@
     "categories": [
       "Scrapers & Data Mining"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -12752,9 +12782,10 @@
       "AI & ML",
       "Voice"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -13206,10 +13237,11 @@
     "categories": [
       "Transportation"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
     "contact": "Joachim.Schirrmacher@deutschebahn.com",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -13349,10 +13381,11 @@
       "AI & ML"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -14060,12 +14093,13 @@
     "categories": [
       "Social"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -15457,12 +15491,13 @@
     "categories": [
       "Email & SMS"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -15664,9 +15699,10 @@
     "categories": [
       "Other"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -16352,12 +16388,13 @@
     "categories": [
       "Calendar & Time"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -16451,9 +16488,10 @@
       "Sport & Fitness"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -17832,9 +17870,10 @@
     "categories": [
       "Sport & Fitness"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -17943,11 +17982,12 @@
     "categories": [
       "Games"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -18946,9 +18986,10 @@
     "categories": [
       "Other"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -19521,11 +19562,12 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -19673,10 +19715,11 @@
       "Images & Photography"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "oauth2",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -20179,9 +20222,10 @@
       "Jobs"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -20347,10 +20391,11 @@
       "Chats & Messaging"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "oauth2",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -21675,9 +21720,10 @@
       "Video & Media"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -21891,11 +21937,12 @@
       "Jobs"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -21930,12 +21977,13 @@
     "categories": [
       "News & Feeds"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -22698,10 +22746,11 @@
       "Social"
     ],
     "type": "GraphQL",
-    "status": "active",
+    "status": "dead",
     "pricing": "free",
     "auth_type": "none",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -23154,9 +23203,10 @@
       "Calendar & Time"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -24492,11 +24542,12 @@
     "categories": [
       "Video & Media"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -24654,12 +24705,13 @@
     "categories": [
       "Transportation"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "no",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -25019,9 +25071,10 @@
     "categories": [
       "Transportation"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -25168,12 +25221,13 @@
     "categories": [
       "Other"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -25190,10 +25244,11 @@
       "Science & Math"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "none",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -25700,9 +25755,10 @@
       "Maps & Geo"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -26136,11 +26192,12 @@
     "categories": [
       "AI & ML"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -26772,9 +26829,10 @@
     "categories": [
       "Databases"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -26870,9 +26928,10 @@
       "Development"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -27514,9 +27573,10 @@
       "Commerce"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -27596,11 +27656,12 @@
     "categories": [
       "Music & Audio"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -27640,12 +27701,13 @@
     "categories": [
       "URLs"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -27699,10 +27761,11 @@
     "categories": [
       "Translation"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
     "logo": "https://raw.githubusercontent.com/PeterLZhou/slate/master/source/images/ios_base_internationalization.png",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -28097,10 +28160,11 @@
       "Food & Drinks"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "free",
     "auth_type": "api_key",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -29161,10 +29225,11 @@
       "Development"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "none",
     "https": false,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -29239,12 +29304,13 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -30448,9 +30514,10 @@
       "Visualizations"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -30512,9 +30579,10 @@
       "AI & ML"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -30571,9 +30639,10 @@
       "Health"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -30900,10 +30969,11 @@
       "Scrapers & Data Mining"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -31078,9 +31148,10 @@
       "Weather"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -31276,11 +31347,12 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -31712,9 +31784,10 @@
       "Commerce"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -31770,12 +31843,13 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -31831,11 +31905,12 @@
     "categories": [
       "Games"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -31930,11 +32005,12 @@
     "categories": [
       "Documents & Productivity"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -32716,11 +32792,12 @@
       "Calendar & Time"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -32770,12 +32847,13 @@
     "categories": [
       "Music & Audio"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -32933,11 +33011,12 @@
     "categories": [
       "Environment & Nature"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -33342,10 +33421,11 @@
       "News & Feeds"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -33854,9 +33934,10 @@
       "Weather"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -33930,12 +34011,13 @@
     "categories": [
       "Blockchain & Cryptocurrencies"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -34209,9 +34291,10 @@
       "Music & Audio"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -34589,11 +34672,12 @@
     "categories": [
       "Blockchain & Cryptocurrencies"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -34720,10 +34804,11 @@
       "Maps & Geo"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -36955,12 +37040,13 @@
     "categories": [
       "AI & ML"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -37302,12 +37388,13 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -37323,9 +37410,10 @@
     "categories": [
       "Security"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -38089,10 +38177,11 @@
       "Authentication & User Management"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
     "contact": "support@receptive.io",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -38147,11 +38236,12 @@
     "categories": [
       "Security"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -38289,9 +38379,10 @@
       "Events"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -38472,9 +38563,10 @@
       "Testing"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "free",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -38530,12 +38622,13 @@
     "categories": [
       "Art & Design"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "no",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -40042,12 +40135,13 @@
     "categories": [
       "Government"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -40664,10 +40758,11 @@
       "Food & Drinks"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "none",
     "https": true,
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -40742,11 +40837,12 @@
       "Environment & Nature"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
     "contact": "support@aoncadis.org",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -41155,12 +41251,13 @@
     "categories": [
       "Health"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -41216,12 +41313,13 @@
     "categories": [
       "Testing"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -41654,11 +41752,12 @@
     "categories": [
       "Testing"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -41735,12 +41834,13 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -41777,9 +41877,10 @@
       "Animals"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -42005,9 +42106,10 @@
       "AI & ML"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -42384,12 +42486,13 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "no",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -42834,9 +42937,10 @@
       "Music & Audio"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -43113,12 +43217,13 @@
     "categories": [
       "Maps & Geo"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "no",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -43253,9 +43358,10 @@
       "Music & Audio"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -43451,9 +43557,10 @@
       "Analytics"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -43617,12 +43724,13 @@
     "categories": [
       "Authentication & User Management"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -43775,9 +43883,10 @@
       "Development"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -44419,9 +44528,10 @@
       "Blockchain & Cryptocurrencies"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -44842,9 +44952,10 @@
     "categories": [
       "URLs"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -45503,9 +45614,10 @@
     "categories": [
       "Maps & Geo"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -46121,12 +46233,13 @@
     "categories": [
       "Sport & Fitness"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -46142,12 +46255,13 @@
     "categories": [
       "Sport & Fitness"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "no",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -46163,12 +46277,13 @@
     "categories": [
       "Sport & Fitness"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -46450,11 +46565,12 @@
     "categories": [
       "Maps & Geo"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -47598,12 +47714,13 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -47835,11 +47952,12 @@
     "categories": [
       "Food & Drinks"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -48131,11 +48249,12 @@
       "Blockchain & Cryptocurrencies"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "api_key",
     "https": true,
     "cors": "no",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -48641,9 +48760,10 @@
       "Files & Storage"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -48658,11 +48778,12 @@
     "categories": [
       "Business"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -48678,11 +48799,12 @@
     "categories": [
       "Business"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -48698,11 +48820,12 @@
     "categories": [
       "Business"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -48718,11 +48841,12 @@
     "categories": [
       "Business"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -48738,11 +48862,12 @@
     "categories": [
       "Business"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -49523,11 +49648,12 @@
     "categories": [
       "Security"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "api_key",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -50062,11 +50188,12 @@
     "categories": [
       "Testing"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -50481,11 +50608,12 @@
       "Transportation"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "free",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -51066,9 +51194,10 @@
     "categories": [
       "Travel"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -53154,9 +53283,10 @@
     "categories": [
       "Blockchain & Cryptocurrencies"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -53675,9 +53805,10 @@
       "Science & Math"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "free",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -53833,12 +53964,13 @@
     "categories": [
       "Other"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "no",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -53873,9 +54005,10 @@
     "categories": [
       "Games"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -54166,9 +54299,10 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -54316,12 +54450,13 @@
     "categories": [
       "Security"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "cors": "yes",
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -54652,9 +54787,10 @@
       "Commerce"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -54708,11 +54844,12 @@
     "categories": [
       "Blockchain & Cryptocurrencies"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "unknown",
     "auth_type": "none",
     "https": true,
     "added": "2026-07-21",
+    "last_verified": "2026-07-22",
     "source": "public-apis/public-apis",
     "links": [
       {
@@ -55237,9 +55374,10 @@
       "Food & Drinks"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -55325,10 +55463,11 @@
       "Maps & Geo",
       "Post & Logistics"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
     "contact": "info@quicksold.co.uk",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -55505,9 +55644,10 @@
       "Transportation"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -56384,9 +56524,10 @@
       "Calendar & Time"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -56689,9 +56830,10 @@
     "categories": [
       "Development"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -56725,9 +56867,10 @@
       "Business",
       "Point of Interest"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -57320,9 +57463,10 @@
       "Marketing & SEO",
       "Chats & Messaging"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -57601,9 +57745,10 @@
       "Search",
       "Text Analysis & Tools"
     ],
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",
@@ -57790,9 +57935,10 @@
       "URLs"
     ],
     "type": "REST",
-    "status": "active",
+    "status": "dead",
     "pricing": "paid",
     "auth_type": "unknown",
+    "last_verified": "2026-07-22",
     "links": [
       {
         "name": "Docs / Website",

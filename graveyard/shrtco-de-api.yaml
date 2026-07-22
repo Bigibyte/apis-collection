@@ -1,0 +1,11 @@
+name: Shrtco.De Api
+slug: shrtco-de-api
+description: Secure and reliable Online Tools. Free URL Shortener API without limits
+categories:
+  - URLs
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://app.shrtco.de/docs
+status: dead
+last_verified: 2026-07-22

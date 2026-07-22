@@ -1,0 +1,15 @@
+name: Forza
+slug: forza
+description: Show random image of car from Forza
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.forza-api.tk
+status: dead
+last_verified: 2026-07-22

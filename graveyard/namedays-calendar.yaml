@@ -1,0 +1,15 @@
+name: Namedays Calendar
+slug: namedays-calendar
+description: API returns namedays for various countries
+categories:
+  - Calendar & Time
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://api.abalin.net/
+auth_type: none
+https: true
+cors: yes
+status: dead
+last_verified: 2026-07-22

@@ -1,0 +1,16 @@
+name: Doge-Meme
+slug: doge-meme
+description: Top meme posts from r/dogecoin which include 'Meme' flair
+categories:
+  - Social
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.doge-meme.lol/docs
+status: dead
+last_verified: 2026-07-22

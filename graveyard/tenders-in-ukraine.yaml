@@ -1,0 +1,15 @@
+name: Tenders in Ukraine
+slug: tenders-in-ukraine
+description: Get data for procurements in Ukraine in JSON format
+categories:
+  - Business
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://tenders.guru/ua/api
+status: dead
+last_verified: 2026-07-22

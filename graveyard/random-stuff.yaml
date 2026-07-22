@@ -1,0 +1,16 @@
+name: Random Stuff
+slug: random-stuff
+description: Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api-docs.pgamerx.com/
+status: dead
+last_verified: 2026-07-22

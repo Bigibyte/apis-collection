@@ -1,0 +1,15 @@
+name: Améthyste
+slug: amethyste
+description: Generate images for Discord users
+categories:
+  - Art & Design
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.amethyste.moe/
+status: dead
+last_verified: 2026-07-22

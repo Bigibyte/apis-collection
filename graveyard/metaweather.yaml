@@ -1,0 +1,12 @@
+name: MetaWeather
+slug: metaweather
+description: API MetaWeather provides an API that delivers JSON over HTTPS for access to our data.
+categories:
+  - Weather
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://www.metaweather.com/api/
+status: dead
+last_verified: 2026-07-22

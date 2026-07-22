@@ -1,0 +1,13 @@
+name: Wegmans
+slug: wegmans
+description: APIs for products and store information
+categories:
+  - Commerce
+  - Food & Drinks
+type: REST
+pricing: paid
+links:
+  - name: Docs / Website
+    url: https://dev.wegmans.io
+status: dead
+last_verified: 2026-07-22
