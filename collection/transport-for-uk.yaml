@@ -1,0 +1,13 @@
+name: Transport for UK
+slug: transport-for-uk
+description: Transport API and dataset for UK
+categories:
+  - Transportation
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developer.transportapi.com

@@ -1,0 +1,13 @@
+name: Simkl
+slug: simkl
+description: Movie, TV and Anime data
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://simkl.docs.apiary.io

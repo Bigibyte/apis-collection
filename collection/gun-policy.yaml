@@ -1,0 +1,13 @@
+name: Gun Policy
+slug: gun-policy
+description: International firearm injury prevention and policy
+categories:
+  - Government
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.gunpolicy.org/api

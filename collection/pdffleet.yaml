@@ -1,0 +1,14 @@
+name: PDFFleet
+slug: pdffleet
+description: HTML and URL to PDF API with templates and a free tier
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://pdffleet.com

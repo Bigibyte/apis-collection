@@ -1,0 +1,14 @@
+name: Board Game Geek
+slug: board-game-geek
+description: Board games, RPG and videogames
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://boardgamegeek.com/wiki/page/BGG_XML_API2

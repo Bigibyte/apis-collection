@@ -1,0 +1,13 @@
+name: Threat Jammer
+slug: threat-jammer
+description: Risk scoring service from curated threat intelligence data
+categories:
+  - Security
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://threatjammer.com/docs/index

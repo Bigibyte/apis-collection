@@ -1,0 +1,13 @@
+name: Open Government, Czech Republic
+slug: open-government-czech-republic
+description: Czech Republic Government Open Data
+categories:
+  - Government
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://data.gov.cz/english/

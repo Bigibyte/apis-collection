@@ -1,0 +1,14 @@
+name: Voidly
+slug: voidly
+description: Internet censorship measurements, incidents, and ISP-level blocking data across 126 countries
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://voidly.ai/api-docs

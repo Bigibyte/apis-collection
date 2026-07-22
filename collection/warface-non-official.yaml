@@ -1,0 +1,14 @@
+name: Warface (non-official)
+slug: warface-non-official
+description: Official API proxy with better data structure and more features
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.wfstats.cf

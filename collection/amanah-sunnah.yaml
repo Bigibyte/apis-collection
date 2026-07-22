@@ -1,0 +1,14 @@
+name: Amanah Sunnah
+slug: amanah-sunnah
+description: Semantic search across Quran, Hadith, Tafsir & 18K+ Rijal narrators
+categories:
+  - Books
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://sunnah.amanahagent.cloud/developers

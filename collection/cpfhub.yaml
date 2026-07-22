@@ -1,0 +1,14 @@
+name: CPFHub
+slug: cpfhub
+description: Brazilian CPF lookup — returns full name, birth date, and gender for any CPF
+categories:
+  - Government
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://cpfhub.io

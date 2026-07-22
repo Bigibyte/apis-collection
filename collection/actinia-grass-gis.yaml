@@ -1,0 +1,13 @@
+name: Actinia Grass GIS
+slug: actinia-grass-gis
+description: Actinia is an open source REST API for geographical data that uses GRASS GIS
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://actinia.mundialis.de/api_docs/

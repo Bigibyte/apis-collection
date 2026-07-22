@@ -1,0 +1,13 @@
+name: Talordata
+slug: talordata
+description: SERP data from major search engines with a free trial
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.talordata.com/

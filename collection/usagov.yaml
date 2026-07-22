@@ -1,0 +1,13 @@
+name: USA.gov
+slug: usagov
+description: Authoritative information on U.S. programs, events, services and more
+categories:
+  - Government
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.usa.gov/developer

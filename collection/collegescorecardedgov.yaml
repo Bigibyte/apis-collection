@@ -1,0 +1,13 @@
+name: CollegeScoreCard.ed.gov
+slug: collegescorecardedgov
+description: Data on higher education institutions in the United States
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://collegescorecard.ed.gov/data/

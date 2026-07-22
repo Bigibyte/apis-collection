@@ -1,0 +1,14 @@
+name: host-t.com
+slug: host-tcom
+description: Basic DNS query via HTTP GET request
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://host-t.com

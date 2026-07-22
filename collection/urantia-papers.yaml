@@ -1,0 +1,14 @@
+name: Urantia Papers
+slug: urantia-papers
+description: Full-text + semantic search across the Urantia Papers, with audio narration, entities, translations
+categories:
+  - Books
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://urantia.dev

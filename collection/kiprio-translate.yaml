@@ -1,0 +1,14 @@
+name: Kiprio Translate
+slug: kiprio-translate
+description: Free text translation with language detection, supports 50+ languages
+categories:
+  - Text Analysis & Tools
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://kiprio.com/v1/translate

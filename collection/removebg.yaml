@@ -1,0 +1,13 @@
+name: Remove.bg
+slug: removebg
+description: Image Background removal
+categories:
+  - Images & Photography
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.remove.bg/api

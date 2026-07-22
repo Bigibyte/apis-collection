@@ -1,0 +1,13 @@
+name: Git.io
+slug: gitio
+description: Git.io URL shortener
+categories:
+  - URLs
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://github.blog/2011-11-10-git-io-github-url-shortener/

@@ -1,0 +1,13 @@
+name: Mattermost
+slug: mattermost
+description: An open source platform for developer collaboration
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.mattermost.com/

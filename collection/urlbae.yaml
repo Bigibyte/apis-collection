@@ -1,0 +1,14 @@
+name: UrlBae
+slug: urlbae
+description: Simple and efficient short link creation
+categories:
+  - URLs
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://urlbae.com/developers

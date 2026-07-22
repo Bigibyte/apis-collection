@@ -1,0 +1,13 @@
+name: Colormind
+slug: colormind
+description: Color scheme generator
+categories:
+  - Art & Design
+pricing: unknown
+auth_type: none
+https: false
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: http://colormind.io/api-access/

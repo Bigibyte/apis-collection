@@ -1,0 +1,13 @@
+name: Moov
+slug: moov
+description: The Moov API makes it simple for platforms to send, receive, and store money
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.moov.io/api/

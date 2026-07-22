@@ -1,0 +1,14 @@
+name: Kiprio Email Validate
+slug: kiprio-email-validate
+description: "Free email validation: MX check, disposable detection, syntax"
+categories:
+  - Email & SMS
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://kiprio.com/v1/email-validate

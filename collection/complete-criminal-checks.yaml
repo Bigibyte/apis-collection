@@ -1,0 +1,14 @@
+name: Complete Criminal Checks
+slug: complete-criminal-checks
+description: Provides data of offenders from all U.S. States and Pureto Rico
+categories:
+  - Security
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://completecriminalchecks.com/Developers

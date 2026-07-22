@@ -1,0 +1,13 @@
+name: Hirak Exchange Rates
+slug: hirak-exchange-rates
+description: Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits
+categories:
+  - Blockchain & Cryptocurrencies
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://rates.hirak.site/

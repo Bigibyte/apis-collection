@@ -1,0 +1,13 @@
+name: arXiv
+slug: arxiv
+description: "Curated research-sharing platform: physics, mathematics, quantitative finance, and economics"
+categories:
+  - Science & Math
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://arxiv.org/help/api/user-manual

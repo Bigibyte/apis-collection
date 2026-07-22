@@ -1,0 +1,14 @@
+name: HeroHunt People Search
+slug: herohunt-people-search
+description: Search 1 billion people profiles across LinkedIn and GitHub for talent sourcing
+categories:
+  - Jobs
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.herohunt.ai/people-search-api

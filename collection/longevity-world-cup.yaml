@@ -1,0 +1,14 @@
+name: Longevity World Cup
+slug: longevity-world-cup
+description: Public biological age competition data with biomarkers and rankings
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://longevityworldcup.com/api/data/athletes

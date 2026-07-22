@@ -1,0 +1,14 @@
+name: WooCommerce
+slug: woocommerce
+description: WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format
+categories:
+  - Commerce
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://woocommerce.github.io/woocommerce-rest-api-docs/

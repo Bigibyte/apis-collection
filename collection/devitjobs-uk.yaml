@@ -1,0 +1,14 @@
+name: DevITjobs UK
+slug: devitjobs-uk
+description: Jobs with GraphQL
+categories:
+  - Jobs
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://devitjobs.uk/job_feed.xml

@@ -1,0 +1,13 @@
+name: Open Government, New South Wales
+slug: open-government-new-south-wales
+description: New South Wales Government Open Data
+categories:
+  - Government
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.nsw.gov.au/

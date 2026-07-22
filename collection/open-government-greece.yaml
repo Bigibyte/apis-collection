@@ -1,0 +1,13 @@
+name: Open Government, Greece
+slug: open-government-greece
+description: Greece Government Open Data
+categories:
+  - Government
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://data.gov.gr/

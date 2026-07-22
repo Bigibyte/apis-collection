@@ -1,0 +1,13 @@
+name: Exchangerate.host
+slug: exchangeratehost
+description: Free foreign exchange & crypto rates API
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers

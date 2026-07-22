@@ -1,0 +1,14 @@
+name: LatLng
+slug: latlng
+description: Geocoding, reverse geocoding, places, and static maps
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.latlng.work/docs

@@ -1,0 +1,13 @@
+name: Tenders in Poland
+slug: tenders-in-poland
+description: Get data for procurements in Poland in JSON format
+categories:
+  - Business
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://tenders.guru/pl/api

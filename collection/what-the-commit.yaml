@@ -1,0 +1,14 @@
+name: What The Commit
+slug: what-the-commit
+description: Random commit message generator
+categories:
+  - Testing
+pricing: unknown
+auth_type: none
+https: false
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: http://whatthecommit.com/index.txt

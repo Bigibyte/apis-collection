@@ -1,0 +1,13 @@
+name: Geodata.gov.gr
+slug: geodatagovgr
+description: Open geospatial data and API service for Greece
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://geodata.gov.gr/en/

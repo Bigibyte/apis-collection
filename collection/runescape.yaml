@@ -1,0 +1,14 @@
+name: RuneScape
+slug: runescape
+description: RuneScape and OSRS RPGs information
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://runescape.wiki/w/Application_programming_interface

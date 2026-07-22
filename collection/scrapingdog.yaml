@@ -1,0 +1,13 @@
+name: ScrapingDog
+slug: scrapingdog
+description: Proxy API for Web scraping
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.scrapingdog.com/

@@ -1,0 +1,13 @@
+name: Mailtrap
+slug: mailtrap
+description: A service for the safe testing of emails sent from the development and staging environments
+categories:
+  - Email & SMS
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://mailtrap.docs.apiary.io/#

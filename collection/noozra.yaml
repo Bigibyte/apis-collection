@@ -1,0 +1,14 @@
+name: Noozra
+slug: noozra
+description: Free news headlines from 200+ curated RSS sources
+categories:
+  - News & Feeds
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://noozra.com/api

@@ -1,0 +1,14 @@
+name: Geokeo
+slug: geokeo
+description: Geokeo geocoding service- with 2500 free api requests daily
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://geokeo.com

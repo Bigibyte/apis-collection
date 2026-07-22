@@ -1,0 +1,13 @@
+name: Cutt.ly
+slug: cuttly
+description: URL shortener service
+categories:
+  - URLs
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://cutt.ly/api-documentation/cuttly-links-api

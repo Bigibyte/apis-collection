@@ -1,0 +1,14 @@
+name: US Federal Contracts & Grants
+slug: us-federal-contracts-and-grants
+description: US federal contracts, grants, and agency spending data updated daily
+categories:
+  - Government
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://government-data-api.onrender.com/docs

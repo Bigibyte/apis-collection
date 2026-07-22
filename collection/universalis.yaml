@@ -1,0 +1,14 @@
+name: Universalis
+slug: universalis
+description: Final Fantasy XIV market board data
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://universalis.app/docs/index.html

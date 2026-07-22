@@ -1,0 +1,13 @@
+name: MercadoPago
+slug: mercadopago
+description: Mercado Pago API reference - all the information you need to develop your integrations
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.mercadopago.com.br/developers/es/reference

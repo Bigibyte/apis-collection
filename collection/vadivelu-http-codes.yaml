@@ -1,0 +1,14 @@
+name: Vadivelu HTTP Codes
+slug: vadivelu-http-codes
+description: On demand HTTP Codes with images
+categories:
+  - Other
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://vadivelu.anoram.com/

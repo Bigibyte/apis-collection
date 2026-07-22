@@ -1,0 +1,13 @@
+name: Line
+slug: line
+description: Line Login, Share on Line, Social Plugins and more
+categories:
+  - Social
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developers.line.biz/

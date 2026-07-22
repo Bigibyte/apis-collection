@@ -1,0 +1,14 @@
+name: CountryStateCity
+slug: countrystatecity
+description: World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://countrystatecity.in/

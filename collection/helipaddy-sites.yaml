@@ -1,0 +1,13 @@
+name: Helipaddy sites
+slug: helipaddy-sites
+description: Helicopter and passenger drone landing site directory, Helipaddy data and much more
+categories:
+  - Vehicles
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://helipaddy.com/api/

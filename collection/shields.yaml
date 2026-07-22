@@ -1,0 +1,13 @@
+name: Shields
+slug: shields
+description: Concise, consistent, and legible badges in SVG and raster format
+categories:
+  - Open Source
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://shields.io/

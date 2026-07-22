@@ -1,0 +1,13 @@
+name: Exchangerate.dev
+slug: exchangeratedev
+description: Live & historical FX, 168 pairs back to 1999, Frankfurter-compatible, free 10k/mo
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://exchangerate.dev/docs

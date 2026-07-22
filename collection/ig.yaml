@@ -1,0 +1,13 @@
+name: IG
+slug: ig
+description: Spreadbetting and CFD Market Data
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://labs.ig.com/gettingstarted

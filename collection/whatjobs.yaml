@@ -1,0 +1,13 @@
+name: WhatJobs
+slug: whatjobs
+description: Job search engine
+categories:
+  - Jobs
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.whatjobs.com/affiliates

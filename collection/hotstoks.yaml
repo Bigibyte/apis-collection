@@ -1,0 +1,14 @@
+name: Hotstoks
+slug: hotstoks
+description: Stock market data powered by SQL
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://hotstoks.com?utm_source=public-apis

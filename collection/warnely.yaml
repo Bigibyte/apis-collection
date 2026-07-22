@@ -1,0 +1,15 @@
+name: Warnely
+slug: warnely
+description: Composite travel-safety scores for 180 countries (FCDO + US State + GPI + WGI + live incident wire),
+  OpenAPI 3.1 spec, CC BY 4.0
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://warnely.com/developers

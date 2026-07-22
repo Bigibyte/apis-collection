@@ -1,0 +1,14 @@
+name: Covid Tracking Project
+slug: covid-tracking-project
+description: Covid-19  data for the US
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://covidtracking.com/data/api/version-2

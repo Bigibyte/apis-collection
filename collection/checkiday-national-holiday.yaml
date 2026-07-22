@@ -1,0 +1,13 @@
+name: Checkiday - National Holiday
+slug: checkiday-national-holiday
+description: Industry-leading holiday data with over 5,000 holidays and thousands of descriptions
+categories:
+  - Calendar & Time
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://apilayer.com/marketplace/checkiday-api

@@ -1,0 +1,14 @@
+name: WhereParcel
+slug: whereparcel
+description: Unified parcel tracking API across 60+ carriers worldwide (USPS, FedEx, UPS, DHL, etc.)
+categories:
+  - Post & Logistics
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://whereparcel.com/docs

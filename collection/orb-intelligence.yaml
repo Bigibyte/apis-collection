@@ -1,0 +1,13 @@
+name: ORB Intelligence
+slug: orb-intelligence
+description: Company lookup
+categories:
+  - Business
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.orb-intelligence.com/docs/

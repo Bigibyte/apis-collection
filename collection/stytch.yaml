@@ -1,0 +1,14 @@
+name: Stytch
+slug: stytch
+description: User infrastructure for modern applications
+categories:
+  - Authentication & User Management
+pricing: unknown
+auth_type: api_key
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://stytch.com/

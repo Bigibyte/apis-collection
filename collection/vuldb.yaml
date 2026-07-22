@@ -1,0 +1,13 @@
+name: VulDB
+slug: vuldb
+description: VulDB API allows to initiate queries for one or more items along with transactional bots
+categories:
+  - Security
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://vuldb.com/?doc.api

@@ -1,0 +1,13 @@
+name: Hong Kong GeoData Store
+slug: hong-kong-geodata-store
+description: API for accessing geo-data of Hong Kong
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://geodata.gov.hk/gs/

@@ -1,0 +1,14 @@
+name: FishWatch
+slug: fishwatch
+description: Information and pictures about individual fish species
+categories:
+  - Animals
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.fishwatch.gov/developers

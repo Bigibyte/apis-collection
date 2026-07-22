@@ -1,0 +1,13 @@
+name: Localbitcoins
+slug: localbitcoins
+description: P2P platform to buy and sell Bitcoins
+categories:
+  - Blockchain & Cryptocurrencies
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://localbitcoins.com/api-docs/

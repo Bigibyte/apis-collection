@@ -1,0 +1,13 @@
+name: Zero Retention PDF
+slug: zero-retention-pdf
+description: Zero-retention HTML to PDF conversion
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://xeropdf.com

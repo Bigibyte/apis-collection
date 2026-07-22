@@ -1,0 +1,13 @@
+name: MedlinePlus Genetics
+slug: medlineplus-genetics
+description: Genetic conditions, genes, chromosomes and mtDNA data
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://medlineplus.gov/about/developers/geneticsdatafilesapi/

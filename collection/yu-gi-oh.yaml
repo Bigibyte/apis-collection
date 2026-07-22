@@ -1,0 +1,13 @@
+name: Yu-Gi-Oh!
+slug: yu-gi-oh
+description: Yu-Gi-Oh! TCG Information
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://db.ygoprodeck.com/api-guide/

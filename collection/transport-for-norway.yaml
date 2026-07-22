@@ -1,0 +1,13 @@
+name: Transport for Norway
+slug: transport-for-norway
+description: Transport APIs and dataset for Norway
+categories:
+  - Transportation
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developer.entur.org/

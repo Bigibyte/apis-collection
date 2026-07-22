@@ -1,0 +1,14 @@
+name: ProxyKingdom
+slug: proxykingdom
+description: Rotating Proxy API that produces a working proxy on every request
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://proxykingdom.com

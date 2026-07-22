@@ -1,0 +1,13 @@
+name: IBGE
+slug: ibge
+description: Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://servicodados.ibge.gov.br/api/docs/

@@ -1,0 +1,13 @@
+name: Azure DevOps
+slug: azure-devops
+description: The Azure DevOps basic components of a REST API request/response pair
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.microsoft.com/en-us/rest/api/azure/devops

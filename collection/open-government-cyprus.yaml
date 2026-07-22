@@ -1,0 +1,13 @@
+name: Open Government, Cyprus
+slug: open-government-cyprus
+description: Cyprus Government Open Data
+categories:
+  - Government
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://data.gov.cy/?language=en

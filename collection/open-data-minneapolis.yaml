@@ -1,0 +1,14 @@
+name: Open Data Minneapolis
+slug: open-data-minneapolis
+description: Spatial (GIS) and non-spatial city data for Minneapolis
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://opendata.minneapolismn.gov/

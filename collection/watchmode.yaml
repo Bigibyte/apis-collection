@@ -1,0 +1,13 @@
+name: Watchmode
+slug: watchmode
+description: API for finding out the streaming availability of movies & shows
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.watchmode.com/

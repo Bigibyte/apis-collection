@@ -1,0 +1,13 @@
+name: GeekFlare
+slug: geekflare
+description: Provide numerous capabilities for important testing and monitoring methods for websites
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://apidocs.geekflare.com/docs/geekflare-api

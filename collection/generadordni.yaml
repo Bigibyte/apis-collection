@@ -1,0 +1,13 @@
+name: GeneradorDNI
+slug: generadordni
+description: Data generator API. Profiles, vehicles, banks and cards, etc
+categories:
+  - Testing
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.generadordni.es

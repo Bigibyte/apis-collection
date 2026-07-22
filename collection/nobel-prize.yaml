@@ -1,0 +1,14 @@
+name: Nobel Prize
+slug: nobel-prize
+description: Open data about nobel prizes and events
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.nobelprize.org/about/developer-zone-2/

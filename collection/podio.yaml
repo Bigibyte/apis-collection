@@ -1,0 +1,13 @@
+name: Podio
+slug: podio
+description: File sharing and productivity
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developers.podio.com

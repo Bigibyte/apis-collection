@@ -1,0 +1,14 @@
+name: Databricks
+slug: databricks
+description: Service to manage your databricks account,clusters, notebooks, jobs and workspaces
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.databricks.com/dev-tools/api/latest/index.html

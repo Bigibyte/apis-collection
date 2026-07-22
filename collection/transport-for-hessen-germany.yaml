@@ -1,0 +1,13 @@
+name: Transport for Hessen, Germany
+slug: transport-for-hessen-germany
+description: RMV API (Public Transport in Hessen)
+categories:
+  - Transportation
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://opendata.rmv.de/site/start.html

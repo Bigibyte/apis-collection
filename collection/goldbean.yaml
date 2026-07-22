@@ -1,0 +1,13 @@
+name: GoldBean
+slug: goldbean
+description: OCR, Translation, NLP & ERNIE LLM via Baidu AI (free tier available)
+categories:
+  - AI & ML
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://goldbean-api.xyz/docs

@@ -1,0 +1,14 @@
+name: IBANforge
+slug: ibanforge
+description: IBAN validation and BIC/SWIFT lookup for 75+ countries with 121K+ bank entries
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.ibanforge.com

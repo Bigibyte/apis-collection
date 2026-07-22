@@ -1,0 +1,13 @@
+name: SmartAPI
+slug: smartapi
+description: Gain access to set of <SmartAPI> and create end-to-end broking services
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://smartapi.angelbroking.com/

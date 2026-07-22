@@ -56,6 +56,15 @@ program
   });
 
 program
+  .command("import-new")
+  .description("Import new APIs from public-apis/public-apis (MIT), deduped against the collection")
+  .option("--file <path>", "read the source markdown from a local file instead of fetching")
+  .action(async (opts: { file?: string }) => {
+    const { importNew } = await import("./commands/import-new.js");
+    await importNew(opts);
+  });
+
+program
   .command("stats")
   .description("Print collection statistics")
   .action(async () => {

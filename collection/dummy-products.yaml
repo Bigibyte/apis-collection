@@ -1,0 +1,14 @@
+name: Dummy Products
+slug: dummy-products
+description: An api to fetch dummy e-commerce products JSON data with placeholder images
+categories:
+  - Commerce
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dummyproducts-api.herokuapp.com/

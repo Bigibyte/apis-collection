@@ -1,0 +1,13 @@
+name: MailCheck.ai
+slug: mailcheckai
+description: Prevent users to sign up with temporary email addresses
+categories:
+  - Email & SMS
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.mailcheck.ai/#documentation

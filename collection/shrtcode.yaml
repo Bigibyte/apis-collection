@@ -1,0 +1,14 @@
+name: Shrtcode
+slug: shrtcode
+description: URl Shortener with multiple Domains
+categories:
+  - URLs
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://shrtco.de/docs

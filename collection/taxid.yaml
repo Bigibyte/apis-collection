@@ -1,0 +1,13 @@
+name: TaxID
+slug: taxid
+description: EU VAT number validation with company name and address lookup across all 27 member states
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.taxid.dev/docs

@@ -1,0 +1,14 @@
+name: FAA N-Number Registry
+slug: faa-n-number-registry
+description: Every FAA-registered civil aircraft in the United States, lookup by N-number or Mode S hex code
+categories:
+  - Transportation
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://n-number.starfile.org/api

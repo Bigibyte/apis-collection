@@ -1,0 +1,14 @@
+name: CurrencyFreaks
+slug: currencyfreaks
+description: Provides current and historical currency exchange rates with free plan 1K requests/month
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://currencyfreaks.com/

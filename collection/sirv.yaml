@@ -1,0 +1,13 @@
+name: Sirv
+slug: sirv
+description: Image management solutions like optimization, manipulation, hosting
+categories:
+  - Images & Photography
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://apidocs.sirv.com/

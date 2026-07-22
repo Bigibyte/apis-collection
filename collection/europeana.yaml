@@ -1,0 +1,13 @@
+name: Europeana
+slug: europeana
+description: European Museum and Galleries content
+categories:
+  - Art & Design
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://pro.europeana.eu/resources/apis/search

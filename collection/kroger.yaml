@@ -1,0 +1,13 @@
+name: Kroger
+slug: kroger
+description: Supermarket Data
+categories:
+  - Food & Drinks
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developer.kroger.com/reference

@@ -1,0 +1,14 @@
+name: Owen Wilson Wow
+slug: owen-wilson-wow
+description: API for actor Owen Wilson's "wow" exclamations in movies
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://owen-wilson-wow-api.herokuapp.com

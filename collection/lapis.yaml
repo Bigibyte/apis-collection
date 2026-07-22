@@ -1,0 +1,14 @@
+name: LAPIS
+slug: lapis
+description: SARS-CoV-2 genomic sequences from public sources
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://cov-spectrum.ethz.ch/public

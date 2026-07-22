@@ -1,0 +1,13 @@
+name: Thunderbit
+slug: thunderbit
+description: Extract web pages as Markdown or structured data for AI apps
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://thunderbit.com/docs/introduction

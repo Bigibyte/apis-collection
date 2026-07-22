@@ -1,0 +1,13 @@
+name: UK Companies House
+slug: uk-companies-house
+description: UK Companies House Data from the UK government
+categories:
+  - Government
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developer.company-information.service.gov.uk/

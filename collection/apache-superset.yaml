@@ -1,0 +1,14 @@
+name: Apache Superset
+slug: apache-superset
+description: API to manage your BI dashboards and data sources on Superset
+categories:
+  - Business
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://superset.apache.org/docs/api

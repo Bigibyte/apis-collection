@@ -1,0 +1,14 @@
+name: Pick an Agency
+slug: pick-an-agency
+description: Search 47,000+ marketing agencies by service, location and rating
+categories:
+  - Business
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.pickanagency.com/developers

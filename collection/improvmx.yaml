@@ -1,0 +1,13 @@
+name: ImprovMX
+slug: improvmx
+description: API for free email forwarding service
+categories:
+  - Email & SMS
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://improvmx.com/api

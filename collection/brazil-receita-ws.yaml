@@ -1,0 +1,13 @@
+name: Brazil Receita WS
+slug: brazil-receita-ws
+description: Consult companies by CNPJ for Brazilian companies
+categories:
+  - Government
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.receitaws.com.br/

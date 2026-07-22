@@ -1,0 +1,13 @@
+name: Arbeitsamt
+slug: arbeitsamt
+description: API for the "Arbeitsamt", which is a german Job board aggregator
+categories:
+  - Jobs
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://jobsuche.api.bund.dev/

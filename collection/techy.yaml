@@ -1,0 +1,13 @@
+name: Techy
+slug: techy
+description: JSON and Plaintext API for tech-savvy sounding phrases
+categories:
+  - Entertainment
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://techy-api.vercel.app/

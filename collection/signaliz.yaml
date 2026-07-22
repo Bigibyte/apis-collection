@@ -1,0 +1,13 @@
+name: Signaliz
+slug: signaliz
+description: GTM enrichment, lead generation, email verification, and company signals
+categories:
+  - Business
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction

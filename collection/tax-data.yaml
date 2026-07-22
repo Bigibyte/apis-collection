@@ -1,0 +1,13 @@
+name: Tax Data
+slug: tax-data
+description: Instant VAT number and tax validation across the globe
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://apilayer.com/marketplace/tax_data-api

@@ -1,0 +1,13 @@
+name: Octopart
+slug: octopart
+description: Electronic part data for manufacturing, design, and sourcing
+categories:
+  - Commerce
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://octopart.com/api/v4/reference

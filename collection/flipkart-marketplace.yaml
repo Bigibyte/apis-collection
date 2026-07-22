@@ -1,0 +1,14 @@
+name: Flipkart Marketplace
+slug: flipkart-marketplace
+description: Product listing management, Order Fulfilment in the Flipkart Marketplace
+categories:
+  - Commerce
+pricing: unknown
+auth_type: oauth2
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://seller.flipkart.com/api-docs/FMSAPI.html

@@ -1,0 +1,13 @@
+name: RainViewer
+slug: rainviewer
+description: Radar data collected from different websites across the Internet
+categories:
+  - Weather
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.rainviewer.com/api.html

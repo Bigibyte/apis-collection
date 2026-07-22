@@ -1,0 +1,13 @@
+name: PostalPinCode
+slug: postalpincode
+description: API for getting Pincode details in India
+categories:
+  - Post & Logistics
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: http://www.postalpincode.in/Api-Details

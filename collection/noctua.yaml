@@ -1,0 +1,13 @@
+name: Noctua
+slug: noctua
+description: REST API used to access NoctuaSky features
+categories:
+  - Science & Math
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.noctuasky.com/api/v1/swaggerdoc/

@@ -1,0 +1,13 @@
+name: Valorant (non-official)
+slug: valorant-non-official
+description: An extensive API containing data of most Valorant in-game items, assets and more
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://valorant-api.com

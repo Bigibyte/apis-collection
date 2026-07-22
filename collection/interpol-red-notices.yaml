@@ -1,0 +1,13 @@
+name: Interpol Red Notices
+slug: interpol-red-notices
+description: Access and search Interpol Red Notices
+categories:
+  - Government
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://interpol.api.bund.dev/

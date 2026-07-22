@@ -1,0 +1,13 @@
+name: Mono
+slug: mono
+description: Connect with users’ bank accounts and access transaction data in Africa
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://mono.co/

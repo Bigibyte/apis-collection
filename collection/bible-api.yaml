@@ -1,0 +1,14 @@
+name: Bible-api
+slug: bible-api
+description: Free Bible API with multiple languages
+categories:
+  - Books
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://bible-api.com/

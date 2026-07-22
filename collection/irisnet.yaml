@@ -1,0 +1,14 @@
+name: Irisnet
+slug: irisnet
+description: Realtime content moderation API that blocks or blurs unwanted images in real-time
+categories:
+  - AI & ML
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://irisnet.de/api/

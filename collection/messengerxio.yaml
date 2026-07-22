@@ -1,0 +1,14 @@
+name: MessengerX.io
+slug: messengerxio
+description: A FREE API for developers to build and monetize personalized ML based chat apps
+categories:
+  - AI & ML
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://messengerx.rtfd.io

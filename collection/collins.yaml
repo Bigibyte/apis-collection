@@ -1,0 +1,13 @@
+name: Collins
+slug: collins
+description: Bilingual Dictionary and Thesaurus Data
+categories:
+  - Content & Dictionaries
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.collinsdictionary.com/api/v1/documentation/html/

@@ -1,0 +1,13 @@
+name: Helium
+slug: helium
+description: Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage
+categories:
+  - Blockchain & Cryptocurrencies
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.helium.com/api/blockchain/introduction/

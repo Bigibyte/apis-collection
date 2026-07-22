@@ -1,0 +1,14 @@
+name: Dungeons and Dragons (Alternate)
+slug: dungeons-and-dragons-alternate
+description: Includes all monsters and spells from the SRD (System Reference Document) as well as a search API
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://open5e.com/

@@ -1,0 +1,13 @@
+name: Postman Echo
+slug: postman-echo
+description: Test api server to receive and return value from HTTP method
+categories:
+  - Validation & Verification
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.postman-echo.com

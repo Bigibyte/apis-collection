@@ -1,0 +1,14 @@
+name: BinaryEdge
+slug: binaryedge
+description: Provide access to BinaryEdge 40fy scanning platform
+categories:
+  - Security
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.binaryedge.io/api-v2.html

@@ -1,0 +1,14 @@
+name: Songlink / Odesli
+slug: songlink-odesli
+description: Get all the services on which a song is available
+categories:
+  - Music & Audio
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741

@@ -1,0 +1,13 @@
+name: SeatGeek
+slug: seatgeek
+description: Search events, venues and performers
+categories:
+  - Events
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://platform.seatgeek.com/

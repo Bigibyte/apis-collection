@@ -1,0 +1,14 @@
+name: Redash
+slug: redash
+description: Access your queries and dashboards on Redash
+categories:
+  - Business
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://redash.io/help/user-guide/integrations-and-api/api

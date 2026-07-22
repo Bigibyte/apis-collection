@@ -1,0 +1,14 @@
+name: MapQuest
+slug: mapquest
+description: To access tools and resources to map the world
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: api_key
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developer.mapquest.com/

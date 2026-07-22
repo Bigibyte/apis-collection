@@ -1,0 +1,13 @@
+name: Luchtmeetnet
+slug: luchtmeetnet
+description: Predicted and actual air quality components for The Netherlands (RIVM)
+categories:
+  - Environment & Nature
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api-docs.luchtmeetnet.nl/

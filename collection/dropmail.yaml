@@ -1,0 +1,13 @@
+name: DropMail
+slug: dropmail
+description: GraphQL API for creating and managing ephemeral e-mail inboxes
+categories:
+  - Email & SMS
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dropmail.me/api/#live-demo

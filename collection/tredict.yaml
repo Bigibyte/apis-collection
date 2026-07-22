@@ -1,0 +1,13 @@
+name: Tredict
+slug: tredict
+description: Get and set activities, health data and more
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.tredict.com/blog/oauth_docs/

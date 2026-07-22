@@ -1,0 +1,13 @@
+name: ScrapingAnt
+slug: scrapingant
+description: Headless Chrome scraping with a simple API
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://scrapingant.com

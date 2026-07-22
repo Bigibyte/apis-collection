@@ -1,0 +1,13 @@
+name: Userstack
+slug: userstack
+description: Secure User-Agent String Lookup JSON API
+categories:
+  - Development
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers

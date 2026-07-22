@@ -1,0 +1,14 @@
+name: Biriyani As A Service
+slug: biriyani-as-a-service
+description: Biriyani images placeholder
+categories:
+  - Other
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://biriyani.anoram.com/

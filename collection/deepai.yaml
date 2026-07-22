@@ -1,0 +1,14 @@
+name: DeepAI
+slug: deepai
+description: Provides AI-powered APIs for text generation, image processing, and more
+categories:
+  - AI & ML
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://deepai.org/

@@ -1,0 +1,14 @@
+name: eCourtsIndia
+slug: ecourtsindia
+description: Indian court case status, judgments, and hearing schedule API
+categories:
+  - Government
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://ecourtsindia.com/api

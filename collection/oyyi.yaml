@@ -1,0 +1,14 @@
+name: oyyi
+slug: oyyi
+description: API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://oyyi.xyz/docs/1.0

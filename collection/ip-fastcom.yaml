@@ -1,0 +1,14 @@
+name: ip-fast.com
+slug: ip-fastcom
+description: IP address, country and city
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://ip-fast.com/docs/

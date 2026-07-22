@@ -1,0 +1,13 @@
+name: PhishStats
+slug: phishstats
+description: Phishing database
+categories:
+  - Security
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://phishstats.info/

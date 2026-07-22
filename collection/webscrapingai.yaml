@@ -1,0 +1,14 @@
+name: WebScraping.AI
+slug: webscrapingai
+description: Web Scraping API with built-in proxies and JS rendering
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://webscraping.ai/

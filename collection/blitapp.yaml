@@ -1,0 +1,13 @@
+name: Blitapp
+slug: blitapp
+description: Schedule screenshots of web pages and sync them to your cloud
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://blitapp.com/api/

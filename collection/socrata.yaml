@@ -1,0 +1,14 @@
+name: Socrata
+slug: socrata
+description: Access to Open Data from Governments, Non-profits and NGOs around the world
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: oauth2
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dev.socrata.com/

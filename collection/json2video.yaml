@@ -1,0 +1,14 @@
+name: JSON2Video
+slug: json2video
+description: "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations"
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: api_key
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://json2video.com

@@ -1,0 +1,13 @@
+name: COVID-19 Tracker Canada
+slug: covid-19-tracker-canada
+description: Details on Covid-19 cases across Canada
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.covid19tracker.ca/docs/1.0/overview

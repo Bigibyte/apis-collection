@@ -1,0 +1,14 @@
+name: AI For Thai
+slug: ai-for-thai
+description: Free Various Thai AI API
+categories:
+  - AI & ML
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://aiforthai.in.th/index.php

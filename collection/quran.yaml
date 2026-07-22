@@ -1,0 +1,14 @@
+name: Quran
+slug: quran
+description: RESTful Quran API with multiple languages
+categories:
+  - Books
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://quran.api-docs.io/

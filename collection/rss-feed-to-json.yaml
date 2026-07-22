@@ -1,0 +1,14 @@
+name: RSS feed to JSON
+slug: rss-feed-to-json
+description: Returns RSS feed in JSON format using feed URL
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://rss-to-json-serverless-api.vercel.app

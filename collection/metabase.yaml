@@ -1,0 +1,14 @@
+name: Metabase
+slug: metabase
+description: An open source Business Intelligence server to share data and analytics inside your company
+categories:
+  - Open Source
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.metabase.com/

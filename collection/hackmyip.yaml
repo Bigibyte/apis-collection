@@ -1,0 +1,14 @@
+name: HackMyIP
+slug: hackmyip
+description: IP geolocation, ISP and privacy/VPN scoring, email breach checks, DNS and WHOIS lookups
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://hackmyip.com/api

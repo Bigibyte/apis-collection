@@ -1,0 +1,13 @@
+name: Goldprice.dev
+slug: goldpricedev
+description: Cross-validated gold, silver & copper spot, futures & 30-year history in 13 currencies
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://goldprice.dev/docs

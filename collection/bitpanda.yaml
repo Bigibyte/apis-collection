@@ -1,0 +1,13 @@
+name: BitPanda
+slug: bitpanda
+description: Cryptocurrency Information
+categories:
+  - Blockchain & Cryptocurrencies
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developers.bitpanda.com

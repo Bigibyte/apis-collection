@@ -1,0 +1,14 @@
+name: Radio Browser
+slug: radio-browser
+description: List of internet radio stations
+categories:
+  - Music & Audio
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.radio-browser.info/

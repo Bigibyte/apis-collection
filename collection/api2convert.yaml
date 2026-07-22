@@ -1,0 +1,13 @@
+name: Api2Convert
+slug: api2convert
+description: Online File Conversion API
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.api2convert.com/

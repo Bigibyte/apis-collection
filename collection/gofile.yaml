@@ -1,0 +1,13 @@
+name: GoFile
+slug: gofile
+description: Unlimited size file uploads for free
+categories:
+  - Files & Storage
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://gofile.io/api

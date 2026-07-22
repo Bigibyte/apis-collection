@@ -1,0 +1,13 @@
+name: Drivet URL Shortener
+slug: drivet-url-shortener
+description: Shorten a long URL easily and fast
+categories:
+  - URLs
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://wiki.drivet.xyz/en/url-shortener/add-links

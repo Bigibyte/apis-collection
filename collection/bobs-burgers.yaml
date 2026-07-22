@@ -1,0 +1,14 @@
+name: Bob's Burgers
+slug: bobs-burgers
+description: Bob's Burgers API
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://bobs-burgers-api-ui.herokuapp.com

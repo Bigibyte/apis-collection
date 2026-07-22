@@ -1,0 +1,14 @@
+name: A Bíblia Digital
+slug: a-biblia-digital
+description: Do not worry about managing the multiple versions of the Bible
+categories:
+  - Books
+pricing: unknown
+auth_type: api_key
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.abibliadigital.com.br/en

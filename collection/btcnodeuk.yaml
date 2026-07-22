@@ -1,0 +1,13 @@
+name: btcnode.uk
+slug: btcnodeuk
+description: Bitcoin blockchain data, fees, mempool, SEC insider trades, Reddit sentiment. x402 micropayments for paid endpoints.
+categories:
+  - Blockchain & Cryptocurrencies
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://btcnode.uk

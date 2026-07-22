@@ -1,0 +1,14 @@
+name: staffSign
+slug: staffsign
+description: Digital employment contract API with QES/eIDAS support for HR and staffing
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://staffsign.de/docs

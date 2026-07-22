@@ -1,0 +1,14 @@
+name: Tyk
+slug: tyk
+description: Api and service management platform
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://tyk.io/open-source/

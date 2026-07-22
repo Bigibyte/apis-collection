@@ -1,0 +1,13 @@
+name: API Grátis
+slug: api-gratis
+description: Multiples services and public APIs
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://apigratis.com.br/

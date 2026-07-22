@@ -1,0 +1,14 @@
+name: OpenF1
+slug: openf1
+description: Real-time and historical Formula 1 data including laps, car telemetry and positions
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://openf1.org/

@@ -1,0 +1,13 @@
+name: BIC-Boxtech
+slug: bic-boxtech
+description: Container technical detail for the global container fleet
+categories:
+  - Transportation
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.bic-boxtech.org/

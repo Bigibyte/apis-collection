@@ -1,0 +1,14 @@
+name: Climatiq
+slug: climatiq
+description: Calculate the environmental footprint created by a broad range of emission-generating activities
+categories:
+  - Environment & Nature
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.climatiq.io

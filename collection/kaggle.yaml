@@ -1,0 +1,13 @@
+name: Kaggle
+slug: kaggle
+description: Create and interact with Datasets, Notebooks, and connect with Kaggle
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.kaggle.com/docs/api

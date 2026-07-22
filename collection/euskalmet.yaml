@@ -1,0 +1,13 @@
+name: Euskalmet
+slug: euskalmet
+description: Meteorological data of the Basque Country
+categories:
+  - Weather
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/

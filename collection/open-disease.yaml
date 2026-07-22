@@ -1,0 +1,14 @@
+name: Open Disease
+slug: open-disease
+description: API for Current cases and more stuff about COVID-19 and Influenza
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://disease.sh/

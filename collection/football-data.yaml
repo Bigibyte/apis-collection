@@ -1,0 +1,13 @@
+name: Football-Data
+slug: football-data
+description: Football data with matches info, players, teams, and competitions
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.football-data.org

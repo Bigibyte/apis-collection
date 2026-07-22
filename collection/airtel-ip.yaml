@@ -1,0 +1,13 @@
+name: Airtel IP
+slug: airtel-ip
+description: IP Geolocation API. Collecting data from multiple sources
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://sys.airtel.lv/ip2country/1.1.1.1/?full=true

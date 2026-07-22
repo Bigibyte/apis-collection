@@ -1,0 +1,13 @@
+name: Call of Duty Mobile
+slug: call-of-duty-mobile
+description: Unofficial API for CODM player data and daily cache claiming
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://callofdutymobile.vercel.app/

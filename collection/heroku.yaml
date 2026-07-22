@@ -1,0 +1,14 @@
+name: Heroku
+slug: heroku
+description: REST API to programmatically create apps, provision add-ons and perform other task on Heroku
+categories:
+  - Development
+pricing: unknown
+auth_type: oauth2
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://devcenter.heroku.com/articles/platform-api-reference/

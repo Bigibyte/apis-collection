@@ -1,0 +1,14 @@
+name: Waifu.pics
+slug: waifupics
+description: Image sharing platform for anime images
+categories:
+  - Comics & Anime
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://waifu.pics/docs

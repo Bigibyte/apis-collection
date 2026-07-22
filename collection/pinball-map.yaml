@@ -1,0 +1,14 @@
+name: Pinball Map
+slug: pinball-map
+description: A crowdsourced map of public pinball machines
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://pinballmap.com/api/v1/docs

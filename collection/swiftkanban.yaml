@@ -1,0 +1,13 @@
+name: SwiftKanban
+slug: swiftkanban
+description: Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity
+categories:
+  - Business
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi

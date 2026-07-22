@@ -1,0 +1,13 @@
+name: Railway Transport for France
+slug: railway-transport-for-france
+description: SNCF public API
+categories:
+  - Transportation
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.digital.sncf.com/startup/api

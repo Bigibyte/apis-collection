@@ -1,0 +1,13 @@
+name: IP2WHOIS Information Lookup
+slug: ip2whois-information-lookup
+description: WHOIS domain name lookup
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.ip2whois.com/

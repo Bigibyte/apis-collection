@@ -1,0 +1,14 @@
+name: IPLogs
+slug: iplogs
+description: Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing
+categories:
+  - Security
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://iplogs.com/docs

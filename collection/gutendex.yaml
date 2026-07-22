@@ -1,0 +1,13 @@
+name: Gutendex
+slug: gutendex
+description: Web-API for fetching data from Project Gutenberg Books Library
+categories:
+  - Books
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://gutendex.com/

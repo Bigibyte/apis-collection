@@ -1,0 +1,14 @@
+name: LocalGov.jp
+slug: localgovjp
+description: Japan grants and subsidies (central J-Grants + 1,916 municipalities)
+categories:
+  - Government
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://localgov.jp/

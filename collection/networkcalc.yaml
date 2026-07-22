@@ -1,0 +1,14 @@
+name: NetworkCalc
+slug: networkcalc
+description: Network calculators, including subnets, DNS, binary, and security tools
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://networkcalc.com/api/docs

@@ -1,0 +1,14 @@
+name: transport.rest
+slug: transportrest
+description: Community maintained, developer-friendly public transport API
+categories:
+  - Transportation
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://transport.rest

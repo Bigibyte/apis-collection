@@ -1,0 +1,13 @@
+name: DomainDb Info
+slug: domaindb-info
+description: Domain name search to find all domains containing particular words/phrases/etc
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.domainsdb.info/

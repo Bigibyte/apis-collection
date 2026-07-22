@@ -1,0 +1,14 @@
+name: Pirate Weather
+slug: pirate-weather
+description: Free weather API with forecast data similar to Dark Sky
+categories:
+  - Weather
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://pirateweather.net/en/latest/

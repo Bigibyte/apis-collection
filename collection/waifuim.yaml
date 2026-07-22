@@ -1,0 +1,14 @@
+name: Waifu.im
+slug: waifuim
+description: Get waifu pictures from an archive of over 4000 images and multiple tags
+categories:
+  - Comics & Anime
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://waifu.im/docs

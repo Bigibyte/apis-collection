@@ -1,0 +1,14 @@
+name: Httpbin Cloudflare
+slug: httpbin-cloudflare
+description: A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://cloudflare-quic.com/b/

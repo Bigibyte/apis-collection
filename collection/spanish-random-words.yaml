@@ -1,0 +1,13 @@
+name: Spanish random words
+slug: spanish-random-words
+description: Generate spanish words randomly
+categories:
+  - Testing
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://palabras-aleatorias-public-api.herokuapp.com

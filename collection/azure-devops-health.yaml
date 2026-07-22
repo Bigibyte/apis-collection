@@ -1,0 +1,14 @@
+name: Azure DevOps Health
+slug: azure-devops-health
+description: Resource health helps you diagnose and get support when an Azure issue impacts your resources
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: false
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.microsoft.com/en-us/rest/api/resourcehealth

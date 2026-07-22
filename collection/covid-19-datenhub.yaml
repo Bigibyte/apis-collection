@@ -1,0 +1,13 @@
+name: Covid-19 Datenhub
+slug: covid-19-datenhub
+description: Maps, datasets, applications and more in the context of COVID-19
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://npgeo-corona-npgeo-de.hub.arcgis.com

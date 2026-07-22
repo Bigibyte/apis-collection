@@ -1,0 +1,14 @@
+name: Crafatar
+slug: crafatar
+description: API for Minecraft skins and faces
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://crafatar.com

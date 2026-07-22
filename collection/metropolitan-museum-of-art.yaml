@@ -1,0 +1,14 @@
+name: Metropolitan Museum of Art
+slug: metropolitan-museum-of-art
+description: Met Museum of Art
+categories:
+  - Art & Design
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://metmuseum.github.io/

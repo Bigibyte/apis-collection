@@ -49,6 +49,7 @@ export const apiSchema = z.object({
   tags: z.array(z.string()).optional(),
   added: z.iso.date().optional(),
   last_verified: z.iso.date().optional(),
+  source: z.string().optional(),
   specification: specificationSchema.optional(),
   links: z.array(linkSchema).optional(),
   libraries: z.array(librarySchema).optional(),

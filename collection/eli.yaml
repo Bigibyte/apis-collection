@@ -1,0 +1,13 @@
+name: ELI
+slug: eli
+description: Natural Language Processing Tools for Thai Language
+categories:
+  - Text Analysis & Tools
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://nlp.insightera.co.th/docs/v1.0

@@ -1,0 +1,13 @@
+name: Sunor
+slug: sunor
+description: AI music generation API via Suno, with pay-as-you-go credits
+categories:
+  - Music & Audio
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.sunor.cc

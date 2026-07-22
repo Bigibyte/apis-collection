@@ -1,0 +1,13 @@
+name: Lichess
+slug: lichess
+description: Access to all data of users, games, puzzles and etc on Lichess
+categories:
+  - Games
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://lichess.org/api

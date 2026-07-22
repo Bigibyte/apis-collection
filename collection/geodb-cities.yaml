@@ -1,0 +1,13 @@
+name: GeoDB Cities
+slug: geodb-cities
+description: Get global city, region, and country data
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: http://geodb-cities-api.wirefreethought.com/

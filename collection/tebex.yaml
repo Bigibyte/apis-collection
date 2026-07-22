@@ -1,0 +1,14 @@
+name: Tebex
+slug: tebex
+description: Tebex API for information about game purchases
+categories:
+  - Games
+pricing: unknown
+auth_type: api_key
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.tebex.io/plugin/

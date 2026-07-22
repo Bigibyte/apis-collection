@@ -1,0 +1,14 @@
+name: Hashable
+slug: hashable
+description: A REST API to access high level cryptographic functions and methods
+categories:
+  - Security
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://hashable.space/pages/api/

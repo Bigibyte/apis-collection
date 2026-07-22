@@ -1,0 +1,13 @@
+name: Judge0 CE
+slug: judge0-ce
+description: Online code execution system
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://ce.judge0.com/

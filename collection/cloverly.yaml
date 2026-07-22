@@ -1,0 +1,13 @@
+name: Cloverly
+slug: cloverly
+description: API calculates the impact of common carbon-intensive activities in real time
+categories:
+  - Environment & Nature
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.cloverly.com/carbon-offset-documentation

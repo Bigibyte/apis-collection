@@ -1,0 +1,13 @@
+name: Open Data NHS Scotland
+slug: open-data-nhs-scotland
+description: Medical reference data and statistics by Public Health Scotland
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.opendata.nhs.scot

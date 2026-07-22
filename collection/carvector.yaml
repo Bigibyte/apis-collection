@@ -1,0 +1,14 @@
+name: CarVector
+slug: carvector
+description: Vehicle specs, images, recalls, and DTC codes across 1925-2029
+categories:
+  - Vehicles
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://carvector.io/docs

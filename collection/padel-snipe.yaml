@@ -1,0 +1,14 @@
+name: Padel Snipe
+slug: padel-snipe
+description: 4,000+ mapped padel clubs across 9 European countries with GPS and courts
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://padelsnipe.com/fr/world/api

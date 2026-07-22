@@ -1,0 +1,13 @@
+name: Edgrapi
+slug: edgrapi
+description: Clean SEC EDGAR company financials, ratios, filings and 10-K/10-Q sections as normalized JSON
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://edgrapi.com

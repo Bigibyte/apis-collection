@@ -1,0 +1,14 @@
+name: Solematica
+slug: solematica
+description: Compare Italian solar (photovoltaic) installer offers, energy prices (PUN/ARERA) and satellite roof data
+categories:
+  - Environment & Nature
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.solematica.it/sviluppatori

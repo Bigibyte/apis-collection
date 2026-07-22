@@ -1,0 +1,14 @@
+name: BriefTape
+slug: brieftape
+description: Real-time AI-summarized SEC filings, Fed, FDA and BLS data, ticker-tagged
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://brieftape.com

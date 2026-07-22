@@ -1,0 +1,13 @@
+name: ApiMedic
+slug: apimedic
+description: ApiMedic offers a medical symptom checker API primarily for patients
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://apimedic.com/

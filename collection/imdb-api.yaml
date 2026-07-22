@@ -1,0 +1,13 @@
+name: IMDb-API
+slug: imdb-api
+description: API for receiving movie, serial and cast information
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://imdb-api.com/

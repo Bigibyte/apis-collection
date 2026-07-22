@@ -1,0 +1,14 @@
+name: Covid-19
+slug: covid-19
+description: Covid 19 spread, infection and recovery
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://covid19api.com/

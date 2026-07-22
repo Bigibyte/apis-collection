@@ -1,0 +1,13 @@
+name: Nownodes
+slug: nownodes
+description: Blockchain-as-a-service solution that provides high-quality connection via API
+categories:
+  - Blockchain & Cryptocurrencies
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://nownodes.io/

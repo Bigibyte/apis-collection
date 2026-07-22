@@ -1,0 +1,14 @@
+name: Clinical Trials Directory
+slug: clinical-trials-directory
+description: Every clinical trial registered with ClinicalTrials.gov, indexed by condition and sponsor
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://trials.starfile.org/api

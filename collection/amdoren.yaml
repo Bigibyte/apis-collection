@@ -1,0 +1,13 @@
+name: Amdoren
+slug: amdoren
+description: Free currency API with over 150 currencies
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.amdoren.com/currency-api/

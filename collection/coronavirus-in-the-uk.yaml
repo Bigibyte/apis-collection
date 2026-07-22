@@ -1,0 +1,13 @@
+name: Coronavirus in the UK
+slug: coronavirus-in-the-uk
+description: UK Government coronavirus data, including deaths and cases by region
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://coronavirus.data.gov.uk/details/developers-guide

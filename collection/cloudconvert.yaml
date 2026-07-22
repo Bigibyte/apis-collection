@@ -1,0 +1,13 @@
+name: CloudConvert
+slug: cloudconvert
+description: Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://cloudconvert.com/api/v2

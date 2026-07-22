@@ -1,0 +1,14 @@
+name: RandomDuck
+slug: randomduck
+description: Random pictures of ducks
+categories:
+  - Animals
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://random-d.uk/api

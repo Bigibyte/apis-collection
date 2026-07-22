@@ -1,0 +1,13 @@
+name: Lazada
+slug: lazada
+description: Retrieve product ratings and seller performance metrics
+categories:
+  - Commerce
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://open.lazada.com/doc/doc.htm

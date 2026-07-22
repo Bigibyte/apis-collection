@@ -1,0 +1,13 @@
+name: BitWarden
+slug: bitwarden
+description: Best open-source password manager
+categories:
+  - Security
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://bitwarden.com/help/api/

@@ -1,0 +1,14 @@
+name: AnimeFacts
+slug: animefacts
+description: Anime Facts (over 100+)
+categories:
+  - Comics & Anime
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://chandan-02.github.io/anime-facts-rest-api/

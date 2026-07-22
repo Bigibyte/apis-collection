@@ -1,0 +1,13 @@
+name: Sportmonks Football
+slug: sportmonks-football
+description: Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.sportmonks.com/football/

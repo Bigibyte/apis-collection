@@ -1,0 +1,13 @@
+name: SpotSense
+slug: spotsense
+description: Add location based interactions to your mobile app
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://spotsense.io/

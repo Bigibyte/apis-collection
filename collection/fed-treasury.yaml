@@ -1,0 +1,13 @@
+name: Fed Treasury
+slug: fed-treasury
+description: U.S. Department of the Treasury Data
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://fiscaldata.treasury.gov/api-documentation/

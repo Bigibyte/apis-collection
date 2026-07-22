@@ -1,0 +1,14 @@
+name: Statistics of the World
+slug: statistics-of-the-world
+description: Economic data for 218 countries — GDP, population, inflation, and 440+ indicators from IMF and World Bank
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://statisticsoftheworld.com/api-docs

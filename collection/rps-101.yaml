@@ -1,0 +1,14 @@
+name: RPS 101
+slug: rps-101
+description: Rock, Paper, Scissors with 101 objects
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://rps101.pythonanywhere.com/api

@@ -1,0 +1,14 @@
+name: BuildPDF
+slug: buildpdf
+description: Convert HTML, images, and text to PDF
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://buildpdf.co/api/docs

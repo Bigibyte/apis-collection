@@ -1,0 +1,13 @@
+name: Hirak IP to Country
+slug: hirak-ip-to-country
+description: Ip to location with country code, currency code & currency name, fast response, unlimited requests
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://iplocation.hirak.site/

@@ -1,0 +1,13 @@
+name: BotsArchive
+slug: botsarchive
+description: JSON formatted details about Telegram Bots available in database
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://botsarchive.com/docs.html

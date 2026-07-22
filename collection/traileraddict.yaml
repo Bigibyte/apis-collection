@@ -1,0 +1,13 @@
+name: TrailerAddict
+slug: traileraddict
+description: Easily embed trailers from TrailerAddict
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: api_key
+https: false
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.traileraddict.com/trailerapi

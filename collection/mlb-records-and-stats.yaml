@@ -1,0 +1,13 @@
+name: MLB Records and Stats
+slug: mlb-records-and-stats
+description: Current and historical MLB statistics
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: none
+https: false
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://appac.github.io/mlb-data-api-docs/

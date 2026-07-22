@@ -1,0 +1,13 @@
+name: Mediastack
+slug: mediastack
+description: Free, Simple REST API for Live News & Blog Articles
+categories:
+  - News & Feeds
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://mediastack.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers

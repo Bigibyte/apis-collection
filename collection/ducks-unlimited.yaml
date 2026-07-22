@@ -1,0 +1,14 @@
+name: Ducks Unlimited
+slug: ducks-unlimited
+description: API explorer that gives a query URL with a JSON response of locations and cities
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://gis.ducks.org/datasets/du-university-chapters/api

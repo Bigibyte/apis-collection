@@ -1,0 +1,13 @@
+name: Weatherstack
+slug: weatherstack
+description: Real-Time & Historical World Weather Data API
+categories:
+  - Weather
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers

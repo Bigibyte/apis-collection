@@ -1,0 +1,13 @@
+name: ReSmush.it
+slug: resmushit
+description: Photo optimization
+categories:
+  - Images & Photography
+pricing: unknown
+auth_type: none
+https: false
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://resmush.it/api

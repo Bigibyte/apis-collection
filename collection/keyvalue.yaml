@@ -1,0 +1,13 @@
+name: Keyvalue
+slug: keyvalue
+description: Simple key-value storage REST API for quick prototyping
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://keyvalue.immanuel.co/

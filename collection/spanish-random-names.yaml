@@ -1,0 +1,13 @@
+name: Spanish random names
+slug: spanish-random-names
+description: Generate spanish names (with gender) randomly
+categories:
+  - Testing
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://random-names-api.herokuapp.com/public

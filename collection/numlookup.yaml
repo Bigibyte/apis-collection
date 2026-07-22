@@ -1,0 +1,13 @@
+name: Numlookup
+slug: numlookup
+description: Phone number validation and carrier lookup API with global coverage
+categories:
+  - Other
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://numlookupapi.com

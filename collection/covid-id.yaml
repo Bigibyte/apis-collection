@@ -1,0 +1,14 @@
+name: COVID-ID
+slug: covid-id
+description: Indonesian government Covid data per province
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://data.covid19.go.id/public/api/prov.json

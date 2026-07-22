@@ -1,0 +1,13 @@
+name: Hirak OCR
+slug: hirak-ocr
+description: Image to text -text recognition- from image more than 100 language, accurate, unlimited requests
+categories:
+  - Text Analysis & Tools
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://ocr.hirak.site/

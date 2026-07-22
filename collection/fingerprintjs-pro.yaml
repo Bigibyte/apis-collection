@@ -1,0 +1,14 @@
+name: FingerprintJS Pro
+slug: fingerprintjs-pro
+description: Fraud detection API offering highly accurate browser fingerprinting
+categories:
+  - Security
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dev.fingerprintjs.com/docs

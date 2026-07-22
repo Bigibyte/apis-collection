@@ -1,0 +1,13 @@
+name: TamTam
+slug: tamtam
+description: Bot API to interact with TamTam
+categories:
+  - Social
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dev.tamtam.chat/

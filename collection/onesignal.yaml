@@ -1,0 +1,13 @@
+name: OneSignal
+slug: onesignal
+description: Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://documentation.onesignal.com/docs/onesignal-api

@@ -1,0 +1,14 @@
+name: caldays
+slug: caldays
+description: Public holidays for 195+ countries
+categories:
+  - Calendar & Time
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://caldays.com/api

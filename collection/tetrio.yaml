@@ -1,0 +1,13 @@
+name: TETR.IO
+slug: tetrio
+description: TETR.IO Tetra Channel API
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://tetr.io/about/api/

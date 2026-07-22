@@ -1,0 +1,14 @@
+name: Monster Hunter World
+slug: monster-hunter-world
+description: Monster Hunter World data
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.mhw-db.com/

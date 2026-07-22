@@ -1,0 +1,14 @@
+name: Serialif Color
+slug: serialif-color
+description: Color conversion, complementary, grayscale and contrasted text
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://color.serialif.com/

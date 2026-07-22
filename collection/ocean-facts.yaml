@@ -1,0 +1,13 @@
+name: Ocean Facts
+slug: ocean-facts
+description: Facts pertaining to the physical science of Oceanography
+categories:
+  - Science & Math
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://oceanfacts.herokuapp.com/

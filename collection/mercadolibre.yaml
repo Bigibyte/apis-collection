@@ -1,0 +1,13 @@
+name: Mercadolibre
+slug: mercadolibre
+description: Manage sales, ads, products, services and Shops
+categories:
+  - Commerce
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developers.mercadolibre.cl/es_ar/api-docs-es

@@ -1,0 +1,14 @@
+name: Hyperserve
+slug: hyperserve
+description: "Video backend API: upload any format, transcode to MP4, deliver via CDN"
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://hyperserve.io/

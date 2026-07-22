@@ -1,0 +1,13 @@
+name: Bugcrowd
+slug: bugcrowd
+description: Bugcrowd API for interacting and tracking the reported issues programmatically
+categories:
+  - Security
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.bugcrowd.com/api/getting-started/

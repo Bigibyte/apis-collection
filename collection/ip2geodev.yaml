@@ -1,0 +1,14 @@
+name: ip2geo.dev
+slug: ip2geodev
+description: Programmatically convert IP addresses into geolocation data
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://ip2geo.dev

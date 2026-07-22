@@ -1,0 +1,13 @@
+name: Clockify
+slug: clockify
+description: Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://clockify.me/developers-api

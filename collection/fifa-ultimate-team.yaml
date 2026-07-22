@@ -1,0 +1,13 @@
+name: FIFA Ultimate Team
+slug: fifa-ultimate-team
+description: FIFA Ultimate Team items API
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.easports.com/fifa/ultimate-team/api/fut/item

@@ -1,0 +1,13 @@
+name: Hong Kong Obervatory
+slug: hong-kong-obervatory
+description: Provide weather information, earthquake information, and climate data
+categories:
+  - Weather
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.hko.gov.hk/en/abouthko/opendata_intro.htm

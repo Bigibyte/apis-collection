@@ -1,0 +1,13 @@
+name: Bitrise
+slug: bitrise
+description: Build tool and processes integrations to create efficient development pipelines
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api-docs.bitrise.io/

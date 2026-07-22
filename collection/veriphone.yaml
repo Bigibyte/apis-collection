@@ -1,0 +1,14 @@
+name: Veriphone
+slug: veriphone
+description: Phone number validation & carrier lookup
+categories:
+  - Other
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://veriphone.io

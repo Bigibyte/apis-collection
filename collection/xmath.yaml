@@ -1,0 +1,14 @@
+name: xMath
+slug: xmath
+description: Random mathematical expressions
+categories:
+  - Science & Math
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://x-math.herokuapp.com/

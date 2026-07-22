@@ -1,0 +1,13 @@
+name: Chinese Text Project
+slug: chinese-text-project
+description: Online open-access digital library for pre-modern Chinese texts
+categories:
+  - Content & Dictionaries
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://ctext.org/tools/api

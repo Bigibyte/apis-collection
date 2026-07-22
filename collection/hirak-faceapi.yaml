@@ -1,0 +1,13 @@
+name: Hirak FaceAPI
+slug: hirak-faceapi
+description: Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits
+categories:
+  - AI & ML
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://faceapi.hirak.site/

@@ -1,0 +1,14 @@
+name: Tomba email finder
+slug: tomba-email-finder
+description: Email Finder for B2B sales and email marketing and email verifier
+categories:
+  - Business
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://tomba.io/api

@@ -1,0 +1,14 @@
+name: Pixel Encounter
+slug: pixel-encounter
+description: SVG Icon Generator
+categories:
+  - Art & Design
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://pixelencounter.com/api

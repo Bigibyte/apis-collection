@@ -1,0 +1,14 @@
+name: NekosBest
+slug: nekosbest
+description: Neko Images & Anime roleplaying GIFs
+categories:
+  - Comics & Anime
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.nekos.best

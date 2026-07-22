@@ -1,0 +1,14 @@
+name: Classify
+slug: classify
+description: Encrypting & decrypting text messages
+categories:
+  - Security
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://classify-web.herokuapp.com/#/api

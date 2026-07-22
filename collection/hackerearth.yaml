@@ -1,0 +1,13 @@
+name: Hackerearth
+slug: hackerearth
+description: For compiling and running code in several languages
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.hackerearth.com/docs/wiki/developers/v4/

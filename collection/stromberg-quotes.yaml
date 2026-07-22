@@ -1,0 +1,13 @@
+name: Stromberg Quotes
+slug: stromberg-quotes
+description: Returns Stromberg quotes and more
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.stromberg-api.de/

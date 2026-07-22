@@ -1,0 +1,13 @@
+name: aztro
+slug: aztro
+description: Daily horoscope info for yesterday, today, and tomorrow
+categories:
+  - Social
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://aztro.sameerkumar.website/

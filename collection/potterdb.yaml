@@ -1,0 +1,14 @@
+name: PotterDB
+slug: potterdb
+description: Harry Potter universe database with characters, spells, potions and more
+categories:
+  - Entertainment
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.potterdb.com/

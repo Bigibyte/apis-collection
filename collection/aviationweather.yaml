@@ -1,0 +1,13 @@
+name: AviationWeather
+slug: aviationweather
+description: NOAA aviation weather forecasts and observations
+categories:
+  - Weather
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.aviationweather.gov/dataserver

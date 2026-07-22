@@ -1,0 +1,13 @@
+name: OpenRegistry
+slug: openregistry
+description: Real-time queries to 27 national company registries (UK, FR, DE, IT, ES, KR + 21 more)
+categories:
+  - Government
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://openregistry.sophymarine.com

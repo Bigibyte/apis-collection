@@ -1,0 +1,13 @@
+name: Covid-19 India
+slug: covid-19-india
+description: Covid 19 statistics state and district wise about cases, vaccinations, recovery within India
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://data.covid19india.org/

@@ -1,0 +1,13 @@
+name: Binlist
+slug: binlist
+description: Public access to a database of IIN/BIN information
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://binlist.net/

@@ -1,0 +1,13 @@
+name: Cep.la
+slug: cepla
+description: Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: false
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: http://cep.la/

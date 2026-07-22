@@ -1,0 +1,14 @@
+name: TheNews
+slug: thenews
+description: Aggregated headlines, top story and live news JSON API
+categories:
+  - News & Feeds
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.thenewsapi.com/

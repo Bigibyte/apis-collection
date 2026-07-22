@@ -1,0 +1,14 @@
+name: AI Dev Jobs
+slug: ai-dev-jobs
+description: AI/ML engineering job aggregator with REST, RSS, and MCP endpoints
+categories:
+  - Jobs
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://aidevboard.com/openapi.yaml

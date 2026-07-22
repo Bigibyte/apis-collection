@@ -1,0 +1,13 @@
+name: Mario Kart Tour
+slug: mario-kart-tour
+description: API for Drivers, Karts, Gliders and Courses
+categories:
+  - Games
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://mario-kart-tour-api.herokuapp.com/

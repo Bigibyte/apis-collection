@@ -1,0 +1,14 @@
+name: Meirra
+slug: meirra
+description: SEO monitoring, email verification, lead generation, and marketing analytics
+categories:
+  - Business
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://meirra.com/api

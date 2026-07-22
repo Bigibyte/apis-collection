@@ -1,0 +1,13 @@
+name: apilayer aviationstack
+slug: apilayer-aviationstack
+description: Real-time Flight Status & Global Aviation Data API
+categories:
+  - Transportation
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://aviationstack.com/

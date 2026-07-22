@@ -1,0 +1,14 @@
+name: wttr.in
+slug: wttrin
+description: Weather in your terminal, supports JSON output
+categories:
+  - Weather
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://wttr.in/:help

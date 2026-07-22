@@ -1,0 +1,14 @@
+name: OpenSanctions
+slug: opensanctions
+description: Data on international sanctions, crime and politically exposed persons
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.opensanctions.org/docs/api/

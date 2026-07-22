@@ -1,0 +1,13 @@
+name: The Bible
+slug: the-bible
+description: Everything you need from the Bible in one discoverable place
+categories:
+  - Books
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.api.bible

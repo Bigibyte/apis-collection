@@ -1,0 +1,14 @@
+name: Srp Energy
+slug: srp-energy
+description: Hourly usage energy report for Srp customers
+categories:
+  - Environment & Nature
+pricing: unknown
+auth_type: api_key
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html

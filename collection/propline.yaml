@@ -1,0 +1,13 @@
+name: PropLine
+slug: propline
+description: Real-time player-props betting odds with graded prop resolution across 13 books
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://prop-line.com

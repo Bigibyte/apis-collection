@@ -1,0 +1,14 @@
+name: dead-drop
+slug: dead-drop
+description: Ephemeral zero-knowledge encrypted data sharing
+categories:
+  - Security
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.dead-drop.xyz/api/v1/docs

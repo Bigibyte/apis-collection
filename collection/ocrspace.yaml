@@ -1,0 +1,13 @@
+name: OCR.Space
+slug: ocrspace
+description: OCR text extraction from images and PDFs with a free tier
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://ocr.space/ocrapi

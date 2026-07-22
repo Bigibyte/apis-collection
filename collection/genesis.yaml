@@ -1,0 +1,13 @@
+name: GENESIS
+slug: genesis
+description: Federal Statistical Office Germany
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.destatis.de/EN/Service/OpenData/api-webservice.html

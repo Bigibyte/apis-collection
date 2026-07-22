@@ -1,0 +1,14 @@
+name: ItsThisForThat
+slug: itsthisforthat
+description: Generate Random startup ideas
+categories:
+  - Testing
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://itsthisforthat.com/api.php

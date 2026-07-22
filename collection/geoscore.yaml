@@ -1,0 +1,14 @@
+name: GeoScore
+slug: geoscore
+description: Score content for AI search citation readiness with a 0-100 GEO score and 8 structural metrics
+categories:
+  - Text Analysis & Tools
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://geoscoreapi.com

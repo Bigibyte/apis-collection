@@ -1,0 +1,13 @@
+name: AniDB
+slug: anidb
+description: Anime Database
+categories:
+  - Comics & Anime
+pricing: unknown
+auth_type: api_key
+https: false
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://wiki.anidb.net/HTTP_API_Definition

@@ -1,0 +1,13 @@
+name: Solana JSON RPC
+slug: solana-json-rpc
+description: Provides various endpoints to interact with the Solana Blockchain
+categories:
+  - Blockchain & Cryptocurrencies
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.solana.com/developing/clients/jsonrpc-api

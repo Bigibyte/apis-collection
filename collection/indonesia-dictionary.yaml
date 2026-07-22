@@ -1,0 +1,13 @@
+name: Indonesia Dictionary
+slug: indonesia-dictionary
+description: Indonesia dictionary many words
+categories:
+  - Content & Dictionaries
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://new-kbbi-api.herokuapp.com/

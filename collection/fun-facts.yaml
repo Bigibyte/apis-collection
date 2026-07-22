@@ -1,0 +1,14 @@
+name: Fun Facts
+slug: fun-facts
+description: Random Fun Facts
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://asli-fun-fact-api.herokuapp.com/

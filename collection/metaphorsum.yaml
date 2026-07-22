@@ -1,0 +1,13 @@
+name: Metaphorsum
+slug: metaphorsum
+description: Generate demo paragraphs giving number of words and sentences
+categories:
+  - Testing
+pricing: unknown
+auth_type: none
+https: false
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: http://metaphorpsum.com/

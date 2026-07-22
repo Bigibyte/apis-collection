@@ -1,0 +1,13 @@
+name: They Said So Quotes
+slug: they-said-so-quotes
+description: Quotes Trusted by many fortune brands around the world
+categories:
+  - Other
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://theysaidso.com/api/

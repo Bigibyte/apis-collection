@@ -1,0 +1,13 @@
+name: AcreLens
+slug: acrelens
+description: "Land suitability scoring API for any US property: off-grid, rural, recreational, investment"
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.acrelens.com

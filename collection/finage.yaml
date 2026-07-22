@@ -1,0 +1,13 @@
+name: Finage
+slug: finage
+description: Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://finage.co.uk

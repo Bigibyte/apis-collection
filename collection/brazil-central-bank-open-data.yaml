@@ -1,0 +1,13 @@
+name: Brazil Central Bank Open Data
+slug: brazil-central-bank-open-data
+description: Brazil Central Bank Open Data
+categories:
+  - Government
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dadosabertos.bcb.gov.br/

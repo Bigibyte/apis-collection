@@ -1,0 +1,13 @@
+name: Imsea
+slug: imsea
+description: Free image search
+categories:
+  - Images & Photography
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://imsea.herokuapp.com/

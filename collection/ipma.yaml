@@ -1,0 +1,13 @@
+name: IPMA
+slug: ipma
+description: Portuguese weather and climate data
+categories:
+  - Weather
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.ipma.pt/open-data/

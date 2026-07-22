@@ -1,0 +1,13 @@
+name: Rappi
+slug: rappi
+description: Manage orders from Rappi's app
+categories:
+  - Commerce
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dev-portal.rappi.com/

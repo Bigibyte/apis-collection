@@ -1,0 +1,14 @@
+name: Bhagavad Gita telugu
+slug: bhagavad-gita-telugu
+description: Bhagavad Gita API in telugu and odia languages
+categories:
+  - Books
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://gita-api.vercel.app

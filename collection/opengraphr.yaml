@@ -1,0 +1,13 @@
+name: OpenGraphr
+slug: opengraphr
+description: Really simple API to retrieve Open Graph data from an URL
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://opengraphr.com/docs/1.0/overview

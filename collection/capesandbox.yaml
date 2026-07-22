@@ -1,0 +1,13 @@
+name: CAPEsandbox
+slug: capesandbox
+description: Malware execution and analysis
+categories:
+  - Security
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://capev2.readthedocs.io/en/latest/usage/api.html

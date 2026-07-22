@@ -1,0 +1,14 @@
+name: JobDataLake
+slug: jobdatalake
+description: 1M+ enriched job listings from 20,000+ companies with salary, skills, seniority
+categories:
+  - Jobs
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.jobdatalake.com/docs

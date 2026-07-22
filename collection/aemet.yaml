@@ -1,0 +1,13 @@
+name: Aemet
+slug: aemet
+description: Weather and forecast data from Spain
+categories:
+  - Weather
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://opendata.aemet.es/centrodedescargas/inicio

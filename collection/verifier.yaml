@@ -1,0 +1,14 @@
+name: Verifier
+slug: verifier
+description: Verifies that a given email is real
+categories:
+  - Email & SMS
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://verifier.meetchopra.com/docs#/

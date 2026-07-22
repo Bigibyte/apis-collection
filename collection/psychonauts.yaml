@@ -1,0 +1,14 @@
+name: Psychonauts
+slug: psychonauts
+description: Psychonauts World Characters Information and PSI Powers
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://psychonauts-api.netlify.app/

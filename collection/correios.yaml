@@ -1,0 +1,13 @@
+name: Correios
+slug: correios
+description: Integration to provide information and prepare shipments using Correio's services
+categories:
+  - Post & Logistics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://cws.correios.com.br/ajuda

@@ -1,0 +1,13 @@
+name: ipapi.com
+slug: ipapicom
+description: Real-time Geolocation & Reverse IP Lookup REST API
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://ipapi.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers

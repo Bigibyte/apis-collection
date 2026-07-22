@@ -1,0 +1,13 @@
+name: BigDataCloud
+slug: bigdatacloud
+description: Provides fast and accurate IP geolocation APIs along with security checks and confidence area
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.bigdatacloud.com/ip-geolocation-apis

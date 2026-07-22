@@ -1,0 +1,14 @@
+name: Covid-19 JHU CSSE
+slug: covid-19-jhu-csse
+description: Open-source API for exploring Covid19 cases based on JHU CSSE
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://nuttaphat.com/covid19-api/

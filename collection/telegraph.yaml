@@ -1,0 +1,13 @@
+name: Telegraph
+slug: telegraph
+description: Create attractive blogs easily, to share
+categories:
+  - Social
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://telegra.ph/api

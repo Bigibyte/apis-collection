@@ -1,0 +1,13 @@
+name: NLP Cloud
+slug: nlp-cloud
+description: NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more
+categories:
+  - AI & ML
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://nlpcloud.io

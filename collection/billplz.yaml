@@ -1,0 +1,13 @@
+name: Billplz
+slug: billplz
+description: Payment platform
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.billplz.com/api

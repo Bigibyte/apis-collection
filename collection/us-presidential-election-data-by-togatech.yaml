@@ -1,0 +1,14 @@
+name: US Presidential Election Data by TogaTech
+slug: us-presidential-election-data-by-togatech
+description: Basic candidate data and live electoral vote counts for top two parties in US presidential election
+categories:
+  - Government
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://uselection.togatech.org/api/

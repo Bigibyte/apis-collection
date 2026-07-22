@@ -1,0 +1,13 @@
+name: HackerOne
+slug: hackerone
+description: The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting
+categories:
+  - Security
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.hackerone.com/

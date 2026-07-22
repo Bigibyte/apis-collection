@@ -1,0 +1,14 @@
+name: Yandex.Weather
+slug: yandexweather
+description: Assesses weather condition in specific locations
+categories:
+  - Weather
+pricing: unknown
+auth_type: api_key
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://yandex.com/dev/weather/

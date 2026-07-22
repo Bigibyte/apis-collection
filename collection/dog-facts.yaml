@@ -1,0 +1,14 @@
+name: Dog Facts
+slug: dog-facts
+description: Random dog facts
+categories:
+  - Animals
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dukengn.github.io/Dog-facts-API/

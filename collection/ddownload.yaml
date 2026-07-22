@@ -1,0 +1,13 @@
+name: ddownload
+slug: ddownload
+description: File Sharing and Storage
+categories:
+  - Files & Storage
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://ddownload.com/api

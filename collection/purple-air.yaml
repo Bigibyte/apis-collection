@@ -1,0 +1,13 @@
+name: Purple Air
+slug: purple-air
+description: Real Time Air Quality Monitoring
+categories:
+  - Science & Math
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www2.purpleair.com/

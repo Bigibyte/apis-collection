@@ -1,0 +1,14 @@
+name: Disney
+slug: disney
+description: Information of Disney characters
+categories:
+  - Games
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://disneyapi.dev

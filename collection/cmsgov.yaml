@@ -1,0 +1,13 @@
+name: CMS.gov
+slug: cmsgov
+description: Access to the data from the CMS - medicare.gov
+categories:
+  - Health
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://data.cms.gov/provider-data/

@@ -1,0 +1,13 @@
+name: Dataflow Kit COVID-19
+slug: dataflow-kit-covid-19
+description: COVID-19 live statistics into sites per hour
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://covid-19.dataflowkit.com

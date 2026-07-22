@@ -1,0 +1,14 @@
+name: Icon Horse
+slug: icon-horse
+description: Favicons for any website, with fallbacks
+categories:
+  - Art & Design
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://icon.horse

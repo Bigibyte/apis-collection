@@ -1,0 +1,14 @@
+name: National Park Service, US
+slug: national-park-service-us
+description: Data from the US National Park Service
+categories:
+  - Government
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.nps.gov/subjects/developer/

@@ -1,0 +1,33 @@
+# 📦 [Noctua](https://api.noctuasky.com/api/v1/swaggerdoc/)
+
+
+> **REST API used to access NoctuaSky features**
+
+## 📝 Details
+- **Categories**: [Science & Math](https://github.com/Bigibyte/apis-collection#science--math-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Pricing**: `unknown`
+- **Status**: `active`
+- **HTTPS**: `Yes` 🔒
+
+## 🚦 Rate Limits
+*Not specified*
+
+## 📖 Specification
+*Not specified*
+
+## 🔗 Links
+- [Docs / Website](https://api.noctuasky.com/api/v1/swaggerdoc/)
+
+## 🧰 Libraries
+*No libraries available*
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
+
+---
+[Back to README](../../README.md) · Maintained by [Bigibyte](https://github.com/Bigibyte)

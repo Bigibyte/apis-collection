@@ -1,0 +1,15 @@
+name: MediaCraft AI
+slug: mediacraft-ai
+description: Chinese content compliance review (17 platforms), EN↔CN translation, and SEO optimization. Pay-per-call via
+  x402 (Solana USDC).
+categories:
+  - AI & ML
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://mediacraft-x402-api.onrender.com

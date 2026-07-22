@@ -1,0 +1,14 @@
+name: API Setu
+slug: api-setu
+description: An Indian Government platform that provides a lot of APIS for KYC, business, education & employment
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.apisetu.gov.in/

@@ -1,0 +1,14 @@
+name: Yahoo Finance
+slug: yahoo-finance
+description: Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.yahoofinanceapi.com/

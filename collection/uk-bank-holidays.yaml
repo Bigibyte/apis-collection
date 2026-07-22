@@ -1,0 +1,13 @@
+name: UK Bank Holidays
+slug: uk-bank-holidays
+description: Bank holidays in England and Wales, Scotland and Northern Ireland
+categories:
+  - Calendar & Time
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.gov.uk/bank-holidays.json

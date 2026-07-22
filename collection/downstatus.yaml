@@ -1,0 +1,14 @@
+name: DownStatus
+slug: downstatus
+description: Real-time status for GitHub, AWS, Discord and 90+ services
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://isitdownstatus.com

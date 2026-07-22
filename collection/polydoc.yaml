@@ -1,0 +1,13 @@
+name: PolyDoc
+slug: polydoc
+description: HTML/URL to PDF and screenshots, plus Factur-X/ZUGFeRD e-invoices; free tier
+categories:
+  - Documents & Productivity
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://polydoc.tech

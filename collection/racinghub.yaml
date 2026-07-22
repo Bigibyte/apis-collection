@@ -1,0 +1,13 @@
+name: RacingHub
+slug: racinghub
+description: Formula 1 historical data and statistics
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://racinghub.net/api/v1/docs#/

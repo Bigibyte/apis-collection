@@ -1,0 +1,13 @@
+name: Amadeus for Developers
+slug: amadeus-for-developers
+description: Travel Search - Limited usage
+categories:
+  - Transportation
+pricing: unknown
+auth_type: oauth2
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://developers.amadeus.com/self-service

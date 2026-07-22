@@ -1,0 +1,13 @@
+name: PM2.5 Open Data Portal
+slug: pm25-open-data-portal
+description: Open low-cost PM2.5 sensor data
+categories:
+  - Environment & Nature
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://pm25.lass-net.org/#apis

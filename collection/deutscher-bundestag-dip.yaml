@@ -1,0 +1,13 @@
+name: Deutscher Bundestag DIP
+slug: deutscher-bundestag-dip
+description: This API provides read access to DIP entities (e.g. activities, persons, printed material)
+categories:
+  - Government
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf

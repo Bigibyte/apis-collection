@@ -1,0 +1,14 @@
+name: Pantry
+slug: pantry
+description: Free JSON storage for small projects
+categories:
+  - Files & Storage
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://getpantry.cloud/

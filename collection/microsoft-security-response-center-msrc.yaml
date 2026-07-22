@@ -1,0 +1,13 @@
+name: Microsoft Security Response Center (MSRC)
+slug: microsoft-security-response-center-msrc
+description: Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)
+categories:
+  - Security
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://msrc.microsoft.com/report/developer

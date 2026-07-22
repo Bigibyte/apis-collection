@@ -1,0 +1,14 @@
+name: Axolotl
+slug: axolotl
+description: Collection of axolotl pictures and facts
+categories:
+  - Animals
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://theaxolotlapi.netlify.app/

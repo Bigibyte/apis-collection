@@ -1,0 +1,13 @@
+name: Open Page Rank
+slug: open-page-rank
+description: API for calculating and comparing metrics of different websites using Page Rank algorithm
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.domcop.com/openpagerank/

@@ -1,0 +1,13 @@
+name: Udemy(instructor)
+slug: udemyinstructor
+description: API for instructors on Udemy
+categories:
+  - Other
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.udemy.com/developers/instructor/

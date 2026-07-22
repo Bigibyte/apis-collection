@@ -1,0 +1,13 @@
+name: BreezoMeter Pollen
+slug: breezometer-pollen
+description: Daily Forecast pollen conditions data for a specific location
+categories:
+  - Environment & Nature
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.breezometer.com/api-documentation/pollen-api/v2/

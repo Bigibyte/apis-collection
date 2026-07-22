@@ -1,0 +1,13 @@
+name: Joshua Project
+slug: joshua-project
+description: People groups of the world with the fewest followers of Christ
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.joshuaproject.net/

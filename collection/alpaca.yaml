@@ -1,0 +1,14 @@
+name: Alpaca
+slug: alpaca
+description: Realtime and historical market data on all US equities and ETFs
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/

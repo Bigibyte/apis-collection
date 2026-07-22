@@ -1,0 +1,14 @@
+name: Catboy
+slug: catboy
+description: Neko images, funny GIFs & more
+categories:
+  - Comics & Anime
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://catboys.com/api

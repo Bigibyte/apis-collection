@@ -1,0 +1,13 @@
+name: Harry Potter Charactes
+slug: harry-potter-charactes
+description: Harry Potter Characters Data with with imagery
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://hp-api.herokuapp.com/

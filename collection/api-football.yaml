@@ -1,0 +1,14 @@
+name: API-FOOTBALL
+slug: api-football
+description: Get information about Football Leagues & Cups
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.api-football.com/documentation-v3

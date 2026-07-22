@@ -1,0 +1,13 @@
+name: Wolne Lektury
+slug: wolne-lektury
+description: API for obtaining information about e-books available on the WolneLektury.pl website
+categories:
+  - Books
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://wolnelektury.pl/api/

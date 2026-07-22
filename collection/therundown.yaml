@@ -1,0 +1,14 @@
+name: TheRundown
+slug: therundown
+description: "Real-time sports data: odds, scores, stats & prediction markets, 30+ leagues, 18+ sportsbooks"
+categories:
+  - Sport & Fitness
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://therundown.io/

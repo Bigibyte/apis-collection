@@ -1,0 +1,13 @@
+name: Humanitarian Data Exchange
+slug: humanitarian-data-exchange
+description: Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations
+categories:
+  - Health
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://data.humdata.org/

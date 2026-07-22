@@ -1,0 +1,13 @@
+name: ZenRows
+slug: zenrows
+description: Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies
+categories:
+  - Development
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.zenrows.com/

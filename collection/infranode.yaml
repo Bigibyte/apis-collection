@@ -1,0 +1,13 @@
+name: InfraNode
+slug: infranode
+description: "Unified German city open data: weather, air quality, EV chargers, transit, demographics"
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://infranode.dev

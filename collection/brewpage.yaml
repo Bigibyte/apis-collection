@@ -1,0 +1,14 @@
+name: BrewPage
+slug: brewpage
+description: Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: no
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://brewpage.app

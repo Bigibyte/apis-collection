@@ -1,0 +1,14 @@
+name: US Weather
+slug: us-weather
+description: US National Weather Service
+categories:
+  - Weather
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.weather.gov/documentation/services-web-api

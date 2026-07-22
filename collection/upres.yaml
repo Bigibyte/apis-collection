@@ -1,0 +1,14 @@
+name: UpRes
+slug: upres
+description: AI image upscaling to 8K with 18 models (Real-ESRGAN, SeedVR2, AuraSR)
+categories:
+  - Art & Design
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://upres.ai/docs/api

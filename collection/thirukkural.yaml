@@ -1,0 +1,14 @@
+name: Thirukkural
+slug: thirukkural
+description: 1330 Thirukkural poems and explanation in Tamil and English
+categories:
+  - Books
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api-thirukkural.web.app/

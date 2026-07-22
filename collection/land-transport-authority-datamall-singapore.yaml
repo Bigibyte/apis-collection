@@ -1,0 +1,13 @@
+name: Land Transport Authority DataMall, Singapore
+slug: land-transport-authority-datamall-singapore
+description: Singapore transport information
+categories:
+  - Transportation
+pricing: unknown
+auth_type: api_key
+https: false
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf

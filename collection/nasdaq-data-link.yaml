@@ -1,0 +1,13 @@
+name: Nasdaq Data Link
+slug: nasdaq-data-link
+description: Stock market data
+categories:
+  - Statistics & Data
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://docs.data.nasdaq.com/

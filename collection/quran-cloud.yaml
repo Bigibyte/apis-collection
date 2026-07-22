@@ -1,0 +1,14 @@
+name: Quran Cloud
+slug: quran-cloud
+description: A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran
+categories:
+  - Books
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://alquran.cloud/api

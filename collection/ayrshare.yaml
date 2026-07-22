@@ -1,0 +1,14 @@
+name: Ayrshare
+slug: ayrshare
+description: Social media APIs to post, get analytics, and manage multiple users social media accounts
+categories:
+  - Social
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://www.ayrshare.com

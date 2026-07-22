@@ -1,0 +1,13 @@
+name: NewsData
+slug: newsdata
+description: News data API for live-breaking news and headlines from reputed  news sources
+categories:
+  - News & Feeds
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://newsdata.io/docs

@@ -1,0 +1,14 @@
+name: StockFit
+slug: stockfit
+description: SEC filings, financial statements, earnings, ETF holdings and ownership data
+categories:
+  - Finance & Economics
+pricing: unknown
+auth_type: api_key
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://api.stockfit.io/docs

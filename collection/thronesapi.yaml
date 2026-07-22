@@ -1,0 +1,13 @@
+name: ThronesApi
+slug: thronesapi
+description: Game Of Thrones Characters Data with imagery
+categories:
+  - Video & Media
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://thronesapi.com/

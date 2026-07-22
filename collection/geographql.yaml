@@ -1,0 +1,14 @@
+name: GeographQL
+slug: geographql
+description: A Country, State, and City GraphQL API
+categories:
+  - Maps & Geo
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://geographql.netlify.app

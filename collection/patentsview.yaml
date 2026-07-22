@@ -1,0 +1,13 @@
+name: PatentsView
+slug: patentsview
+description: API is intended to explore and visualize trends/patterns across the US innovation landscape
+categories:
+  - Other
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://patentsview.org/apis/purpose

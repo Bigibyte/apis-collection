@@ -1,0 +1,14 @@
+name: Open Government, Portugal
+slug: open-government-portugal
+description: Portugal Government Open Data
+categories:
+  - Government
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dados.gov.pt/en/docapi/

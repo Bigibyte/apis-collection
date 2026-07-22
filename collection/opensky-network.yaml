@@ -1,0 +1,13 @@
+name: OpenSky Network
+slug: opensky-network
+description: Free real-time ADS-B aviation data
+categories:
+  - Transportation
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://opensky-network.org/apidoc/index.html

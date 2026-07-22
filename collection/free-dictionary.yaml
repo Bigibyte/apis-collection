@@ -1,0 +1,13 @@
+name: Free Dictionary
+slug: free-dictionary
+description: Definitions, phonetics, pronounciations, parts of speech, examples, synonyms
+categories:
+  - Content & Dictionaries
+pricing: unknown
+auth_type: none
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://dictionaryapi.dev/

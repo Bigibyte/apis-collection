@@ -1,0 +1,13 @@
+name: Image Upload
+slug: image-upload
+description: Image Optimization
+categories:
+  - Images & Photography
+pricing: unknown
+auth_type: api_key
+https: true
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://apilayer.com/marketplace/image_upload-api

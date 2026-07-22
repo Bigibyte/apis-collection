@@ -1,0 +1,14 @@
+name: QR & Barcode
+slug: qr-and-barcode
+description: QR codes and barcodes (Code 128, EAN-13, Data Matrix, PDF417 + more). SVG or PNG output
+categories:
+  - Development
+pricing: unknown
+auth_type: none
+https: true
+cors: yes
+added: 2026-07-21
+source: public-apis/public-apis
+links:
+  - name: Docs / Website
+    url: https://solsigs.com/qrapi/
